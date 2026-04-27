@@ -15,16 +15,16 @@ Avant toute utilisation terrain, le matériel de mesure doit être étalonné ou
 
 ## Inputs nécessaires
 
-| Champ | Exemple | Obligatoire |
-|-------|---------|-------------|
-| Matériel / sonde | Sonde O₂ YSI ProODO #SN12345 | ✅ |
-| Type de vérification | Étalonnage / vérification / contrôle in situ | ✅ |
-| Date vérification | 28/04/2026 | ✅ |
-| Valeurs mesurées | pH 6.98 (étalon 7.00), O₂ 98.2% (air sat.) | ✅ |
-| Tolérance applicable | ± 0.1 pH, ± 1% O₂ | ✅ |
-| Valeur étalon/référence | pH 7.00 certifié COFRAC | ✅ |
-| Opérateur | Tom K. | ❌ |
-| Conditions (T°, pression) | 20°C, 1013 hPa | ❌ |
+| Champ                     | Exemple                                      | Obligatoire |
+| ------------------------- | -------------------------------------------- | ----------- |
+| Matériel / sonde          | Sonde O₂ YSI ProODO #SN12345                 | ✅           |
+| Type de vérification      | Étalonnage / vérification / contrôle in situ | ✅           |
+| Date vérification         | 28/04/2026                                   | ✅           |
+| Valeurs mesurées          | pH 6.98 (étalon 7.00), O₂ 98.2% (air sat.)   | ✅           |
+| Tolérance applicable      | ± 0.1 pH, ± 1% O₂                            | ✅           |
+| Valeur étalon/référence   | pH 7.00 certifié COFRAC                      | ✅           |
+| Opérateur                 | Tom K.                                       | ❌           |
+| Conditions (T°, pression) | 20°C, 1013 hPa                               | ❌           |
 
 ---
 
