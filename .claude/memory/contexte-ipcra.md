@@ -40,7 +40,7 @@ Application de gestion du parc de mesure continue
 2. ✅ Profil-tom.md enrichi (signets Twitter analysés)
 3. ✅ Fiches process — 7 fiches créées (`3_ressources/fiches-process/`)
 4. ✅ Vault Obsidian niveau 5 Karpathy — raw/, slash commands, GitHub backup, Obsidian Git auto-sync 10min
-5. ⬜ Plugin claude-mem (niveau 4) — `npx claude-mem install` à lancer en terminal
+5. ✅ Plugin claude-mem v12.4.7 (niveau 4) — installé, actif sur Claude Code
 6. ⬜ Nouvelle app terrain (COFRAC, notes, analyses, rapports) — stack à définir, base : BilanPage.tsx
 7. ⬜ Agents Claude
 8. ⬜ Automatisations n8n
