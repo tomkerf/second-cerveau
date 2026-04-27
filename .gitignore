@@ -1,0 +1,15 @@
+# Obsidian — fichiers spécifiques à l'appareil
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Corbeille Obsidian
+.trash/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Fichiers temporaires
+*.tmp
+*.bak
