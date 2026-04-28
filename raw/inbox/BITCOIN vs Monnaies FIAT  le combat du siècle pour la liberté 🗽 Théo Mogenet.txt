@@ -1,0 +1,5455 @@
+00:00 démonétiser l'or c'est le c'est le c'est
+00:04 
+
+00:04 l'entrée pour Bitcoin chose absolument
+00:05 
+
+00:05 magnifique on va pouvoir utiliser
+00:07 
+
+00:07 l'immobilier pour loger des gens on va
+00:08 
+
+00:08 pouvoir utiliser les voitures pour
+00:10 
+
+00:10 transporter des gens la plupart des gens
+00:12 
+
+00:12 préfèrent se réfugier dans le déis et
+00:13 
+
+00:13 faire la stratégie de l'autruche jeis se
+00:15 
+
+00:15 dire non non mais c'est juste des max
+00:16 
+
+00:16 des Bitcoin maximalistes complètement
+00:17 
+
+00:17 fous qui fantasme parce que ils ont
+00:19 
+
+00:19 envie que Bitcoin Pumpe et qui gagneent
+00:21 
+
+00:21 de l'argent le bien dans le contexte
+00:23 
+
+00:23 mondial qui est le plus difficile à
+00:24 
+
+00:24 produire c'est un bloc Bitcoin et donc
+00:26 
+
+00:26 un Bitcoin faut pas s'étonner si les
+00:27 
+
+00:27 gens qui sont productifs et qui
+00:29 
+
+00:29 produisent ses ressources font grève et
+00:30 
+
+00:30 décide de dire je me barre ailleurs je
+00:32 
+
+00:32 vote avec mes pieds j'adopte Bitcoin
+00:35 
+
+00:35 j'installe mon entreprise dans un autre
+00:36 
+
+00:36 pays on va se retrouver dans un monde
+00:38 
+
+00:38 qui va ressembler à une version grandeur
+00:40 
+
+00:40 nature de la poste de la
+00:43 
+
+00:43 [Musique]
+00:45 
+
+00:45 [Rires]
+00:50 
+
+00:50 SNCF salut Théo salut plaisir de te
+00:53 
+
+00:53 revoir même c'est la première fois que
+00:54 
+
+00:54 les gens vont voir sur la chaîne on a eu
+00:56 
+
+00:56 des petits soucis de de sauvegardere
+00:58 
+
+00:58 fois de nos fichiers pourant c'était une
+00:59 
+
+00:59 super interview tant pis faut pas le
+01:02 
+
+01:02 dire moi j'aime être
+01:04 
+
+01:04 honnête c'est tout à votre honneur en
+01:07 
+
+01:07 tout cas plaisir partager puis c'est pas
+01:09 
+
+01:09 grave même si vous la reperdez on fera
+01:10 
+
+01:10 ça sera une V2 encore mieux voilà
+01:13 
+
+01:13 Bitcoin V2 ça sera pas Bitcoin
+01:16 
+
+01:16 cash et du coup moi je t'ai connu la
+01:21 
+
+01:21 première fois sur la chaîne de de rxy
+01:24 
+
+01:24 découvre Bitcoin tu faisais ta série sur
+01:26 
+
+01:26 l'économie autrichienne j'ai découvert
+01:29 
+
+01:29 aussi le concept d'économie chaî dessus
+01:31 
+
+01:31 et là ça a été l'autre hababbit hall un
+01:33 
+
+01:33 gros Rabit hall je fais ah oui c'est
+01:35 
+
+01:35 c'est comme ça que
+01:36 
+
+01:36 l'économie fonctionne normalement à peu
+01:39 
+
+01:39 près logiquement en tout cas ça ça ça a
+01:40 
+
+01:40 raisonné en moi et je garde ce sujet
+01:43 
+
+01:43 pour après d'abord il y a une question
+01:46 
+
+01:46 auquel je voudrais qu'on réponde qui est
+01:48 
+
+01:48 vraiment lié à Bitcoin c'est c'est quoi
+01:50 
+
+01:50 en fait la
+01:51 
+
+01:51 monnaie tu auras 2 minutes pour gen
+01:55 
+
+01:55 est-ce que est-ce que la monnaie en fait
+01:57 
+
+01:57 est est-ce que en étant en est ayant
+02:00 
+
+02:00 vécu dans nos dans dans ce pays la
+02:03 
+
+02:03 France genre on a très on a eu très peu
+02:06 
+
+02:06 de cours là-dessus elle nous est elle
+02:08 
+
+02:08 est sortie un peu nulle part moi j'ai eu
+02:10 
+
+02:10 les euros dans ma poche depuis que je
+02:11 
+
+02:11 suis enfant j'ai l'impression qu'en fait
+02:13 
+
+02:13 c'est l'État qui me dit bah voilà tu as
+02:15 
+
+02:15 des euros à ta disposition ça a de la
+02:17 
+
+02:17 valeur et faisnous confiance et est-ce
+02:21 
+
+02:21 que c'est est-ce que c'est une création
+02:22 
+
+02:22 l'état d'où est-ce que ça vient et à
+02:25 
+
+02:25 quoi ça sert en fait alors pas du tout
+02:27 
+
+02:27 la monnaie c'est un phénomène social
+02:29 
+
+02:29 émergent pour ça qu'on sait mal
+02:31 
+
+02:31 l'expliquer qu'on en parle pas c'est
+02:33 
+
+02:33 assez facile d'expliquer une voiture
+02:35 
+
+02:35 parce que tout ce qui constitue une
+02:36 
+
+02:36 voiture et l'objet en lui-même a été
+02:38 
+
+02:38 pensé par le cerveau humain a été
+02:39 
+
+02:39 conceptualisé a été raffiné et cetera à
+02:42 
+
+02:42 l'inverse certaines la plupart de nos
+02:44 
+
+02:44 institutions sociales l'état la loi la
+02:47 
+
+02:47 monnaie en en partie et d'autres par
+02:50 
+
+02:50 exemple la politesse la courtoisie les
+02:53 
+
+02:53 bonnes manières ce genre de choses-là
+02:55 
+
+02:55 sont des comportements émergents qui
+02:57 
+
+02:57 quand je parle de comportements
+02:58 
+
+02:58 émergents c'est-à-dire que en fait c'est
+03:00 
+
+03:00 des stratégies que les gens adoptent en
+03:03 
+
+03:03 situation pour atteindre certains
+03:05 
+
+03:05 objectifs pour améliorer leurs
+03:06 
+
+03:06 conditions pour répondre à un certain
+03:08 
+
+03:08 intérêt et cetera et donc on ils sont
+03:10 
+
+03:10 produits par c'est un produit de la
+03:12 
+
+03:12 culture donc c'est un produit des
+03:13 
+
+03:13 sociétés humaines mais c'est ça n'est
+03:15 
+
+03:15 pas la résultante du design conscient de
+03:17 
+
+03:17 qui que ce soit c'estàd que personne n'a
+03:19 
+
+03:19 imaginé de solution au problème de
+03:22 
+
+03:22 l'échange en se disant tiens on va
+03:23 
+
+03:23 inventer la monnaie au même titre que
+03:25 
+
+03:25 par exemple un euh daler ou un ou un
+03:28 
+
+03:28 Ford ou quoi que ce soit peut imaginer
+03:30 
+
+03:30 une solution au problème du transport et
+03:32 
+
+03:32 conceptualiser la voiture et donc du
+03:34 
+
+03:34 coup on t'expliquera beaucoup plus
+03:35 
+
+03:35 facilement ce qui est une voiture parce
+03:37 
+
+03:37 que
+03:38 
+
+03:38 finalement il y a un cerveau humain qui
+03:40 
+
+03:40 a qui a conceptualisé ça alors que la
+03:42 
+
+03:42 monnaie est quelque chose qui émerge du
+03:45 
+
+03:45 des phénomènes sociaux et et qui est en
+03:48 
+
+03:48 fait causé par le contexte dans lequel
+03:49 
+
+03:49 on vit c'est-à-dire un contexte de
+03:51 
+
+03:51 rareté des ressources
+03:53 
+
+03:53 où on a une plus grande productivité
+03:56 
+
+03:56 générale avec la division du travail et
+03:58 
+
+03:58 parce que la division du travail force à
+04:00 
+
+04:00 la spécialisation pour maximiser notre
+04:02 
+
+04:02 intérêt individuel euh et dans un
+04:05 
+
+04:05 contexte de valeur subjective c'est pas
+04:06 
+
+04:06 forcément accumuler plus d'argent ou
+04:07 
+
+04:07 plus de ressources mais répondre à nos
+04:09 
+
+04:09 besoins nos envies nos désirs on se
+04:12 
+
+04:12 c'est une meilleure stratégie de se
+04:14 
+
+04:14 spécialiser et d'échanger avec les
+04:15 
+
+04:15 autres ce que eux ils produisent et
+04:17 
+
+04:17 qu'ils ont en surplu et qu'ils désirent
+04:18 
+
+04:18 pas tant que ça contre ce que nous on a
+04:20 
+
+04:20 en surplu mais que l'on n pas et qui
+04:22 
+
+04:22 peuvent nous apporter et il se trouve
+04:24 
+
+04:24 que dès lors qu'on rentre dans l'échange
+04:26 
+
+04:26 comme ça on va se retrouver avec un
+04:27 
+
+04:27 certain nombre de problèmes qui ont déjà
+04:30 
+
+04:30 a été expliqué par différentes écoles de
+04:32 
+
+04:32 pensée en économie notamment le problème
+04:35 
+
+04:35 de double coïcidence des besoins et
+04:36 
+
+04:36 notamment le problème notamment lié à la
+04:38 
+
+04:38 l'incertitude sur le futur qui pour moi
+04:40 
+
+04:40 est centrale dans la pensée économique
+04:42 
+
+04:42 et qui consiste à dire en fait parce que
+04:44 
+
+04:44 je sais pas ce qui va se passer demain
+04:45 
+
+04:45 parce que je sais pas si je vais être
+04:47 
+
+04:47 malade parce que je sais pas peut-être
+04:49 
+
+04:49 je vais avoir des enfants je vais devoir
+04:50 
+
+04:50 leur payer leur scolarité subvenir à
+04:51 
+
+04:51 leurs besoins et cetera mais finalement
+04:53 
+
+04:53 dans ce que je produis et la richesse
+04:55 
+
+04:55 que je crée aujourd'hui ce serait pas
+04:57 
+
+04:57 mal que je puisse en transférer une
+04:58 
+
+04:58 partie à moi futur
+05:00 
+
+05:00 quelle que soit sa situation pour
+05:02 
+
+05:02 répondre au besoins qu'il aura dans le
+05:03 
+
+05:03 futur et donc ça suppose la possibilité
+05:05 
+
+05:05 d'épargner qui est un concept qu'on
+05:07 
+
+05:07 connaît bien parce que nous on a de la
+05:08 
+
+05:08 monnaie et cetera mais si tu te mets
+05:10 
+
+05:10 dans des conditions de société assez
+05:12 
+
+05:12 primitive et cetera et qu'on réfléchit à
+05:14 
+
+05:14 l'épargne ça peut être peut-être garder
+05:16 
+
+05:16 du blé en stock parce qu'on sait qu'on
+05:17 
+
+05:17 va pouvoir facilement l'échanger contre
+05:19 
+
+05:19 ce dont on aura besoin et c'est un peu
+05:21 
+
+05:21 comme ça en tout cas selon les
+05:22 
+
+05:22 Autrichiens et selon moi quiémerge la
+05:24 
+
+05:24 monnaie c'est-à-dire dans ce contexte là
+05:26 
+
+05:26 on essaie de répondre à ces
+05:27 
+
+05:27 problématiques et du coup on va avoir
+05:29 
+
+05:29 des stratégies plus plus ou moins
+05:30 
+
+05:30 efficac qui vont consister justement à à
+05:32 
+
+05:32 épargner le bien le plus vendable dirait
+05:35 
+
+05:35 les économist Autrichiens c'est-à-dire
+05:36 
+
+05:36 celui qu'on aura le plus liquide on
+05:38 
+
+05:38 pourrait dire qu'on aura le plus facile
+05:39 
+
+05:39 le plus de facilité à échanger contre ce
+05:41 
+
+05:41 que l'on désire demain même si
+05:43 
+
+05:43 aujourd'hui on sait pas exactement ce
+05:44 
+
+05:44 qu'on désire on sait pas quand est-ce
+05:46 
+
+05:46 qu'on voudra utiliser cette épargne et
+05:48 
+
+05:48 cetera et cetera et à cet égard là
+05:49 
+
+05:49 différentes marchandises ne sont
+05:51 
+
+05:51 pas toutes de la même qualité du coup
+05:54 
+
+05:54 pour transférer le pouvoir d'achat dans
+05:56 
+
+05:56 le temps effectivement il faut qu'elles
+05:58 
+
+05:58 aient une certaine résistance à
+05:59 
+
+05:59 l'inflation qu'on puisse pas les
+05:60 
+
+05:60 produire trop facilement qu'ell Contin
+06:02 
+
+06:02 continuent à être demandé demain
+06:03 
+
+06:03 qu'elles aient une certaine résistance à
+06:04 
+
+06:04 la censure qu'on puisse les utiliser
+06:06 
+
+06:06 facilement qu'elles soit reconnu par la
+06:08 
+
+06:08 plupart des gens et cetera et cetera
+06:10 
+
+06:10 donc en fait la monnaie émerge plus
+06:13 
+
+06:13 euh de manière tatillonne c'est-à-dire
+06:15 
+
+06:15 les gens essayent des trucs et puis il y
+06:16 
+
+06:16 a des monnaes qui marchent bien d'autres
+06:17 
+
+06:17 qui marchent pas et cetera et elle
+06:20 
+
+06:20 émerge du fait du contexte par les
+06:21 
+
+06:21 phénomènes sociaux et des gens qui qui
+06:23 
+
+06:23 qui essayent de répondre à ces
+06:24 
+
+06:24 problématiques sans jamais faire de
+06:26 
+
+06:26 grands plans tu vois pour se dire euh
+06:28 
+
+06:28 euh tiens on va doter la population
+06:30 
+
+06:30 d'une monnaie ce qui est parfois une
+06:32 
+
+06:32 thèse défendue par certains pseudo
+06:34 
+
+06:34 économistes qui effectivement eux voient
+06:37 
+
+06:37 ça comme une émanation de l'État mais ça
+06:38 
+
+06:38 c'est plutôt un phénomène moderne
+06:40 
+
+06:40 c'est-à-dire que si on remonte juste
+06:43 
+
+06:43 avant qu'on passe à cette étape de la du
+06:46 
+
+06:46 coup des Fiat du coup ce que ce que tu
+06:48 
+
+06:48 sous-entends c'est que il y a pas
+06:50 
+
+06:50 quelque chose qui est monnaiee et une
+06:52 
+
+06:52 autre chose qui n'est pas monnaie il y a
+06:54 
+
+06:54 une proportion des gens à accepter tel
+06:57 
+
+06:57 tel bien comme étant la monnaie au non
+06:59 
+
+06:59 je te donne un exemple et par exemple je
+07:00 
+
+07:00 pense au premium monétaire en fait qui
+07:03 
+
+07:03 va se mettre sur certains actifs comme
+07:05 
+
+07:05 l'immobilier aujourd'hui bah je un
+07:07 
+
+07:07 exemple très simple si tu mets les gens
+07:09 
+
+07:09 dans un contexte différent par exemple
+07:10 
+
+07:10 tu les mets en prison ils vont quand
+07:12 
+
+07:12 même effectivement avoir des capacités
+07:15 
+
+07:15 variés de d'introduire certains bi dans
+07:17 
+
+07:17 la prison en fonction des gens qui vont
+07:19 
+
+07:19 les voir de leur réseau de leur relation
+07:21 
+
+07:21 avec les gardiens plein plein de
+07:23 
+
+07:23 facteurs différents et donc ils ont des
+07:25 
+
+07:25 besoins divers et variés de nourriture
+07:28 
+
+07:28 parfois de drogue de pouvoir faire
+07:30 
+
+07:30 sortir des lettres de la prison de de de
+07:32 
+
+07:32 de de multimédia de différents besoins
+07:35 
+
+07:35 et en fait du coup ils ont intérêt à
+07:37 
+
+07:37 faire des échanges les uns les autres
+07:38 
+
+07:38 pour que ceux qui peuvent facilement
+07:39 
+
+07:39 faire rentrer tel objet puissent
+07:40 
+
+07:40 l'échanger contre tel autre objet qu'un
+07:42 
+
+07:42 autre peut faire rentrer facilement et
+07:43 
+
+07:43 cetera et cetera et il y a pas d'état on
+07:45 
+
+07:45 leur a rien imposer on en fait de
+07:48 
+
+07:48 manière émergente tu vois laisser à leur
+07:50 
+
+07:50 propre condition dans leur contexte
+07:52 
+
+07:52 donné ils vont utiliser les cigarette
+07:54 
+
+07:54 comme monnaie dans la plupart des cas
+07:55 
+
+07:55 parce que c'est divisible c'est
+07:56 
+
+07:56 reconnaissable parce que c'est une
+07:58 
+
+07:58 utilité pour beaucoup des gens dans la
+07:59 
+
+07:59 prison parce que il y a pas mal de
+08:00 
+
+08:00 fumeurs et qu'on a pas grand chose à
+08:01 
+
+08:01 [ __ ] en prison donc c'est sympa
+08:03 
+
+08:03 d'avoir des clopes et voilà et donc
+08:06 
+
+08:06 c'est ça peut être subdivis enfin c'est
+08:07 
+
+08:07 c'est les petites unités donc on peut
+08:09 
+
+08:09 les changer en grande quantité petite
+08:10 
+
+08:10 quantité ça se ça se conserve assez
+08:13 
+
+08:13 facilement ça périme pas trop vite et
+08:15 
+
+08:15 Quand tu es dans le contexte de la
+08:16 
+
+08:16 prison c'est un bien qui est assez rare
+08:18 
+
+08:18 en fait parce que il y a un certain coûp
+08:20 
+
+08:20 pour le faire rentrer tu peux pas en
+08:21 
+
+08:21 produire il y a pas une plantation de
+08:22 
+
+08:22 tabac et une usine Malboro au milieu de
+08:25 
+
+08:25 la de la prison de la Santé et donc
+08:28 
+
+08:28 c'est des expériences sociales entre
+08:29 
+
+08:29 guillemets qui montre bien que la
+08:32 
+
+08:32 monnaie émerge naturellement des
+08:34 
+
+08:34 relations humaines euh et tu as pas
+08:36 
+
+08:36 besoin d'une autorité pour l'imposer aux
+08:38 
+
+08:38 gens pour qu'ils découvrent le besoin de
+08:39 
+
+08:39 la monnaie entre guillemets OK et du
+08:42 
+
+08:42 coup là si on raccroche avec aujourd'hui
+08:44 
+
+08:44 la monnaie qu'on
+08:46 
+
+08:46 a qu'est-ce que cette sorte de de
+08:50 
+
+08:50 chimère là à voir avec la monnaie que tu
+08:53 
+
+08:53 décrit toi alors c'est une c'est une
+08:55 
+
+08:55 vaste histoire qui serait très
+08:57 
+
+08:57 compliquée de enfin très longue à
+08:59 
+
+08:59 raconter en détail mais si je résume et
+09:01 
+
+09:01 du coup je vais faire des raccourcis euh
+09:04 
+
+09:04 mais si je résume en
+09:06 
+
+09:06 fait au moins dans le monde européen à
+09:09 
+
+09:09 partir de la sortie du moyen-âge on
+09:13 
+
+09:13 commence à retrouver euh des standards
+09:15 
+
+09:15 monétaire euh or certifié par les États
+09:19 
+
+09:19 donc sous forme de pièces de monnaie qui
+09:20 
+
+09:20 sont frappé qui ont un poids défini donc
+09:22 
+
+09:22 ça aide à pouvoir reconnaître diviser
+09:25 
+
+09:25 compter et cetera ce qui est très
+09:27 
+
+09:27 important pour les activités économiques
+09:28 
+
+09:28 elle circule permettre les échanges et
+09:30 
+
+09:30 cetera et cetera et en fait petit à
+09:32 
+
+09:32 petit
+09:33 
+
+09:33 euh les banques vont se retrouver autant
+09:36 
+
+09:36 à l'époque de la Renaissance dans les
+09:38 
+
+09:38 cités état italiennes queà Barcelone à
+09:40 
+
+09:40 l'époque dans les cités état du nord de
+09:42 
+
+09:42 l'Europe à recevoir en dépôt alors quand
+09:44 
+
+09:44 j'utilise le terme banque c'est un terme
+09:46 
+
+09:46 générique qui désigne l'activité parfois
+09:47 
+
+09:47 ça pouvait être des orphèvres ça pouvit
+09:49 
+
+09:49 être des taverniers ça ça peut être
+09:50 
+
+09:50 vraiment beaucoup de commerces
+09:51 
+
+09:51 différents mais qui vont effectuer
+09:53 
+
+09:53 par-dessus leur commerce habituel cette
+09:54 
+
+09:54 activité qui consiste à garder les
+09:56 
+
+09:56 dépôts et en fait l'or a ce problème que
+09:59 
+
+09:59 c'est assez difficile à transporter sur
+10:00 
+
+10:00 des longues distances c'est assez facile
+10:02 
+
+10:02 de se le faire
+10:03 
+
+10:03 voler et donc il a pas mal de défauts
+10:06 
+
+10:06 quand on regarde les qualité objective
+10:08 
+
+10:08 idéal qu'on voudrait d'une monnaie et
+10:09 
+
+10:09 donc très rapidement on se retrouve dans
+10:11 
+
+10:11 cette situation on va faire de l'escte
+10:12 
+
+10:12 c'est-à-dire que tu vas déposer ton or
+10:14 
+
+10:14 chez par exemple un or Fèvre puis lui il
+10:15 
+
+10:15 va te donner une lettre de change ou un
+10:17 
+
+10:17 billet d'ordre qui dit en fait c'est la
+10:20 
+
+10:20 certification d'un dépôt de tant pièces
+10:22 
+
+10:22 d'or effectué à telelle institution et
+10:24 
+
+10:24 cetera et du coup en lieu et place de
+10:26 
+
+10:26 pièces d'or tu vas pouvoir faire
+10:27 
+
+10:27 certifier ce tu vas pouvoir pardon faire
+10:29 
+
+10:29 circu ce certificat de dépô l'utiliser
+10:30 
+
+10:30 dans les échanges et très rapidement on
+10:32 
+
+10:32 se rend compte c'est beaucoup plus
+10:33 
+
+10:33 pratique pour effectuer du commerce pour
+10:34 
+
+10:34 financer des activités notamment pour
+10:36 
+
+10:36 tirer de la dette éventuellement quand
+10:37 
+
+10:37 tu veux commencer ton activité et cetera
+10:39 
+
+10:39 et cetera et donc tuas un phénomène de
+10:42 
+
+10:42 centralisation où le métal précieux va
+10:44 
+
+10:44 petit à petit à travers l'histoire
+10:45 
+
+10:45 européenne se concentrer dans le coffre
+10:47 
+
+10:47 des banques jusqu'à ce qu'on arrive aux
+10:49 
+
+10:49 révolutions industrielles avec une
+10:50 
+
+10:50 extension de la sphère d'échange et de
+10:52 
+
+10:52 la division du travail sur plusieurs
+10:54 
+
+10:54 continents et avec des relations
+10:56 
+
+10:56 commerciales de très longue distance
+10:58 
+
+10:58 contexte dans lequel le fait de régler
+10:60 
+
+10:60 et de finaliser les transactions par des
+11:01 
+
+11:01 échanges d'or physique devient encore
+11:03 
+
+11:03 plus coûteau et encore plus complexe
+11:05 
+
+11:05 avec l'invention du télégram et d'autres
+11:06 
+
+11:06 moyens de télécommunication en revanche
+11:08 
+
+11:08 on peut envoyer de l'information très
+11:09 
+
+11:09 rapidement de Paris à New York de
+11:11 
+
+11:11 Londres à New York et cetera et donc en
+11:13 
+
+11:13 fait en en en juste un ou deux télégram
+11:16 
+
+11:16 on va pouvoir régler une transaction par
+11:18 
+
+11:18 le crédit entre plusieurs institutions
+11:20 
+
+11:20 financières et en fait ce bénéfice
+11:22 
+
+11:22 d'efficacité va faire que petit à petit
+11:25 
+
+11:25 on se retrouve face à une une
+11:27 
+
+11:27 utilisation de la monnaie en tant
+11:28 
+
+11:28 qu'instrument de crédit et plus comme un
+11:30 
+
+11:30 instrument cash au porteur qui a des
+11:33 
+
+11:33 qualités naturelles qui lui permettent
+11:35 
+
+11:35 cette résistance à la censure cette
+11:36 
+
+11:36 résistance à l'inflation et cetera mais
+11:38 
+
+11:38 quelque part tout le monde y trouve un
+11:39 
+
+11:39 bénéfice et en fait le problème avec ça
+11:42 
+
+11:42 c'est que petit à petit les banques
+11:44 
+
+11:44 peuvent créer plus de crédit qu'ell n de
+11:46 
+
+11:46 réservve monétaire dans leur coffre et
+11:47 
+
+11:47 donc ell créent de manière endogène de
+11:49 
+
+11:49 l'inflation petit à petit elle se
+11:51 
+
+11:51 retrouve vu queas cette concentration de
+11:53 
+
+11:53 richesse dans les institutions
+11:54 
+
+11:54 financières vulnérable à l'action de
+11:57 
+
+11:57 l'État par la régulation par la censure
+11:59 
+
+11:59 par la manipulation par la corruption la
+12:01 
+
+12:01 coerition et cetera et en fait au début
+12:04 
+
+12:04 du 20e siècle avec la Première Guerre
+12:06 
+
+12:06 mondiale on a carrément une suspension
+12:08 
+
+12:08 de la convertibilité de ces billets et
+12:10 
+
+12:10 de ces différents instruments de crédit
+12:12 
+
+12:12 en monnaie métal et petit à petit ça va
+12:15 
+
+12:15 permettre une sorte de rapprochement et
+12:17 
+
+12:17 de fusion entre le système financier et
+12:19 
+
+12:19 l'État au bénéfice des uns et des autres
+12:22 
+
+12:22 c'est-à-dire le système financier qui
+12:24 
+
+12:24 lui se protège de la concurrence par les
+12:25 
+
+12:25 réglementations et les normes imposées
+12:27 
+
+12:27 par l'État et l'État qui lui trouve les
+12:28 
+
+12:28 moyens de son finan
+12:30 
+
+12:30 quasiment infini par l'émission de
+12:33 
+
+12:33 crédit supplémentaire de la part des
+12:35 
+
+12:35 institutions financières et dans ce
+12:38 
+
+12:38 mouvement là l'état également va en gros
+12:41 
+
+12:41 tout faire pour que les banques ne
+12:42 
+
+12:42 puissent pas faire faillite pour que il
+12:44 
+
+12:44 ne puissent pas y avoir de banque run
+12:46 
+
+12:46 pour que la convertibilité or soit
+12:47 
+
+12:47 suspendue et cetera et cetera donc en
+12:49 
+
+12:49 fait le système Fiat de monnaie crédit
+12:51 
+
+12:51 qu'on a aujourd'hui est un long
+12:52 
+
+12:52 processus de plusieurs siècles qui tient
+12:56 
+
+12:56 essentiellement au fait que à la base la
+12:57 
+
+12:57 monnaie c'était l'or et l'argent parce
+12:59 
+
+12:59 que ça fonctionnait mieux que toutes les
+13:00 
+
+13:00 autres marchandises qu'on avait trouvé
+13:02 
+
+13:02 mais que parce que c'est très peu
+13:03 
+
+13:03 vendable dans l'espace c'est-à-dire que
+13:05 
+
+13:05 ça coûte c'est assez difficile à
+13:07 
+
+13:07 vérifier à authentifier et à à
+13:10 
+
+13:10 transporter de manière sécurisée sur de
+13:12 
+
+13:12 longues distances on va préférer
+13:14 
+
+13:14 utiliser des instruments de crédit pour
+13:15 
+
+13:15 réaliser les transactions de manière
+13:16 
+
+13:16 plus sécurisée plus rapidement et cetera
+13:19 
+
+13:19 et donc c'est un peu le résultat naturel
+13:21 
+
+13:21 du développement de la mondialisation
+13:23 
+
+13:23 des premières mondialisations
+13:24 
+
+13:24 européennes et de la mondialisation
+13:25 
+
+13:25 industrielle par la suite et qui va
+13:28 
+
+13:28 continuer jusqu'à ce que on invente
+13:29 
+
+13:29 effectivement une monnaie qui elle n'est
+13:31 
+
+13:31 pas le défaut de l'or comme Bitcoin qui
+13:33 
+
+13:33 puisse finaliser des transactions sur à
+13:36 
+
+13:36 peu près n'importe quelle distance avec
+13:37 
+
+13:37 un coût très faible une authentification
+13:39 
+
+13:39 certaine
+13:41 
+
+13:41 et dans un contexte digital c'est-à-dire
+13:44 
+
+13:44 sans avoir besoin de se trimbaler des
+13:45 
+
+13:45 trucs physiques à travers l'océan quoi h
+13:47 
+
+13:47 ok ok intéressant et
+13:50 
+
+13:50 [Musique]
+13:53 
+
+13:53 eu du coup ce ce cette façon de penser
+13:57 
+
+13:57 prè banque centrale c'était plutôt en
+13:60 
+
+13:60 fait une vision qu'on appelait même pas
+14:02 
+
+14:02 à l'époque autrichienne mais qui g son à
+14:04 
+
+14:04 postéuie on on a compris en fait
+14:07 
+
+14:07 vraiment que
+14:09 
+
+14:09 c'était un système d'économie
+14:11 
+
+14:11 autrichienne en fait c'est après en fait
+14:12 
+
+14:12 avec l'arrivée du l'école kenésienne
+14:15 
+
+14:15 qu'on a créé une nouvelle façon de
+14:16 
+
+14:16 penser avec de l'argent
+14:19 
+
+14:19 crédit à l'infini et puis de créer de
+14:22 
+
+14:22 nouvelles incentive mais comment est-ce
+14:26 
+
+14:26 que eux ils ont l'air d'expliquer que tu
+14:29 
+
+14:29 peux financer n'importe quoi avec du
+14:33 
+
+14:33 coup le le crédit de cette façon que ça
+14:35 
+
+14:35 peut être fait depuis les états que s'il
+14:39 
+
+14:39 y a un problème on peut y résoudre via
+14:41 
+
+14:41 l'impression et et que souvent c'est
+14:44 
+
+14:44 c'est une bonne décision genre c'est
+14:47 
+
+14:47 amené comme je sais pas par exemp c'est
+14:49 
+
+14:49 populaire en tout cas décision parce
+14:51 
+
+14:51 queon a l'impression que sur C une
+14:53 
+
+14:53 décision on va pas réussir à se mettre
+14:55 
+
+14:55 tous collectivement d'accord pour
+14:57 
+
+14:57 prendre tel choix et et que pouvoir
+15:00 
+
+15:00 imprimer et prendre une décision
+15:02 
+
+15:02 centrale sur je sais pas allouer de
+15:05 
+
+15:05 l'argent sur la production de de
+15:07 
+
+15:07 nouvelles énergies vertes de de voitures
+15:10 
+
+15:10 électrique genre en fait on n' pas
+15:12 
+
+15:12 d'autre choix que de passer par cette
+15:14 
+
+15:14 méthode
+15:16 
+
+15:16 et qu'est-ce qu'on pourrait faire
+15:18 
+
+15:18 d'autre en fait c'est c'est quoi la
+15:20 
+
+15:20 solution à ça pourquoi pourquoi le
+15:23 
+
+15:23 Bitcoin serait mieux que ça h
+15:26 
+
+15:26 euh alors mieux ça dépend à tu demandes
+15:30 
+
+15:30 euh pour la majorité des gens je pense
+15:33 
+
+15:33 que c'est mieux parce qu'en fait le
+15:34 
+
+15:34 système que tu décris ben déjà il y a
+15:35 
+
+15:35 plusieurs choses il y a le premier la
+15:37 
+
+15:37 première chose qui est que les États ont
+15:40 
+
+15:40 tendance dans l'histoire quand même
+15:42 
+
+15:42 à favoriser des systèmes intellectuels
+15:45 
+
+15:45 voire des systèmes de propagande qui
+15:47 
+
+15:47 justifient leurs actions donc
+15:48 
+
+15:48 effectivement à partir du moment où les
+15:50 
+
+15:50 relations économiques deviennent
+15:52 
+
+15:52 prédominamment géré par le crédit on a
+15:54 
+
+15:54 une grande partie de la théorie
+15:55 
+
+15:55 économique qui s'intéresse à ces
+15:57 
+
+15:57 phénomènes ce qui assez normal c'est un
+15:58 
+
+15:58 problème nouveau qui se POS pose mais on
+15:60 
+
+15:60 a en faêre beaucoup plus d'autorité
+16:04 
+
+16:04 intellectuelle qui est donné aux
+16:06 
+
+16:06 économistes donc par autorité
+16:08 
+
+16:08 intellectuelle j'entends des plus de
+16:09 
+
+16:09 facilités de publication des bons postes
+16:11 
+
+16:11 d'enseignement dans les universités les
+16:13 
+
+16:13 plus prestigieuses publication dans les
+16:15 
+
+16:15 journal inviter sur les les plateaux
+16:16 
+
+16:16 télévision et cetera et cetera
+16:18 
+
+16:18 conseiller les gouvernements et
+16:20 
+
+16:20 compagnie à partir du moment où
+16:22 
+
+16:22 effectivement il souscrient à des thèses
+16:24 
+
+16:24 qui
+16:25 
+
+16:25 vont justifier le financement des
+16:28 
+
+16:28 activités de l'État et ses
+16:30 
+
+16:30 investissements discrétionnaires par de
+16:32 
+
+16:32 l'impression monétaire ou du crédit ou
+16:34 
+
+16:34 les deux et
+16:37 
+
+16:37 finalement pour un un politicien
+16:40 
+
+16:40 notamment en démocratie c'est un système
+16:43 
+
+16:43 qui est très confortable et très
+16:44 
+
+16:44 avantageux parce que finalement quand tu
+16:46 
+
+16:46 fais du crédit ce que tu dis c'est je
+16:48 
+
+16:48 vais tirer sur le futur pour obtenir des
+16:51 
+
+16:51 ressources dans le présent c'est-à-dire
+16:52 
+
+16:52 que tu vas finalement créer un titre de
+16:54 
+
+16:54 dette qui va venir augmenter les actifs
+16:57 
+
+16:57 de quelqu'un donc quelqu'un a se ce
+16:59 
+
+16:59 titre ce contrat qui va considérer
+17:01 
+
+17:01 comptablement comme de la richesse et en
+17:03 
+
+17:03 échange il va te donner des ressources
+17:05 
+
+17:05 du capital pour que tu puisses investir
+17:07 
+
+17:07 dans la transition écologique financer
+17:10 
+
+17:10 des dépenses sociales financer des
+17:13 
+
+17:13 dépenses d'infrastructure peu importe
+17:14 
+
+17:14 finalement et en en définitive tu
+17:17 
+
+17:17 pousses l'addition à demain c'est-à-dire
+17:19 
+
+17:19 que pour un politicien qui finalement ne
+17:21 
+
+17:21 va pas payer l'addition Infiné c'est
+17:23 
+
+17:23 c'est un système qui est quand même qui
+17:25 
+
+17:25 suppose enfin qui qui introduit un alléa
+17:27 
+
+17:27 moral énorme parce que lui il a d'autant
+17:30 
+
+17:30 plus de chance d'êtreélu et d'être
+17:31 
+
+17:31 populaire qu'il ne dépense d'argent
+17:33 
+
+17:33 parce que tout le monde adore avoir
+17:34 
+
+17:34 quelque chose sans rien avoir sans avoir
+17:36 
+
+17:36 à travailler pour l'obtenir et en même
+17:38 
+
+17:38 temps l'addition va être payée par des
+17:39 
+
+17:39 générations futures parce que c'est
+17:41 
+
+17:41 l'essence même de de la dette et donc
+17:44 
+
+17:44 c'est pas étonnant que avec la
+17:47 
+
+17:47 normalisation des régimes de mononey
+17:49 
+
+17:49 Fiat et des systèmes de démocratie
+17:52 
+
+17:52 parlementairire à l'échelle du 20e
+17:54 
+
+17:54 siècle notamment dans le monde
+17:55 
+
+17:55 occidental on est une explosion
+17:57 
+
+17:57 également euh facilité par la
+17:59 
+
+17:59 manipulation des banques centrales de
+18:02 
+
+18:02 l'endettement public de l'endettement
+18:03 
+
+18:03 privé des conditions de crédit et des
+18:05 
+
+18:05 conditions d'endettement et donc
+18:08 
+
+18:08 effectivement je pense que si on prend
+18:10 
+
+18:10 un pas de recul et qu'on regarde à
+18:11 
+
+18:11 l'échelle de la société sur le long
+18:12 
+
+18:12 terme notamment lorsquil s'agit de
+18:15 
+
+18:15 considérer les incitations que ça donne
+18:17 
+
+18:17 aux gens et qui vont influencer leur
+18:19 
+
+18:19 comportement
+18:20 
+
+18:20 euh le le système de crédit de monie
+18:24 
+
+18:24 étatique Fiat est particulièrement
+18:26 
+
+18:26 délétaire parce que il encourage
+18:28 
+
+18:28 l'endettement excessif il encourage la
+18:32 
+
+18:32 vision à court terme parce que encore
+18:33 
+
+18:33 une fois on verra demain pour payer le
+18:35 
+
+18:35 coût des dépenses qu'on fait aujourd'hui
+18:37 
+
+18:37 il décourage l'épargne et notamment il
+18:40 
+
+18:40 donne l'illusion aux gens qu'on peut
+18:44 
+
+18:44 obtenir des ressources juste en faisant
+18:46 
+
+18:46 de l'activisme politique ce qui est très
+18:48 
+
+18:48 dangereux parce que ces ressources sont
+18:49 
+
+18:49 forcément été créées et épargnées par
+18:51 
+
+18:51 quelqu'un à un moment donné donc si par
+18:53 
+
+18:53 activisme politique revendication
+18:55 
+
+18:55 politique c'est ce qu'on pourrait
+18:56 
+
+18:56 appeler les minorités organisées
+18:57 
+
+18:57 c'est-à-dire je fais du lobbying pour
+18:59 
+
+18:59 dire par exemple il faudrait qu'on ait
+19:00 
+
+19:00 un salaire universel il faudrait qu'on
+19:02 
+
+19:02 fasse la transition écologique il
+19:03 
+
+19:03 faudrait qu'on fasse des quotas pour
+19:05 
+
+19:05 avoir plus de femmes d'inuite je sais
+19:07 
+
+19:07 pas quoi dans dans telleles entreprises
+19:08 
+
+19:08 ou dans tel secteur de l'économie donc
+19:10 
+
+19:10 finalement plutôt que de travailler
+19:11 
+
+19:11 moi-même avec des ressources privées
+19:13 
+
+19:13 d'essayer de convaincre des
+19:14 
+
+19:14 investisseurs qui volontairement donne
+19:16 
+
+19:16 du capital pour que j'atteigne
+19:17 
+
+19:17 l'objectif que je me fixe en fait je
+19:19 
+
+19:19 vais faire du lobbying auprès de l'État
+19:21 
+
+19:21 organiser des associations et cetera
+19:22 
+
+19:22 pour obtenir de l'argent magique et le
+19:25 
+
+19:25 problème c'est que si on vit
+19:26 
+
+19:26 suffisamment longtemps dans ce système
+19:27 
+
+19:27 là on a plus aucune appré
+19:29 
+
+19:29 de la production c'est-à-dire de
+19:30 
+
+19:30 l'effort et du travail des sacrifices
+19:32 
+
+19:32 consentis pour développer produire et
+19:36 
+
+19:36 distribuer les ressources qui fondent
+19:38 
+
+19:38 les conditions matérielles de nos
+19:40 
+
+19:40 existences à aucun moment l'état ne peut
+19:43 
+
+19:43 du fait de ses activités produire les
+19:45 
+
+19:45 vêtements que tu portes la caméra qui
+19:47 
+
+19:47 nous filme les ordinateurs qu'on utilise
+19:50 
+
+19:50 et cetera et cetera il faut qu'il y ait
+19:51 
+
+19:51 une sphère privée qui fasse des
+19:53 
+
+19:53 sacrifices qui s'organisent de manière
+19:56 
+
+19:56 compétitive avec des prix de marché si
+19:58 
+
+19:58 possible pour éviter de gaspiller des
+19:59 
+
+19:59 ressources pour pouvoir produire toutes
+20:01 
+
+20:01 ces choses-là effectivement si on si on
+20:03 
+
+20:03 quelque part on éduque toute une
+20:04 
+
+20:04 génération à l'idée que en fait quand tu
+20:07 
+
+20:07 veux quelque chose suffit de demander à
+20:08 
+
+20:08 l'État parce qu'il va
+20:09 
+
+20:09 imprimer de manière factice la richesse
+20:12 
+
+20:12 pour répondre à ton désir et ton besoin
+20:14 
+
+20:14 euh et bien on se retrouve je pense
+20:17 
+
+20:17 assez rapidement euh dans des conditions
+20:19 
+
+20:19 qui sont très dangereuses d'un point de
+20:21 
+
+20:21 vue du développement économique parce
+20:22 
+
+20:22 que on Sèvre la le secteur privé qui lui
+20:26 
+
+20:26 seul produit des ressources valorisées
+20:28 
+
+20:28 de ressources soit par la taxation soit
+20:30 
+
+20:30 par l'inflation soit par le
+20:31 
+
+20:31 surendettement et cetera en plus on
+20:34 
+
+20:34 bèise les prix donc on l'induit à louer
+20:36 
+
+20:36 du capital à des endroits qui sont qui
+20:39 
+
+20:39 sont du gaspillage en fait de manière
+20:40 
+
+20:40 enfin d'une manière qui qui est du
+20:42 
+
+20:42 gaspillage et en plus on crée une sorte
+20:44 
+
+20:44 de culture de la revendication au lieu
+20:47 
+
+20:47 d'avoir une culture bah de l'effort du
+20:49 
+
+20:49 travail de l'épargne du talent de
+20:50 
+
+20:50 l'ingéniosité et cetera et je pense pas
+20:53 
+
+20:53 qu'effectivement spoer la richesse des
+20:55 
+
+20:55 autres pour résoudre ces problèmes ce
+20:56 
+
+20:56 soit quelque chose de très moral
+20:57 
+
+20:57 vertueux ou de très désirable à
+20:59 
+
+20:59 l'échelle macro dans une société quoi
+21:01 
+
+21:01 spolier via l'impression monétaire en
+21:03 
+
+21:03 duant voà l'impression monétaire oui
+21:05 
+
+21:05 parce que peut-être quelque chose
+21:06 
+
+21:06 j'aurais du préciser avant c'est qu'en
+21:07 
+
+21:07 fait quand vous créez du pouvoir d'achat
+21:09 
+
+21:09 qui va être accepté dans la société
+21:11 
+
+21:11 parce que la monnaie à cours légale et
+21:12 
+
+21:12 donc quand vous allez à un restaurant il
+21:13 
+
+21:13 est obligé d'accepter l'euro mais qu'en
+21:15 
+
+21:15 même temps derrière vous avez la BPI ou
+21:17 
+
+21:17 la banque centrale ou des banques
+21:18 
+
+21:18 privées ou l'endettement étatique qui va
+21:21 
+
+21:21 imprimer cette monnaie sans aucun coût
+21:23 
+
+21:23 en fait vous diluez la richesse
+21:24 
+
+21:24 existante des gens qui vont recevoir des
+21:26 
+
+21:26 rentes fixes comme les retraités des
+21:27 
+
+21:27 gens qui ont de lesp sur des comptes en
+21:29 
+
+21:29 banque des gens qui ont des salaires
+21:30 
+
+21:30 fixes qui vont avoir du mal à renégocier
+21:32 
+
+21:32 à la hausse pour suivre l'inflation et
+21:34 
+
+21:34 cetera et cetera et donc en fait ce que
+21:36 
+
+21:36 vous faites indirectement c'est une
+21:37 
+
+21:37 taxation implicite où vous ponctionnez
+21:40 
+
+21:40 des ressources sur les gens qui les ont
+21:42 
+
+21:42 produites et qui les ont qui les ont
+21:43 
+
+21:43 obtenu volontairement enfin par
+21:45 
+
+21:45 l'échange volontaire la production et
+21:46 
+
+21:46 cetera pour les redistribuer de manière
+21:48 
+
+21:48 discrétionnaire à un endroit décidé par
+21:51 
+
+21:51 voie politique euh et donc il y a un
+21:55 
+
+21:55 moment donné où faut pas s'étonner si
+21:57 
+
+21:57 les gens qui sont productifs et qui qui
+21:58 
+
+21:58 produisent ses ressources font grève et
+21:60 
+
+21:60 décident de dire je me barre ailleurs je
+22:02 
+
+22:02 vote avec mes pieds j'adopte Bitcoin
+22:04 
+
+22:04 j'installe mon entreprise dans un autre
+22:06 
+
+22:06 pays ou alors carrément bah je je suis
+22:09 
+
+22:09 la grande Corte parasitaire qui va
+22:11 
+
+22:11 demander le le mon pain quotidien à
+22:13 
+
+22:13 l'état et mais pourquoi je travailleraai
+22:15 
+
+22:15 finalement si je n'ai rien à en retirer
+22:16 
+
+22:16 et que quelque part je vais me me faire
+22:19 
+
+22:19 piller par le processus politique qui
+22:21 
+
+22:21 existe dans mon pays politique et
+22:22 
+
+22:22 monétaire par que c'est pas que le
+22:24 
+
+22:24 politique hein dans un système Fiat
+22:25 
+
+22:25 c'est beaucoup plus compliqué petite
+22:27 
+
+22:27 dernier petit point qui un peu l'loigné
+22:29 
+
+22:29 de ta question mais je pense qu'il est
+22:30 
+
+22:30 important dans le contexte aujourd'hui
+22:31 
+
+22:31 euh je pense notamment dans le contexte
+22:33 
+
+22:33 de la guerre c'est quelque chose qui est
+22:34 
+
+22:34 très intéressant parce que si vous
+22:36 
+
+22:36 regardez par exemple l'histoire euhh de
+22:39 
+
+22:39 la guerreah encore une fois en Europe
+22:41 
+
+22:41 hein sur ces derniers siècles en général
+22:43 
+
+22:43 les guerres étaient pas très très longue
+22:44 
+
+22:44 parce que fallait les financer par
+22:46 
+
+22:46 l'épargne publique donc en général le
+22:48 
+
+22:48 trésor royal et cetera euh et par la
+22:50 
+
+22:50 taxation et donc euh quand vous voulez
+22:53 
+
+22:53 faire une guerre totale comme une guerre
+22:55 
+
+22:55 mondiale qui va durer plusieurs années
+22:56 
+
+22:56 engager des ressources colossales et
+22:57 
+
+22:57 cetera ou une invasion à l'autre bout du
+22:60 
+
+22:60 monde pour des des motifs assez
+23:02 
+
+23:02 fallacieux comme l'invasion en Irak
+23:04 
+
+23:04 l'occupation en Afghanistan et pas mal
+23:06 
+
+23:06 d'autres conflits qu'on peut voir
+23:07 
+
+23:07 aujourd'hui euh finalement si pour
+23:10 
+
+23:10 financer tout ça vous devez doubler les
+23:13 
+
+23:13 impôts du jour au lendemain vous allez
+23:14 
+
+23:14 vous retrouver avec une population dans
+23:16 
+
+23:16 votre pays qui va dire non je vois pas
+23:19 
+
+23:19 pourquoi je devrais consentir à 20 30 %
+23:21 
+
+23:21 de tout ce que je produis pour qu'on
+23:23 
+
+23:23 aille faire la guerre en Irak pour qu'on
+23:25 
+
+23:25 aille la plupart des gensont aucune
+23:27 
+
+23:27 envie de ça par contre aujourd'hui parce
+23:29 
+
+23:29 que c'est financé de manière indirecte
+23:31 
+
+23:31 et que personne ne voit le coup euh de
+23:33 
+
+23:33 manière immédiate on se retrouve avec
+23:35 
+
+23:35 des cheerleaders de de de de de de la
+23:37 
+
+23:37 guerre et qui qui deviennent des experts
+23:39 
+
+23:39 géopolitiques et qui qui qui qutivement
+23:41 
+
+23:41 encouragent qui sont des vatt en guerre
+23:43 
+
+23:43 en fait euh parce qu'il comprennent pas
+23:44 
+
+23:44 qu'en fait ils sont en train d'en payer
+23:45 
+
+23:45 le coûpt le prix fort et euh et c'est un
+23:48 
+
+23:48 politicien américain par exemple qui
+23:49 
+
+23:49 disait ça qui s'appelle Ron Paul un
+23:51 
+
+23:51 libertarien disait c'est pas étonnant
+23:53 
+
+23:53 que le siècle de la monie Fiat soit
+23:55 
+
+23:55 aussi le siècle de la guerre totale euh
+23:58 
+
+23:58 euh si vous pouvez en tant que
+23:60 
+
+23:60 gouvernement
+24:01 
+
+24:01 financer de manière indolore sans perdre
+24:04 
+
+24:04 de popularité sans augmenter les impôts
+24:06 
+
+24:06 euh des conflits B vous êtes plutôt
+24:09 
+
+24:09 incité en fait à déclencher des conflits
+24:12 
+
+24:12 inutiles voire à prolonger des guerre un
+24:14 
+
+24:14 peu inutile et et et pas forcément très
+24:16 
+
+24:16 stratégique quoi
+24:18 
+
+24:18 ok j'aimerais retourner sur un peu les
+24:22 
+
+24:22 l'histoire de la monnaie euh pour en
+24:26 
+
+24:26 arriver en fait à des arguments sur
+24:28 
+
+24:28 comment convaincre quelqu'un que Bitcoin
+24:30 
+
+24:30 c'est peut-être une bonne
+24:31 
+
+24:31 option c'était sa qui en parlait dans
+24:34 
+
+24:34 son livre et c'est sur l'histoire des
+24:36 
+
+24:36 monnais et des des peuples qui ont
+24:37 
+
+24:37 adopté des monnaies qui étaient moins
+24:39 
+
+24:39 dures que d'autres et par
+24:43 
+
+24:43 exemple ce les les peuples en Afrique
+24:46 
+
+24:46 utilisaient les les coquillages et puis
+24:48 
+
+24:48 après tu avait d'autres peuples qui
+24:49 
+
+24:49 s'étaient rendu compte que c'était leur
+24:50 
+
+24:50 moyen d'échange que il préservaient leur
+24:52 
+
+24:52 éparne leur richesse là-dedans et qu'il
+24:54 
+
+24:54 suffisait d'aller en chercher des
+24:55 
+
+24:55 quantités astronomiques pour sa'caparer
+24:57 
+
+24:57 toutes les richesse du pays
+24:60 
+
+24:60 euh comment aujourd'hui on peut
+25:03 
+
+25:03 expliquer à à quelqu'un qui utilise des
+25:05 
+
+25:05 Fiat et en fait qui se retrouve un peu
+25:07 
+
+25:07 dans cette même situation en fait sa
+25:08 
+
+25:08 monnaie euh c'est entre guillemets de la
+25:10 
+
+25:10 monnaie de singe parce qu'on est capable
+25:11 
+
+25:11 de la créer comme on veut en un
+25:13 
+
+25:13 claquement de doigt qu'en fait il est
+25:16 
+
+25:16 peut-être voué à subir le même sort que
+25:18 
+
+25:18 ces peuples qui en fait
+25:21 
+
+25:21 sont ont été totalement pillés sans
+25:24 
+
+25:24 aucune guerre sans rien juste parce
+25:26 
+
+25:26 qu'en fait leur
+25:27 
+
+25:27 monnaie ne reposer quasiment sur rien
+25:29 
+
+25:29 par rapport à l'autre
+25:31 
+
+25:31 peuple voilà veste question alors la il
+25:35 
+
+25:35 y a une citation de saved je crois qu'il
+25:37 
+
+25:37 résume parfaitement ça qui est alors si
+25:39 
+
+25:39 je la traduis l'histoire nous enseigne
+25:42 
+
+25:42 que l'on ne peut pas s'isoler des
+25:43 
+
+25:43 conséquences du fait que d'autres
+25:45 
+
+25:45 détiennent une monnaie plus dure que la
+25:47 
+
+25:47 nôtre et en fait ce qui veut dire par là
+25:50 
+
+25:50 c'est ce que tu décrivais c'est que par
+25:51 
+
+25:51 exemple quand vous quand on arrive quand
+25:54 
+
+25:54 les les premiers colons arrivent en
+25:56 
+
+25:56 Afrique les monnaies encore une fois
+25:57 
+
+25:57 émergentes qui sont utilisé dans ce
+25:59 
+
+25:59 contexte social sont des coquillages des
+26:01 
+
+26:01 pointes de flèche des artefacts qui dans
+26:03 
+
+26:03 les conditions technologiques de
+26:04 
+
+26:04 l'époque sont difficiles à produire et
+26:05 
+
+26:05 donc qui dans ce contexte technologique
+26:07 
+
+26:07 là servent bien de monnaie parce que
+26:09 
+
+26:09 elles sont assez résistantes à
+26:10 
+
+26:10 l'inflation elles sont assez portables
+26:11 
+
+26:11 assez divisibles assez authentifiaable
+26:13 
+
+26:13 et cetera mais nous on arrive avec des
+26:15 
+
+26:15 technologies entre guillemets plus
+26:16 
+
+26:16 évoluées et pour nous fabriquer draguer
+26:19 
+
+26:19 les océans pour trouver des perles
+26:21 
+
+26:21 fabriquer des des ce genre d'artefact ça
+26:23 
+
+26:23 se fait un coup bien inférieur pour nous
+26:25 
+
+26:25 donc effectivement on peut échanger des
+26:27 
+
+26:27 ressources bien réelles malheureusement
+26:28 
+
+26:28 des êtres humains et des denrées des
+26:30 
+
+26:30 commodities des denrées économiques et
+26:32 
+
+26:32 cetera contre des coquillages et des
+26:34 
+
+26:34 choses comme ça qui pour nous sans
+26:35 
+
+26:35 valeur et qu'on peut récupérer avec très
+26:37 
+
+26:37 très peu d'effort et très rapidement en
+26:40 
+
+26:40 fait ça crée une spoliation énorme de
+26:42 
+
+26:42 des peuples locaux parce que en fait ils
+26:45 
+
+26:45 se retrouvent dans une situation
+26:46 
+
+26:46 hyperinflation où énormément de
+26:47 
+
+26:47 coquillages arrivent dans leur économie
+26:49 
+
+26:49 qui sont fabriqués avec quasiment aucun
+26:50 
+
+26:50 coup et donc ils ont une monnaie qui
+26:52 
+
+26:52 devient facile qui peut être produite
+26:53 
+
+26:53 sans aucun coup et en échange ils ont
+26:56 
+
+26:56 donné enfin ils ont donné en échange des
+26:57 
+
+26:57 ressources qui sont qui ont une valeur
+26:59 
+
+26:59 enfin une valeur une utilité intrinsèque
+27:01 
+
+27:01 qui sont bien réeles de la bouffe de de
+27:04 
+
+27:04 de l'énergie des êtres humains et cetera
+27:07 
+
+27:07 quoi entre guillemets ils avaient la
+27:09 
+
+27:09 confiance que dans leur monnaie ils
+27:10 
+
+27:10 pourraient récupérer le même travail la
+27:12 
+
+27:12 même énergieement qui avait été produite
+27:14 
+
+27:14 et en fait là ils se retrouvent avec
+27:15 
+
+27:15 d'autres qui en fait eux l'énergie pour
+27:17 
+
+27:17 l'obtenir elle est quasiment égale à
+27:19 
+
+27:19 zéro et du coup il se retrouvent avec
+27:20 
+
+27:20 cette énergie de zéro exactement il la
+27:22 
+
+27:22 troc contre du exactement en fait c'est
+27:23 
+
+27:23 un peu comme s'ils avaient été arnaqués
+27:25 
+
+27:25 par des fauses AES tu vois si demain par
+27:26 
+
+27:26 exemple on imagine la situation
+27:28 
+
+27:28 hypothétique ou quelqu'un pourrait
+27:29 
+
+27:29 imprimer des euros mais parfaits tu vois
+27:32 
+
+27:32 indistingable de de des billets de
+27:34 
+
+27:34 banque émis par la BCE
+27:36 
+
+27:36 euh dans une quantité quasiment infinie
+27:39 
+
+27:39 et pouvait les faire circuler dans
+27:40 
+
+27:40 l'économie européenne en fait très
+27:42 
+
+27:42 rapidement il pourrai acquérir
+27:44 
+
+27:44 énormément de ressources acheter des
+27:45 
+
+27:45 entreprises de l'immobilier de l'énergie
+27:47 
+
+27:47 des biens précieux et cetera acquérir
+27:50 
+
+27:50 énormément de richesse et petit à petit
+27:53 
+
+27:53 l'économie les gens se rendraient compte
+27:54 
+
+27:54 dans l'économie européenne que tiens les
+27:55 
+
+27:55 euros valent de moins en moins les prix
+27:57 
+
+27:57 augmentent et en fait il se feraent
+27:59 
+
+27:59 spoier leur épargne et leur richesse
+28:01 
+
+28:01 très rapidement mais au moment où ils
+28:03 
+
+28:03 se' rendent compte c'est déjà presque
+28:04 
+
+28:04 trop tard et ben en fait cette situation
+28:06 
+
+28:06 hypothétique n'est pas hypothétique
+28:07 
+
+28:07 c'estàd c'est exactement ce que font nos
+28:09 
+
+28:09 gouvernements à partir du moment où ils
+28:10 
+
+28:10 ont plus aucune orthodoxie fiscale où
+28:12 
+
+28:12 les déficits ne compent plus on peut les
+28:14 
+
+28:14 monétiser on peut émettre autant de
+28:15 
+
+28:15 dette qu'on veut on manipule les taux
+28:16 
+
+28:16 d'intérêt pour faciliter l'expansion de
+28:18 
+
+28:18 crédit à de libitou et cetera et cetera
+28:20 
+
+28:20 et l'histoire ne se répète pas mais le
+28:22 
+
+28:22 bégay donc ce qui arrivé aux Africains
+28:24 
+
+28:24 est en passe d'arriver à des peuples des
+28:26 
+
+28:26 des civilisations qui aujourd'hui se
+28:28 
+
+28:28 disent développer parce que elles sont
+28:29 
+
+28:29 soumises exactement au même phénomène et
+28:31 
+
+28:31 effectivement dans ce contextel
+28:33 
+
+28:33 euh les peuples africains ont très vite
+28:36 
+
+28:36 transité vers des monnaies comme l'or
+28:38 
+
+28:38 parce que dans le contexte technologique
+28:40 
+
+28:40 mondial auquel elles étaient connectées
+28:42 
+
+28:42 actuellement enfin à cette époque euh du
+28:44 
+
+28:44 fait de la colonisation c'était la
+28:46 
+
+28:46 monnaie la plus difficile à inflater
+28:48 
+
+28:48 c'était le bien pour lequel une
+28:51 
+
+28:51 augmentation de l'offre marginale et la
+28:53 
+
+28:53 plus coûteuse la plus difficile donc le
+28:54 
+
+28:54 plus résistant à l'inflation et il se
+28:56 
+
+28:56 trouve que aujourd'hui on a nous des
+28:58 
+
+28:58 monnaies Fiat qui du fait de la
+29:02 
+
+29:02 prophylaxie des gouvernements actuels
+29:04 
+
+29:04 sont très faciles à augmenté et qui pour
+29:07 
+
+29:07 soutenir les le surendettement qu'on a
+29:09 
+
+29:09 vont être augmentés énormément à
+29:10 
+
+29:10 l'avenir et par contre le bien dans le
+29:13 
+
+29:13 contexte mondial qui est le plus
+29:15 
+
+29:15 difficile à produire c'est un bloc
+29:16 
+
+29:16 Bitcoin et donc un Bitcoin et
+29:19 
+
+29:19 effectivement cette chaireté prouvable
+29:22 
+
+29:22 la difficulté de production d'un d'un
+29:23 
+
+29:23 d'un d'un bloc Bitcoin qui est
+29:25 
+
+29:25 vérifiable par n'importe qui
+29:27 
+
+29:27 individuellement apporte une garantie de
+29:29 
+
+29:29 résistance à l'inflation qui est
+29:30 
+
+29:30 gigantesque et donc effectivement la
+29:33 
+
+29:33 plupart des citoyens de ces régimes Fiat
+29:35 
+
+29:35 auraient intérêt à adopter Bitcoin pour
+29:38 
+
+29:38 se prémunir des conséquences inévitables
+29:41 
+
+29:41 qui ont frappé les peuples africains
+29:42 
+
+29:42 après la colonisation et qui frappe
+29:45 
+
+29:45 aujourd'hui les civilisations
+29:47 
+
+29:47 occidentales dans le contexte
+29:49 
+
+29:49 d'inflation naissant que l'on voit
+29:51 
+
+29:51 néanmoins ta question c'était comment
+29:52 
+
+29:52 les convainc de ça entre guillemets et
+29:56 
+
+29:56 c'est là que ça devient difficile parce
+29:58 
+
+29:58 que tu as beau expliquer ça aussi
+29:59 
+
+29:59 logique et rationnel que ça peut l'être
+30:01 
+
+30:01 à quelqu'un le problème c'est qu'il va
+30:03 
+
+30:03 pas forcément être convaincu parce que
+30:04 
+
+30:04 ce que tu lui demandes de faire quand tu
+30:06 
+
+30:06 lui dis ça c'est que tu lui demandes de
+30:07 
+
+30:07 remettre en question un certain nombre
+30:09 
+
+30:09 de représentations et de présupposés
+30:10 
+
+30:10 qu'il a sur le monde dans lequel il vit
+30:12 
+
+30:12 notamment sur la capacité des
+30:15 
+
+30:15 gouvernements sur la bienveillance des
+30:17 
+
+30:17 autorités auxquelles il se remet sur la
+30:21 
+
+30:21 technicité la compétence des autorités
+30:23 
+
+30:23 monétaires économiques et cetera et
+30:24 
+
+30:24 cetera et en fait quand tu dis quand tu
+30:27 
+
+30:27 déroules ce genre de scénario à
+30:28 
+
+30:28 quelqu'un c'est ça fait tellement peur
+30:30 
+
+30:30 que la plupart des gens préfèrent se
+30:31 
+
+30:31 réfugier dans le déniis et faire la
+30:32 
+
+30:32 stratégie de l'autruche et dire non non
+30:34 
+
+30:34 mais c'est juste des max des Bitcoin
+30:35 
+
+30:35 maximaliste complètement fou qui
+30:37 
+
+30:37 fantasme parce que ils ont envie que
+30:38 
+
+30:38 Bitcoin pump et qui gagneent de l'argent
+30:41 
+
+30:41 et et malheureusement ce que l'histoire
+30:43 
+
+30:43 nous enseignne aussi c'est que en
+30:44 
+
+30:44 général il est souvent trop tard pour
+30:46 
+
+30:46 que les gens s'en rendent compte et
+30:48 
+
+30:48 c'est que quand l'inflation devient un
+30:50 
+
+30:50 problème social très structurant très
+30:52 
+
+30:52 problématique qui commence à redécouvrir
+30:55 
+
+30:55 des stratégies d'épargne dans des
+30:58 
+
+30:58 marchandises plus vendables que la
+30:59 
+
+30:59 monnaie Fiat à laquelle ils sont
+31:02 
+
+31:02 assujettis qu'il commen à percevoir
+31:05 
+
+31:05 empiriquement ce que là tu décris
+31:07 
+
+31:07 théoriquement mais c'est très rare
+31:08 
+
+31:08 d'arriver à convaincre les gens de ça
+31:10 
+
+31:10 théoriquement en
+31:12 
+
+31:12 général il faut l'avoir vécu pour le
+31:15 
+
+31:15 comprendre et et c'est pour ça que par
+31:19 
+
+31:19 exemple aujourd'hui on voit un phénomène
+31:23 
+
+31:23 que je trouve très intéressant où pas
+31:24 
+
+31:24 mal de sociétés financières qui ont
+31:26 
+
+31:26 pignon sur rue et qui Allou des
+31:27 
+
+31:27 quantités capital énorme commence à
+31:29 
+
+31:29 recruter des talents qui viennent des
+31:31 
+
+31:31 marchés émergents parce que les
+31:33 
+
+31:33 conditions de nos marchés occidentaux
+31:35 
+
+31:35 commence à ressembler à celle du Brésil
+31:37 
+
+31:37 dans les années 80 ou de la Turquie dans
+31:39 
+
+31:39 les années 90 ou de la Russie à la fin
+31:41 
+
+31:41 des années 90 et cetera et en fait ces
+31:44 
+
+31:44 gens-là ont l'expérience de la
+31:45 
+
+31:45 répression financière de
+31:47 
+
+31:47 l'inflation des gouvernements
+31:49 
+
+31:49 surendettés et cetera et donc ils savent
+31:51 
+
+31:51 beaucoup mieux naviguer les marchés à
+31:52 
+
+31:52 louer du capital dans ce contexte-là ce
+31:54 
+
+31:54 qui prouve bien qu'en fait les
+31:56 
+
+31:56 conditions monétaires financière et
+31:58 
+
+31:58 économique en Occident en Europe en tout
+31:60 
+
+31:60 cas sont en train de changer et que du
+32:02 
+
+32:02 coup tu devrais t'attendre effectivement
+32:04 
+
+32:04 à ce que les gens soient plus facile à
+32:05 
+
+32:05 convaincre parce que les conditions
+32:07 
+
+32:07 monétaires qui les entourent vont
+32:09 
+
+32:09 changer rapidement et donc ça devient
+32:11 
+
+32:11 plus facile d'expliquer Bitcoin à
+32:12 
+
+32:12 quelqu'un quand l'alternative à savoir
+32:14 
+
+32:14 dans notre contexte l'euro devient assez
+32:16 
+
+32:16 rapidement du papier toilette h
+32:19 
+
+32:19 et j'aimerais j'aimerais juste essayer
+32:22 
+
+32:22 de de faire un exercice que beaucoup de
+32:26 
+
+32:26 de maxi euh n'aime pas mais c'est en
+32:30 
+
+32:30 gros valoriser Bitcoin essayer
+32:37 
+
+32:37 ouais j'aimerais faire l'exercice
+32:38 
+
+32:38 d'essayer de de voir la valorisation de
+32:42 
+
+32:42 Bitcoin de de de voir c'est c'est c'est
+32:44 
+
+32:44 quoi la limite au final parce que il y a
+32:47 
+
+32:47 cette théorie comme quoi le l'actif le
+32:49 
+
+32:49 plus dur au final va attirer au fur à
+32:52 
+
+32:52 mesure les les liquidités de des actifs
+32:56 
+
+32:56 qui sont moins dures h
+32:58 
+
+32:58 euh jusqu'où ça peut aller ça jusqu'où
+33:01 
+
+33:01 ça
+33:01 
+
+33:01 [Musique]
+33:02 
+
+33:02 peut ça peut venir aspirer tous les les
+33:06 
+
+33:06 premium monétaires qu'on va mettre sur
+33:08 
+
+33:08 les autres objets de notre quotidien
+33:10 
+
+33:10 comme comme l'immobilier estce que tu tu
+33:12 
+
+33:12 disais que les gens il faut vraiment
+33:13 
+
+33:13 qu'il soit face à un choc pour se mettre
+33:15 
+
+33:15 à réaliser qu'il faut acheter des des
+33:18 
+
+33:18 commodités qui soient plus dur mais j'ai
+33:19 
+
+33:19 l'impression qu'au final en France et
+33:20 
+
+33:20 dans beaucoup de pays en fait sans se
+33:22 
+
+33:22 rend compte on l'a déjà réalisé parce
+33:23 
+
+33:23 que mais bien sûr on a tous de
+33:25 
+
+33:25 l'immobilier on a tous des des liens et
+33:27 
+
+33:27 pourtant tu vois tu n'es pas expert en
+33:29 
+
+33:29 immobilier la plupart de ces gens-l ne
+33:30 
+
+33:30 sont pas experts en immobilier mais
+33:31 
+
+33:31 c'est juste que dans le contexte même
+33:33 
+
+33:33 s'ils le comprennent pas ce contexte ils
+33:35 
+
+33:35 se rendre très vite compte tu vois dans
+33:36 
+
+33:36 le jeu social que c'est une meilleure
+33:38 
+
+33:38 décision financière de prendre de la
+33:40 
+
+33:40 dette et de détenir de l'immobilier si
+33:42 
+
+33:42 possible un peu rare dans des villes
+33:44 
+
+33:44 comme Paris Lyon et cetera que de garder
+33:46 
+
+33:46 de l'épargne sur un livra et donc en
+33:48 
+
+33:48 fait tu as même pas besoin de comprendre
+33:50 
+
+33:50 Bitcoin pour l'adopter à partir du
+33:52 
+
+33:52 moment où effectivement il a une
+33:54 
+
+33:54 résistance à l'inflation supérieure à
+33:55 
+
+33:55 d'autres biens et tu penses que que du
+33:57 
+
+33:57 coup il y aurait une limite sur le fait
+33:60 
+
+33:60 que les gens vont
+34:01 
+
+34:01 transitionner au fur et à mesure de
+34:04 
+
+34:04 d'actifs qui sont
+34:06 
+
+34:06 plus plus facile à produire vers cet
+34:10 
+
+34:10 actif qui est qui est extrêmement
+34:12 
+
+34:12 difficile en fait qui est le plus dur
+34:13 
+
+34:13 qu'on a jamais trouvé ben je vais
+34:15 
+
+34:15 revenir à la manière de poser le
+34:17 
+
+34:17 problème qu'on a développé un peu plus
+34:20 
+
+34:20 tôt donc tu as la vendabilité temporelle
+34:24 
+
+34:24 est-ce que je peux facilement trans du
+34:27 
+
+34:27 pouvoir d'achat dans le futur sans perte
+34:31 
+
+34:31 de pouvoir d'achat par l'inflation et
+34:32 
+
+34:32 cetera puis tu as la vendabilité
+34:34 
+
+34:34 spatiale est-ce que je peux envoyer du
+34:35 
+
+34:35 pouvoir d'achat dans l'espace rapidement
+34:38 
+
+34:38 à moindre coût et cetera et cetera deux
+34:40 
+
+34:40 dimensions absolument fondamentales et
+34:42 
+
+34:42 qui à mon avis articulent une grande
+34:43 
+
+34:43 partie de l'histoire
+34:44 
+
+34:44 monétaire puisque l'or qui était la
+34:48 
+
+34:48 seule monnaie naturelle marchandise qui
+34:51 
+
+34:51 a des propriétés chimiques géologiques
+34:53 
+
+34:53 physiques qui en font une bonne monnaie
+34:55 
+
+34:55 résistante à l'inflation divisible et
+34:56 
+
+34:56 cetera et cetera euh a une très faible
+34:59 
+
+34:59 vendabilité spatiale finalement on lui a
+35:02 
+
+35:02 substitué des reconnaissances d'or des
+35:06 
+
+35:06 billets de banque des lettres de change
+35:08 
+
+35:08 des systèmes de crédit et cetera et
+35:10 
+
+35:10 cetera pour palier ce problème
+35:12 
+
+35:12 là et par contre du coup et du coup ça
+35:16 
+
+35:16 nous place dans un monde où on a des
+35:17 
+
+35:17 monnaaies à cours légal des monnaies
+35:18 
+
+35:18 Fiat qui ont une assez mauvaise
+35:21 
+
+35:21 vendabilité temporelle donc au lieu de
+35:24 
+
+35:24 détenir du cash sous le matelas on va
+35:26 
+
+35:26 détenir de l'immobilier des métaux
+35:28 
+
+35:28 précieux des actions des dettes
+35:31 
+
+35:31 gouvernementales des dettes d'entreprise
+35:34 
+
+35:34 et cetera de l'AR des bouteilles de vin
+35:36 
+
+35:36 des voitures de collection des mondes de
+35:38 
+
+35:38 collection à peu près tout ce qui est
+35:40 
+
+35:40 difficile à produire et qui est
+35:42 
+
+35:42 demandé et du coup en fait on a une
+35:46 
+
+35:46 monnaie imposée par l'État pour les
+35:48 
+
+35:48 transactions mais qui ne sert plus du
+35:50 
+
+35:50 tout à l'épargne en fait à part si on
+35:52 
+
+35:52 prend en compte comme peut le faire par
+35:54 
+
+35:54 exemple
+35:55 
+
+35:55 Richard les dettes gouver gouvernemental
+35:57 
+
+35:57 qui sont associés à l'émission monétaire
+35:59 
+
+35:59 et cetera ce qui est un peu spécieux je
+36:01 
+
+36:01 trouve comme comme comme
+36:04 
+
+36:04 transition en revanche Bitcoin a une
+36:07 
+
+36:07 très forte vendabilité temporelle le cap
+36:09 
+
+36:09 de 21 millions le calendrier d'émissions
+36:13 
+
+36:13 prédéfin et cetera une très forte
+36:15 
+
+36:15 vendabilité spatiale parce que tu peux
+36:16 
+
+36:16 l'utiliser de manière résistante à la
+36:17 
+
+36:17 censure à partir moment où tu as juste
+36:18 
+
+36:18 une connexion Internet pour finaliser
+36:20 
+
+36:20 une transaction en moins de 10 minutes
+36:21 
+
+36:21 sur layer one et quasiment
+36:23 
+
+36:23 instantanément sur Lightning d'un bout à
+36:24 
+
+36:24 l'autre de la planète donc effectivement
+36:27 
+
+36:27 si on spécule un peu sur à quoi ça
+36:29 
+
+36:29 ressemble un monde post adoption de
+36:31 
+
+36:31 Bitcoin bah il y a pas trop de raison
+36:33 
+
+36:33 que d'autres bien est un premium
+36:35 
+
+36:35 monétaire ce que je veux dire c'est
+36:35 
+
+36:35 qu'aujourd'hui l'immobilier imp prémium
+36:37 
+
+36:37 monétaire les actions ont impémum
+36:38 
+
+36:38 monétaire toutes ces chosesl ont unémium
+36:40 
+
+36:40 monétaire parce que le Fiat est
+36:42 
+
+36:42 absolument terrible dans la dans la
+36:45 
+
+36:45 dimension qui est la vendabilité
+36:46 
+
+36:46 temporelle mais à partir du moment où tu
+36:48 
+
+36:48 as une monnaie ce qu'on n' pas eu dans
+36:49 
+
+36:49 l'histoire de l'humanité
+36:51 
+
+36:51 depuis 5000 ans c'est-à-dire depuis que
+36:54 
+
+36:54 les transactions se faisaient en or mais
+36:55 
+
+36:55 sur des distances hyper courtes et donc
+36:56 
+
+36:56 le cûp était négligeable mais on n pas
+36:58 
+
+36:58 eu dans l'histoire monétaire de bien
+37:01 
+
+37:01 depuis 5000 ans quasiment qui avaient à
+37:03 
+
+37:03 la fois une très bonne vendabilité
+37:04 
+
+37:04 temporelle et une très bonne vendabilité
+37:05 
+
+37:05 spatiale donc quelque part regarder
+37:07 
+
+37:07 l'histoire récente pour se dire tiens
+37:08 
+
+37:08 bah on va essayer de de de de prolonger
+37:12 
+
+37:12 le passé pour voir comment ça va se
+37:13 
+
+37:13 passer avec Bitcoin je pense que c'est
+37:14 
+
+37:14 pas une bonne idée parce que les
+37:15 
+
+37:15 caractéristiques de Bitcoin sont telles
+37:17 
+
+37:17 que logiquement moi j'aurais tendance à
+37:19 
+
+37:19 imaginer que effectivement la plupart
+37:22 
+
+37:22 des biens qui aujourd'hui sont stockés
+37:25 
+
+37:25 comme bien d'épargne pour leur préium
+37:26 
+
+37:26 monétaire
+37:27 
+
+37:27 qui sont en réalité des biens d'utilité
+37:29 
+
+37:29 directe ou d'investissement ou de
+37:30 
+
+37:30 collection et cetera et cetera vont se
+37:32 
+
+37:32 retrouver dans une circulation dé
+37:33 
+
+37:33 pourourvu de tout prix Bitcoin de tout
+37:35 
+
+37:35 préium monétaire parce que les gens vont
+37:36 
+
+37:36 tout simplement épargner en Bitcoin
+37:38 
+
+37:38 transacter en Bitcoin et et et compter
+37:40 
+
+37:40 en Bitcoin et l'utiliser comme unité de
+37:42 
+
+37:42 compte dans ce contexte là je pense que
+37:45 
+
+37:45 l'humanité et nos civilisations s'en
+37:47 
+
+37:47 trouveront d'autant mieux servis parce
+37:50 
+
+37:50 que ça veut dire que tous ces biens qui
+37:52 
+
+37:52 sont utilisés aujourd'hui comme
+37:53 
+
+37:53 protomonnaie pour palier les défauts du
+37:56 
+
+37:56 Fiat vont pouvoir réutiliser de nouveau
+37:58 
+
+37:58 pour leur utilité directe donc chose
+37:60 
+
+37:60 absolument magnifique on va pouvoir
+38:01 
+
+38:01 utiliser l'immobilier pour loger des
+38:02 
+
+38:02 gens on va pouvoir utiliser les voitures
+38:04 
+
+38:04 pour transporter des gens on va pouvoir
+38:06 
+
+38:06 utiliser les actions d'entreprise pour
+38:08 
+
+38:08 financer de l'investissement réel dans
+38:10 
+
+38:10 l'économie réelle c'est c'est absolument
+38:11 
+
+38:11 merveilleux on va pouvoir utiliser les
+38:14 
+
+38:14 métaux précieux pour faire des bijoux on
+38:16 
+
+38:16 va pouvoir utiliser les œuvres d'art
+38:18 
+
+38:18 pour développer la culture et décorer
+38:21 
+
+38:21 notre salon euh et finalement c'est
+38:24 
+
+38:24 plutôt pas mal HM ok on va retrouver la
+38:27 
+
+38:27 la juste valeur des des choses et
+38:29 
+
+38:29 sachant que
+38:31 
+
+38:31 c'est même utiliser les biens
+38:32 
+
+38:32 économiques pour leur fonction directe
+38:34 
+
+38:34 quoi pas les utiliser juste pour
+38:36 
+
+38:36 répondre aux problèmes causés par la
+38:38 
+
+38:38 manipulation de la monnaie par nos
+38:39 
+
+38:39 gouvernements et et et et là je parle
+38:42 
+
+38:42 juste dans le contexte de l'inflation
+38:43 
+
+38:43 dans les pays occidentaux mais si vous
+38:44 
+
+38:44 allez dans des pays qui freisent
+38:45 
+
+38:45 l'hyperinflation voir qui sont carrément
+38:47 
+
+38:47 en hyperinflation ce rôle de réserve de
+38:49 
+
+38:49 valeur est joué par des friscs les
+38:53 
+
+38:53 médicaments enfin des choses qui sont
+38:55 
+
+38:55 absolument vitales donc imaginez
+38:57 
+
+38:57 devoir empêcher que des gens puissent
+38:60 
+
+38:60 avoir accès à des médicaments parce que
+39:02 
+
+39:02 pour vous pour votre propre survie vous
+39:04 
+
+39:04 avez besoin de les utiliser comme
+39:05 
+
+39:05 réserve de valeur aujourd'hui même en
+39:07 
+
+39:07 Turquie les gens utilisent la lessive
+39:08 
+
+39:08 comme réserve de valeur ouais mais quand
+39:11 
+
+39:11 vous arrivez à 50 60 80 % d'inflation
+39:14 
+
+39:14 c'est à ça que ça
+39:15 
+
+39:15 ressemble c'est inquiétant j'espère
+39:17 
+
+39:17 qu'on se retrouvera pas là alors bon
+39:20 
+
+39:20 c'est il y a plus de demande pour l'Euro
+39:22 
+
+39:22 que pour la lire turque donc je dis pas
+39:24 
+
+39:24 qu'on va on risque d'arriver à 80 %
+39:27 
+
+39:27 infflation à un moment donné ou même
+39:28 
+
+39:28 dans le futur proche mais le le
+39:30 
+
+39:30 phénomène est le même et malheureusement
+39:32 
+
+39:32 il peut être poussé à l'extrême c'est
+39:33 
+
+39:33 juste ça que je voulais dire ok du coup
+39:36 
+
+39:36 si on parle en terme de de de market cap
+39:40 
+
+39:40 pour Bitcoin à l'heure actuelle sans
+39:43 
+
+39:43 prendre en compte une inflation dans le
+39:44 
+
+39:44 futur on pourrait être au-dessus déjà de
+39:46 
+
+39:46 l'or parce qu'il a des des propriétés
+39:48 
+
+39:48 qui lui sont supérieures parce que l'or
+39:50 
+
+39:50 aujourd'hui n'arrive pas à à capter du
+39:53 
+
+39:53 coup le il perd ce ce sa valorisation de
+39:57 
+
+39:57 monnaie pour la donner à tous les les
+39:59 
+
+39:59 autres biens dont tu parlais du coup
+40:00 
+
+40:00 Bitcoin pourrait passer au-dessus de ça
+40:02 
+
+40:02 et de de manière même exponentielle au
+40:05 
+
+40:05 final on a l'impression que c'est c'est
+40:07 
+
+40:07 propriété c'est pas juste tu augmentes
+40:09 
+
+40:09 d' 1 % et tu gagnes 1 % de du du
+40:12 
+
+40:12 premmium monétaire mais c'est c'est
+40:13 
+
+40:13 c'est genre exponentiel au final un
+40:15 
+
+40:15 démonétiser l'or c'est le c'est le c'est
+40:18 
+
+40:18 l'entrée pour Bitcoin
+40:21 
+
+40:21 c'est ce sera le le premier challenge on
+40:25 
+
+40:25 va dire mais c'est tout petit là c'est
+40:27 
+
+40:27 10000 milliards de market cap alors
+40:29 
+
+40:29 qu'on a à peu près 900000 milliards de
+40:32 
+
+40:32 valeur financière donc en fait quasiment
+40:33 
+
+40:33 de premium monétaire dans le monde
+40:34 
+
+40:34 aujourd'hui enfin en tout cas une grande
+40:35 
+
+40:35 partie de ça est un prémium monétaire et
+40:38 
+
+40:38 effectivement aujourd'hui il y a deux
+40:40 
+
+40:40 catégories d'actifs qui me semblent en
+40:42 
+
+40:42 danger vis-à-vis de la consurrence de
+40:44 
+
+40:44 Bitcoin c'est les dettes souveraines et
+40:45 
+
+40:45 l'or les dettes souveraines à cause de
+40:47 
+
+40:47 la situation fiscale et monétaire et pas
+40:49 
+
+40:49 mal d'investisseurs commencent à se
+40:51 
+
+40:51 rendre compte très rapidement que bah
+40:52 
+
+40:52 c'est un peu un torchecul et que
+40:54 
+
+40:54 faudrait s'en débarrasser assez vite et
+40:56 
+
+40:56 l'or parce qu'effectivement euh euh il a
+41:01 
+
+41:01 aucune qualité supérieure à Bitcoin dans
+41:03 
+
+41:03 ce rôle de monnaie si ce n'est le fait
+41:05 
+
+41:05 qu'il est dans lesparages depuis 5000
+41:07 
+
+41:07 ans et donc il a une reconnaissance
+41:09 
+
+41:09 établie les boomers ils aiment bien
+41:10 
+
+41:10 c'est c'estes physiques peuvent toucher
+41:12 
+
+41:12 on peut faire des bijou à Madame avec et
+41:14 
+
+41:14 cetera et cetera
+41:18 
+
+41:18 maintenant le fait est que la tu vois
+41:22 
+
+41:22 quand on parle de market CAP ou même
+41:23 
+
+41:23 quand on parle de capter des prémiums
+41:24 
+
+41:24 monétaires comme ça en fait que c'est un
+41:26 
+
+41:26 que c'est de de de que Bitcoin attire du
+41:30 
+
+41:30 capital et que des gens échangent des
+41:32 
+
+41:32 actifs ou de la monnaie existante contre
+41:34 
+
+41:34 du Bitcoin
+41:35 
+
+41:35 et pour des raisons diverses et variées
+41:38 
+
+41:38 qui sera un peu longue à expliquer ça
+41:40 
+
+41:40 peut pas arriver en ligne droite et
+41:42 
+
+41:42 instantanément et donc en fait c'est pas
+41:44 
+
+41:44 parce que Bitcoin a déjà des c'est pas
+41:48 
+
+41:48 parce que Bitcoin est aujourd'hui plus
+41:49 
+
+41:49 petit que l'UR en market cap que ça
+41:51 
+
+41:51 signifie qu'il a des propriétés
+41:52 
+
+41:52 inférieures il peut très bien avoir des
+41:54 
+
+41:54 propriétés supérieures mais pourtant
+41:55 
+
+41:55 avoir une liquidité plus faible et une
+41:57 
+
+41:57 market cap plus faible juste parce qu'il
+41:59 
+
+41:59 est dans sa phase de monétisation et que
+42:01 
+
+42:01 construire de la liquidité bah ça prend
+42:03 
+
+42:03 du temps ça crée des cycles aussers des
+42:04 
+
+42:04 cycles baissiers et cetera et cetera et
+42:06 
+
+42:06 donc il y a a tout un phénomène de
+42:08 
+
+42:08 construction de liquidité endogène sur
+42:09 
+
+42:09 le marché qui qui qui malheureusement
+42:12 
+
+42:12 enfin qui pas malheureusement mais qui
+42:14 
+
+42:14 nécessite certain temps pour se réaliser
+42:16 
+
+42:16 et par contre effectivement quand on
+42:18 
+
+42:18 regarde très de manière très
+42:20 
+
+42:20 dépassionnée les qualités des deux
+42:21 
+
+42:21 actifs euh c'est pas parce que il a un
+42:24 
+
+42:24 historique installé que ça va protéger
+42:25 
+
+42:25 l'or quoi c'est juste une question de
+42:27 
+
+42:27 temps avant qu'il se fasse démonétiser
+42:28 
+
+42:28 totalement est-ce que c'est ça va
+42:30 
+
+42:30 prendre 5 ans est-ce que ça va prendre
+42:31 
+
+42:31 10 ans est-ce que ça va prendre 50 ans
+42:33 
+
+42:33 ça par contre j'en sais rien mais
+42:34 
+
+42:34 j'aurais tendance à plutôt pariller
+42:36 
+
+42:36 l'under que l'over quoi ok on peut on
+42:39 
+
+42:39 peut peut-être juste aborder un point
+42:43 
+
+42:43 c'est c'est les incentives les les
+42:46 
+
+42:46 motivations derrière Bitcoin qui font
+42:49 
+
+42:49 que ça fonctionne ça c'est un point
+42:51 
+
+42:51 c'est un vague point qui est qui est
+42:53 
+
+42:53 vraiment compliqué à aborder et dont
+42:55 
+
+42:55 beaucoup de personnes ont du mal à
+42:57 
+
+42:57 à à contenir toutes ces informations
+43:01 
+
+43:01 euh au sein d'un d'un modèle dans dans
+43:04 
+
+43:04 leur cerveau et qui moi à chaque fois il
+43:06 
+
+43:06 faut que je remette une couche pour
+43:07 
+
+43:07 vraiment comprendre comment tout ça ça
+43:09 
+
+43:09 se tient parce que au final Bitcoin il
+43:11 
+
+43:11 marche grâce à des humain c'est pas
+43:13 
+
+43:13 juste du code et la logique qui fait que
+43:16 
+
+43:16 bomm ça marche c'est que ça a été
+43:18 
+
+43:18 construit sur
+43:19 
+
+43:19 euh comprendre les motivations humaines
+43:22 
+
+43:22 et comprendre que si chacun euh agit
+43:25 
+
+43:25 dans son propre intérêt le le réseau
+43:27 
+
+43:27 fonctionne et comment toi tu articules
+43:30 
+
+43:30 tout ça et tu arrives à l'expliquer
+43:32 
+
+43:32 alors la version courte de ça c'est j'en
+43:35 
+
+43:35 reviens un peu à mes histoires sur la
+43:36 
+
+43:36 monnaie et cetera on a des monnaies
+43:38 
+
+43:38 informationnelles donc des entrées dans
+43:40 
+
+43:40 des livres de comptes et cetera et
+43:41 
+
+43:41 cetera qui se transportent très bien
+43:42 
+
+43:42 dans le temps mais qui sont très faciles
+43:45 
+
+43:45 à répliquer parce que copier de
+43:46 
+
+43:46 l'information ça coûte rien et donc
+43:48 
+
+43:48 elles ont une très bonne vendabilité
+43:49 
+
+43:49 spatiale mais une très mauvaise
+43:50 
+
+43:50 vendabilité temporelle parce que c'est
+43:51 
+
+43:51 très facile de créer de l'inflation avec
+43:52 
+
+43:52 des systèmes pareils notamment puce
+43:54 
+
+43:54 qu'il y a forcément un tir de confiance
+43:55 
+
+43:55 qui garantit l'intégrité du du registre
+43:57 
+
+43:57 à l'inverse on a des monnaies cash
+43:59 
+
+43:59 physiques dont les propriétés physiques
+44:00 
+
+44:00 le fait que bah on ne sait pas faire de
+44:02 
+
+44:02 l'alchimie créer plus d'or et cetera et
+44:04 
+
+44:04 cetera c'est très difficile par contre
+44:05 
+
+44:05 elles ont une très bonne vendabilité
+44:07 
+
+44:07 spatiale l'innovation fondamentale de
+44:10 
+
+44:10 Nakamoto la découverte fondamentale que
+44:12 
+
+44:12 Bitcoin c'est d'arriver à créer un
+44:13 
+
+44:13 système dans lequel il va être difficile
+44:16 
+
+44:16 de créer de nouvelles entrées dans le
+44:18 
+
+44:18 registre difficile pourquoi parce que
+44:20 
+
+44:20 cooutteux comment est-ce que ça peut
+44:22 
+
+44:22 être fait de manière coûteuse tout
+44:24 
+
+44:24 simplement parce que les conditions
+44:25 
+
+44:25 définies dans le protoc le Bitcoin qui
+44:27 
+
+44:27 font qu'on va pouvoir créer un nouveau
+44:29 
+
+44:29 bloc et donc ajouter des transactions au
+44:31 
+
+44:31 registre sont enfin sont tels que on va
+44:35 
+
+44:35 devoir apporter la preuve qu'on a
+44:37 
+
+44:37 effectué un certain nombre de calculs et
+44:39 
+
+44:39 donc dépenser une certaine quantité
+44:41 
+
+44:41 d'énergie parce que que vous le fassiez
+44:42 
+
+44:42 à la main ou avec un ordinateur avec
+44:43 
+
+44:43 n'importe quoi faire des calculs ça ça
+44:45 
+
+44:45 dépense de l'énergie et donc on arrive à
+44:47 
+
+44:47 finalement au moment où quelque part les
+44:49 
+
+44:49 mathématiques rejoignent la physique
+44:51 
+
+44:51 c'est-à-dire que pour répondre à un
+44:53 
+
+44:53 problème mathématique pour résoudre un
+44:54 
+
+44:54 problème mathématique trouver une
+44:55 
+
+44:55 solution à une équation puisque la
+44:57 
+
+44:57 meilleure manière de le faire c'est
+44:58 
+
+44:58 juste de faire plein d'opérations en
+44:60 
+
+44:60 boucle en fait on touche aux limites
+45:01 
+
+45:01 physiques de notre monde qui fait que on
+45:03 
+
+45:03 va devoir étendre de l'entropie on va
+45:04 
+
+45:04 devoir dépenser de l'énergie pour le
+45:06 
+
+45:06 faire et donc Bitcoin réalise finalement
+45:08 
+
+45:08 tout simplement dans ses règles euh ce
+45:10 
+
+45:10 que nixabo appelle de la chireté
+45:12 
+
+45:12 prouvable c'estàdire que chaque satosi
+45:14 
+
+45:14 qui est créé dans le système et qui peut
+45:16 
+
+45:16 être échangé par un jeu de signature
+45:17 
+
+45:17 digitale a été créé à la base avec une
+45:20 
+
+45:20 preuve infalsifiable de dépenses
+45:22 
+
+45:22 d'énergie et donc on a réintroduit un
+45:24 
+
+45:24 coup dans la création monétaire tout en
+45:25 
+
+45:25 gardant la propriété absolument géniale
+45:28 
+
+45:28 qu'elle ait de l'information et donc
+45:29 
+
+45:29 qu'elle a une vendabilité spatiale
+45:32 
+
+45:32 absolument infinie et donc quelque part
+45:34 
+
+45:34 on a pris le meilleur des deux mondes et
+45:36 
+
+45:36 on a réussi à les assembler mais ce qui
+45:38 
+
+45:38 est une prouesse d'innovation et
+45:39 
+
+45:39 d'ingéniosité que personne n'avait
+45:41 
+
+45:41 jamais réussi à faire avant ceci étant
+45:43 
+
+45:43 dit tout ce que j'ai décrit là
+45:45 
+
+45:45 fonctionne grâce aux incentifes du
+45:46 
+
+45:46 système les mineers dépensent cette
+45:48 
+
+45:48 énergie parce qu'ils ont une récompense
+45:49 
+
+45:49 dans les blocs sous forme de Bitcoin et
+45:51 
+
+45:51 le Bitcoin acquiert de la manière de la
+45:53 
+
+45:53 valeur endogène parce que puisqu'il
+45:55 
+
+45:55 réalise la charé pro probable il est le
+45:57 
+
+45:57 seul système monétaire qui a la
+45:59 
+
+45:59 meilleure enfin il est le système
+46:00 
+
+46:00 monétaire qui a la meilleure vendabilité
+46:01 
+
+46:01 temporelle et la meilleure vendabilité
+46:03 
+
+46:03 spatiale donc tout ça se tient et en
+46:04 
+
+46:04 fait on a juste besoin que les gens
+46:06 
+
+46:06 suivent leur propres intérêt pour que le
+46:08 
+
+46:08 système continue de fonctionner sur ces
+46:09 
+
+46:09 aspects techniques néanmoins le
+46:11 
+
+46:11 consensus social de Bitcoin c'est-à-dire
+46:13 
+
+46:13 qui fait ce qui fait que les nœuds
+46:15 
+
+46:15 gardent ces règles-l du protocole
+46:17 
+
+46:17 notamment garde le hard cap de 21
+46:19 
+
+46:19 million garde certaines règles
+46:21 
+
+46:21 fondamentales du protocole c'est un
+46:23 
+
+46:23 consensus social et ça ça dépend pas que
+46:25 
+
+46:25 de l'incentive quelque part économique
+46:27 
+
+46:27 des agents qui sont dans le système ça
+46:28 
+
+46:28 dépend effectivement du fait que les
+46:30 
+
+46:30 gens qui font tourner des nœuds les gens
+46:31 
+
+46:31 qui font tourner des nœuds qui sont
+46:33 
+
+46:33 significatif économiquement qui
+46:35 
+
+46:35 réalisent des transactions et cetera et
+46:36 
+
+46:36 cetera comprennent qu'il est dans leur
+46:39 
+
+46:39 intérêt d'essayer de faire grossir ce
+46:42 
+
+46:42 système et de ne jamais le changer pour
+46:43 
+
+46:43 que les gens aient confiance dans le
+46:45 
+
+46:45 fait que système restera pareil demain
+46:47 
+
+46:47 que du coup ils aient suffisamment
+46:48 
+
+46:48 confiance pour échanger leur capital
+46:50 
+
+46:50 existant pour du Bitcoin et commence à
+46:52 
+
+46:52 l'utiliser comme monnaie parce que s'ils
+46:54 
+
+46:54 font ça ils vont réaliser la séparation
+46:56 
+
+46:56 de la monnaie de l'État et donc pour
+46:57 
+
+46:57 revenir à ce qu'on disait avant tout le
+46:59 
+
+46:59 monde va s'en trouver mieux LTI on va
+47:01 
+
+47:01 mieux utiliser les ressources on va
+47:02 
+
+47:02 pouvoir accumuler plus de richesse avoir
+47:03 
+
+47:03 plus de liberté et cetera et cetera donc
+47:06 
+
+47:06 tu as une part en fait qui est le génie
+47:08 
+
+47:08 du de l'invention je dirais même de la
+47:10 
+
+47:10 découverte de Nakamoto qui est d'arriver
+47:13 
+
+47:13 à quelque part apporter la vendabilité
+47:17 
+
+47:17 temporelle dans de la monnaie digitale
+47:18 
+
+47:18 ce que personne n'ait jamais réussi à
+47:20 
+
+47:20 faire avant via C voilà via cette
+47:22 
+
+47:22 chproual prendre le meilleur des deux
+47:23 
+
+47:23 mondes en un seul système et en même
+47:25 
+
+47:25 temps ce système tient j'ai envie de
+47:27 
+
+47:27 dire presque par de l'activisme parce
+47:29 
+
+47:29 que il faut quand même des gens surtout
+47:30 
+
+47:30 de dans les phases early de l'histoire
+47:32 
+
+47:32 de Bitcoin qui consente à faire un
+47:36 
+
+47:36 consensus social sur le fait qu'on va
+47:38 
+
+47:38 pas changer les règles que personne
+47:39 
+
+47:39 n'est plus grand que Bitcoin que ce qui
+47:41 
+
+47:41 importe c'est qu'il soit un tangible que
+47:42 
+
+47:42 ce soit C espèce de phare dans la nuit
+47:44 
+
+47:44 vers lequel tout le monde peut se
+47:45 
+
+47:45 tourner lorsqu'il a besoin de faire des
+47:46 
+
+47:46 transactions financières lorsqu'il a
+47:48 
+
+47:48 besoin d'accéder à de la monnaie
+47:49 
+
+47:49 lorsqu'il a besoin d'épargner et cetera
+47:50 
+
+47:50 et cetera et que donc pour ça on va
+47:52 
+
+47:52 faire tourner des nœuds on va pas
+47:53 
+
+47:53 essayer de changer le protocole on va
+47:54 
+
+47:54 pas essayer de le forquer et cetera et
+47:55 
+
+47:55 cetera et à cet égard-là le le réseau
+47:57 
+
+47:57 enfin la couche sociale de Bitcoin est
+47:59 
+
+47:59 sous attaque perpétuelle on a toujours
+48:01 
+
+48:01 des gens qui essayent de d'implémenter
+48:02 
+
+48:02 des forques on a toujours des gens qui
+48:03 
+
+48:03 essayent d'attaquer Bitcoin sur cette
+48:05 
+
+48:05 phase-là parce que c'est quasiment le
+48:07 
+
+48:07 seul endroit qui est vulnérable en fait
+48:08 
+
+48:08 parce que tout le reste ça tient
+48:09 
+
+48:09 quasiment de manière automatique par la
+48:12 
+
+48:12 distribution d'incitations positives à
+48:13 
+
+48:13 des agents qui ont intérêt à renforcer
+48:15 
+
+48:15 le système ok là on en arrive à la
+48:18 
+
+48:18 conclusion que le maximalisme est
+48:21 
+
+48:21 nécessaire euh en tout cas pour la
+48:22 
+
+48:22 première phase du du lancement de la
+48:24 
+
+48:24 fusée bah euh je fondamentalement je
+48:27 
+
+48:27 pense que oui parce que si euh si on
+48:30 
+
+48:30 souscrit à ce que je viens de dire
+48:31 
+
+48:31 c'est-à-dire que la la comment dire la
+48:34 
+
+48:34 surface de vulnérabilité c'est le
+48:35 
+
+48:35 consensus social euh et ben je pense que
+48:37 
+
+48:37 la maximilianisme a une raison d'être
+48:40 
+
+48:40 pour protéger euh
+48:42 
+
+48:42 euh le le Bitcoin dans la forme telle
+48:45 
+
+48:45 qu'il a été et notamment pour qu'on
+48:48 
+
+48:48 conserve cette espèce de précédent où il
+48:50 
+
+48:50 n'y a pas de changement parce que c'est
+48:51 
+
+48:51 ça qui permet une grande certitude euh
+48:54 
+
+48:54 nécessaire à ce que euh des les gens
+48:56 
+
+48:56 puissent être en puissent en confiance
+48:59 
+
+48:59 se reposer sur Bitcoin pour l'utiliser
+49:01 
+
+49:01 pour stocker éventuellement toutes
+49:03 
+
+49:03 lespne qu'ils ont accumulé pendant une
+49:05 
+
+49:05 vie pour envoyer de l'argent à leur
+49:07 
+
+49:07 famille pour faire des transactions
+49:09 
+
+49:09 pour finalement lancer leur commerce et
+49:13 
+
+49:13 cetera et cetera et donc ouais je trouve
+49:15 
+
+49:15 que à cet égard là le maximalistea même
+49:18 
+
+49:18 le maximaliste toxique est une stratégie
+49:20 
+
+49:20 efficace et pour les gens qui n'aiment
+49:22 
+
+49:22 pas ça à mon avis un moindre mal ouais
+49:24 
+
+49:24 l'autre jour on est tombé sur sur une
+49:26 
+
+49:26 vidéo de notre ami Jean-Marc jancovicii
+49:30 
+
+49:30 ah j'ai cru que c'était B Jules mais de
+49:32 
+
+49:32 qui de comment il s'appelle là ah BN Jul
+49:36 
+
+49:36 là boutelou VO non non on arrête là on
+49:40 
+
+49:40 fit une vousz faire rire on va
+49:43 
+
+49:43 gamer tant
+49:46 
+
+49:46 mieux on écoutait Jean-Marc jancici sur
+49:50 
+
+49:50 c'était une interview qu'il faisait avec
+49:52 
+
+49:52 Hugo descrypt où il expliquait pourquoi
+49:57 
+
+49:57 si on continuait à vouloir s'entêter
+49:59 
+
+49:59 avec la
+50:01 
+
+50:01 consommé
+50:03 
+
+50:03 du des énergies fossiles on allait
+50:06 
+
+50:06 quasiment tous mourir C entre guillemets
+50:08 
+
+50:08 vraiment la conclusion et que pour lui
+50:10 
+
+50:10 en fait il ne voyait pas comment le
+50:13 
+
+50:13 marché pouvait s'adapter à la rareté
+50:18 
+
+50:18 d'un d'une commodité et qu'en fait pour
+50:21 
+
+50:21 lui son raisonnement c'était que le
+50:24 
+
+50:24 pétrole était une sources finies comme
+50:27 
+
+50:27 au final la plupart des ressources sur
+50:28 
+
+50:28 terre bien que ell soi dans des dans des
+50:31 
+
+50:31 quantités faramineuses par rapport à
+50:33 
+
+50:33 notre consommation mais lui voilà il
+50:37 
+
+50:37 vient au fait qu'elles sont limitées
+50:38 
+
+50:38 qu'aujourd'hui on aurait prouvé que
+50:40 
+
+50:40 vraiment on serait sur un pic de
+50:42 
+
+50:42 consommation qu'au fur et à mesure ça
+50:44 
+
+50:44 baisserait on va rester sur ces
+50:46 
+
+50:46 hypothèses qui pourrai être pourtant
+50:48 
+
+50:48 remis en en question et que pour lui en
+50:51 
+
+50:51 fait comme l'économie et de l'énergie
+50:53 
+
+50:53 transformée au fur et à mesure que le
+50:55 
+
+50:55 prix
+50:56 
+
+50:56 et que la quantité en fait va va
+50:58 
+
+50:58 diminuer et du coup le prix va commencer
+50:60 
+
+50:60 à augmenter en fait tout de suite il va
+51:01 
+
+51:01 y avoir une contraction de l'économie
+51:03 
+
+51:03 parce qu'elle va pas être il va y avoir
+51:05 
+
+51:05 moins de de de entre guillemets de fu au
+51:07 
+
+51:07 final pour l'alimenter et elle va se
+51:09 
+
+51:09 contracter du coup il y aura moins de
+51:10 
+
+51:10 demande du coup le prix va diminuer et
+51:12 
+
+51:12 en fait pour lui le prix va jamais
+51:14 
+
+51:14 augmenter sur le pétrole pendant
+51:16 
+
+51:16 l'augmentation de sa rareté ce qui va
+51:18 
+
+51:18 jamais pousser aller chercher d'autres
+51:20 
+
+51:20 choses à trouver d'autres manières plus
+51:22 
+
+51:22 efficaces de de faire les mêmes choses
+51:24 
+
+51:24 et qu'en fait la seule solution bah en
+51:26 
+
+51:26 fait c'est c'est un planisme central et
+51:28 
+
+51:28 c'est si tu suis vraiment le le déroul
+51:31 
+
+51:31 c'est du communisme ben bien sûr et
+51:34 
+
+51:34 qu'est-ce que qu'est-ce que tu en penses
+51:35 
+
+51:35 et pour pourquoi on a l'impression que
+51:36 
+
+51:36 tous les les écologistes de notre de
+51:40 
+
+51:40 notre période on a l'imession que dès
+51:42 
+
+51:42 que tu tu tires au final bah c'est un
+51:43 
+
+51:43 fil rouge que tu as derrière oh ve sujet
+51:47 
+
+51:47 alors déjà c'est du maltusanisme
+51:49 
+
+51:49 primaire faut voir que jeanovicii est un
+51:52 
+
+51:52 monsieur très intelligent mais qui a une
+51:54 
+
+51:54 formation d'ingénieur donc ça m'étonne
+51:56 
+
+51:56 pas qu'il comprennent pas Grand- chose
+51:57 
+
+51:57 au phénomène économique et de toute
+51:59 
+
+51:59 manière on a fait un tel effort pour
+52:00 
+
+52:00 raconter n'importe quoi dans
+52:01 
+
+52:01 l'enseignement de l'économie en France
+52:02 
+
+52:02 que c'est normal que pas grandchose pas
+52:04 
+
+52:04 que plus grand monde n'y comprenne quoi
+52:06 
+
+52:06 que ce soit en revanche il a un adage en
+52:10 
+
+52:10 économie c'est que la solution au prix
+52:12 
+
+52:12 trop élevés c'est des prix trop élevés
+52:14 
+
+52:14 c'est-à-dire que quand lorsque le prix
+52:16 
+
+52:16 d'une commodité augmente comme par
+52:18 
+
+52:18 exemple durant le dernier marché
+52:20 
+
+52:20 haussier du pétrole enfin pas le dernier
+52:22 
+
+52:22 l'avantdernier qui a eu lieu juste avant
+52:23 
+
+52:23 la crise de 2008 le pétrole est parti
+52:25 
+
+52:25 d'un point bas dans les années 90 et il
+52:28 
+
+52:28 a augmenté doucement et puis de 2002 à
+52:29 
+
+52:29 2007 il est passé très rapidement de en
+52:32 
+
+52:32 gros 40 dollars le baril à un pic de 140
+52:34 
+
+52:34 dollars le baril eu et en fait ce qui
+52:38 
+
+52:38 s'est passé c'est que on a développé une
+52:40 
+
+52:40 industrie qui s'appelle l'industrie du
+52:41 
+
+52:41 pétrole de chist aux États-Unis donc qui
+52:43 
+
+52:43 est lié à des innovations technologiques
+52:46 
+
+52:46 qui va permettre d'extraire plus de
+52:49 
+
+52:49 pétrole des pétroles non conventionnels
+52:51 
+
+52:51 en utilisant des techniques différentes
+52:53 
+
+52:53 sur des zones différentes et cetera et
+52:54 
+
+52:54 cetera et en fait qu'est-ce ce qui se
+52:56 
+
+52:56 passe fondamentalement pourquoi je
+52:57 
+
+52:57 prends ça comme exemple parce que le
+52:59 
+
+52:59 prix du pétrole augmente ça veut dire
+53:00 
+
+53:00 que potentiellement pour une société
+53:03 
+
+53:03 exploit exploitatrice de pétrole pardon
+53:06 
+
+53:06 les marges potentielles augmentent pour
+53:08 
+
+53:08 peu qu'elle arrive à trouver une manière
+53:10 
+
+53:10 d'exploiter de la suppl qu'on peut pas
+53:11 
+
+53:11 exploiter aujourd'hui et donc ça ça
+53:13 
+
+53:13 incite de l'investissement dans de la
+53:15 
+
+53:15 Recherche et Développement pour pouvoir
+53:16 
+
+53:16 aller chercher du pétrole offshore pour
+53:18 
+
+53:18 pouvoir aller chercher du pétrole non
+53:19 
+
+53:19 conventionnel et cetera et cetera et
+53:21 
+
+53:21 donc du coup en en en systémique c'est
+53:24 
+
+53:24 quelque chose qui est bien connu ou en
+53:26 
+
+53:26 théorie de la complexité une théorie
+53:27 
+
+53:27 mathématique qui s'intéresse au systèm
+53:29 
+
+53:29 complexe comme le climat que par exemple
+53:31 
+
+53:31 Jean covissi n'a pas l'air de bien
+53:33 
+
+53:33 comprendre comme l'économie qui na pas
+53:34 
+
+53:34 l'air de comprendre beaucoup plus euh à
+53:36 
+
+53:36 partir du moment où effectivement vous
+53:38 
+
+53:38 avez un un un état instable atteint par
+53:41 
+
+53:41 le système donc par exemple un prix très
+53:42 
+
+53:42 élevé auquel l'économie ne pourrait pas
+53:45 
+
+53:45 continuer à fonctionner euh vous avez
+53:46 
+
+53:46 d'autres forces qui vont jouer et
+53:48 
+
+53:48 contrebalancer ce phénomène ici
+53:49 
+
+53:49 l'innovation et laallocation de
+53:51 
+
+53:51 ressources de certains secteurs vers euh
+53:54 
+
+53:54 le secteur pétrolier pour pouvoir
+53:56 
+
+53:56 libérer plus d'offres circulantes ce qui
+53:58 
+
+53:58 du coup toute chose égale par ailleurs
+53:59 
+
+53:59 va faire descendre le prix et va
+54:01 
+
+54:01 remettre le système non pas dans son
+54:03 
+
+54:03 état précédent mais dans un autre état
+54:04 
+
+54:04 stable euhh qui va être plus ou moins
+54:07 
+
+54:07 proche de l'état initial à certains
+54:08 
+
+54:08 certains égards euh ensuite tu me
+54:11 
+
+54:11 demandit pourquoi effectivement les
+54:13 
+
+54:13 écologistes sont à peu près tous
+54:15 
+
+54:15 maltusiens et finalement lorsqu'on les
+54:17 
+
+54:17 écoute et qu'on déroule le fil de leur
+54:19 
+
+54:19 pensé on en arrive systématiquement à
+54:21 
+
+54:21 des préconisations d'allocation
+54:22 
+
+54:22 centralisée des ressources voire limite
+54:25 
+
+54:25 de goulag
+54:27 
+
+54:27 écologique et de contrôle de la
+54:29 
+
+54:29 consommation et cetera et cetera mais
+54:31 
+
+54:31 tout simplement parce que
+54:33 
+
+54:33 fondamentalement leur pensée s'articule
+54:36 
+
+54:36 en opposition à l'économie de marché
+54:38 
+
+54:38 c'est-à-dire que leur leur leur
+54:41 
+
+54:41 réflexion c'est de
+54:42 
+
+54:42 dire on considère que nos modèles
+54:45 
+
+54:45 peuvent prévdir l'avenir ce qui est déjà
+54:46 
+
+54:46 un énorme Red Flag et que si on continue
+54:48 
+
+54:48 sur la trajectoire existante un autre r
+54:51 
+
+54:51 flag parce que le futur est un
+54:52 
+
+54:52 certainertain je sais pas du tout de
+54:53 
+
+54:53 quoi il sera fait non plus euh et bien
+54:56 
+
+54:56 les civilisations vont s'effondrer on va
+54:57 
+
+54:57 manquer de ressources on va saturer
+54:59 
+
+54:59 l'atmosphère de CO2 ça va créer du
+55:01 
+
+55:01 réchauffement climatique des
+55:02 
+
+55:02 catastrophes climatiques et cetera donc
+55:04 
+
+55:04 ça nous permet de justifier une imiction
+55:06 
+
+55:06 de la puissance publique qui elle seu a
+55:08 
+
+55:08 le pouvoir du fait de la du monopole de
+55:10 
+
+55:10 la violence légitime dans les phénomènes
+55:12 
+
+55:12 économiques pour favoriser la certains
+55:14 
+
+55:14 types de production la production de
+55:15 
+
+55:15 certaines ressources certaines
+55:16 
+
+55:16 consommation et cetera et cetera et donc
+55:18 
+
+55:18 en fait c'est la longue bataille qui
+55:20 
+
+55:20 existe depuis
+55:21 
+
+55:21 toujours entre on va dire les chentres
+55:24 
+
+55:24 de l'allocation
+55:26 
+
+55:26 topd discrétionnaire et centralisé des
+55:28 
+
+55:28 ressources par l'État et ceux qui
+55:31 
+
+55:31 défendent une allocation par le système
+55:33 
+
+55:33 de prix dans le contexte de libre marché
+55:35 
+
+55:35 et dans le contexte de droit de
+55:36 
+
+55:36 propriété et il se trouve que l'histoire
+55:38 
+
+55:38 moderne a systématiquement montré à la
+55:40 
+
+55:40 fois logiquement et empiriquement que
+55:43 
+
+55:43 l'allocation centralisée des ressources
+55:45 
+
+55:45 crée des gaspillages avec l'absence de
+55:47 
+
+55:47 prix empêche une allocation efficiente
+55:48 
+
+55:48 des ressources créer de la corruption et
+55:50 
+
+55:50 en général créer des des drames humains
+55:53 
+
+55:53 comme ça a pu être le cas avec Paul pot
+55:54 
+
+55:54 comme ça a pu être être le cas avec
+55:56 
+
+55:56 l'URSS comme ça a pu être le cas avec le
+55:57 
+
+55:57 venezuel Chavez et j'en passe des vert
+55:60 
+
+55:60 des pamur on n pas
+56:01 
+
+56:01 d'existence on n' pas de connaissance
+56:03 
+
+56:03 historique d'un seul système vraiment
+56:06 
+
+56:06 d'allocation centralisée de ressources
+56:07 
+
+56:07 communistes et cetera et cetera qui ne
+56:10 
+
+56:10 se soit pas effondré et qui n'est pas
+56:12 
+
+56:12 causé effectivement un déclassement des
+56:14 
+
+56:14 conditions de vie de la population en
+56:16 
+
+56:16 desessà du niveau qui prévalait avant
+56:18 
+
+56:18 même qu'on a mis système en place quand
+56:20 
+
+56:20 vous regardez la Russie post URSS par
+56:22 
+
+56:22 exemple à la fin des années 80 à
+56:24 
+
+56:24 l'époque de fond l'URSS début des années
+56:26 
+
+56:26 90 les gens n'ont pas de quoi se nourrir
+56:29 
+
+56:29 30 ans avant ces gens-là ont voyé des
+56:30 
+
+56:30 fusé dans l'espace quoi enfin c'est une
+56:32 
+
+56:32 puissance nucléaire ils avaient certains
+56:34 
+
+56:34 des meilleurs ingénieurs des meilleurs
+56:35 
+
+56:35 mathématiciens des industries lourdes
+56:36 
+
+56:36 des industries de pointe et cetera et
+56:38 
+
+56:38 cetera et donc moi j'invite les gens à
+56:40 
+
+56:40 se demander est-ce que ça vaut le coup
+56:43 
+
+56:43 de risquer de sacrifier l'équilibre
+56:47 
+
+56:47 hyper subtil sur lequel repose notre
+56:50 
+
+56:50 division internationale du travail la
+56:51 
+
+56:51 loocation des ressources la loocation
+56:53 
+
+56:53 des talents euh euh dans une une
+56:56 
+
+56:56 dynamique où finalement la liberté dans
+56:59 
+
+56:59 le contexte du système de prix où les
+57:01 
+
+57:01 consommateurs en faisant des choix
+57:02 
+
+57:02 expriment leurs préférences ou les
+57:04 
+
+57:04 entrepreneurs en achetant des ressources
+57:06 
+
+57:06 expriment le prix marginal et la
+57:07 
+
+57:07 productivité marginale de ces ressources
+57:09 
+
+57:09 en demandant du capital exprime
+57:11 
+
+57:11 l'intensité de la demande dans certaines
+57:12 
+
+57:12 industries par rapport à d'autres ça
+57:14 
+
+57:14 c'est c'est une mécanique une horlogerie
+57:16 
+
+57:16 qui est complètement décentralisée que
+57:17 
+
+57:17 personne ne peut comprendre que personne
+57:19 
+
+57:19 ne peut dominer que personne ne peut
+57:20 
+
+57:20 analyser complètement entièrement et qui
+57:23 
+
+57:23 est à la racine de notre prospérité
+57:26 
+
+57:26 matérielle mais qui en même temps est
+57:27 
+
+57:27 hyper fragile si jamais on laisse des
+57:29 
+
+57:29 gens entre guillemets mettre leur groses
+57:31 
+
+57:31 pates dedans et couper la dynamique du
+57:34 
+
+57:34 marché pour décider de manière
+57:35 
+
+57:35 bureaucratique d'allouer des ressources
+57:38 
+
+57:38 un peu partout on va se retrouver dans
+57:40 
+
+57:40 un monde qui va ressembler à une version
+57:42 
+
+57:42 grandeur nature de la Poste et de la
+57:44 
+
+57:44 SNCF donc même en admettant que les
+57:47 
+
+57:47 modèles climatiques et raison ce qui à
+57:48 
+
+57:48 mon avis est très douteux
+57:50 
+
+57:50 euh encore une fois parce que
+57:52 
+
+57:52 mathématiquement on peut pas avoir de
+57:54 
+
+57:54 CER attitude sur l'évolution future d'un
+57:56 
+
+57:56 système complexe et ça a été prouvé
+57:58 
+
+57:58 plein de fois d'ailleurs par des
+57:59 
+
+57:59 mathématiciens français comme Henry
+58:00 
+
+58:00 Point Carré même s'ils ont raison et
+58:03 
+
+58:03 bien a priori la meilleure manière de
+58:06 
+
+58:06 s'adapter à des conditions changeantes
+58:08 
+
+58:08 climatiques et donc à des potentiels
+58:10 
+
+58:10 catastrophes naturelles à des conditions
+58:12 
+
+58:12 de climat différentes de disponibilité
+58:13 
+
+58:13 des ressources différentes ce sera de
+58:15 
+
+58:15 laisser l'action entrepreneuriale réagir
+58:17 
+
+58:17 à des prix de marché fluctuants et donc
+58:19 
+
+58:19 réallouer le capital les ressources le
+58:21 
+
+58:21 talent et cetera pour faire face aux
+58:23 
+
+58:23 situations les plus urgentes parce que
+58:24 
+
+58:24 c'est là où les prix
+58:25 
+
+58:25 seront les plus volatiles augmenteront
+58:28 
+
+58:28 plus rapidement et où donc les
+58:29 
+
+58:29 entrepreneurs auront les meilleures
+58:30 
+
+58:30 opportunités de marge et vous pouvez pas
+58:31 
+
+58:31 deviner à l'avance où ce sera comment ce
+58:33 
+
+58:33 sera quelles seront les meilleures
+58:34 
+
+58:34 méthodes de production pour répondre à
+58:35 
+
+58:35 ces problèmes futurs et cetera et cetera
+58:37 
+
+58:37 donc ce que je veux dire c'est que même
+58:38 
+
+58:38 si je souscrivais au catastrophisme
+58:40 
+
+58:40 climatique je ça ne ferait que renforcer
+58:43 
+
+58:43 entre guillemets ma volonté de vouloir
+58:45 
+
+58:45 voir l'économie de marché se développer
+58:47 
+
+58:47 la liberté humaine reprendre ses droits
+58:49 
+
+58:49 et un système de propriété de prix libre
+58:52 
+
+58:52 se développer de la manière la plus
+58:54 
+
+58:54 consistante et la moins empêchée
+58:57 
+
+58:57 possible donc pour moi effectivement je
+58:60 
+
+58:60 ne je ne je n'arrive pas à réconcilier
+59:02 
+
+59:02 les pensées jancoviciste de ce monde
+59:05 
+
+59:05 autrement que par c'est des gens très
+59:07 
+
+59:07 intelligents qui ont fait de très
+59:08 
+
+59:08 brillantes études à qui on a raconté
+59:09 
+
+59:09 toute leur vie qu'ils avaient la science
+59:11 
+
+59:11 infus surtout mais qui ont décidé que
+59:14 
+
+59:14 ils comprenaient tout à l'économie sans
+59:15 
+
+59:15 jamais s'être intéressé au problème
+59:17 
+
+59:17 qu'elle pose et c'est pas un problème de
+59:18 
+
+59:18 production c'est un problème de gestion
+59:20 
+
+59:20 de
+59:21 
+
+59:21 l'information pas mal comme ça non on
+59:25 
+
+59:25 est on est bien d'accord là-dessus euh
+59:28 
+
+59:28 je te je te remercie euh pour ton
+59:30 
+
+59:30 intervention pour
+59:31 
+
+59:31 la la facilité avec laquelle tu as
+59:34 
+
+59:34 d'articuler tous ces concepts qui qui
+59:36 
+
+59:36 sont vachement compliqués je trouve à
+59:38 
+
+59:38 expliquer est-ce queil y a un moyen euh
+59:41 
+
+59:41 pour
+59:42 
+
+59:42 euh les gens qui nous regardent de te
+59:44 
+
+59:44 suivre de voir ce que tu fais tes
+59:45 
+
+59:45 travaux euh sur sur
+59:48 
+
+59:48 l'Internet euh ouais alors du coup vous
+59:50 
+
+59:50 pouvez me suivre sur Twitter c'est at
+59:52 
+
+59:52 thomogenet o m g not euh également j'ai
+59:56 
+
+59:56 fait une série de d'introduction au
+59:59 
+
+59:59 concept de l'économie autrenne qui du
+60:01 
+
+60:01 coup raisonne avec les sujets qu'on
+60:03 
+
+60:03 abordé dans cette discussion que vous
+60:04 
+
+60:04 pouvez retrouver sur l'académie de Roxy
+60:07 
+
+60:07 donc découvre Bitcoin qui s'appelle
+60:10 
+
+60:10 économie de 101 les vidéos enfin les les
+60:13 
+
+60:13 audios du coup des cours sont en
+60:15 
+
+60:15 français il y a aussi des des les la
+60:18 
+
+60:18 synthèse des cours que j'ai écrit en
+60:20 
+
+60:20 anglais euh euh et euh et sinon vous
+60:24 
+
+60:24 pouvez visite mon site internet qui
+60:25 
+
+60:25 s'appelle institut Bitcoin dans lequel
+60:27 
+
+60:27 vous allez trouver d'autres sources sur
+60:29 
+
+60:29 ces sujets là et puis c'est à peu près
+60:32 
+
+60:32 tout ça devrait suffire il pouront se
+60:35 
+
+60:35 démerder là ça marche je te remercie
+60:37 
+
+60:37 encore une B merci à toi de m'avoir
+60:38 
+
+60:38 invité enfin à vous surtout et et puis
+60:41 
+
+60:41 bah à la prochaine ou la prochaine à
+60:43 
+
+60:43 très
+60:47 
+
+60:47 bientôt

@@ -143,6 +143,12 @@ Liens : [[Vision2030]] | [[Travail]] | [[Santé]]
 
 → La conviction Bitcoin n'est pas impulsive — elle est nourrie quotidiennement et ancrée dans une vision économique cohérente (Jeff Booth, déflation, fuite devant l'inflation).
 
+**Théo Mogenet** (directeur Europe de Bull Bitcoin) :
+- Argument "SMIC en or" : le SMIC français de 1984 vaut ~7 000 € aujourd'hui en pouvoir d'achat réel (mesure en or)
+- Immobilier : 2,3 années de salaire en 1984 → 8-9 ans aujourd'hui
+- → Outil rhétorique pour expliquer la conviction Bitcoin à l'entourage
+- Ressource complète : [[theo-mogenet-bitcoin-economie]]
+
 ---
 
 ## Comportements à surveiller

@@ -1,0 +1,5998 @@
+00:00 C'est vrai que moi à l'époque, j'allais
+00:01 
+
+00:01 me faire couper les cheveux il y a
+00:02 
+
+00:02 peut-être 10 ans pour 15 € alors que
+00:04 
+
+00:04 maintenant c'est facilement le double en
+00:06 
+
+00:06 terme de prix.
+00:07 
+
+00:07 La meilleure manière de mesurer
+00:08 
+
+00:08 l'évolution du pouvoir d'achat dans le
+00:09 
+
+00:09 temps, c'est la valeur d'un bien ou d'un
+00:11 
+
+00:11 service par rapport à une quantité d'or.
+00:12 
+
+00:12 Si tu prends 1984, l'équivalent du SMIC
+00:15 
+
+00:15 en France, si on le mesure en or à
+00:17 
+
+00:17 l'époque et qu'on le convertit
+00:19 
+
+00:19 aujourd'hui, ce serait l'équivalent d'à
+00:20 
+
+00:20 peu près 7000 €. En 1984, le bien
+00:22 
+
+00:22 immobilier moyen en France y
+00:24 
+
+00:24 représentait 2,3 années de salaire
+00:27 
+
+00:27 moyen. Aujourd'hui, c'est 8 à 9 ans.
+00:28 
+
+00:28 Depuis à peu près 50 ans, dans les pays
+00:30 
+
+00:30 développés, on a une haine de la
+00:31 
+
+00:31 richesse qui est perçue comme une sorte
+00:33 
+
+00:33 de spoliation. Je pense qu'avec les les
+00:35 
+
+00:35 discours en France aujourd'hui, la texte
+00:37 
+
+00:37 duman et tous ces trucs-là. Et ça part
+00:38 
+
+00:38 d'un sentiment qui est assez juste.
+00:39 
+
+00:39 C'est-à-dire que ils associent l'idée de
+00:41 
+
+00:41 se dire si tu es riche, c'est que tu as
+00:42 
+
+00:42 volé. Alors que dans une économie avec
+00:44 
+
+00:44 une monnaie saine, en fait quelqu'un qui
+00:46 
+
+00:46 a créé une fortune, c'est quelqu'un qui
+00:48 
+
+00:48 a apporté énormément de valeur à des
+00:49 
+
+00:49 consommateurs qui était libre de choisir
+00:51 
+
+00:51 ça. Et donc c'est quelqu'un qui quelque
+00:53 
+
+00:53 part a été très vertueux dans la manière
+00:55 
+
+00:55 dont il a créé sa fortune. Donc il
+00:56 
+
+00:56 aurait même pas besoin d'en faire charit
+00:58 
+
+00:58 de la redistribuer parce qu' il a déjà
+01:00 
+
+01:00 apporté plus que ce qu'il n'a pu
+01:02 
+
+01:02 acquérir pour constituer sa fortune.
+01:04 
+
+01:04 Dans un monde où la monnaie est
+01:05 
+
+01:05 corrompue par le gouvernement, tu peux
+01:07 
+
+01:07 générer une fortune gigantesque sans
+01:08 
+
+01:08 apporter rien à qui que ce soit. juste
+01:10 
+
+01:10 parce que tu as su surfer sur
+01:12 
+
+01:12 l'inflation.
+01:15 
+
+01:15 Salut Théo.
+01:15 
+
+01:15 Salut.
+01:16 
+
+01:16 Bienvenue sur le podcast de Cryptost.
+01:17 
+
+01:17 Ravi de d'être parmi vous. [rires]
+01:21 
+
+01:21 Est-ce que tu peux déjà te présenter
+01:23 
+
+01:23 rapidement et présenter ce que tu fais
+01:24 
+
+01:24 dans l'écosystème Bitcoin ?
+01:26 
+
+01:26 Ouais, du coup, je m'appelle Théo Men.
+01:28 
+
+01:28 Depuis à peu près 2 ans maintenant, je
+01:30 
+
+01:30 suis directeur Europe de Bull Bitcoin.
+01:33 
+
+01:33 Très simplement, Bull Bitcoin, c'est une
+01:34 
+
+01:34 boîte de technologie dont le produit
+01:36 
+
+01:36 principal est une plateforme, on va
+01:38 
+
+01:38 dire, d'échange Bitcoin only self
+01:40 
+
+01:40 custodial. C'est je crois le plus vieil
+01:43 
+
+01:43 échange Bitcoin only self custodial au
+01:46 
+
+01:46 monde qui essentiellement s'est
+01:48 
+
+01:48 développé au Canada pendant des années
+01:50 
+
+01:50 et qui s'est développé dans différents
+01:52 
+
+01:52 pays notamment l'Europe. On travaille
+01:54 
+
+01:54 sur plein de technologies différentes.
+01:57 
+
+01:57 On a un wallet, des projets open source
+01:59 
+
+01:59 et une plateforme qui te permet de faire
+02:02 
+
+02:02 du DCA, des limiters, d'acheter, de
+02:04 
+
+02:04 vendre. Et toujours avec cette idée de
+02:07 
+
+02:07 finalement la finalité de Bitcoin, c'est
+02:09 
+
+02:09 que les gens soient souverains, qui
+02:10 
+
+02:10 gardent leur sat, on les gardera jamais
+02:12 
+
+02:12 pour eux. Donc c'est ça ce que ça
+02:14 
+
+02:14 signifie self custodie, c'est-à-dire
+02:15 
+
+02:15 qu'il y a aucune entité tierce qui
+02:17 
+
+02:17 conserve les bitcoins. Détension propre
+02:19 
+
+02:19 comme si tu avais du cash dans ta poche
+02:21 
+
+02:21 ou un lingot d'or dans le coffre. Donc
+02:23 
+
+02:23 tu achètes des Bitcoin chez nous, on te
+02:24 
+
+02:24 les livre, on les garde jamais pour toi.
+02:26 
+
+02:26 Tu as pas besoin de en fait, tu as pas
+02:28 
+
+02:28 besoin de nous faire confiance pour nous
+02:29 
+
+02:29 utiliser. C'estàd que nous, on te donne
+02:31 
+
+02:31 un prix, tu valides, on te livre les
+02:33 
+
+02:33 Bitcoin sur ton wallet à toi et l'idée
+02:35 
+
+02:35 c'est que tu puisses les utiliser pour
+02:38 
+
+02:38 payer, pour stacker, pour gérer ton
+02:40 
+
+02:40 épargne, pour les léger à tes
+02:42 
+
+02:42 descendants. Et on a un positionnement
+02:44 
+
+02:44 un peu niche mais qui va adresser, tu
+02:46 
+
+02:46 vois, tous ces cas d'usage finalement de
+02:48 
+
+02:48 gens qui voient pas ça que comme un
+02:50 
+
+02:50 actif mais aussi comme une monnaie,
+02:52 
+
+02:52 comme une source de liberté, comme une
+02:55 
+
+02:55 manière de répondre à des sujets de
+02:57 
+
+02:57 débancarisation,
+02:59 
+
+02:59 d'échanges internationaux quand ils ont
+03:02 
+
+03:02 pas forcément les rampes bancaires qui
+03:04 
+
+03:04 vont leur permettre de faire ça. Donc
+03:05 
+
+03:05 c'est on va dire la toxicité parmi les
+03:10 
+
+03:10 toxiques maximalistes. Et tu as aussi,
+03:11 
+
+03:11 tu t'intéresses aussi à l'économie. Euh
+03:13 
+
+03:13 c'est notamment comme ça moi que je que
+03:15 
+
+03:15 je t'ai découvert par rapport à
+03:16 
+
+03:16 différents posts sur euh sur Twitter
+03:18 
+
+03:18 maintenant X. Euh qu'est-ce qui
+03:21 
+
+03:21 t'intéresse toi dans enfin comment tu es
+03:22 
+
+03:22 rentré dans ce monde-là l'économie
+03:24 
+
+03:24 autrichienne et cetera ?
+03:26 
+
+03:26 Alors moi j'ai jamais étudié l'économie
+03:27 
+
+03:27 à l'école. J'ai plus fait j'ai plutôt
+03:29 
+
+03:29 fait des études d'ingénieur
+03:31 
+
+03:31 et en 2016-27
+03:35 
+
+03:35 wagon crypto comme beaucoup de gens. Je
+03:38 
+
+03:38 suis beaucoup intéressé au sujet. Ça me
+03:40 
+
+03:40 paraissait fascinant.
+03:41 
+
+03:41 Euh à l'époque pas du tout euh bitcoiner
+03:44 
+
+03:44 maximaliste, je suis plutôt rentré par
+03:46 
+
+03:46 la voie Etheréum. Euh tu vois, j'étais
+03:49 
+
+03:49 assez fasciné par cette idée de
+03:51 
+
+03:51 application décentralisée, on va
+03:53 
+
+03:53 désintermédier le monde et du coup je
+03:56 
+
+03:56 connaissais rien l'économie, rien la
+03:57 
+
+03:57 finance.
+03:60 
+
+03:60 tu as eu l'euphorie du marché haussier
+04:03 
+
+04:03 2016-27.
+04:05 
+
+04:05 Après, tu prends une volée de bois vert
+04:08 
+
+04:08 et
+04:09 
+
+04:09 tu as le temps de te renseigner et
+04:11 
+
+04:11 cetera. Et je m'étais rendu compte
+04:14 
+
+04:14 pendant le marché haussier que il y a
+04:16 
+
+04:16 plein de concepts sur qu'est-ce que
+04:17 
+
+04:17 c'est un orderbook, qu'est-ce que c'est
+04:19 
+
+04:19 un échange.
+04:22 
+
+04:22 même des tu vois des articles que je
+04:23 
+
+04:23 pouvais lire à l'époque sur d'où d'où
+04:26 
+
+04:26 tous ces projets viennent, pourquoi
+04:28 
+
+04:28 est-ce que genre finalement il y a eu un
+04:30 
+
+04:30 late motif de créer genre d'abord
+04:32 
+
+04:32 Bitcoin puis les premiers altcoin,
+04:34 
+
+04:34 Litecoin et cetera puis
+04:37 
+
+04:37 de fil en aiguille en fait je me suis
+04:39 
+
+04:39 j'ai pris quasiment de années
+04:42 
+
+04:42 sabbatiques pour essayer de m'intéresser
+04:44 
+
+04:44 à ces sujets et je suis un peu tombé
+04:46 
+
+04:46 dans un rabitol
+04:48 
+
+04:48 à proprement parler.
+04:50 
+
+04:50 Et
+04:52 
+
+04:52 du coup, je me suis intéressé à plein de
+04:54 
+
+04:54 théories économiques différentes et à un
+04:56 
+
+04:56 moment donné, je suis tombé sur d'abord
+04:58 
+
+04:58 des libéraux, Friedman et compagnie,
+05:01 
+
+05:01 puis les Autrichiens, AEK, Misses,
+05:03 
+
+05:03 ensuite Amus et ça a vraiment cliqué et
+05:07 
+
+05:07 c'est à partir de là que j'ai compris
+05:09 
+
+05:09 pourquoi Bitcoin était vraiment
+05:10 
+
+05:10 différent du reste et pourquoi
+05:12 
+
+05:12 finalement au-delà de l'aspect, on va
+05:14 
+
+05:14 dire technologie de rupture et
+05:17 
+
+05:17 innovante, il y avait un projet beaucoup
+05:19 
+
+05:19 plus intéressant et même encore plus
+05:22 
+
+05:22 disruptif qui consistait à séparer la
+05:25 
+
+05:25 monnaie de l'État et quasiment à donner
+05:28 
+
+05:28 des droits de propriété
+05:31 
+
+05:31 inaliénable et garanti sans aucun
+05:35 
+
+05:35 intermédiaire à chaque personne sur la
+05:36 
+
+05:36 planète et pourquoi finalement à travers
+05:39 
+
+05:39 bah l'histoire,
+05:41 
+
+05:41 la compréhension des phénomènes
+05:43 
+
+05:43 monétaires dans l'histoire, la
+05:44 
+
+05:44 compréhension justement de l'économie
+05:45 
+
+05:45 autrican, pourquoi ça avait un vrai
+05:47 
+
+05:47 intérêt
+05:49 
+
+05:49 à la fois social, philosophique et
+05:51 
+
+05:51 économique de de vrai à ça. Justement,
+05:54 
+
+05:54 c'est de ça dont je dont je voulais
+05:56 
+
+05:56 parler dans le dans l'épisode. Donc
+05:57 
+
+05:57 parfaite parfaite transition. Du coup,
+06:02 
+
+06:02 j'aimerais la première question que je
+06:04 
+
+06:04 vais te poser, c'est quel est le
+06:07 
+
+06:07 problème actuel de la monnaie telle que
+06:09 
+
+06:09 on la connaît actuellement ? Donc l'euro
+06:11 
+
+06:11 qu'on peut avoir soit dans notre poche,
+06:13 
+
+06:13 soit sur notre compte bancaire. Les
+06:16 
+
+06:16 problèmes parce que j'imagine qu'il y en
+06:17 
+
+06:17 a qu'il y en a pas mal là. Si vous
+06:18 
+
+06:18 appréciez l'interview, pensez à mettre
+06:20 
+
+06:20 un j'aime, à partager, à commenter et à
+06:22 
+
+06:22 vous abonner. Ça nous aide beaucoup à
+06:24 
+
+06:24 faire grossir le podcast et à continuer
+06:26 
+
+06:26 de démocratiser la cryptomonnaie comme
+06:27 
+
+06:27 on peut le faire avec Cryptost depuis
+06:29 
+
+06:29 2017. Et n'oubliez pas, vous pouvez
+06:30 
+
+06:30 retrouver les interviews sur toutes vos
+06:32 
+
+06:32 plateformes de podcast comme Dieser,
+06:33 
+
+06:33 Spotify, Apple Podcast. Ça vous permet
+06:36 
+
+06:36 d'écouter les interviews en faisant
+06:37 
+
+06:37 votre sport ou la vaisselle. On vous met
+06:39 
+
+06:39 tous les liens dans la description.
+06:40 
+
+06:40 Il y a un problème global qui est que la
+06:43 
+
+06:43 monnaie n'est pas sélectionnée par le
+06:45 
+
+06:45 marché. C'est-à-dire que
+06:49 
+
+06:49 la monnaie,
+06:51 
+
+06:51 on dit souvent que c'est le fait du
+06:52 
+
+06:52 prince, que c'est quelque chose, on a
+06:54 
+
+06:54 cette idée que ça vient toujours des
+06:56 
+
+06:56 États, que avant même qu'il y ait eu des
+06:59 
+
+06:59 États dans l'histoire, il n'y avait pas
+06:60 
+
+06:60 de monnaie, que les gens n'échangeaient
+07:02 
+
+07:02 pas, n'épargnaient pas, ne dénominaient
+07:05 
+
+07:05 pas dans l'échange
+07:09 
+
+07:09 différente denré à travers un bien
+07:12 
+
+07:12 intermédiaire.
+07:13 
+
+07:13 Et c'est une idée qui est euh
+07:16 
+
+07:16 diffusée
+07:18 
+
+07:18 de manière presque aujourd'hui, mais qui
+07:20 
+
+07:20 est complètement fausse. Et tu peux
+07:22 
+
+07:22 résumer tous les problèmes qu'on a avec
+07:25 
+
+07:25 la monnaie moderne sous cette égl.
+07:28 
+
+07:28 C'est-à-dire que
+07:30 
+
+07:30 comme beaucoup d'autres marchés, on a
+07:32 
+
+07:32 créé un monopole public
+07:35 
+
+07:35 qui du coup est complètement
+07:37 
+
+07:37 inefficient.
+07:38 
+
+07:38 CF, la POSET, la SNCF
+07:41 
+
+07:41 peut continuer longtemps. Et dans le cas
+07:43 
+
+07:43 de la monnaie, c'est d'autant plus
+07:45 
+
+07:45 pervers que c'est un domaine qui va
+07:49 
+
+07:49 avoir des conséquences sur l'ensemble de
+07:51 
+
+07:51 l'économie, même si on c'est un c'est un
+07:54 
+
+07:54 peu insidieux, on s'en rend pas
+07:55 
+
+07:55 forcément compte tout le temps
+07:56 
+
+07:56 de manière indirecte sur l'ensemble de
+07:58 
+
+07:58 la société parce qu'en fait tout est lié
+07:59 
+
+07:59 à l'économie, donc tout est lié à
+08:01 
+
+08:01 l'argent quoi.
+08:03 
+
+08:03 C'est ça. C'est notamment parce que les
+08:04 
+
+08:04 sociétés ont du mal à exister en dehors
+08:05 
+
+08:05 de l'économie. Et finalement,
+08:10 
+
+08:10 on va dire déjà le premier problème que
+08:12 
+
+08:12 tu as avec ça, c'est que
+08:15 
+
+08:15 la si on revient par exemple au auchiens
+08:19 
+
+08:19 qui ont à la base des réflexions très
+08:21 
+
+08:21 simples, ils bâtissent des raisonnements
+08:23 
+
+08:23 compliqués à partir de de propositions
+08:25 
+
+08:25 très simples, mais une des propositions
+08:27 
+
+08:27 qu'ils ont, c'est que le futur est un
+08:29 
+
+08:29 certain. Je sais pas si demain
+08:32 
+
+08:32 je serai marié, si je serais malade, si
+08:35 
+
+08:35 j'aurais envie de de
+08:38 
+
+08:38 vis dans une autre ville, de déménager,
+08:40 
+
+08:40 de lancer une entreprise, peu importe.
+08:42 
+
+08:42 J'en ai absolument aucune idée. Je ne
+08:44 
+
+08:44 sais pas de quoi le futur sera fait. Et
+08:46 
+
+08:46 donc finalement, la meilleure manière
+08:49 
+
+08:49 que j'ai de me garantir une forme de
+08:51 
+
+08:51 sécurité et de résilience dans ce futur
+08:55 
+
+08:55 que je ne peux pas connaître, c'est de
+08:57 
+
+08:57 garder le bien qui va être le plus
+08:59 
+
+08:59 liquide, c'est-à-dire le plus facilement
+09:01 
+
+09:01 accepté par les autres pour obtenir ce
+09:04 
+
+09:04 que je ne sais pas que je vais désirer
+09:07 
+
+09:07 ou dont je vais avoir besoin demain,
+09:09 
+
+09:09 mais
+09:10 
+
+09:10 garder ce bien finalement qui va me
+09:12 
+
+09:12 permettre de l'acquérir quoi que ça
+09:13 
+
+09:13 puisse être dans le futur.
+09:16 
+
+09:16 Et finalement du coup bah si tu essayes
+09:19 
+
+09:19 de répondre à cette espèce de de de
+09:24 
+
+09:24 lutte contre l'incertitude future, la
+09:26 
+
+09:26 meilleure stratégie que tu adoptes,
+09:28 
+
+09:28 c'est de te dire bah je vais devoir
+09:30 
+
+09:30 essayer de stocker un bien qui va être
+09:33 
+
+09:33 relativement rare. Parce que si par
+09:36 
+
+09:36 exemple je prends des feuilles d'arbre
+09:39 
+
+09:39 pour faire mon épargne, bah ça va
+09:42 
+
+09:42 continuer à pousser. Il y a des gens qui
+09:44 
+
+09:44 vont pouvoir quelque part en fabriquer
+09:46 
+
+09:46 et donc je vais me faire dévaluer. Ça va
+09:48 
+
+09:48 pas très bien marcher. Faut aussi que ce
+09:50 
+
+09:50 soit un bien que je puisse détenir
+09:51 
+
+09:51 directement qui est pas un mec qui
+09:52 
+
+09:52 puisse me dire bah aujourd'hui ce qui
+09:55 
+
+09:55 est à toi n'est plus à toi.
+09:58 
+
+09:58 Également faut que ce soit quelque chose
+09:59 
+
+09:59 qui soit assez pratique à échanger à
+10:02 
+
+10:02 travers l'espace à travers les échelles.
+10:04 
+
+10:04 Donc finalement, faut que ce soit un
+10:06 
+
+10:06 bien qui soit échangeable à travers le
+10:08 
+
+10:08 temps, à travers les échelles, à travers
+10:10 
+
+10:10 l'espace. Et à toutes les époques de
+10:14 
+
+10:14 l'histoire, on a trouvé différents biens
+10:17 
+
+10:17 en fonction des développements
+10:18 
+
+10:18 technologiques de la civilisation qui,
+10:21 
+
+10:21 sans que on les ait décrété comme étant
+10:23 
+
+10:23 monnaie,
+10:24 
+
+10:24 sont été élus par le marché parce que en
+10:27 
+
+10:27 fait qu' un cas par essai erreur, les
+10:30 
+
+10:30 gens se sont rendus compte que ça
+10:31 
+
+10:31 fonctionnait mieux que le reste quoi. Ça
+10:34 
+
+10:34 a pu être
+10:35 
+
+10:35 le sel, les vaches, les coquillages, des
+10:37 
+
+10:37 artefacts, puis les métaux précieux et
+10:39 
+
+10:39 cetera.
+10:41 
+
+10:41 Et fondamentalement, à partir du moment
+10:44 
+
+10:44 où on a commencé à vraiment développer
+10:47 
+
+10:47 une économie qui s'est étendue dans
+10:50 
+
+10:50 l'espace, qui s'est connectée, qui s'est
+10:51 
+
+10:51 mondialisé dès la Renaissance, on a dû
+10:54 
+
+10:54 faire des transactions sur des en fait,
+10:58 
+
+10:58 on on a dû faire en sorte que les flux
+10:59 
+
+10:59 monétaires suivent les flux des
+11:01 
+
+11:01 échanges. Et si tu prends une vache en
+11:05 
+
+11:05 un d'or, tous les biens que j'ai cité,
+11:07 
+
+11:07 c'est des choses qui sont coûteuses,
+11:09 
+
+11:09 compliquées à transporter et cetera.
+11:11 
+
+11:11 Donc c'était très pratique de dire
+11:13 
+
+11:13 finalement on va les déposer
+11:16 
+
+11:16 chez une institution A qui elle va nous
+11:19 
+
+11:19 donner des moyens d'échange ou plutôt
+11:21 
+
+11:21 des reçus informationnels, que ce soit
+11:24 
+
+11:24 des billets de banque, des lettres de
+11:26 
+
+11:26 change, des chèqus, des cartes bleues et
+11:27 
+
+11:27 cetera. de manière à ce que si j'ai
+11:30 
+
+11:30 besoin de les envoyer à New York demain,
+11:32 
+
+11:32 j'ai pas besoin de livrer un lingot d'or
+11:34 
+
+11:34 à New York. Je vais juste dire
+11:36 
+
+11:36 l'institution A transfère la propriété
+11:38 
+
+11:38 que j'ai de Slingon d'Or à l'institution
+11:40 
+
+11:40 B. Et ça c'est quelque chose qui a
+11:43 
+
+11:43 énormément aidé au développement de la
+11:45 
+
+11:45 civilisation dans le sens où ça nous a
+11:48 
+
+11:48 permis d'échanger avec beaucoup plus de
+11:50 
+
+11:50 gens, d'accroître la division du travail
+11:53 
+
+11:53 et tout ça c'est super. Le problème
+11:54 
+
+11:54 c'est que à partir du moment où tu fais
+11:57 
+
+11:57 ça en fait tu donnes la possibilité au
+11:59 
+
+11:59 gars qui garde ton lingot d'or d'émettre
+12:02 
+
+12:02 plus de reçus qu'il a de lingot en
+12:03 
+
+12:03 réserve et du coup la qualité dont on
+12:06 
+
+12:06 parlait avant de finalement de
+12:08 
+
+12:08 résistance à l'inflation de la monnaie
+12:10 
+
+12:10 le fait que bah l'or a été choisi comme
+12:13 
+
+12:13 monnaie parce que personne peut en créer
+12:15 
+
+12:15 et que c'est une ressource relativement
+12:16 
+
+12:16 plus rare que le reste sous la surface
+12:18 
+
+12:18 de la terre fait que
+12:21 
+
+12:21 finalement à part si tout le monde
+12:24 
+
+12:24 vérifie tous les jours que il y a autant
+12:26 
+
+12:26 de reçus que d'or dans les coffres. Le
+12:29 
+
+12:29 gars qui le garde pour toi, il a la
+12:31 
+
+12:31 possibilité finalement d'émettre du
+12:34 
+
+12:34 pouvoir d'achat, d'émettre plus de reçus
+12:36 
+
+12:36 qu'il n'aai
+12:38 
+
+12:38 de base comme on dit en économie,
+12:39 
+
+12:39 c'est-à-dire de de monnaie valorisé en
+12:42 
+
+12:42 tant que tel, élu par le marché, choisi
+12:44 
+
+12:44 pour ses qualités, pas manipulables et
+12:46 
+
+12:46 cetera et cetera.
+12:48 
+
+12:48 Et du coup
+12:51 
+
+12:51 l'histoire de ces en tout cas dans la
+12:52 
+
+12:52 civilisation occidentale de ces 200 300
+12:55 
+
+12:55 dernières années, ça a essentiellement
+12:57 
+
+12:57 consisté à améliorer notre économie
+13:00 
+
+13:00 parce que on a aussi beaucoup amélioré
+13:03 
+
+13:03 nos moyens de financement, de paiement
+13:04 
+
+13:04 et cetera, mais en confiant de plus en
+13:07 
+
+13:07 plus de pouvoir à des institutions, à
+13:11 
+
+13:11 des custodianes, des gardiens quelque
+13:14 
+
+13:14 part
+13:16 
+
+13:16 en sacrifiant la capacité qu'on avait à
+13:19 
+
+13:19 garantir les qualités de la monnaie
+13:20 
+
+13:20 parce qu'on la déait plus directement.
+13:22 
+
+13:22 Et comment ça se représente à l'heure
+13:24 
+
+13:24 actuelle ? On va dire que c'est les
+13:25 
+
+13:25 banques centrales, donc indirectement
+13:27 
+
+13:27 les États qui sont en capacité de créer
+13:29 
+
+13:29 de la monnaie et donc d'en d'en imprimer
+13:32 
+
+13:32 et d'en déverser sur le marché. Ce qui
+13:34 
+
+13:34 fait qu'en fait il y a plus de limite à
+13:36 
+
+13:36 la monnaie, à la quantité de monnaie qui
+13:38 
+
+13:38 peut être émise et disponible dans le
+13:40 
+
+13:40 monde. Ce qui entraîne tout un tas de de
+13:43 
+
+13:43 problèmes comme l'inflation, ce genre de
+13:45 
+
+13:45 ce genre de chosesl. Donc les monnaies
+13:46 
+
+13:46 dont on parle et que tu décris là, c'est
+13:48 
+
+13:48 ce qu'on appelle en général des monnaies
+13:50 
+
+13:50 Fiat ou des monnaies papiers. Donc elles
+13:52 
+
+13:52 ont de valeur. Fiat vient du latin qui
+13:54 
+
+13:54 veut dire décréter l'existence d'eux
+13:57 
+
+13:57 Fiat Lux que la lumière soit. Et donc
+14:01 
+
+14:01 c'est des monnaies qui n'ont de valeur
+14:02 
+
+14:02 que parce qu'on dit qu'elles ont de la
+14:04 
+
+14:04 valeur. Et il y a aucune monnaie fiat
+14:06 
+
+14:06 qui n'est arrivée dans l'histoire
+14:08 
+
+14:08 exnilo. C'estàd à chaque fois on voit
+14:11 
+
+14:11 que il y a d'abord une monnaie
+14:14 
+
+14:14 quelque part naturelle. que ce soit l'or
+14:16 
+
+14:16 ou un autre métal précieux qui va être
+14:18 
+
+14:18 accumulé dans des coffres, on va émettre
+14:20 
+
+14:20 des reçus, des billets de banque par
+14:22 
+
+14:22 exemple qui la représentent et au bout
+14:23 
+
+14:23 d'un moment on va dire "Bon, en fait ce
+14:26 
+
+14:26 système d'or et tout c'est pas commode,
+14:28 
+
+14:28 donc maintenant la monnaie, bon bah
+14:29 
+
+14:29 c'est c'est les biais qui représentent
+14:30 
+
+14:30 l'or et c'est pareil." Et finalement,
+14:33 
+
+14:33 quand on arrive là, bah dans un premier
+14:36 
+
+14:36 temps, tu as une sorte de discipline qui
+14:40 
+
+14:40 est effectué à la fois sur les
+14:41 
+
+14:41 gouvernements et sur les institutions
+14:43 
+
+14:43 financières parce que ils peuvent pas
+14:45 
+
+14:45 non plus permettre d'émettre beaucoup
+14:47 
+
+14:47 plus de monnaie qu'il n'y a d'or. parce
+14:49 
+
+14:49 que ça c'est ce qu'on appelle les
+14:50 
+
+14:50 talons, l'étalon or,
+14:51 
+
+14:51 ça c'est exactement et qui a prévalu, tu
+14:54 
+
+14:54 vois, euh en Europe quasiment du 17e
+14:58 
+
+14:58 jusqu'à la Première Guerre mondiale
+15:01 
+
+15:01 et ensuite
+15:04 
+
+15:04 à la suite de la Première Guerre
+15:06 
+
+15:06 mondiale et notamment à la fin de la
+15:09 
+
+15:09 période, on va dire
+15:11 
+
+15:11 à la fin des années 60 et début des
+15:13 
+
+15:13 années 70, les États-Unis
+15:15 
+
+15:15 unilatéralement, exactement en 71 ont
+15:18 
+
+15:18 dit "Bon
+15:19 
+
+15:19 Finalement, les dollars que vous avez et
+15:21 
+
+15:21 qui normalement peuvent être échangés
+15:23 
+
+15:23 contre un poids d'or garanti. Bon bah,
+15:26 
+
+15:26 ça reste des dollars. Vous allez pouvoir
+15:28 
+
+15:28 les utiliser pour acheter des biens, du
+15:29 
+
+15:29 pétrole et cetera et cetera. Et c'est
+15:31 
+
+15:31 déjà un peu ce qu'on fait depuis des
+15:33 
+
+15:33 décennies. Donc ça va marcher comme ça
+15:36 
+
+15:36 et parce que finalement bah on est la
+15:38 
+
+15:38 puissance hégémonique et on peut vous
+15:39 
+
+15:39 l'imposer, vous avez pas trop votre mot
+15:41 
+
+15:41 à dire.
+15:43 
+
+15:43 dans le premier système où tu as quand
+15:45 
+
+15:45 même une sorte de discipline sur cette
+15:47 
+
+15:47 inflation, tu as de l'inflation qui
+15:49 
+
+15:49 existe parce qu'on aimait plus de
+15:51 
+
+15:51 pouvoir d'achat, donc de billet, de
+15:54 
+
+15:54 représentation de lors qu'il n'y en a
+15:56 
+
+15:56 dans les dans les coffres. Dans la
+15:58 
+
+15:58 deuxième partie, tu n'as plus absolument
+15:59 
+
+15:59 plus aucune limite à la quantité
+16:01 
+
+16:01 d'impression monétaire que tu veux
+16:03 
+
+16:03 faire. Ça devient un fait politique
+16:04 
+
+16:04 complet. C'est-à-dire que tant qu'il y a
+16:06 
+
+16:06 une demande pour ta monnaie, tant que ta
+16:09 
+
+16:09 société ne s'effondre pas, que tu as des
+16:11 
+
+16:11 trucs à exporter, qu'il y a des gens qui
+16:12 
+
+16:12 veulent acheter des actifs chez toi et
+16:13 
+
+16:13 cetera, tu peux imprimer quasiment
+16:16 
+
+16:16 autant que tu veux.
+16:18 
+
+16:18 C'est franchement qu'une question de
+16:20 
+
+16:20 confiance pure.
+16:21 
+
+16:21 Donc à partir de 1971 et les la fin des
+16:25 
+
+16:25 accords de de Breton Woods et donc la
+16:27 
+
+16:27 fin de l'étalon or, on est entré dans
+16:29 
+
+16:29 cette période où en fait le les monnaies
+16:32 
+
+16:32 fiat et notamment le dollar n'est plus
+16:34 
+
+16:34 baqué par rien du tout si ce n'est la
+16:37 
+
+16:37 confiance
+16:38 
+
+16:38 qu'on qu'on a en lui. Est-ce que tu peux
+16:42 
+
+16:42 nous donner concrètement un peu, c'est
+16:44 
+
+16:44 quels sont les effets notamment
+16:45 
+
+16:45 peut-être depuis 1971 et la fin de cet
+16:48 
+
+16:48 étalon sur en fait la société des effets
+16:51 
+
+16:51 que peut-être on n'imagine pas être lié
+16:54 
+
+16:54 à
+16:55 
+
+16:55 le début d'une grosse impression
+16:57 
+
+16:57 monétaire, une augmentation de
+16:58 
+
+16:58 l'inflation, ce genre de choses-là. Je
+16:60 
+
+17:00 pense notamment au prix de l'immobilier.
+17:02 
+
+17:02 Euh il y avait Jack Manners d'ailleurs
+17:04 
+
+17:04 qui avait fait une conférence et qui
+17:05 
+
+17:05 avait euh euh je crois euh présenté pas
+17:09 
+
+17:09 mal de graphiques euh sur le taux de
+17:11 
+
+17:11 fertilité, le taux de divorce, le le le
+17:15 
+
+17:15 prix de l'immobilier euh et d'autres et
+17:18 
+
+17:18 d'autres et et d'autres graphiques qui
+17:20 
+
+17:20 avaient un point commun, c'est que la
+17:22 
+
+17:22 courbe commençait à augmenter
+17:25 
+
+17:25 à partir de 1971.
+17:28 
+
+17:28 Est-ce que tu peux nous donner un peu
+17:29 
+
+17:29 des exemples concrets comme ça dans la
+17:30 
+
+17:30 vie dans la vie quotidienne pour les
+17:32 
+
+17:32 gens ?
+17:32 
+
+17:32 Alors si on on a moins d'exemples sur la
+17:35 
+
+17:35 France, donc je vais me focaliser un peu
+17:37 
+
+17:37 plus là-dessus. Moi, il y a deux
+17:39 
+
+17:39 exemples que j'aime beaucoup. Donc si on
+17:41 
+
+17:41 vient à ce qu'on disait avant, tu as par
+17:44 
+
+17:44 exemple une vache depuis 5000 ans, elle
+17:47 
+
+17:47 vaut exactement le même point en or. un
+17:49 
+
+17:49 costume
+17:50 
+
+17:50 fait surmesure et euh il a pas forcément
+17:54 
+
+17:54 euh la tronche du costume qu'on a
+17:56 
+
+17:56 aujourd'hui à l'époque de la Renaissance
+17:58 
+
+17:58 ou à l'époque de l'Empire romain, euh
+18:00 
+
+18:00 une toge, tu vois, de bonne fabrique,
+18:03 
+
+18:03 c'était pas du tout le entre guillemets
+18:07 
+
+18:07 le même objet, mais il représente une
+18:10 
+
+18:10 forme de travail humain qui n'a pas
+18:12 
+
+18:12 vraiment de possibilité de gain en
+18:13 
+
+18:13 productivité. C'est-à-dire qu'on on peut
+18:15 
+
+18:15 pas améliorer l'efficience du processus.
+18:17 
+
+18:17 pareil, une coupe de cheveux. Euh OK, on
+18:20 
+
+18:20 a peut-être inventé la technique de OK,
+18:22 
+
+18:22 genre je te tiens les cheveux pour
+18:24 
+
+18:24 égaliser de manière plus intelligente.
+18:27 
+
+18:27 C'est des tu vois, c'est des choses qui
+18:28 
+
+18:28 ont pas changé dans l'histoire et donc
+18:30 
+
+18:30 elle représente finalement une quantité
+18:32 
+
+18:32 de temps humain,
+18:34 
+
+18:34 une quantité de travail euh qui du coup
+18:37 
+
+18:37 est un bon étalon pour se repérer sur
+18:40 
+
+18:40 l'évolution de l'inflation dans le temps
+18:42 
+
+18:42 et à quel point
+18:45 
+
+18:45 on on
+18:47 
+
+18:47 a pu se faire dévaluer.
+18:49 
+
+18:49 Et parce que je reprends l'exemple du
+18:50 
+
+18:50 coiffeur. C'est vrai que moi à l'époque,
+18:52 
+
+18:52 j'allais me faire couper les cheveux il
+18:53 
+
+18:53 y a peut-être 10 ans pour 15 € alors que
+18:55 
+
+18:55 maintenant c'est facilement le le double
+18:57 
+
+18:57 en terme de prix. Donc pour toi, c'est
+18:60 
+
+18:60 un des moyens de mesurer aussi
+19:01 
+
+19:01 l'inflation réelle par rapport à
+19:03 
+
+19:03 l'inflation qui nous est donnée et
+19:05 
+
+19:05 communiquée notamment par l'INC en
+19:06 
+
+19:06 France ou par ses instituts qui peuvent
+19:08 
+
+19:08 être un petit peu un petit peu biaisés.
+19:10 
+
+19:10 On on reviendra là-dessus après. Mais du
+19:13 
+
+19:13 coup, je pense une bonne manière de le
+19:16 
+
+19:16 comprendre, c'est que parce que personne
+19:19 
+
+19:19 ne peut produire d'or et que l'évolution
+19:22 
+
+19:22 de la quantité d'or qui circule dans le
+19:24 
+
+19:24 monde est hyper stable et très
+19:26 
+
+19:26 prédictible depuis des centaines
+19:29 
+
+19:29 d'années, voir des millénaires, le
+19:31 
+
+19:31 pouvoir d'achat, la meilleure manière de
+19:33 
+
+19:33 mesurer l'évolution du pouvoir d'achat
+19:35 
+
+19:35 dans le temps, c'est la valeur d'un bien
+19:36 
+
+19:36 ou d'un service par rapport à une
+19:38 
+
+19:38 quantité d'or.
+19:40 
+
+19:40 Et tu vois par exemple en si tu prends
+19:43 
+
+19:43 1984, toi et moi on éétait pas encore né
+19:45 
+
+19:45 mais c'était on va dire il y a une ou
+19:48 
+
+19:48 deux génération, le salaire le
+19:51 
+
+19:51 l'équivalent du SMIC en France
+19:54 
+
+19:54 si on le mesure en or à l'époque et
+19:57 
+
+19:57 qu'on le convertit aujourd'hui, ce
+19:58 
+
+19:58 serait l'équivalent d'à peu près 7000 €.
+20:01 
+
+20:01 Si tu prends par exemple les biens
+20:04 
+
+20:04 immobiliers en 1984,
+20:06 
+
+20:06 le bien immobilier moyen en France, il
+20:10 
+
+20:10 représentait 2,3 années de salaire
+20:12 
+
+20:12 moyen. Donc c'est-à-dire que pour en
+20:16 
+
+20:16 moyenne, tu vois, pour acquérir un bien
+20:17 
+
+20:17 immobilier,
+20:19 
+
+20:19 pour le petit dame moyen, il lui fallait
+20:21 
+
+20:21 2,3 années d'économie pleine.
+20:24 
+
+20:24 Aujourd'hui, c'est 8 à 9 ans.
+20:27 
+
+20:27 Et c'est là que tu vois que
+20:30 
+
+20:30 tu vois le le foncier, la France n'a pas
+20:33 
+
+20:33 grandi depuis le foncier, on en a pas
+20:35 
+
+20:35 créé plus et le prix nominal de
+20:38 
+
+20:38 l'immobilier n'a cessé d'augmenter. Les
+20:40 
+
+20:40 gens l'ont utilisé comme réserve de
+20:41 
+
+20:41 valeur justement parce que la monnaie
+20:43 
+
+20:43 que le gouvernement a forcé sur les
+20:46 
+
+20:46 agents économiques est devenu de piâtre
+20:48 
+
+20:48 qualité à cause de l'inflation dont tu
+20:50 
+
+20:50 parlais. Les gens ont utilisé
+20:52 
+
+20:52 l'immobilier comme des tirs
+20:54 
+
+20:54 et et plein d'autres biens qui sont en
+20:57 
+
+20:57 fait finalement plus rares que la
+20:59 
+
+20:59 monnaie Fiat émise par les banques
+21:01 
+
+21:01 commerciales et le gouvernement.
+21:04 
+
+21:04 Et du coup quand tu commences à regarder
+21:06 
+
+21:06 ça en or par exemple, tu te rends compte
+21:08 
+
+21:08 que
+21:10 
+
+21:10 tu as plein de gens qui par exemple se
+21:11 
+
+21:11 sentent de plus en plus déclassé, de
+21:13 
+
+21:13 plus en plus pauvre en Occident et ils
+21:16 
+
+21:16 peuvent trouver 1200 raisons,
+21:18 
+
+21:18 l'immigration,
+21:19 
+
+21:19 la mondialisation, tout ce que tu veux
+21:21 
+
+21:21 mais infin
+21:24 
+
+21:24 si tu juste tu regardes l'évolution de
+21:27 
+
+21:27 la masse monétaire ou que tu mesures les
+21:29 
+
+21:29 choses en or, le SMIC aujourd'hui pas au
+21:32 
+
+21:32 sens ce qui le salaire qui devrait être
+21:35 
+
+21:35 fixé par l'État, mais le salaire minimum
+21:40 
+
+21:40 pour un travail de base fourni, ça
+21:42 
+
+21:42 devrait être l'équivalent de 7000 € en
+21:44 
+
+21:44 pouvoir d'achat.
+21:46 
+
+21:46 Et c'est là que tu commences à
+21:47 
+
+21:47 comprendre que euh entre guillemets, il
+21:51 
+
+21:51 y a eu un dysfonctionnement fondamental
+21:53 
+
+21:53 avec l'introduction de ces monnaies
+21:55 
+
+21:55 manipulables
+21:57 
+
+21:57 qui ont créé des effets pervers
+22:00 
+
+22:00 qui seraiit très compliqués à expliquer
+22:02 
+
+22:02 dans l'ensemble, mais qu'on peut résumer
+22:04 
+
+22:04 à si tu crées de la monnaie, tu crées du
+22:08 
+
+22:08 pouvoir d'achat nouveau et du coup tu
+22:11 
+
+22:11 c'est beaucoup plus facile de gagner
+22:14 
+
+22:14 de de la richesse en captant ce pouvoir
+22:17 
+
+22:17 d'achat plutôt qu'en créant de la
+22:19 
+
+22:19 valeur.
+22:21 
+
+22:21 Donc tu as par exemple dans sur les
+22:23 
+
+22:23 monnaies les mieux gérées au monde, tu
+22:24 
+
+22:24 prends le franc suisse, le dollar,
+22:26 
+
+22:26 l'euro, depuis 25 ans, elles ont en
+22:28 
+
+22:28 moyenne à peu près 7 % d'évolution par
+22:31 
+
+22:31 an. Donc ça veut dire que chaque année
+22:34 
+
+22:34 euh il y a 7 % d'euros en plus que
+22:36 
+
+22:36 l'année d'avant.
+22:39 
+
+22:39 Du coup,
+22:41 
+
+22:41 plutôt que d'essayer
+22:43 
+
+22:43 d'avoir une augmentation de ta
+22:45 
+
+22:45 productivité de 7 % par an, ce qui est
+22:47 
+
+22:47 très difficile, la plupart des gens
+22:48 
+
+22:48 n'ont pas une augmentation de salaire de
+22:50 
+
+22:50 7 %. La plupart des entrepreneurs
+22:52 
+
+22:52 n'arrivent pas à faire croître leur
+22:53 
+
+22:53 marge de 7 % par an.
+22:56 
+
+22:56 Vaut mieux acheter des biens qui sont
+22:59 
+
+22:59 plus rares, qui eux évoluent par exemple
+23:01 
+
+23:01 de 1 2 % voire 0 %. Tu vois, on prenait
+23:03 
+
+23:03 l'exemple du foncier, les bouteilles de
+23:05 
+
+23:05 Petrus, les cartes Pokémon, les Bitcoin.
+23:09 
+
+23:09 Il y en a pas d'autres qui seront dévers
+23:10 
+
+23:10 enfin moins qui seront déversés sur le
+23:11 
+
+23:11 marché. Euh
+23:12 
+
+23:12 en tout cas, tu quand tu les achètes, tu
+23:14 
+
+23:14 peux être à peu près certain.
+23:16 
+
+23:16 Tu as des œuvres d'art euh d'artistes
+23:18 
+
+23:18 qui sont décédés, euh tu peux être à peu
+23:21 
+
+23:21 près certain que ils vont relativement
+23:24 
+
+23:24 devenir de plus en plus rares par
+23:25 
+
+23:25 rapport à la quantité d'euros qu'on va
+23:27 
+
+23:27 mettre en face. Et donc finalement, vaut
+23:29 
+
+23:29 mieux acheter ces trucs-là, les garder,
+23:32 
+
+23:32 rester assis sur tes fesses.
+23:35 
+
+23:35 ce qui est hyper pénalisant pour
+23:37 
+
+23:37 l'ensemble de l'économie parce que tu as
+23:38 
+
+23:38 plein de gens qui ont des ressources,
+23:40 
+
+23:40 des talents et qui du coup vont plutôt
+23:43 
+
+23:43 juste finalement essayer d'acquérir les
+23:46 
+
+23:46 réserves de valeur les plus efficaces et
+23:50 
+
+23:50 sortir de de l'économie productive, le
+23:53 
+
+23:53 fait de créer de la valeur pour des
+23:55 
+
+23:55 autres, de mettre leur talent finalement
+23:56 
+
+23:56 au service d'eux-même et du monde. Et le
+23:59 
+
+23:59 gars qui lui n'a pas accès à ça, il va
+24:01 
+
+24:01 continuer à bosser, il va continuer à
+24:02 
+
+24:02 créer de la valeur, il va continuer à
+24:06 
+
+24:06 générer des ressources et cetera, mais
+24:10 
+
+24:10 les biens réels, tu vois, ce qui fait
+24:12 
+
+24:12 que l'économie enfin fonctionne et que
+24:15 
+
+24:15 genrefin
+24:17 
+
+24:17 valorise les biens économiques, c'est
+24:18 
+
+24:18 l'utilité qu'on en a. C'est c'est si tu
+24:22 
+
+24:22 veux les entrepreneurs qui créent des
+24:23 
+
+24:23 trucs, c'est les mecs qui bossent et
+24:24 
+
+24:24 cetera. Bah ces gars-là en fait, ils
+24:26 
+
+24:26 vont se faire spoiler petit à petit par
+24:29 
+
+24:29 les types qui ont accès aux meilleures
+24:31 
+
+24:31 réserves de valeur parce que ils sont
+24:34 
+
+24:34 cantonnés à utiliser une monnaie
+24:36 
+
+24:36 très inflationniste et finalement à
+24:39 
+
+24:39 travailler pour de moins en moins de
+24:41 
+
+24:41 rémunération réelle. Donc c'est
+24:43 
+
+24:43 l'exemple que je prenais avec tu as le
+24:45 
+
+24:45 le SMIC qui finalement aujourd'hui est à
+24:48 
+
+24:48 1300 € 1200 € à peu près et qui
+24:50 
+
+24:50 normalement devrait être à 7000. Bah le
+24:52 
+
+24:52 gap entre les deux c'est en fait ce
+24:55 
+
+24:55 qu'on a redistribué des gens qui créent
+24:57 
+
+24:57 de la verleur vers ceux qui peuvent la
+24:59 
+
+24:59 capter parce qu'ils ont accès à la fois
+25:01 
+
+25:01 du crédit et à la fois à des meilleures
+25:03 
+
+25:03 réserves de valeur que en fait les gens
+25:06 
+
+25:06 qui ont besoin de bosser pour vivre. En
+25:08 
+
+25:08 fait, les travailleurs sont un peu
+25:09 
+
+25:09 spoilés pour ceux qui détiennent les
+25:11 
+
+25:11 actifs euh détiennent des actifs qui
+25:14 
+
+25:14 s'apprécient plus vite que euh ce que la
+25:17 
+
+25:17 rémunération d'un travailleur augmente
+25:18 
+
+25:18 quoi.
+25:19 
+
+25:19 Et c'est même pas que les travailleurs,
+25:21 
+
+25:21 c'est les créateurs de valeurs au sens
+25:22 
+
+25:22 large, c'est valable aussi pour les
+25:24 
+
+25:24 entrepreneurs. Si tu prends, tu si on
+25:26 
+
+25:26 prend un micro exemple, l'idée même de
+25:29 
+
+25:29 la startup nation dans laquelle on vit
+25:30 
+
+25:30 depuis 10 ans et pas qu'en France, dans
+25:32 
+
+25:32 la plupart des pays développés,
+25:33 
+
+25:33 finalement ça consiste à un jeu où va
+25:36 
+
+25:36 falloir lever le plus de fonds possible
+25:39 
+
+25:39 en essayant de créer les narratifs les
+25:40 
+
+25:40 plus boulish possibles sans jamais
+25:43 
+
+25:43 atteindre un point de rentabilité, sans
+25:44 
+
+25:44 jamais fournir des produits qui vont
+25:47 
+
+25:47 vraiment se développer et être
+25:49 
+
+25:49 distribués massivement à des clients à
+25:51 
+
+25:51 un prix sur le marché librement choisi.
+25:56 
+
+25:56 Et si tu essayes entre guillemets de de
+25:60 
+
+25:60 de
+26:02 
+
+26:02 d'obtenir une rentabilité vraiment de de
+26:04 
+
+26:04 jouer ce jeu économique, tu vas perdre
+26:07 
+
+26:07 face au mec qui va juste acheter un ETF,
+26:09 
+
+26:09 une 11 on d'or, une bouteille de Petrus,
+26:13 
+
+26:13 une voiture de collection, une œuvre
+26:15 
+
+26:15 d'art, que sais-je en fait n'importe
+26:17 
+
+26:17 quel bien qui va servir de meilleure
+26:20 
+
+26:20 réserve de valeur que la monnaie. Donc
+26:21 
+
+26:21 tu vois le le le thème sur lequel on
+26:24 
+
+26:24 revient toujours, c'est quand le
+26:26 
+
+26:26 gouvernement corromp la monnaie, il
+26:28 
+
+26:28 détruit les phénomènes économiques qui
+26:31 
+
+26:31 sont une sorte de de d'horloge très très
+26:34 
+
+26:34 fine et qui sont basées sur des
+26:36 
+
+26:36 incitations très importantes qui font
+26:38 
+
+26:38 que la création de valeur est
+26:40 
+
+26:40 récompensée par une captation de valeur.
+26:43 
+
+26:43 Et quand tu quand le gouvernement
+26:44 
+
+26:44 corrond la monnaie, on arrive dans un
+26:46 
+
+26:46 monde où la captation de valeur est
+26:48 
+
+26:48 déconnectée de la création de valeur. Et
+26:49 
+
+26:49 du coup, on se retrouve tous, parce
+26:51 
+
+26:51 qu'on a tous un intérêt propre et qu'on
+26:53 
+
+26:53 n pas débile à se battre pour jouer au
+26:56 
+
+26:56 jeu de la captation de valeur au lieu
+26:58 
+
+26:58 d'en crer. Et du coup, les économies
+27:00 
+
+27:00 s'effondent parce que bah s'il y a plus
+27:03 
+
+27:03 personne qui crée de la valeur parce que
+27:04 
+
+27:04 ça devient euh juste un un jeu de con et
+27:07 
+
+27:07 c'est plus rentable et tu deviens
+27:09 
+
+27:09 finalement le le dindon de la farce, euh
+27:13 
+
+27:13 tu tu es plus incité à essayer de te
+27:18 
+
+27:18 battre plus vite que les autres et avec
+27:20 
+
+27:20 des meilleurs moyens et avec des
+27:21 
+
+27:21 nouvelles stratégies à essayer de capter
+27:23 
+
+27:23 le peu de valeur qui reste créé par
+27:25 
+
+27:25 l'économie réelle plutôt que finalement
+27:28 
+
+27:28 d'être incité à vraiment créer de la
+27:31 
+
+27:31 valeur. Et juste pour terminer sur ce
+27:34 
+
+27:34 point, tu vois, par exemple dans les
+27:36 
+
+27:36 depuis à peu près 50 ans dans les pays
+27:38 
+
+27:38 développés, on a une haine de la
+27:40 
+
+27:40 richesse qui est perçue comme une sorte
+27:42 
+
+27:42 de spoliation. Je pense qu'avec les les
+27:44 
+
+27:44 discours en France aujourd'hui, la Tex
+27:46 
+
+27:46 du et tous ces trucs-là qui sont hyper
+27:48 
+
+27:48 consensuels pour la plupart de la
+27:49 
+
+27:49 population. Euh et et ça part d'un
+27:51 
+
+27:51 sentiment qui est assez juste,
+27:53 
+
+27:53 c'est-à-dire que la plupart des gens se
+27:55 
+
+27:55 disent "Mais finalement euh
+27:58 
+
+27:58 ces gens-là sont dans la spoliation et
+28:02 
+
+28:02 du coup ils associent l'idée de se dire
+28:05 
+
+28:05 si tu es riche, c'est que tu as volé."
+28:07 
+
+28:07 Alors que dans une économie avec une
+28:09 
+
+28:09 monnaie saine, en fait quelqu'un qui a
+28:12 
+
+28:12 créé une fortune, c'est quelqu'un qui a
+28:14 
+
+28:14 apporté énormément de valeur à des
+28:15 
+
+28:15 consommateurs qui étaient libres de
+28:17 
+
+28:17 choisir ça. Et donc c'est quelqu'un qui
+28:20 
+
+28:20 quelque part a été très vertueux dans la
+28:22 
+
+28:22 manière dont il a créé sa fortune. Donc
+28:24 
+
+28:24 il aurait même pas besoin d'en faire
+28:26 
+
+28:26 charité ou de la redistribuer parce qu'
+28:28 
+
+28:28 il a déjà apporté plus que ce qu'il n'a
+28:32 
+
+28:32 pu acquérir pour constituer sa fortune.
+28:35 
+
+28:35 Dans un monde où la monnaie est
+28:37 
+
+28:37 corrompue avec le gouvernement par enfin
+28:39 
+
+28:39 par le gouvernement pardon, tu peux
+28:41 
+
+28:41 générer une fortune gigantesque sans
+28:43 
+
+28:43 apporter rien à qui que ce soit juste
+28:45 
+
+28:45 parce que tu as su surfer sur
+28:48 
+
+28:48 l'inflation. Donc ça c'est tu parles
+28:50 
+
+28:50 j'imagine de l'effet quantillon le fait
+28:52 
+
+28:52 que les riches peuvent faire des crédits
+28:54 
+
+28:54 extrêmement facilement alors qu'une
+28:56 
+
+28:56 personne beaucoup plus pauvre ne peut ne
+28:58 
+
+28:58 le peut pas. C'est ça le la meilleure
+29:02 
+
+29:02 explication de ce phénomène, c'est un
+29:03 
+
+29:03 économiste franco-irlandais du 18e
+29:06 
+
+29:06 siècle qui s'appelle Richard de
+29:08 
+
+29:08 Cantillon et qui expliqua un truc qui
+29:10 
+
+29:10 est en fait assez con mais qu'on a
+29:12 
+
+29:12 complètement oublié, c'est que quand
+29:14 
+
+29:14 quelqu'un crée de la monnaie, que ce
+29:14 
+
+29:14 soit une banque, le gouvernement, même
+29:16 
+
+29:16 un faux, d'abord elle est elle rentre
+29:19 
+
+29:19 dans l'économie à un certain endroit, tu
+29:21 
+
+29:21 vois, mettons j'ai une presse à
+29:22 
+
+29:22 imprimer, je te file des euros, toi tu
+29:26 
+
+29:26 vas pouvoir les récupérer. Ça c'est du
+29:28 
+
+29:28 pouvoir d'achat nouveau. Tu vas les
+29:29 
+
+29:29 dépenser et donc toi tu as du pouvoir
+29:32 
+
+29:32 d'achat face à une structure de prix tu
+29:34 
+
+29:34 vois qui n'a pas été altéré par
+29:37 
+
+29:37 l'existence de ce pouvoir d'achat
+29:38 
+
+29:38 nouveau. Personne à part toi ne sait
+29:40 
+
+29:40 qu'il existe. Donc le mec à qui tu vas
+29:42 
+
+29:42 acheter ta voiture auprès de qui tu vas
+29:45 
+
+29:45 faire tes courses et cetera, il a pas de
+29:46 
+
+29:46 raison de faire évoluer ses prix. Tu lui
+29:49 
+
+29:49 files cet argent. Lui à ce moment-là, il
+29:51 
+
+29:51 va aller dépenser auprès de quelqu'un
+29:52 
+
+29:52 d'autre. Il va aller chez son garagiste,
+29:54 
+
+29:54 chez son dentiste et cetera. Et de
+29:55 
+
+29:55 proche en proche, comme ça la monnaie va
+29:57 
+
+29:57 circuler. Plus tu es proche de sa source
+29:59 
+
+29:59 de création, plus en fait tu vas pouvoir
+30:01 
+
+30:01 avoir un pouvoir d'achat qui est
+30:04 
+
+30:04 important parce que tu as accès à ce
+30:06 
+
+30:06 pouvoir d'achat nouveau, mais les prix
+30:08 
+
+30:08 n'ont pas été impactés par la
+30:09 
+
+30:09 circulation de cette monnaie
+30:10 
+
+30:10 nouvellement créée. Et plus tu te
+30:12 
+
+30:12 retrouves en bout de chaîne, plus les
+30:14 
+
+30:14 agents économiques au fur et à mesure
+30:16 
+
+30:16 parce qu'ils se rendent bien compte que
+30:17 
+
+30:17 chaque unité monétaire achète de moins
+30:20 
+
+30:20 en moins de biens réel va se retrouver à
+30:22 
+
+30:22 faire évoluer ses prix, à augmenter les
+30:24 
+
+30:24 prix auxquels il va vendre les biens et
+30:26 
+
+30:26 services qui met sur le marché. Et donc
+30:28 
+
+30:28 plus tu es en bout de chaîne, moins tu
+30:30 
+
+30:30 vas bénéficier de cet effet-là et plus
+30:32 
+
+30:32 tu vas te faire spoolier parce que ce
+30:34 
+
+30:34 que tu fournissais avant, quel que soit
+30:36 
+
+30:36 ton métier, quelle que soit ton
+30:37 
+
+30:37 activité, finalement va se retrouver
+30:38 
+
+30:38 complètement dévalué. Et donc c'est une
+30:41 
+
+30:41 forme de redistribution complètement
+30:42 
+
+30:42 perverse et complètement insidieuse
+30:46 
+
+30:46 des gens qui sont proches de la presse
+30:49 
+
+30:49 imprée, c'està-dire souvent du pouvoir
+30:50 
+
+30:50 politique ou des réserves de valeur de
+30:53 
+
+30:53 choix.
+30:55 
+
+30:55 Donc aujourd'hui dans le monde dans
+30:56 
+
+30:56 lequel on vit de la financiérisation au
+30:58 
+
+30:58 détriment des gens qui vivent de leur
+31:00 
+
+31:00 travail ou créent de la valeur ou sont
+31:02 
+
+31:02 finalement dans une encore une forme
+31:05 
+
+31:05 d'économie réelle et dans la création de
+31:06 
+
+31:06 valeur dont on parlait avant. Petite
+31:08 
+
+31:08 anecdote, Richard Decantillon, le
+31:12 
+
+31:12 peut-être le premier épisode
+31:13 
+
+31:13 d'hyperinflation dans l'histoire, il a
+31:15 
+
+31:15 eu lieu en France donc au à l'hyper
+31:18 
+
+31:18 centre de Paris euh pas très loin de
+31:21 
+
+31:21 Châtelet au niveau de la ruecampois,
+31:23 
+
+31:23 juste à côté de l'hôtel de ville. À
+31:25 
+
+31:25 l'époque, c'est là qui était le
+31:26 
+
+31:26 l'équivalent du stock market actuel.
+31:28 
+
+31:28 Donc c'était des actions qu'on
+31:29 
+
+31:29 s'échangeait en papier à la criée et euh
+31:33 
+
+31:33 au à l'époque de de duc d'Orléan qui
+31:36 
+
+31:36 était régent pour Louis XV trop jeune
+31:38 
+
+31:38 pour régner, il y a un un britannique en
+31:42 
+
+31:42 anglais il me semble qui s'appelait John
+31:44 
+
+31:44 L et qui après s'est retrouvé nommé John
+31:47 
+
+31:47 L de l'oriston qui est venu voir le roi
+31:49 
+
+31:49 de le enfin le duc d'Orléan le régent de
+31:51 
+
+31:51 France à l'époque où les finances
+31:54 
+
+31:54 publiques étaient exang à cause du règne
+31:55 
+
+31:55 de Louis de Louis XIV et lui a dit,
+31:57 
+
+31:57 "Moi, j'ai une super idée pour vous
+31:59 
+
+31:59 permettre de pouvoir refinancer l'État.
+32:02 
+
+32:02 Donnez-moi le monopole d'émission de la
+32:04 
+
+32:04 monnaie, permettez-moi de créer une
+32:06 
+
+32:06 banque nationale et je vais régler le
+32:10 
+
+32:10 l'économie française."
+32:14 
+
+32:14 Le duc le duc d'Orléan a accepté. Il lui
+32:16 
+
+32:16 a donné le monopole d'émission de la
+32:17 
+
+32:17 monnaie. Il a créé quasiment une des
+32:19 
+
+32:19 premières monnaes papier de l'histoire
+32:21 
+
+32:21 moderne et Richard de Cancéon voyant ce
+32:25 
+
+32:25 qui se passait en France et voyant du
+32:28 
+
+32:28 coup l'exubérance de des bulles dans le
+32:32 
+
+32:32 marché d'action de la rue Quincampois
+32:34 
+
+32:34 parce que évidemment vu qu'il y a eu
+32:36 
+
+32:36 plein de monaies nouvelles qui étaient
+32:37 
+
+32:37 créées, le la détention d'or était
+32:39 
+
+32:39 interdite. La monnaie était baquée par
+32:40 
+
+32:40 rien. tu étais obligé par des cret royal
+32:43 
+
+32:43 détenir la monnaie de la Banque royale
+32:45 
+
+32:45 émise par John Low et avec le saut
+32:49 
+
+32:49 royal.
+32:51 
+
+32:51 Tu tu t'imagines que le prix de tout a
+32:53 
+
+32:53 commencé à augmenter et Richard de
+32:56 
+
+32:56 Cantillon a short tout ça et il a fait
+32:59 
+
+32:59 sa fortune là-dessus parce que justement
+33:01 
+
+33:01 il comprenait que tu peux pas créer de
+33:03 
+
+33:03 la valeur en créant du papier. Euh tu
+33:06 
+
+33:06 vois, c'est Dynamous dont on dont on
+33:07 
+
+33:07 parlait avant a une super image pour
+33:09 
+
+33:09 expliquer ça.
+33:11 
+
+33:11 Le Parc des Princes compte à peu près 45
+33:13 
+
+33:13 46000 places. Si tu mets 100000 tickets,
+33:17 
+
+33:17 tu vas pas créer des sièges en fait. Tu
+33:18 
+
+33:18 vas juste faire en sorte que tu es une
+33:19 
+
+33:19 personne sur deux qui se battent pour
+33:22 
+
+33:22 avoir un siège. Et c'est exactement le
+33:24 
+
+33:24 même phénomène avec la monnaie. C'estàd
+33:25 
+
+33:25 que si tu as pas augmenté la capacité
+33:28 
+
+33:28 productive de l'économie et les biens en
+33:30 
+
+33:30 circulation et leur qualité, en fait, tu
+33:33 
+
+33:33 crées juste une dilution de ce que
+33:35 
+
+33:35 chaque unité, ce que chaque ticket te
+33:37 
+
+33:37 permet d'acheter comme place dans le
+33:38 
+
+33:38 stade. Et pendant un moment, tu as
+33:41 
+
+33:41 l'impression parce que tu as ton ticket
+33:42 
+
+33:42 en main que bah du coup, tu tu as
+33:45 
+
+33:45 quelque chose qui a de la valeur. Et le
+33:47 
+
+33:47 jour où tu rentres et que tu dois te
+33:49 
+
+33:49 taper avec un mec pour lui dire "Non
+33:51 
+
+33:51 mais ça c'est ma place." et lui il va
+33:52 
+
+33:52 dire "Non et ça aussi c'est la mienne."
+33:54 
+
+33:54 Là tu te rends compte que bah finalement
+33:56 
+
+33:56 tout le monde s'est fait arnaquer par le
+33:57 
+
+33:57 gars qui avait la possibilité d'imprimer
+33:58 
+
+33:58 des faux tickets. C'est un peu ça le
+34:01 
+
+34:01 problème fondamental qu'on a avec les
+34:03 
+
+34:03 monéfiates qui sont basées sur rien et
+34:05 
+
+34:05 qu'on peut émettre de manière
+34:06 
+
+34:06 complètement artificielle et politique.
+34:09 
+
+34:09 Pour revenir sur l'inflation, en fait on
+34:12 
+
+34:12 voit le prix donc des différents biens
+34:15 
+
+34:15 augmentés.
+34:17 
+
+34:17 Là, je parle des biens, je veux parler
+34:18 
+
+34:18 plus des biens de consommation, mais en
+34:20 
+
+34:20 fait les prix des biens de consommation
+34:21 
+
+34:21 devraient plutôt baisser avec les
+34:22 
+
+34:22 pourrait technologiques, j'imagine. Du
+34:25 
+
+34:25 coup, c'est cette inflation là et cette
+34:27 
+
+34:27 création monétaire qui fait que les
+34:29 
+
+34:29 biens et les services voient leur prix
+34:32 
+
+34:32 voient leur prix augmenter. Si tu prends
+34:33 
+
+34:33 par exemple le coût d'un mA de stockage
+34:36 
+
+34:36 informatique, d'un mA de transmission
+34:39 
+
+34:39 d'information
+34:40 
+
+34:40 sur les 20 30 dernières années, le coût
+34:45 
+
+34:45 complètement c'est complètement écrasé.
+34:48 
+
+34:48 Il il est descendu exponentiellement
+34:52 
+
+34:52 et pourtant l'économie numérique est
+34:55 
+
+34:55 probablement une des économies les plus
+34:56 
+
+34:56 rentables et qui est connaît la plus
+34:59 
+
+34:59 grande croissance dans dans le monde
+35:01 
+
+35:01 dans lequel on vit.
+35:03 
+
+35:03 Et donc un phénomène économique qui
+35:04 
+
+35:04 fonctionne bien, c'est ça, c'est tuin
+35:05 
+
+35:05 investis, du coup tu crées des gains en
+35:07 
+
+35:07 productivité, du coup on crée la même
+35:10 
+
+35:10 valeur qu'avant. Donc des biens de
+35:13 
+
+35:13 meilleure qualité et en plus grande
+35:14 
+
+35:14 quantité pour moins cher avec moins de
+35:17 
+
+35:17 ressources engagées.
+35:19 
+
+35:19 Si par contre derrière
+35:22 
+
+35:22 tu fais cette impression de ticket dans
+35:24 
+
+35:24 le stade et que tu crées plein de
+35:25 
+
+35:25 pouvoirs d'achat artificiel, tu vas
+35:27 
+
+35:27 avoir cette espèce de compensation de
+35:31 
+
+35:31 l'effet de la productivité réelle
+35:33 
+
+35:33 générée par l'économie
+35:35 
+
+35:35 qui finalement rend difficile à déceler
+35:39 
+
+35:39 cette spolation. Parce que tu peux avoir
+35:42 
+
+35:42 par exemple des biens de consommation
+35:43 
+
+35:43 que ce soit dans l'agroalimentaire dans
+35:46 
+
+35:46 lequel il y a eu énormément de gains en
+35:47 
+
+35:47 productivité ces dernières années plutôt
+35:49 
+
+35:49 en productivité sur la quantité que sur
+35:51 
+
+35:51 la qualité sur le stockage informatique
+35:54 
+
+35:54 pareil sur même la distribution des
+35:56 
+
+35:56 biens avec l'avèement de l'économie
+35:58 
+
+35:58 numérique aujourd'hui c'est beaucoup
+35:59 
+
+35:59 plus facile de bien distribuer des
+36:01 
+
+36:01 billets d'avion des repas tout ce que tu
+36:04 
+
+36:04 veux et normalement on devrait
+36:08 
+
+36:08 avoir l'effet que par rapport rapport à
+36:11 
+
+36:11 tes parents ou les miens, on devrait
+36:13 
+
+36:13 avoir le même repas, le même trajet, la
+36:16 
+
+36:16 même qualité de de la même expérience de
+36:18 
+
+36:18 voyage et cetera pour beaucoup moins
+36:21 
+
+36:21 cher. Sauf que si entre-temps tu as eu,
+36:24 
+
+36:24 mettons,
+36:26 
+
+36:26 un dégâts en productivité sur 30 ans
+36:29 
+
+36:29 de X 4, c'est-à-dire que on fait
+36:32 
+
+36:32 exactement la même chose mais avec un/4
+36:34 
+
+36:34 des ressources que ça nous demandait
+36:35 
+
+36:35 avant mais que tu as créé 20 fois plus
+36:38 
+
+36:38 de monnaie,
+36:39 
+
+36:39 bah
+36:41 
+
+36:41 finalement c'est
+36:43 
+
+36:43 soit cin fois moins bien pour le même
+36:44 
+
+36:44 prix, soit cin fois plus cher pour la
+36:47 
+
+36:47 même qualité.
+36:48 
+
+36:48 Et du coup, on a cette espèce de de
+36:52 
+
+36:52 d'impression un peu schizophrénique dans
+36:54 
+
+36:54 l'économie moderne. On voit bien que on
+36:57 
+
+36:57 est de plus en plus efficace pour faire
+36:58 
+
+36:58 plein de trucs. La plupart des
+36:59 
+
+36:59 ingénieurs, des gens qui sont au au plus
+37:02 
+
+37:02 proche des phénomènes productifs se
+37:03 
+
+37:03 rendent bien compte que on a des
+37:04 
+
+37:04 meilleures machines, on a plus de
+37:06 
+
+37:06 ressources, on est beaucoup plus
+37:07 
+
+37:07 efficace, on arrive à à vraiment
+37:09 
+
+37:09 optimiser beaucoup de phénomènes et en
+37:12 
+
+37:12 même temps les gens deviennent de plus
+37:13 
+
+37:13 en plus pauvres.
+37:15 
+
+37:15 Alors que normalement
+37:17 
+
+37:17 si et c'est pour ça que tu vois c'est
+37:18 
+
+37:18 intéressant de mesurer les prix en or.
+37:21 
+
+37:21 Si on enlève l'effet de l'inflation
+37:23 
+
+37:23 là-dedans, en fait on se retrouve dans
+37:26 
+
+37:26 cette situation où l'économie devient de
+37:28 
+
+37:28 plus en plus productive parce qu'elle a
+37:30 
+
+37:30 accumulé de plus en plus de capital,
+37:32 
+
+37:32 parce qu'elle s'est améliorée, elle a de
+37:33 
+
+37:33 plus en plus de technologies à sa
+37:34 
+
+37:34 disposition, il y a de plus en plus de
+37:36 
+
+37:36 division du travail et de
+37:37 
+
+37:37 spécialisation. Et du coup, normalement
+37:40 
+
+37:40 ça devrait se traduire par des gains
+37:43 
+
+37:43 économiques et une augmentation de la
+37:46 
+
+37:46 prospérité, des conditions de vie pour
+37:47 
+
+37:47 tout le monde parce que on est tous
+37:49 
+
+37:49 consommateurs et donc on se retrouve
+37:51 
+
+37:51 tous dans cette situation où on a des
+37:53 
+
+37:53 biens de meilleure qualité pour moins
+37:54 
+
+37:54 cher et à l'inverse, on se retrouve dans
+37:57 
+
+37:57 cette situation où on a des points de
+37:59 
+
+37:59 l'économie qui ont tellement de
+38:00 
+
+38:00 productivité que là on voit les gars en
+38:02 
+
+38:02 productivité et d'autres où par exemple
+38:05 
+
+38:05 si tu prends la santé, l'éducation,
+38:07 
+
+38:07 je parlais des vaches par exemple, mais
+38:08 
+
+38:08 la viande, les tu vois les choses où il
+38:11 
+
+38:11 y a pas de gain en productivité massif à
+38:13 
+
+38:13 l'époque moderne, ça coûte de plus en
+38:15 
+
+38:15 plus cher et on comprend pas pourquoi.
+38:18 
+
+38:18 Et c'est pas qu'on est devenu moins bon
+38:20 
+
+38:20 à fabriquer ces trucl, c'est juste que
+38:22 
+
+38:22 on a complètement dilué la réalité des
+38:26 
+
+38:26 prix et que en fait on paye pour des
+38:29 
+
+38:29 gens qui vont voler notre pouvoir
+38:30 
+
+38:30 d'achat sans forcément qui qui ait une
+38:34 
+
+38:34 sorte de complot ou qui a une
+38:35 
+
+38:35 malveillance derrière. C'est juste que
+38:37 
+
+38:37 le système est si fait, que ils ont
+38:40 
+
+38:40 intérêt à l'utiliser de cette manière-là
+38:43 
+
+38:43 et on paye tous collectivement pour
+38:45 
+
+38:45 cette connerie.
+38:45 
+
+38:45 Et ça me fait penser, bah on en parlait,
+38:48 
+
+38:48 j'en parlais juste avant à cette courbe
+38:50 
+
+38:50 en fait du taux d'obésité qui explose à
+38:53 
+
+38:53 partir de 1971 et en fait on voit que
+38:56 
+
+38:56 c'est pas forcément le prix euh des la
+38:60 
+
+38:60 nourriture qui aurait augmenté. Alors
+39:01 
+
+39:01 bon, la viande si évidemment et certains
+39:03 
+
+39:03 certains produits, mais c'est aussi la
+39:04 
+
+39:04 qualité en fait pour ne pas augmenter le
+39:07 
+
+39:07 prix de ces denrées là, on va baisser la
+39:09 
+
+39:09 qualité et donc on va en fait
+39:12 
+
+39:12 empoisonner entre guillemets la
+39:14 
+
+39:14 population et donc faire augmenter ce
+39:16 
+
+39:16 taux d'obésité, le taux de maladie et
+39:17 
+
+39:17 cetera. Alors, c'est vraiment un vaste
+39:20 
+
+39:20 sujet, mais la manière très high level
+39:23 
+
+39:23 de d'essayer de l'expliquer, c'est que
+39:25 
+
+39:25 si tu es dans un monde en inflation,
+39:26 
+
+39:26 l'agriculture c'est quelque chose qui
+39:28 
+
+39:28 n'a pas des gains en productivité comme
+39:30 
+
+39:30 l'informatique. Tu tu peux pas espérer
+39:32 
+
+39:32 avoir des gains en productivité euh très
+39:36 
+
+39:36 rapide et euh très violent. C'est pour
+39:39 
+
+39:39 ça que je prenais l'exemple d'une vache.
+39:40 
+
+39:40 Fondamentalement, que ce soit à l'époque
+39:43 
+
+39:43 de la Mésopotamie il y a 6000 ans ou
+39:45 
+
+39:45 aujourd'hui, pour euh avoir une vache
+39:49 
+
+39:49 nourrie à l'herbe de bonne qualité, il
+39:51 
+
+39:51 faut du temps, un pâturage, donc une
+39:53 
+
+39:53 certaine quantité de sol et tu peux pas
+39:56 
+
+39:56 améliorer ce phénomène. Tu vois, il y a
+39:58 
+
+39:58 pas de machine qui va te permettre de
+39:60 
+
+39:60 faire en sorte que ça aille plus vite,
+40:01 
+
+40:01 que tu économises du travail humain, de
+40:03 
+
+40:03 la terre et cetera ou alors de manière
+40:05 
+
+40:05 très marginale.
+40:07 
+
+40:07 À l'inverse, si tu commences à faire des
+40:11 
+
+40:11 steaks de soja, si tu commences à [ __ ]
+40:13 
+
+40:13 du sucre partout, si tu commences à
+40:16 
+
+40:16 créer des comment dire des souches
+40:19 
+
+40:19 modifiées génétiquement pour qu'elles
+40:21 
+
+40:21 puissent se replanter à n'importe quelle
+40:23 
+
+40:23 saison, que tu puisses les planter dans
+40:25 
+
+40:25 des sols qui n'ont plus de nutriment
+40:26 
+
+40:26 dans qu'on a plus besoin de mettre en
+40:27 
+
+40:27 jacher, ou finalement tu as plus besoin
+40:30 
+
+40:30 de cette cette ressource
+40:33 
+
+40:33 ta viande, tu te mélanges ta viande avec
+40:34 
+
+40:34 d'autres ingrédients justement pour voir
+40:37 
+
+40:37 avec une même vache faire deux fois plus
+40:38 
+
+40:38 de viande parce que tu la coupes avec
+40:40 
+
+40:40 d'autres
+40:40 
+
+40:40 Non, c'est même plus c'est c'est c'est
+40:42 
+
+40:42 c'est même plus finalement une vache.
+40:44 
+
+40:44 C'est juste que
+40:47 
+
+40:47 si tu regardes même l'évolution des
+40:48 
+
+40:48 régimes alimentaires, c'est un phénomène
+40:51 
+
+40:51 très moderne que de dire que les
+40:52 
+
+40:52 protéines, la graisse animale et les
+40:55 
+
+40:55 produits animaux sont mauvais pour ta
+40:57 
+
+40:57 santé alors que ça a été l'alimentation
+40:59 
+
+40:59 de nos aïeux pendant des millions
+41:01 
+
+41:01 d'années. parce que finalement dans un
+41:03 
+
+41:03 monde où tu as de l'inflation monétaire
+41:06 
+
+41:06 et où du coup le prix de n'importe quoi
+41:09 
+
+41:09 va augmenter tendantiellement à cause de
+41:11 
+
+41:11 l'impression monétaire,
+41:14 
+
+41:14 si tu par exemple si tu fais de la
+41:15 
+
+41:15 culture de soja intensive ou de la
+41:17 
+
+41:17 culture de de de seil d'huile de palme,
+41:20 
+
+41:20 d'huile de colza, tu fais de la culture
+41:22 
+
+41:22 même de céréales, tu tu vas pouvoir
+41:25 
+
+41:25 mécaniser tout ça, tu vas pouvoir
+41:27 
+
+41:27 consolider des terres, tu vas pouvoir
+41:28 
+
+41:28 gagner en productivité grâce à des
+41:30 
+
+41:30 économies d'échelle Et là, tu vas
+41:32 
+
+41:32 pouvoir du coup avoir des gains en
+41:34 
+
+41:34 productivité qui permettent de
+41:36 
+
+41:36 contrecarrer l'inflation monétaire. Et
+41:38 
+
+41:38 donc si je suis malveillant et que je
+41:42 
+
+41:42 suis d'adon, mon but c'est d'expliquer
+41:45 
+
+41:45 aux gens que ça c'est bon pour eux, que
+41:47 
+
+41:47 finalement ça c'est un très bon régime,
+41:48 
+
+41:48 c'est ça qu'ils doivent acheter, c'est
+41:50 
+
+41:50 bon pour leur santé et cetera. Tout
+41:52 
+
+41:52 simplement parce que sinon ce que je
+41:53 
+
+41:53 dois leur expliquer c'est je peux pas
+41:55 
+
+41:55 faire croître la vache plus vite. Je
+41:57 
+
+41:57 peux pas faire en sorte qu'elle qu'elle
+41:60 
+
+41:60 que quelque part qu'elle se développe
+42:02 
+
+42:02 plus vite, qu'elle qu'elle évolue plus
+42:04 
+
+42:04 vite. Par contre, elle va vous coûter à
+42:07 
+
+42:07 peu près deux fois plus cher tous les 7
+42:08 
+
+42:08 ans. Donc vous devenez pauvre. Donc vous
+42:11 
+
+42:11 êtes en train de de finalement de vous
+42:14 
+
+42:14 faire arnaquer et moi en tant que
+42:17 
+
+42:17 d'anon, bah euh je peux plus vous avoir
+42:19 
+
+42:19 comme client parce que vous avez plus
+42:20 
+
+42:20 les moyens d'acheter ma viande. Donc
+42:21 
+
+42:21 j'ai plutôt intérêt à aller dans des
+42:24 
+
+42:24 agricultures de plus en plus intensives
+42:26 
+
+42:26 avec des sols qui ont de moins en moins
+42:27 
+
+42:27 de nutriments parce que on va utiliser
+42:30 
+
+42:30 de plus en plus de produits chimiques,
+42:31 
+
+42:31 de plus en plus de mécanisation et
+42:33 
+
+42:33 cetera.
+42:34 
+
+42:34 Et fondamentalement,
+42:37 
+
+42:37 ça te permet de maintenir un niveau de
+42:41 
+
+42:41 supp alimentaire, de fourniture
+42:43 
+
+42:43 alimentaire qui est euh très important,
+42:47 
+
+42:47 mais tu détruis toutes les qualités
+42:49 
+
+42:49 nutritives de l'alimentation. Tu fais en
+42:52 
+
+42:52 sorte que les gens passent finalement à
+42:55 
+
+42:55 des des modes de consommation où ils
+42:57 
+
+42:57 vont manger des acides grass saturé, du
+43:00 
+
+43:00 sucre parce que sur ces trucs-là, tu
+43:03 
+
+43:03 peux avoir des gains en productivité
+43:04 
+
+43:04 énormes. Alors que bah sur une vache,
+43:07 
+
+43:07 sur des œufs, sur du fromage, sur du
+43:10 
+
+43:10 lait, sur des choses comme ça, tu vas
+43:12 
+
+43:12 pas pouvoir squeezer beaucoup de
+43:14 
+
+43:14 productivité quoi que tu fasses.
+43:16 
+
+43:16 Ouais, c'est une question de préférence
+43:17 
+
+43:17 temporelle, mais on va en parler, on va
+43:19 
+
+43:19 en parler juste après. Je voulais juste
+43:21 
+
+43:21 finir sur ce sujet parce qu'on a parlé
+43:23 
+
+43:23 de l'INC il y a un moment maintenant et
+43:25 
+
+43:25 donc je voulais revenir rapidement
+43:26 
+
+43:26 dessus mais sur le calcul de l'inflation
+43:28 
+
+43:28 bah en fait c'est tout toutes ces
+43:30 
+
+43:30 chosesl le calcul de l'inflation fait
+43:32 
+
+43:32 par l'INC bah en France ne le prend pas
+43:34 
+
+43:34 en compte c'est comme
+43:37 
+
+43:37 voilà l'augmentation du prix de
+43:38 
+
+43:38 l'immobilier et cetera donc il y a il y
+43:40 
+
+43:40 a l'inflation qu'on nous annonce et puis
+43:42 
+
+43:42 après il y a l'inflation réelle et c'est
+43:43 
+
+43:43 aussi pour ça que beaucoup de gens se
+43:44 
+
+43:44 disent "Mais je comprends pas on me dit
+43:46 
+
+43:46 qu'il y a que 3 % d'inflation mais avant
+43:49 
+
+43:49 je payais mon coiffeur 15 € maintenant
+43:51 
+
+43:51 je le paye 30. L'école de mes enfants,
+43:52 
+
+43:52 ça a doublé en terme de prix. Ça c'est
+43:55 
+
+43:55 plein de choses qui sont pas forcément
+43:56 
+
+43:56 correctement mesurées par ce type
+43:58 
+
+43:58 d'indicateur.
+43:59 
+
+43:59 Alors tuas tuas plein de problèmes avec
+44:01 
+
+44:01 les mesures de l'inflation mais la
+44:03 
+
+44:03 première c'est que quand tu mesures
+44:05 
+
+44:05 l'inflation donc ce qu'on appelle
+44:07 
+
+44:07 l'indice des prix à la consommation donc
+44:08 
+
+44:08 les indices d'inflation qui sont
+44:10 
+
+44:10 élaborés par les instituts statistiques
+44:13 
+
+44:13 dans tous les pays que ce soit l'INC ou
+44:16 
+
+44:16 les équivalents dans notre pays. Ce que
+44:17 
+
+44:17 tu fais c'est que tu prends
+44:20 
+
+44:20 en gros ce qu'on appelle le panier de la
+44:21 
+
+44:21 ménagère, c'estàd que tu définis un
+44:22 
+
+44:22 certain nombre de denrées et d'année en
+44:24 
+
+44:24 année tu vas regarder comment leur prix
+44:27 
+
+44:27 évolue. Tu pondères dans ta moyenne la
+44:30 
+
+44:30 quantité de chacune de ces denrées parce
+44:32 
+
+44:32 que tu considères être sa consom sa
+44:35 
+
+44:35 consommation moyenne pour le
+44:37 
+
+44:37 consommateur moyen. Et tu dis par
+44:40 
+
+44:40 exemple bah si le panier son prix
+44:42 
+
+44:42 pondéré a évolué de 2 % par an, c'est
+44:44 
+
+44:44 qu'il y a eu 2 % d'inflation.
+44:47 
+
+44:47 Quand tu fais ça, tu mesures la cause et
+44:49 
+
+44:49 pas l'effet. C'est-à-dire que encore une
+44:52 
+
+44:52 fois, si la quantité d'euros évolue en
+44:56 
+
+44:56 moyenne de 7 % par an, tu as créé 7 % de
+44:59 
+
+44:59 pouvoir d'achat. En plus, ce pouvoir
+45:01 
+
+45:01 d'achat, il va se déverser quelque part.
+45:03 
+
+45:03 Donc si tu arrives à un indice
+45:05 
+
+45:05 d'inflation qui te donne 2 % par an,
+45:08 
+
+45:08 c'est que soit tu as pondéré comme un
+45:09 
+
+45:09 [ __ ] soit tu as exclu la moitié des
+45:12 
+
+45:12 trucs que les gens désirent du panier.
+45:15 
+
+45:15 Le panier, les pondérations, tu vois ce
+45:17 
+
+45:17 qu'on met dans le panier de la ménagère
+45:18 
+
+45:18 quand on quand l'INC calcule l'inflation
+45:21 
+
+45:21 en France n'est plus publique depuis
+45:23 
+
+45:23 2016. La dernière mesure qu'on a,
+45:26 
+
+45:26 l'immobilier pour te donner une idée
+45:28 
+
+45:28 représentait de mémoire quelque chose
+45:31 
+
+45:31 comme 10 ou 12 % de la dépense du ménage
+45:34 
+
+45:34 français moyen. Si tu connais des gens
+45:37 
+
+45:37 qui dépensent 12 % de leur revenus
+45:39 
+
+45:39 disponibles pour se loger, tu
+45:42 
+
+45:42 m'appelles. Euh les actifs ne sont pas
+45:45 
+
+45:45 pris en compte par l'inflation. Euh donc
+45:47 
+
+45:47 en fait, tu vas toujours te démerder
+45:49 
+
+45:49 pour
+45:51 
+
+45:51 arranger le truc comme tu veux,
+45:52 
+
+45:52 notamment parce que
+45:54 
+
+45:54 tu es un bureaucrate qui bosse pour un
+45:56 
+
+45:56 institut statistique, qui bosse pour un
+45:58 
+
+45:58 état, qui va émettre de la dette dont le
+46:01 
+
+46:01 coût, c'est-à-dire les intérêts qui va
+46:03 
+
+46:03 payer dessus dépend essentiellement de
+46:05 
+
+46:05 l'inflation. Parce que un mec qui va
+46:07 
+
+46:07 acheter ta dette, il a besoin d'être
+46:09 
+
+46:09 compensé pour cette inflation. Donc tu
+46:12 
+
+46:12 as absolument aucune incitation à
+46:15 
+
+46:15 surestimer ou même à estimer
+46:17 
+
+46:17 correctement l'inflation. Ça c'est le
+46:19 
+
+46:19 premier problème. Le deuxième problème
+46:20 
+
+46:20 c'est que si par exemple je te dis euh
+46:24 
+
+46:24 je prends le panier ménagère tous les
+46:26 
+
+46:26 ans et je regarde comment il évolue.
+46:29 
+
+46:29 L'évolution des prix elle-même va
+46:30 
+
+46:30 affecter tes choix en tant que
+46:32 
+
+46:32 consommateur. Si encore une fois je
+46:34 
+
+46:34 reprends mon exemple du steak, s'il
+46:36 
+
+46:36 devient de plus en plus cher, bon ben tu
+46:38 
+
+46:38 vas commencer à bouffer des pâtes et du
+46:40 
+
+46:40 riz. et des steaks de soja. Du coup, le
+46:44 
+
+46:44 steak, il sort du panier de la ménagère
+46:46 
+
+46:46 mais tu as quand même envie de le
+46:47 
+
+46:47 manger. Tu as juste pas les moyens. Donc
+46:50 
+
+46:50 l'évolution du prix du steak n'est pas
+46:52 
+
+46:52 prise en compte par l'indice des prix à
+46:54 
+
+46:54 la consommation parce que l'inse va te
+46:56 
+
+46:56 dire "Oui, mais aujourd'hui les
+46:57 
+
+46:57 habitudes de consommation des français,
+46:59 
+
+46:59 c'est de manger des panzanis."
+47:02 
+
+47:02 Oui, mais en fait tu es devenu plus
+47:04 
+
+47:04 pauvre. C'est juste que avant on mettait
+47:08 
+
+47:08 un steak dans
+47:11 
+
+47:11 finalement ce qu'une famille allait
+47:15 
+
+47:15 acheter toutes les semaines pour se
+47:17 
+
+47:17 nourrir ou du veau ou je sais pas quoi.
+47:19 
+
+47:19 Et là bah on te met du soja, du sucre et
+47:23 
+
+47:23 des pâtes. Ah ok. Ben du coup ça a pas
+47:27 
+
+47:27 beaucoup augmenté mais c'est pas la même
+47:29 
+
+47:29 chose dans l'assiette. Donc ça n'a
+47:32 
+
+47:32 absolument plus rien à voir. Donc déjà,
+47:34 
+
+47:34 tu vois, genre même d'un point de vue
+47:35 
+
+47:35 mathématique, on essaie de mesurer un
+47:37 
+
+47:37 truc qui a une influence sur la manière
+47:39 
+
+47:39 dont on le mesure. Il y a il y a plein
+47:41 
+
+47:41 de de problématiques comme ça et et si
+47:45 
+
+47:45 l'inflation, la manière la plus logique
+47:46 
+
+47:46 de la comprendre, c'est
+47:50 
+
+47:50 si on on crée 10 % de données en plus,
+47:53 
+
+47:53 tout le monde s'est fait dévaluer de 10
+47:55 
+
+47:55 %. Point barre. Ça va pas affecter les
+47:57 
+
+47:57 gens de la même manière, mais l'effet de
+47:59 
+
+47:59 base, la cause c'est 10 %. La manière
+48:02 
+
+48:02 dont on la mesure, ça dépend qu'est-ce
+48:03 
+
+48:03 qu'on regarde. Si par exemple, tu
+48:05 
+
+48:05 regardes encore une fois le coût euh
+48:10 
+
+48:10 d'une certaine puissance de calcul,
+48:11 
+
+48:11 d'une certaine capacité de stockage et
+48:13 
+
+48:13 si on mesure que ça, l'inc va dire
+48:15 
+
+48:15 "Putain, on est en déflation les gars,
+48:16 
+
+48:16 vous êtes tous devenus de plus en plus
+48:17 
+
+48:17 riches mais tu as plus rien à bouffer."
+48:19 
+
+48:19 Et donc, j'aimerais qu'on parle un petit
+48:21 
+
+48:21 peu de la préférence temporelle pour
+48:23 
+
+48:23 expliquer en quelques mots ce qu'est la
+48:26 
+
+48:26 préférence temporelle. C'est en fait
+48:27 
+
+48:27 dans une société, dans la société on va
+48:30 
+
+48:30 dire actuelle avec une impression
+48:32 
+
+48:32 monétaire élevée, on va avoir tendance à
+48:34 
+
+48:34 utiliser l'argent qu'on reçoit
+48:35 
+
+48:35 immédiatement pour euh
+48:39 
+
+48:39 l'utiliser parce qu'on sait qu'en fait
+48:41 
+
+48:41 ça va être dévalué plus tard, que ce que
+48:42 
+
+48:42 je peux acheter maintenant, je ne
+48:44 
+
+48:44 pourrais plus l'acheter au même prix
+48:45 
+
+48:45 plus tard. Et donc en fait, ça entraîne
+48:47 
+
+48:47 tout un tas de problématiques,
+48:48 
+
+48:48 c'est-à-dire que euh on va avoir des des
+48:52 
+
+48:52 bah des sociétés, des entreprises qui
+48:54 
+
+48:54 vont faire des plans sur le court terme
+48:55 
+
+48:55 parce que euh elles peuvent plus
+48:57 
+
+48:57 s'engager sur de sur de longs sur de
+48:59 
+
+48:59 longs travaux et cetera. Euh et j'aurais
+49:01 
+
+49:01 aimé savoir un petit peu bah ce que toi
+49:03 
+
+49:03 tu penses de cette préférence temporelle
+49:05 
+
+49:05 là et comment est-ce que ça se
+49:06 
+
+49:06 matérialise aussi dans le monde dans le
+49:08 
+
+49:08 monde réel. Et je voulais te lire juste
+49:10 
+
+49:10 un petit extrait du livre que j'ai
+49:11 
+
+49:11 ramené donc l'étalon de Safed Hamous qui
+49:15 
+
+49:15 est extrêmement extrêmement intéressant
+49:17 
+
+49:17 que je conseille à tout le monde de
+49:18 
+
+49:18 lire. Bon la traduction tu m'as dit
+49:20 
+
+49:20 était peut-être pas terrible en français
+49:21 
+
+49:21 donc si vous maîtrisez bien l'anglais
+49:23 
+
+49:23 si vous lisez bien l'anglais lisez-le en
+49:25 
+
+49:25 anglais si c'est pas le cas
+49:28 
+
+49:28 ça passe.
+49:29 
+
+49:29 Ça passe. Bon je vais lire un petit
+49:30 
+
+49:30 extrait. Du coup, c'est seulement par le
+49:33 
+
+49:33 biais de la réduction de la préférence
+49:35 
+
+49:35 temporelle que les individus
+49:36 
+
+49:36 s'intéressent à l'investissement et
+49:38 
+
+49:38 accordent la priorité aux résultats
+49:40 
+
+49:40 futurs. Une fois leurs besoins de base
+49:42 
+
+49:42 assurés et les dangers de
+49:43 
+
+49:43 l'environnement maîtrisé, les individus
+49:46 
+
+49:46 orient leur attention vers des aspects
+49:47 
+
+49:47 plus profonds de la vie au-delà du
+49:49 
+
+49:49 bien-être matériel et la pénibilité du
+49:51 
+
+49:51 travail. Il cultive les relations
+49:53 
+
+49:53 familiales et sociales, se lost dans des
+49:56 
+
+49:56 projets culturels, artistiques et
+49:57 
+
+49:57 littéraires et cherchent à offrir des
+49:59 
+
+49:59 contributions durable à leur communauté
+50:01 
+
+50:01 et au monde.
+50:03 
+
+50:03 Qu'est-ce que tu penses de Qu'est-ce que
+50:05 
+
+50:05 tu penses de ça ? Ça ça va être
+50:06 
+
+50:06 difficile de de l'expliquer. Euh mais je
+50:09 
+
+50:09 vais essayer. Tu as
+50:11 
+
+50:11 si si si si si je peux me permettre, moi
+50:13 
+
+50:13 ça me fait penser à euh en fait on dit
+50:15 
+
+50:15 que la révolution euh enfin artistique,
+50:19 
+
+50:19 je sais pas si c'est le bon mot, mais
+50:20 
+
+50:20 euh a eu lieu pendant la Renaissance.
+50:22 
+
+50:22 C'est vrai qu'on avait des magnifiques
+50:23 
+
+50:23 œuvres d'art, de très beaux bâtiments
+50:26 
+
+50:26 architecturaux, Florence, des
+50:27 
+
+50:27 cathédrales et cetera et qu'en fait
+50:30 
+
+50:30 quand on compare avec ce qu'on a
+50:31 
+
+50:31 maintenant, alors chacun a sa propre
+50:33 
+
+50:33 vision de l'art et cetera, mais par
+50:36 
+
+50:36 rapport à de l'art contemporain, par
+50:37 
+
+50:37 rapport à des nouvelles structures
+50:40 
+
+50:40 maintenant, mais en fait c'est c'est
+50:42 
+
+50:42 c'est un peu c'est un peu terne entre
+50:45 
+
+50:45 guillemets. on on construit ça ou on
+50:47 
+
+50:47 fait ça en peu de en peu de temps malgré
+50:50 
+
+50:50 des progrès technologiques évidemment
+50:53 
+
+50:53 et en fait moi je me le matérialise
+50:54 
+
+50:54 peut-être un petit peu comme ça comme
+50:55 
+
+50:55 quoi avant on avait des projets sur le
+50:58 
+
+50:58 long terme parce que on avait besoin de
+51:02 
+
+51:02 passer moins de temps à gérer notre
+51:03 
+
+51:03 argent à gérer nos finances à à
+51:06 
+
+51:06 travailler parce qu'on savait que la
+51:07 
+
+51:07 valeur de notre travail pouvait nous
+51:09 
+
+51:09 permettre de tenir peut-être plusieurs
+51:11 
+
+51:11 années pour pouvoir faire de longs
+51:13 
+
+51:13 projets de ce de ce type là. Alors, tu
+51:14 
+
+51:14 as une citation d'un autre économiste
+51:17 
+
+51:17 autrichien contemporain qui est
+51:19 
+
+51:19 d'origine allemande qui s'appelle Ansan
+51:21 
+
+51:21 Op, qui dit euh
+51:24 
+
+51:24 "Le processus de civilisation
+51:27 
+
+51:27 correspond au processus d'abaissement
+51:30 
+
+51:30 des préférences temporelles."
+51:32 
+
+51:32 Et en fait ce qu'il essayie d'expliquer
+51:33 
+
+51:33 par là, c'est que
+51:35 
+
+51:35 donc l'idée des préférences temporelles,
+51:36 
+
+51:36 c'est de dire que encore une fois, le
+51:39 
+
+51:39 futur est incertain. Donc on valorise
+51:42 
+
+51:42 tous les biens présents plus que les
+51:43 
+
+51:43 biens futurs. Si je te dis par exemple,
+51:45 
+
+51:45 tu as la possibilité d'avoir une pomme
+51:47 
+
+51:47 maintenant ou une pomme demain,
+51:51 
+
+51:51 tu vas préférer l'avoir maintenant.
+51:53 
+
+51:53 Toute chose égale par ailleurs. Alors,
+51:55 
+
+51:55 une pomme, c'est un bien périssable,
+51:56 
+
+51:56 donc on pourrait ergoter. Mais si je te
+51:59 
+
+51:59 dis un lingot d'or maintenant ou un
+52:01 
+
+52:01 lingot d'or dans un an, tu vas préférer
+52:02 
+
+52:02 l'avoir maintenant. Parce que le fait de
+52:04 
+
+52:04 l'avoir maintenant finalement te donne
+52:05 
+
+52:05 plus d'optionalités, tu vas pouvoir
+52:07 
+
+52:07 faire plus de choses avec et tu as rien
+52:09 
+
+52:09 à gagner à juste attendre un an pour
+52:11 
+
+52:11 l'avoir.
+52:13 
+
+52:13 Et du coup, on a tous une valorisation
+52:15 
+
+52:15 qui est différente he qui est qui est
+52:16 
+
+52:16 subjective des biens futurs par rapport
+52:19 
+
+52:19 au bien présent. L'idée préférences
+52:21 
+
+52:21 temporelles, c'est ça. Et si tu prends
+52:24 
+
+52:24 par exemple quelqu'un qui est dans un
+52:26 
+
+52:26 pays très peu développé ou un être
+52:28 
+
+52:28 primitif, par définition, il va avoir
+52:31 
+
+52:31 des préférences temporelles qui sont
+52:33 
+
+52:33 très élevées parce que finalement si
+52:38 
+
+52:38 l'essentiel de ma vie ça consiste à
+52:39 
+
+52:39 savoir comment je vais me nourrir
+52:40 
+
+52:40 demain, les biens futurs
+52:44 
+
+52:44 qui vont m'être donné dans 1 an, dans 2
+52:46 
+
+52:46 ans, dans 3 ans, ils ont pas beaucoup de
+52:48 
+
+52:48 valeur pour moi. parce que déjà si je
+52:49 
+
+52:49 survis pas demain et que je trouve pas
+52:51 
+
+52:51 mon repas de demain, de toute façon je
+52:52 
+
+52:52 vais pas pouvoir les obtenir. Donc j'en
+52:54 
+
+52:54 ai rien à [ __ ]
+52:55 
+
+52:55 C'est pour ça que ça nous distingue
+52:55 
+
+52:55 aussi des animaux.
+52:57 
+
+52:57 Exactement. Et à l'inverse, plus tu vas
+53:01 
+
+53:01 pouvoir accumuler de capital, de
+53:04 
+
+53:04 sécurité matérielle, de certitude sur
+53:06 
+
+53:06 ton repas de demain, ta capacité à te
+53:08 
+
+53:08 soigner, ta capacité à fonder une
+53:10 
+
+53:10 famille, à te protéger, à éduquer des
+53:12 
+
+53:12 enfants, à te déplacer, à te chauffer, à
+53:14 
+
+53:14 te protéger contre les prédateurs,
+53:16 
+
+53:16 contre les catastrophes naturelles, à
+53:17 
+
+53:17 avoir des assurances, à en fait plus tu
+53:21 
+
+53:21 vas pouvoir penser et surtout valoriser
+53:24 
+
+53:24 le futur le futur lointain et donc à y
+53:26 
+
+53:26 penser.
+53:28 
+
+53:28 Et du coup, plus tu fais ça, plus
+53:30 
+
+53:30 finalement tu vas être capable d'allouer
+53:34 
+
+53:34 des ressources pour un futur qui va être
+53:37 
+
+53:37 lointain, voire même qui va être
+53:40 
+
+53:40 supérieur à ta mortalité propre. Et
+53:44 
+
+53:44 l'exemple que tu prenais à l'époque de
+53:45 
+
+53:45 la Renaissance, outre l'influence, on va
+53:49 
+
+53:49 dire, de la chrétienté, du capitalisme
+53:50 
+
+53:50 et du catholicisme dans l'Europe de
+53:54 
+
+53:54 l'Ouest qui faisait que finalement aussi
+53:56 
+
+53:56 on on se vouait à quelque chose de plus
+53:58 
+
+53:58 grand que soi, à une sorte d'éternité
+54:02 
+
+54:02 apportée par le l'idée divine. Tu avais
+54:05 
+
+54:05 à la base de ce phénomène aussi
+54:07 
+
+54:07 l'introduction d'une monnaie or qui
+54:09 
+
+54:09 faisait que finalement si j'avais si je
+54:11 
+
+54:11 suis à Florence au 14e siècle et que
+54:14 
+
+54:14 j'ai un Florin qui est une pièce d'or
+54:16 
+
+54:16 qui a vraiment une teneur en or qui est
+54:18 
+
+54:18 pas dévalué et cetera, je sais que si je
+54:21 
+
+54:21 la je l'investis maintenant,
+54:24 
+
+54:24 je vais pouvoir éventuellement euh me
+54:27 
+
+54:27 créer un atelier en tant qu'artiste, euh
+54:30 
+
+54:30 faire du messen euh payer des armées et
+54:32 
+
+54:32 cetera. Par contre, si je la garde 10
+54:34 
+
+54:34 ans, je vais pouvoir acheter peut-être
+54:37 
+
+54:37 deux ou trois fois plus que ce qu'elle
+54:40 
+
+54:40 me donne aujourd'hui. Et donc, tu as
+54:41 
+
+54:41 cette espèce d'arbitrage qui est que
+54:44 
+
+54:44 finalement chaque chose dans lesquelles
+54:46 
+
+54:46 tu vas investir doit avoir une
+54:48 
+
+54:48 signification profonde et une importance
+54:50 
+
+54:50 profonde parce que tu vas consentir à
+54:52 
+
+54:52 sacrifier quelque chose qui a énormément
+54:55 
+
+54:55 de valeur dans le futur et qui est très
+54:57 
+
+54:57 important pour toi. À l'inverse, si on
+54:59 
+
+54:59 revient à mon
+55:02 
+
+55:02 data point de il y a 7 % d'évolution de
+55:06 
+
+55:06 la masse monétaire en euros tous les
+55:07 
+
+55:07 ans, si tu gardes des euros en te disant
+55:11 
+
+55:11 finalement je vais peut-être les
+55:12 
+
+55:12 investir demain ou je vais réfléchir à
+55:14 
+
+55:14 ce qui va se passer dans 10 ans, dans 20
+55:15 
+
+55:15 ans, ce qui va se passer pour mes
+55:17 
+
+55:17 petits-enfants et cetera, tout ce qu'on
+55:19 
+
+55:19 te garantit c'est que tu vas perdre 7 %
+55:20 
+
+55:20 de pouvoir d'achat par an. Sachant que 7
+55:22 
+
+55:22 % de perte de pouvoir d'achat, au bout
+55:24 
+
+55:24 de 10 ans, tu as perdu la moitié de ton
+55:27 
+
+55:27 pouvoir d'achat. Donc au bout de 20 ans
+55:29 
+
+55:29 et 3/4 et cetera et cetera et du coup tu
+55:33 
+
+55:33 te tu te retrouves dans une situation en
+55:35 
+
+55:35 terme d'incitation et de positionnement
+55:37 
+
+55:37 par rapport à au flux temporel, au
+55:41 
+
+55:41 rapport entre le présent, donc ta
+55:43 
+
+55:43 préférence temporelle, la valorisation
+55:45 
+
+55:45 du présent par rapport au futur proche
+55:48 
+
+55:48 voire même lointain qui est complètement
+55:50 
+
+55:50 distordu et qui fait que tu ne peux plus
+55:53 
+
+55:53 mentaliser, percevoir et surtout
+55:56 
+
+55:56 provisionner pour ton futur lointain.
+55:58 
+
+55:58 et tu es incité à consommer aujourd'hui
+56:01 
+
+56:01 à être dans une forme de carpédium
+56:03 
+
+56:03 absolue à rechercher plutôt
+56:05 
+
+56:05 l'endettement ou le fait d'acquérir des
+56:07 
+
+56:07 réserves de valeur pour essayer de
+56:08 
+
+56:08 préserver ton pouvoir d'achat et tu ne
+56:10 
+
+56:10 peux pas finalement te dire je vais
+56:14 
+
+56:14 dédier les 20 prochaines années de ma
+56:16 
+
+56:16 vie à créer un truc juste trop stylé
+56:20 
+
+56:20 déjà parce que je suis talentueux et que
+56:21 
+
+56:21 j'aime ça et surtout parce que je sais
+56:22 
+
+56:22 que si jamais je réussis en faisant ça
+56:25 
+
+56:25 déjà d'une part si j'ai un peu d'épargne
+56:26 
+
+56:26 de côté de toute façon, je pourrais
+56:27 
+
+56:27 continuer à vivre parce que elle va me
+56:30 
+
+56:30 elle va préserver son pouvoir d'achat
+56:31 
+
+56:31 dans le temps. Donc je me mets pas un
+56:33 
+
+56:33 risque dans le fait de de prendre des
+56:35 
+
+56:35 risques d'entreprendre. Et d'autre part,
+56:37 
+
+56:37 si jamais ça réussit, la rémunération
+56:39 
+
+56:39 future que je vais avoir va être telle
+56:41 
+
+56:41 que peut-être que ma famille pendant
+56:43 
+
+56:43 trois générations va pouvoir vivre sur
+56:45 
+
+56:45 cette rémunération.
+56:48 
+
+56:48 Un exemple concret de ça, on parlait de
+56:50 
+
+56:50 la Renaissance quand j'étais à Florence,
+56:53 
+
+56:53 la cathédrale principale de Florence,
+56:56 
+
+56:56 Santa Marie d' Fiory, a deux portes qui
+56:59 
+
+56:59 doivent faire, je pense
+57:03 
+
+57:03 5 6 m de haut qui sont hyper travaillé,
+57:08 
+
+57:08 faites d'or de bronze et cetera. Alors,
+57:10 
+
+57:10 j'ai plus le nom de l'artiste en tête.
+57:12 
+
+57:12 Euh, il a passé, il me semble, 27 ans à
+57:16 
+
+57:16 fabriquer deux portes.
+57:19 
+
+57:19 C'est des belles portes, mais c'est des
+57:20 
+
+57:20 portes.
+57:22 
+
+57:22 La rémunération qu'il a obtenue pour les
+57:24 
+
+57:24 deux portes a permis à sa famille de
+57:26 
+
+57:26 vivre pendant 200 ans.
+57:30 
+
+57:30 On revient à la startup nation.
+57:33 
+
+57:33 Si je lève 1 million d'euros
+57:35 
+
+57:35 aujourd'hui, en pouvoir d'achat, dans 10
+57:38 
+
+57:38 ans, c'est 500000 €. Dans 20 ans, c'est
+57:41 
+
+57:41 250000 €. Dans 30 ans, c'est 125000 €.
+57:45 
+
+57:45 Du coup, pour ça que les boî,
+57:46 
+
+57:46 je vais jamais fabriquer les portes. Je
+57:49 
+
+57:49 vais faire un beau PowerPoint,
+57:51 
+
+57:51 te convaincre que l'argent qui vient de
+57:54 
+
+57:54 couler sur toi, grâce à la presse à
+57:56 
+
+57:56 imprimé, il faut que tu me le files.
+57:59 
+
+57:59 Ensuite, je vais
+58:02 
+
+58:02 m'acheter des trucs, des baraques, des
+58:04 
+
+58:04 des en fait des biens pas productifs.
+58:06 
+
+58:06 C'està-dire, je vais essayer de c'est
+58:07 
+
+58:07 c'est un jeu de monopolie, c'estàd je
+58:09 
+
+58:09 vais essayer de racheter les biens rares
+58:10 
+
+58:10 et désirables à d'autres gens sans
+58:11 
+
+58:11 jamais rien créer, sans jamais investir,
+58:13 
+
+58:13 sans jamais améliorer finalement notre
+58:16 
+
+58:16 capacité technologique, notre capital
+58:18 
+
+58:18 productif et cetera. et
+58:21 
+
+58:21 et dans dans la plupart des cas, je vais
+58:24 
+
+58:24 consommer le plus possible parce que de
+58:26 
+
+58:26 toute manière, je sais que épargner
+58:29 
+
+58:29 n'est absolument pas une activité qui
+58:33 
+
+58:33 est dans mon intérêt. Donc penser à mon
+58:35 
+
+58:35 futur, penser à la personne que je serai
+58:37 
+
+58:37 dans 10 ans, dans 20 ans, à ma famille,
+58:40 
+
+58:40 à éventuellement même m'aligner à des
+58:44 
+
+58:44 choses qui sont même supérieures à tes
+58:47 
+
+58:47 tes tes tes instincts présents, que ce
+58:49 
+
+58:49 soit l'art, la morale, l'honneur et
+58:53 
+
+58:53 cetera, n'a plus aucun intérêt. Le but
+58:55 
+
+58:55 c'est de jouir tout de suite de la
+58:57 
+
+58:57 manière la plus débridée possible et en
+59:01 
+
+59:01 essayant de de finalement de d'en
+59:04 
+
+59:04 profiter le plus possible avant que le
+59:08 
+
+59:08 le pouvoir d'achat qu'on a obtenu
+59:10 
+
+59:10 devienne cendre sous nos mains. Pour en
+59:12 
+
+59:12 revenir à la Startup Nation, c'est aussi
+59:14 
+
+59:14 peut-être pour ça que des sociétés qui
+59:16 
+
+59:16 ont quand même une vision et qui ont une
+59:17 
+
+59:17 ambition de changer, de faire des gros
+59:19 
+
+59:19 projets, parce qu'il y en a quand même
+59:20 
+
+59:20 des gros projets, je pense à qui ont eu
+59:22 
+
+59:22 lieu, smart euh les smartphones, euh la
+59:25 
+
+59:25 robotique, intelligence artificielle,
+59:27 
+
+59:27 les satellites et cetera. C'est
+59:28 
+
+59:28 peut-être pour ça qu'elles sont obligées
+59:29 
+
+59:29 en fait de lever des montants tellement
+59:31 
+
+59:31 énormes que 100 millions ou 200 millions
+59:34 
+
+59:34 ou 500 millions à leur à l'instant té,
+59:38 
+
+59:38 bon bah dans 5 ans ça vaudra peut-être
+59:39 
+
+59:39 encore quand même entre guillemets 250
+59:41 
+
+59:41 millions. Donc ça te permet d'avoir un
+59:44 
+
+59:44 matelas de sécurité pour investir
+59:45 
+
+59:45 peut-être un peu plus sur le long terme.
+59:47 
+
+59:47 Alors à à chaque fois que tu as une
+59:49 
+
+59:49 innovation de rupture qui est vraiment
+59:51 
+
+59:51 révolutionnaire, de toute façon, tu vas
+59:52 
+
+59:52 avoir une bulle parce qu'il y a une
+59:53 
+
+59:53 sorte de foré d'engouement de la part
+59:55 
+
+59:55 des détenteurs de capitaux et
+59:57 
+
+59:57 d'investissement. Et ça, peu importe la
+59:59 
+
+59:59 qualité de la monnaie, ça existera. Par
+60:01 
+
+60:01 contre, tu as toutes les innovations
+60:04 
+
+60:04 dont tu as parlé, elles se sont fait
+60:06 
+
+60:06 avec un investissement capital initial
+60:08 
+
+60:08 qui était finalement assez faible. Euh
+60:10 
+
+60:10 tu regardes par exemple ce qu'on appelle
+60:12 
+
+60:12 l'intelligence artificielle aujourd'hui.
+60:14 
+
+60:14 En gros, c'est quelques mathématiciens
+60:18 
+
+60:18 français et russes, quelques ingénieurs
+60:20 
+
+60:20 à Taiwan qui ont décidé de fabriquer une
+60:23 
+
+60:23 fonderie de fils de [ __ ] en s'aliant
+60:25 
+
+60:25 avec des chimistes de malade mental pour
+60:28 
+
+60:28 arriver à finalement faire les
+60:30 
+
+60:30 microprocesseurs les plus fins au monde.
+60:33 
+
+60:33 Et la magie de la productivité humaine,
+60:36 
+
+60:36 de la division du travail quelques
+60:37 
+
+60:37 années plus tard a fait que tout ça a
+60:40 
+
+60:40 cliqué et tuas permis de faire ton prom
+60:42 
+
+60:42 de d'enculer sur chat GPT pour
+60:47 
+
+60:47 ne pas avoir à réfléchir quand tu vas
+60:48 
+
+60:48 faire ta dissertation de philosophie en
+60:50 
+
+60:50 terminale.
+60:52 
+
+60:52 Mais fondamentalement,
+60:54 
+
+60:54 l'investissement euh presque obsène et
+60:58 
+
+60:58 gigantesque qu'on voit aujourd'hui
+60:60 
+
+60:60 arrive après. C'est-à-dire que les la
+61:03 
+
+61:03 révélation et le comment dire
+61:06 
+
+61:06 l'innovation de rupture a été créée
+61:07 
+
+61:07 avant et on avait pas besoin d'une
+61:11 
+
+61:11 quantité de ressources gigantesque pour
+61:12 
+
+61:12 ça. On avait besoin de mecs téméraires,
+61:15 
+
+61:15 fou, passionné pour voir un chemin là où
+61:18 
+
+61:18 personne le voyait et dire "Les gars,
+61:20 
+
+61:20 genre je sais que je peux être bien
+61:22 
+
+61:22 mieux payé à créer des des bottes à Wall
+61:25 
+
+61:25 Street pour ça." Mais en fait, moi ce
+61:27 
+
+61:27 qui me branche, c'est de voir comment
+61:29 
+
+61:29 est-ce que je vais pouvoir twicker mon
+61:32 
+
+61:32 réseau de neurones euh pour qu'il soit
+61:34 
+
+61:34 capable de me pondre une image qui
+61:36 
+
+61:36 correspond à ce que je vais lui dire
+61:37 
+
+61:37 textuellement. C'est intéressant parce
+61:39 
+
+61:39 que c'est Henry Progliot donc ancien PDG
+61:42 
+
+61:42 de TF qui avait déclaré dans une
+61:45 
+
+61:45 interview à Syerview qui disait qu'en
+61:47 
+
+61:47 fait pour lui ce qui était dramatique en
+61:49 
+
+61:49 ce moment c'est que l'industrie
+61:51 
+
+61:51 française va très mal parce qu'en fait
+61:53 
+
+61:53 c'est la finance qui aspire tous les
+61:54 
+
+61:54 cerveaux euh on va dire tous les plus
+61:57 
+
+61:57 grands cerveaux parce que bah en fait
+61:59 
+
+61:59 c'est là où ils sont mieux payés et
+61:60 
+
+62:00 c'est là où ils vont gagner plus
+62:01 
+
+62:01 d'argent à l'instant.
+62:03 
+
+62:03 C'est les fait quantion. Et donc en fait
+62:05 
+
+62:05 bah eux ils vont là où est l'argent mais
+62:07 
+
+62:07 malheureusement ça veut dire que il y a
+62:09 
+
+62:09 des gens qui vont privilégier l'argent à
+62:10 
+
+62:10 des à des à des à des métiers patients
+62:14 
+
+62:14 ou à des métiers qui vraiment sont dans
+62:16 
+
+62:16 l'intérêt de la collectivité. Et je
+62:18 
+
+62:18 pense, tu t'en rends bien compte avec
+62:19 
+
+62:19 l'histoire, si tu prends la plupart des
+62:22 
+
+62:22 grandes innovations modernes qui font
+62:23 
+
+62:23 que notre vie est agréable et civilisé
+62:27 
+
+62:27 et sécurisante et prospère,
+62:32 
+
+62:32 elles ont eu lieu
+62:34 
+
+62:34 durant la deuxème moitié du 19e siècle
+62:37 
+
+62:37 et le tout début du 20e siècle, que ce
+62:40 
+
+62:40 soit les chemins de fer, l'aviation,
+62:41 
+
+62:41 l'électricité, la pénicilline, la
+62:43 
+
+62:43 médecine moderne, les vaccins, euh le
+62:47 
+
+62:47 moteur explosion, le raffinage du
+62:50 
+
+62:50 pétrole, tous ces trucs-là, ça a lieu à
+62:53 
+
+62:53 cette époque-là. La plupart des mecs qui
+62:55 
+
+62:55 inventent ces technologies là, ils
+62:57 
+
+62:57 travaillent dans leur garage, ils sont
+62:59 
+
+62:59 financés par Walou. Il y a pas de de
+63:02 
+
+63:02 fonds d'investissement gigantesque, il y
+63:04 
+
+63:04 a pas de il y a pas de tout ça. Et ces
+63:07 
+
+63:07 gars-là en fait il ils sont dans cette
+63:09 
+
+63:09 situation où euh que ce soit, tu as des
+63:13 
+
+63:13 des des Tesla, des Louis Blerot, des des
+63:18 
+
+63:18 wats, des juste ils ont envie de faire
+63:21 
+
+63:21 ça en fait. Et
+63:24 
+
+63:24 une des grandes un des grands malheurs
+63:26 
+
+63:26 de l'époque moderne causé par cette
+63:28 
+
+63:28 monéfiate, c'est que
+63:31 
+
+63:31 les successeurs de tous ces garslà,
+63:32 
+
+63:32 c'estàdire les mecs qui probablement
+63:34 
+
+63:34 auraient pu créer genre le futur de euh
+63:39 
+
+63:39 je sais pas la la
+63:42 
+
+63:42 biochimie,
+63:44 
+
+63:44 l'intelligence artificielle, la conquête
+63:46 
+
+63:46 spatiale et cetera. Ils ont absolument
+63:48 
+
+63:48 aucun intérêt à ça. Ce qui sont le plus
+63:52 
+
+63:52 incentivés à faire, c'est d'aller faire
+63:55 
+
+63:55 du trading haute fréquence en codant des
+63:57 
+
+63:57 bottes de taré pour
+64:01 
+
+64:01 Jane Street ou Vangard.
+64:04 
+
+64:04 Et
+64:05 
+
+64:05 c'est marrant, tu vois, genre je je suis
+64:08 
+
+64:08 un gros geek des matchs, genre je
+64:09 
+
+64:09 comprends le délire. Mais en fait,
+64:11 
+
+64:11 frérot, genre moi, je préférerais que tu
+64:14 
+
+64:14 sois payé à euh comprendre la complexité
+64:18 
+
+64:18 de l'univers ou à chercher genre des
+64:22 
+
+64:22 réplications
+64:23 
+
+64:23 moléculaires qui vont pouvoir nous aider
+64:25 
+
+64:25 à trouver des remèdes contre le cancer.
+64:27 
+
+64:27 Et fondamentalement que genre tu fait
+64:30 
+
+64:30 Cambridge pour créer des bottes hyper
+64:32 
+
+64:32 sophistiqué pour te battre sur les
+64:35 
+
+64:35 marchés financier contre un mec qui a
+64:36 
+
+64:36 fait polytechnique et qui crée des
+64:38 
+
+64:38 bottes aussi sophistiquées de manière à
+64:41 
+
+64:41 ce que le gars qui se lève tous les
+64:42 
+
+64:42 matins et qui va genre prendre son Uber
+64:46 
+
+64:46 et m'amener dans studio se fasse rincer
+64:49 
+
+64:49 par les fé quantillons. J'ai pas
+64:52 
+
+64:52 l'impression que ce soit une bonne
+64:54 
+
+64:54 utilité de votre temps, vos talents et
+64:56 
+
+64:56 vos compétences en fait.
+64:57 
+
+64:57 Du coup là, on a été quand même assez
+64:58 
+
+64:58 critique du système du système actuel et
+65:01 
+
+65:01 notamment de la monnaie.
+65:04 
+
+65:04 Pour finir sur le podcast, j'aimerais
+65:06 
+
+65:06 qu'on aborde peut-être certaines
+65:07 
+
+65:07 solutions et notamment peut-être comment
+65:09 
+
+65:09 est-ce qu'on
+65:10 
+
+65:10 on se demande lesquel
+65:11 
+
+65:11 comment est-ce qu'on remet euh
+65:15 
+
+65:15 sur le devant de la scène ce qu'on peut
+65:16 
+
+65:16 appeler une monnaie forte entre
+65:17 
+
+65:17 guillemets, une monnaie qui se dévalue
+65:18 
+
+65:18 pas. Euh est-ce qu'il y a que Bitcoin
+65:20 
+
+65:20 d'ailleurs ou est-ce qu'il y a peut-être
+65:21 
+
+65:21 d'autres monnaies qui pourraient euh
+65:24 
+
+65:24 Alors, je suis désolé, je sais que votre
+65:25 
+
+65:25 podcast s'appelle Cryptost. Par contre,
+65:27 
+
+65:27 tu vois, pareil historiquement ce qu'on
+65:29 
+
+65:29 a toujours vu, c'est que pour avoir ce
+65:32 
+
+65:32 bien que les autres vont accepter dans
+65:34 
+
+65:34 le futur,
+65:36 
+
+65:36 le marché va toujours converger vers une
+65:39 
+
+65:39 solution. Parce que si les autres ne
+65:41 
+
+65:41 l'acceptent pas et que moi j'ai ma
+65:43 
+
+65:43 monnaie mais qui devient pas plébiscité
+65:46 
+
+65:46 de manière majoritaire et et universel,
+65:49 
+
+65:49 je suis comme un connard et j'ai mes
+65:50 
+
+65:50 feuilles d'arbre dans les mains. Du
+65:52 
+
+65:52 coup,
+65:55 
+
+65:55 un anneau pour les gouverner tous, une
+65:56 
+
+65:56 monnaie pour les gouverner tous, les
+65:58 
+
+65:58 monnaies convergent vers une. Et à ce
+66:01 
+
+66:01 compte là, les gars, vous pourrez jamais
+66:04 
+
+66:04 concurrencer Bitcoin parce que il y a
+66:06 
+
+66:06 des propriétés qui sont impossibles à
+66:08 
+
+66:08 reproduire.
+66:10 
+
+66:10 parce que c'est la première, parce qu'on
+66:11 
+
+66:11 peut pas reproduire les conditions dans
+66:12 
+
+66:12 lesquelles elle s'est créée, parce qu'il
+66:14 
+
+66:14 y a pas de fondateur, parce qu'il y a
+66:15 
+
+66:15 pas de premine, parce que personne n'a
+66:17 
+
+66:17 de contrôle dessus, parce que personne
+66:19 
+
+66:19 ne peut l'arrêter, parce que la
+66:20 
+
+66:20 sécurisation du réseau vu son hash power
+66:23 
+
+66:23 est juste
+66:25 
+
+66:25 laisse tomber. Et du coup, genre
+66:29 
+
+66:29 have fun playing with your cryptos. Mais
+66:33 
+
+66:33 si on parle vraiment de comment on peut
+66:35 
+
+66:35 trouver une solution à ces problèmes-là,
+66:38 
+
+66:38 il y a que Bitcoin.
+66:40 
+
+66:40 Et c'est pas juste une rente de
+66:41 
+
+66:41 maximaliste comme si j'étais un [ __ ]
+66:43 
+
+66:43 d'ayatola
+66:46 
+
+66:46 obtu. C'est juste logique au même titre
+66:49 
+
+66:49 que amusez-vous avec le minitel. Mais
+66:51 
+
+66:51 internet c'est bon, c'est fini, c'est un
+66:52 
+
+66:52 protocole, c'est aussi enfin onuilera
+66:54 
+
+66:54 pas autre chose.
+66:56 
+
+66:56 Et
+66:58 
+
+66:58 par rapport à ça, du coup je reviens à
+66:60 
+
+66:60 ce qu'on avait dit au début de
+67:00 
+
+67:00 l'émission.
+67:02 
+
+67:02 On avait l'or qui était une [ __ ] de
+67:04 
+
+67:04 monnaie que les gouvernements pouvaient
+67:05 
+
+67:05 pas manipuler. Mais parce que on a
+67:07 
+
+67:07 développé l'économie et tant mieux, il a
+67:09 
+
+67:09 fallu que les flux financiers suivent
+67:13 
+
+67:13 les flux économiques et donc il a fallu
+67:15 
+
+67:15 transporter de la valeur très rapidement
+67:17 
+
+67:17 sur de très grandes distances.
+67:20 
+
+67:20 Et le problème avec ça, c'est que les
+67:22 
+
+67:22 trucs physiques, c'est très coûteux à
+67:24 
+
+67:24 transporter, c'est très dangereux à
+67:25 
+
+67:25 transporter, c'est très compliqué à
+67:27 
+
+67:27 transporter et cetera et cetera. Donc on
+67:29 
+
+67:29 a créé de la monnaie crédit, de la
+67:31 
+
+67:31 monnaie information qui elle pouvait
+67:33 
+
+67:33 voyager aussi vite que ce que les
+67:35 
+
+67:35 échanges les pardon les échanges
+67:37 
+
+67:37 exigeaient.
+67:41 
+
+67:41 L'intérêt fondamental de Bitcoin, c'est
+67:43 
+
+67:43 de réconcilier le meilleur de ces de
+67:44 
+
+67:44 monde, d'avoir à la fois la monnaie la
+67:47 
+
+67:47 plus facile et la moins coûteuse et la
+67:49 
+
+67:49 plus simple à échanger dans l'espace.
+67:51 
+
+67:51 peu importe les frontières, les
+67:53 
+
+67:53 juridictions, les protocoles utilisés,
+67:55 
+
+67:55 les technologies à ta disposition,
+67:57 
+
+67:57 tout en ayant la garantie qu'elle ne
+67:59 
+
+67:59 pourra pas être saisie, qu'elle ne
+68:00 
+
+68:00 pourra pas être évaluée et qu'elle est
+68:02 
+
+68:02 un droit de propriété absolument
+68:04 
+
+68:04 inaliénable et que personne, quelle que
+68:06 
+
+68:06 soit la force qu'il est capable de
+68:07 
+
+68:07 déployer, ne peut toter.
+68:11 
+
+68:11 Et une fois que tu as compris ça, bah tu
+68:14 
+
+68:14 vas avoir énormément de mal à parler de
+68:18 
+
+68:18 crypto
+68:19 
+
+68:19 dans le sens où d'un côté, on a la
+68:22 
+
+68:22 chance d'avoir hérité finalement de
+68:25 
+
+68:25 cette espèce d'aventure un peu folle qui
+68:27 
+
+68:27 est Bitcoin qui peut, c'est pas sûr que
+68:29 
+
+68:29 ça va réussir, mais qui peut nous
+68:30 
+
+68:30 permettre de résoudre un problème qui
+68:32 
+
+68:32 est fondamental pour l'espèce humaine,
+68:35 
+
+68:35 c'est-à-dire réaliser la séparation de
+68:37 
+
+68:37 la monnaie de l'État et doter un monde
+68:40 
+
+68:40 hyper développé avec une division du
+68:42 
+
+68:42 travail hyper aboutie, complètement
+68:43 
+
+68:43 numérique, d'une monnaie native, neutre,
+68:46 
+
+68:46 incensurable et inaliénable.
+68:49 
+
+68:49 Et de l'autre côté, bah tu as pas quoi
+68:53 
+
+68:53 mais je vois pas ce qui peut comment
+68:56 
+
+68:56 dire assumer la comparaison.
+68:57 
+
+68:57 Et qu'est-ce qui manque à Bitcoin pour
+68:60 
+
+68:60 justement remplacer les monnaies
+69:01 
+
+69:01 actuelles et en faire la peut-être la
+69:03 
+
+69:03 future monnaie du monde du monde ? des
+69:06 
+
+69:06 outils et une culture. Euh je vais
+69:10 
+
+69:10 expliquer. Bitcoin est quelque chose de
+69:15 
+
+69:15 très compliqué technologiquement
+69:18 
+
+69:18 et tu as au même titre que dans les
+69:20 
+
+69:20 années 90, si tu voulais envoyer un
+69:23 
+
+69:23 mail, fallait faire tourner ton propre
+69:24 
+
+69:24 serveur mail. C'était un truc qui était
+69:26 
+
+69:26 réservé à des geeks. Et aujourd'hui, bon
+69:29 
+
+69:29 bah on a tous Gmail, on a tous Proton
+69:31 
+
+69:31 Mail, on a tous différents différentes
+69:34 
+
+69:34 adresses mail qui peuvent interagir les
+69:35 
+
+69:35 uns avec les autres. Quasiment tout le
+69:37 
+
+69:37 monde sur la planète arrive à utiliser
+69:39 
+
+69:39 ça. C'est mais c'est le produit de 30
+69:42 
+
+69:42 ans de développement informatique, de
+69:44 
+
+69:44 d'itération et de de couches qui ont été
+69:47 
+
+69:47 améliorées et posées les unes par-dessus
+69:49 
+
+69:49 les autres. Aujourd'hui, Bitcoin reste
+69:51 
+
+69:51 encore difficile à utiliser parce que
+69:53 
+
+69:53 bah c'est un peu le début. Et aussi
+69:55 
+
+69:55 parce que effectivement on est dans un
+69:56 
+
+69:56 monde Fiat donc la plupart des gens se
+69:58 
+
+69:58 concentrent sur le fait de capter de la
+69:60 
+
+69:60 valeur au lieu de développer le système.
+70:02 
+
+70:02 Plus on va développer des outils et
+70:04 
+
+70:04 c'est pour ça que j'ai décidé de bosser
+70:07 
+
+70:07 pour Bitcoin c'est parce que
+70:09 
+
+70:09 fondamentalement c'est c'est
+70:11 
+
+70:11 notre mission statement notre tu vois
+70:13 
+
+70:13 notre moto, c'est engineering soinety.
+70:15 
+
+70:15 génie de la souveraineté, c'est créer
+70:17 
+
+70:17 des outils qui vont te permettre à ta
+70:19 
+
+70:19 grand-mère comme à la personne la plus
+70:22 
+
+70:22 riche du monde, à la personne la plus
+70:23 
+
+70:23 geek du monde et à la personne la plus
+70:25 
+
+70:25 pauvre du monde de pouvoir avoir accès à
+70:27 
+
+70:27 ça sans qu'il ait besoin d'avoir un PhD
+70:31 
+
+70:31 en computer science, de passer 10 ans à
+70:34 
+
+70:34 comprendre comment ça marche, de suer
+70:36 
+
+70:36 parce qu'il comprend pas comment ça doit
+70:37 
+
+70:37 se sécuriser, s'envoyer, s'échanger et
+70:39 
+
+70:39 cetera.
+70:41 
+
+70:41 Je pense il y a aussi un phénomène qui
+70:44 
+
+70:44 prendra beaucoup de temps, c'est que
+70:47 
+
+70:47 pour les raisons qu'on a expliqué avant,
+70:48 
+
+70:48 on a l'habitude dans le monde dans
+70:50 
+
+70:50 lequel on vit depuis des générations
+70:52 
+
+70:52 qu'il y ait des gens qui gèrent nos
+70:53 
+
+70:53 moyens financiers pour nous et
+70:55 
+
+70:55 finalement on on leur demande
+70:56 
+
+70:56 l'autorisation pour les récupérer, pour
+70:58 
+
+70:58 pouvoir échanger, les envoyer, payer
+70:60 
+
+71:00 quelqu'un et cetera. Et fondamentalement
+71:03 
+
+71:03 Bitcoin, c'est la promesse de dire bon
+71:05 
+
+71:05 bah tu redeviens encore une fois
+71:07 
+
+71:07 engineering sovereignity, tu deviens
+71:08 
+
+71:08 souverain sur ton épat. C'est comme le
+71:10 
+
+71:10 cach que tu as dans ta poche, tu peux te
+71:12 
+
+71:12 le faire voler, tu peux faire de la
+71:13 
+
+71:13 merde, tu peux être bourré, tu peux le
+71:15 
+
+71:15 perdre en soirée. Donc il faut
+71:17 
+
+71:17 réapprendre à être responsable. et dans
+71:20 
+
+71:20 une société parce qu'elle est très fiate
+71:22 
+
+71:22 qui est caractérisée par
+71:23 
+
+71:23 l'irresponsabilité,
+71:26 
+
+71:26 la proposition de valeur qui consiste à
+71:27 
+
+71:27 dire vous allez devenir libre parce que
+71:31 
+
+71:31 vous serez responsable de vous-même et
+71:33 
+
+71:33 quelque chose qui demande une sorte de
+71:35 
+
+71:35 réapprentissage social qui va prendre
+71:38 
+
+71:38 énormément de temps et qui se fera
+71:39 
+
+71:39 probablement pas à l'échelle d'une
+71:41 
+
+71:41 génération qui est vraiment une sorte de
+71:43 
+
+71:43 transformation culturelle et c'est pour
+71:46 
+
+71:46 ça que c'est vraiment un travail travail
+71:49 
+
+71:49 de très longue haleine qui à mon avis
+71:51 
+
+71:51 aura un impact gigantesque sur
+71:54 
+
+71:54 l'évolution de la civilisation future
+71:56 
+
+71:56 mais qui ne doit pas être vu comme une
+72:01 
+
+72:01 sorte de bulle qu'il faut rider parce
+72:03 
+
+72:03 que tu vois je prenne l'exemple du mail
+72:05 
+
+72:05 et l'évolution des protocoles internet
+72:09 
+
+72:09 Bitcoin ça prendra plus que 30 ans avant
+72:12 
+
+72:12 de porter vraiment ses effets de devenir
+72:14 
+
+72:14 ubicuitaire utilisable par tout le monde
+72:16 
+
+72:16 dans ses pleins pouvoirs c'estàdire en
+72:17 
+
+72:17 self custody dit là, je parle pas
+72:19 
+
+72:19 d'avoir euh des Bitcoin sur Evolus ou un
+72:21 
+
+72:21 compte Coinbase, hein, ça c'est juste du
+72:23 
+
+72:23 crédit. Et
+72:26 
+
+72:26 parce que en fait, on doit à la fois
+72:28 
+
+72:28 créer un stack technologique
+72:30 
+
+72:30 complètement différent from scratch. On
+72:32 
+
+72:32 doit réinventer la finance qui s'est
+72:35 
+
+72:35 basée sur des bases qui datent de il y a
+72:38 
+
+72:38 au moins 800 ans de la Renaissance dont
+72:40 
+
+72:40 on parlait avant à partir de rien
+72:44 
+
+72:44 sur en plus un stack technologique à
+72:45 
+
+72:45 partir des protocoles internet et en
+72:48 
+
+72:48 plus on doit avoir la patience de se
+72:51 
+
+72:51 dire que dans le monde dans lequel on
+72:54 
+
+72:54 vit la plupart des gens ont pas envie
+72:55 
+
+72:55 d'être libre ils ont envie d'être
+72:58 
+
+72:58 protégés des
+73:00 
+
+73:00 de leur responsabilité des conséquence
+73:02 
+
+73:02 de leur choix. Ils ont envie de pouvoir
+73:04 
+
+73:04 dire euh je vote pour A et lorsque A
+73:10 
+
+73:10 détruit ma vie, bah je vais demander à
+73:15 
+
+73:15 un politicien de me
+73:18 
+
+73:18 ouou à n'importe qui de finalement de de
+73:22 
+
+73:22 résoudre mon problème alors que c'est
+73:23 
+
+73:23 moi qui l'ai causé. Et c'est vraiment
+73:25 
+
+73:25 une évolution culturelle qui je pense va
+73:27 
+
+73:27 prendre énormément de temps et c'est
+73:29 
+
+73:29 pour ça que
+73:31 
+
+73:31 enjoy the ride. Il y a plein de trucs
+73:34 
+
+73:34 très marrants à faire entre-temps et
+73:36 
+
+73:36 faut vraiment pas être pressé. Merci
+73:38 
+
+73:38 beaucoup Théo. Merci à toi.
