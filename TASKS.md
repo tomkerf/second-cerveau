@@ -7,7 +7,7 @@ _Mis à jour : 2026-04-28_
 
 - [ ] Signer CR annuel + transmettre RH — échéance ~5 mai 2026
 - [ ] **Appenti DP** — déposer pièces complémentaires mairie Concarneau — deadline **11 mai 2026** (CERFA + DPC2 + DPC3 + DPC4)
-- [ ] `git pull && git push` dans `app-pmc-v2` (commit Bilan 24h retiré, prêt en local)
+- [x] `git pull && git push` dans `app-pmc-v2` (commit Bilan 24h retiré, prêt en local)
 - [ ] Relancer Sébastien ROUBAUD (DSIN) — hébergement PMC v2 production
 
 ---
