@@ -3,7 +3,7 @@
 ## Identité
 - **Nom** : Thomas Kerfendal (Tom) · 44 ans · Quimper
 - **Email** : tomkerf@gmail.com
-- **Famille** : Marié, 2 enfants (7 et 10 ans)
+- **Famille** : Marié avec Anne Ellen (né le 26/04/1981) · 2 enfants : Titouan (né le 05/01/2012, 14 ans) et Emie (née le 28/08/2015, 10 ans)
 
 ## Situation professionnelle
 - **Poste** : Technicien environnemental — Labocea Quimper

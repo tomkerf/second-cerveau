@@ -1,5 +1,5 @@
 # Contexte IPCRA — Tom Kerfendal
-_Dernière mise à jour : 2026-04-27_
+_Dernière mise à jour : 2026-04-28_
 
 > Fichier de contexte structuré à lire en PRIORITÉ au début de chaque session Claude.
 
@@ -31,6 +31,11 @@ Application de gestion du parc de mesure continue
 - CR entretien annuel rempli avec 4 paragraphes d'observation
 - **Action** : signer et transmettre CR à RH (~5 mai 2026)
 
+**Pièce à conviction — mail 14/11/2025 à Delphine Benard :**
+Tom gère seul : SAV fournisseurs (IJINUS), achats, métrologie, écarts audit, blancs matériel, rangement.
+Delphine a reconnu le problème par écrit ("ce point fait partie de nos sujets") mais sans engagement ni date.
+5 mois sans retour à ce jour. Mail archivé : `raw/inbox/2025-11-14_mail-delphine-reclamations-pmc.md`
+
 ### 🟡 Formation CPF
 - Intelligence Academy (32h, ~1500€ — prise en charge CPF)
 - **Action** : s'inscrire (pas de date fixée)
@@ -41,7 +46,7 @@ Application de gestion du parc de mesure continue
 3. ✅ Fiches process — 7 fiches créées (`3_ressources/fiches-process/`)
 4. ✅ Vault Obsidian niveau 5 Karpathy — raw/, slash commands, GitHub backup, Obsidian Git auto-sync 10min
 5. ✅ Plugin claude-mem v12.4.7 (niveau 4) — installé, actif sur Claude Code
-6. ⬜ Nouvelle app terrain (COFRAC, notes, analyses, rapports) — stack à définir, base : BilanPage.tsx
+6. 🟡 labocea-app-rapports — cadrage terminé, 2 fiches terrain analysées (ES + bilan 24h), 2 autres à venir. CLAUDE.md dans 1_projets/labocea-app-rapports-cadrage.md
 7. ⬜ Agents Claude
 8. ⬜ Automatisations n8n
 
@@ -82,5 +87,8 @@ Poids : 82.8 kg · Objectif : 80 kg · Sessions sport : 3 (cible 4) · ~18 bièr
 |----------|--------|----------|--------|
 | 🔴 | Signer CR annuel + transmettre RH | ~5 mai 2026 | En attente signature |
 | 🔴 | Relancer DSIN (hébergement PMC v2) | ASAP | À faire |
+| 🔴 | `git pull && git push` PMC v2 — retrait Bilan 24h | ASAP | Commit prêt localement, push à faire en terminal |
 | 🟡 | S'inscrire CPF Intelligence Academy | Mai 2026 | À faire |
-| 🟢 | Programme sport semaine 18 | Cette semaine | À planifier |
+| 🟡 | labocea-app-rapports — récupérer les 2 fiches terrain manquantes | Dès que possible | En attente Tom (2/4 fiches analysées) |
+| 🟡 | Mail relance Delphine nov. 2025 — en attente après CR annuel | Post mai 2026 | Brouillon disponible si besoin |
+| 🟢 | Supprimer doublons vault (Santé.md casquettes + dossier financier vide) | Cette semaine | À faire dans Finder |
