@@ -1,0 +1,3637 @@
+00:00 Claude Cowwork is here and if you
+00:02 
+
+00:02 understand how to use it, you're going
+00:04 
+
+00:04 to be able to outperform 99% of people
+00:07 
+
+00:07 on this planet. It is an easy way for
+00:10 
+
+00:10 you to use Claude Code. You might have
+00:11 
+
+00:11 heard of Claude Code. It's gone viral.
+00:13 
+
+00:13 But the problem is it feels technical.
+00:15 
+
+00:15 You have to go into the terminal and
+00:17 
+
+00:17 it's not fun for a lot of beginners. So
+00:19 
+
+00:19 Claude has come up with co-work and it's
+00:22 
+
+00:22 a brand new product that harnesses the
+00:25 
+
+00:25 power of Claude code in a UI that is
+00:28 
+
+00:28 simple that anyone could use that your
+00:30 
+
+00:30 dad can use, your mom could use. Hey,
+00:32 
+
+00:32 even you can use. So in this episode I
+00:34 
+
+00:34 brought on Boris, the maker of this
+00:36 
+
+00:36 product. I'm so excited that he shows
+00:39 
+
+00:39 you the best practices for how to use
+00:42 
+
+00:42 Claude Co-work and at the end how he
+00:45 
+
+00:45 sets up his Claude code to get the most
+00:49 
+
+00:49 out of it. You're going to love this
+00:51 
+
+00:51 episode.
+00:60 
+
+01:00 >> We are lucky we've got Boris. He's the
+01:02 
+
+01:02 creator of Claude code and I would say
+01:04 
+
+01:04 the co-creator of Claude co-work today
+01:07 
+
+01:07 and today what I want to get
+01:09 
+
+01:09 accomplished is everyone's talking about
+01:12 
+
+01:12 co-work and I want to best understand
+01:14 
+
+01:14 what are the use cases, how can we get
+01:16 
+
+01:16 started, what are some nonobvious ways I
+01:18 
+
+01:18 can use it. So Boris, thank you so much
+01:21 
+
+01:21 for coming on the show and I have one
+01:24 
+
+01:24 question for you. By the end of this
+01:26 
+
+01:26 episode, what are people going to get
+01:28 
+
+01:28 out of it?
+01:30 
+
+01:30 Oo, I think people are going to start to
+01:33 
+
+01:33 get some more ideas for how to use
+01:35 
+
+01:35 co-work and hopefully they're going to
+01:37 
+
+01:37 tweet about it and maybe they'll even
+01:39 
+
+01:39 reach out to me so I can learn how they
+01:41 
+
+01:41 want to use co-work. It's funny, I feel
+01:43 
+
+01:43 like um quad code from the beginning it
+01:47 
+
+01:47 was sort of built to be it wasn't
+01:49 
+
+01:49 actually built to be a product at all,
+01:50 
+
+01:50 but when we first started thinking about
+01:52 
+
+01:52 it as a product, we thought that the
+01:53 
+
+01:53 thing people would use it for is coding.
+01:56 
+
+01:56 But we learned very quickly that people
+01:57 
+
+01:57 didn't just use it for coding, they used
+01:59 
+
+01:59 it for like all sorts of stuff. So I I
+02:01 
+
+02:01 kind of feel the journey of quad code
+02:03 
+
+02:03 has been very surprising. And I have
+02:05 
+
+02:05 been learning so much just watching how
+02:08 
+
+02:08 people use the product and how they
+02:10 
+
+02:10 abuse it and kind of like what what they
+02:12 
+
+02:12 actually want to use it for and even if
+02:14 
+
+02:14 it's not designed for that. So I kind of
+02:16 
+
+02:16 feel the same way about Coorwork. You
+02:17 
+
+02:17 know, I have some ideas about what
+02:18 
+
+02:18 people are going to use it for. I kind
+02:20 
+
+02:20 of view these as hypothesis and so, you
+02:22 
+
+02:22 know, happy to talk about it. happy to
+02:24 
+
+02:24 maybe I'll do a quick demo to to show
+02:26 
+
+02:26 you kind of some of the some of the
+02:28 
+
+02:28 things that we use it for. But I think
+02:31 
+
+02:31 that it's going to be pretty surprising.
+02:33 
+
+02:33 Uh and I hope that I will be surprised
+02:35 
+
+02:35 um when we see how people actually use
+02:37 
+
+02:37 it in the wild.
+02:38 
+
+02:38 >> Yeah, I think uh that's always the case
+02:40 
+
+02:40 with with platforms especially if you
+02:42 
+
+02:42 think about it like when when the makers
+02:44 
+
+02:44 of the app store created the app store,
+02:46 
+
+02:46 you know, the the initial apps was like
+02:48 
+
+02:48 you know a beer drinking app and like a
+02:50 
+
+02:50 bunch of random apps like that. Did they
+02:52 
+
+02:52 know that, you know, Uber was going to
+02:53 
+
+02:53 come out of that, Door Dash was going to
+02:55 
+
+02:55 come out of that, Tik Tok was going to
+02:56 
+
+02:56 come out of that? Probably not. So, I
+02:58 
+
+02:58 think that what's really cool about the
+02:60 
+
+03:00 phase that we are in right now with
+03:02 
+
+03:02 Claude Code and also Claude Co-work is
+03:06 
+
+03:06 we're all figuring it out at the same
+03:08 
+
+03:08 time. And none of us, including the
+03:11 
+
+03:11 creator, have all the answers. But I
+03:13 
+
+03:13 agree with you like what's it's it's a
+03:15 
+
+03:15 good time to be sharing some you know
+03:18 
+
+03:18 sharing what's working not working and
+03:21 
+
+03:21 you know if you're open to it let's
+03:22 
+
+03:22 let's screen share and get our hands
+03:25 
+
+03:25 dirty.
+03:26 
+
+03:26 >> Yeah. Yeah. Let's do it.
+03:27 
+
+03:27 >> So what are we looking at right now
+03:28 
+
+03:28 Boris?
+03:29 
+
+03:29 >> Yeah. So this is the this is the cloud
+03:31 
+
+03:31 desktop app. Um so you just download it.
+03:33 
+
+03:33 Um it co-work is only available for Mac
+03:35 
+
+03:35 OS. Um you know Windows coming soon. Uh
+03:39 
+
+03:39 there's a few different tabs in the
+03:41 
+
+03:41 desktop app. So there's the chat, that's
+03:42 
+
+03:42 the default, there's co-work, that's the
+03:43 
+
+03:43 new one, and there's code, and that's
+03:45 
+
+03:45 just quad code. Um, co-work under the
+03:49 
+
+03:49 hood, it's actually just quad code. And
+03:51 
+
+03:51 so, you know, the agent that makes quad
+03:54 
+
+03:54 code awesome, we call it the quad agent.
+03:56 
+
+03:56 It's also available as the quad agent
+03:57 
+
+03:57 SDK. So you can use it programmatically.
+03:59 
+
+03:59 You can, you know, all sorts of
+04:00 
+
+04:00 companies build all sorts of cool things
+04:02 
+
+04:02 on top of it. We actually use that same
+04:04 
+
+04:04 exact SDK directly in co-work. Um, so
+04:08 
+
+04:08 it's like, you know, it's pretty cool.
+04:09 
+
+04:09 just kind of one layer across
+04:11 
+
+04:11 everything. We have the best agent, have
+04:13 
+
+04:13 the best agentic model, might as well
+04:15 
+
+04:15 use it.
+04:17 
+
+04:17 And so what I'll do is just to kind of
+04:20 
+
+04:20 show how how to use this thing. And you
+04:22 
+
+04:22 know, like when I think about agentic
+04:25 
+
+04:25 AI, this word agentic has sort of lost
+04:27 
+
+04:27 all meaning cuz it it's just like used
+04:30 
+
+04:30 so much. So, I feel like probably a lot
+04:32 
+
+04:32 of listeners have heard the word agent,
+04:34 
+
+04:34 but they don't actually know what it
+04:35 
+
+04:35 means or, you know, they think it's like
+04:36 
+
+04:36 some like cool AI or or something, but
+04:38 
+
+04:38 it it actually has like a very specific
+04:40 
+
+04:40 meaning in the AI world, which I think
+04:42 
+
+04:42 has kind of been lost because a lot of
+04:44 
+
+04:44 the products that people have released
+04:45 
+
+04:45 in cold agentic in the past are not
+04:47 
+
+04:47 actually agentic. And so like when you
+04:50 
+
+04:50 think about the AI products that
+04:51 
+
+04:51 everyone's used you know like obviously
+04:52 
+
+04:52 quad code uh chat based apps where you
+04:55 
+
+04:55 know you just chat with the app kind of
+04:57 
+
+04:57 back and forth send some messages. The
+04:59 
+
+04:59 biggest difference with agents is uh it
+05:01 
+
+05:01 can take action and you know it's not
+05:04 
+
+05:04 just text and it's not just like web
+05:05 
+
+05:05 searching but it can actually use tools
+05:07 
+
+05:07 on your computer. it can it can interact
+05:09 
+
+05:09 with the world. And so for anthropic
+05:12 
+
+05:12 from the very beginning since before our
+05:14 
+
+05:14 models were good like before like you
+05:18 
+
+05:18 know like cloud 3 or whatever this is a
+05:20 
+
+05:20 thing that we wanted to get really good
+05:22 
+
+05:22 at because we felt that it's very
+05:24 
+
+05:24 important. Um and so from the start we
+05:28 
+
+05:28 wanted our models to be really great at
+05:29 
+
+05:29 coding and then really great at tool use
+05:31 
+
+05:31 and then really great at computer use.
+05:33 
+
+05:33 So it's it's kind of cool like you know
+05:35 
+
+05:35 the last year seeing how people have
+05:36 
+
+05:36 been hacking quad code it's pretty
+05:38 
+
+05:38 obvious this is kind of the place that
+05:39 
+
+05:39 we should go.
+05:41 
+
+05:41 Um and so for people that have used quad
+05:43 
+
+05:43 code you know none of this will be you
+05:45 
+
+05:45 know like too surprising. These are
+05:46 
+
+05:46 actually things that you can do. So
+05:47 
+
+05:47 really what we're trying to do is make
+05:48 
+
+05:48 this something that everyone can use in
+05:50 
+
+05:50 a way that's safe. And so what I'm going
+05:52 
+
+05:52 to do is um you know here on my desktop
+05:55 
+
+05:55 I have a I have this like receipts
+05:57 
+
+05:57 folder. I have a few receipts in it. Um,
+05:60 
+
+05:60 so I'm just going to give uh co-work
+06:02 
+
+06:02 access to my desktop. And you you have
+06:05 
+
+06:05 to pick like which specific folders it
+06:07 
+
+06:07 can see. By default, it can't see
+06:08 
+
+06:08 anything. So you have to kind of opt in
+06:10 
+
+06:10 to see to let it uh access specific
+06:12 
+
+06:12 folders.
+06:13 
+
+06:13 And so I'm going to say um,
+06:16 
+
+06:16 you know, I can say, uh, I have a
+06:19 
+
+06:19 receipts folder.
+06:22 
+
+06:22 Can you rename the files
+06:25 
+
+06:25 to match the dates on the receipts?
+06:29 
+
+06:29 >> So, so I think one interesting thing is
+06:32 
+
+06:32 when you're using co-work, it's really
+06:35 
+
+06:35 like it's operating with your files.
+06:38 
+
+06:38 Like that's a that's a big sort of
+06:39 
+
+06:39 mindset shift that people should have.
+06:41 
+
+06:41 It's almost like your operating system.
+06:43 
+
+06:43 Is that right?
+06:44 
+
+06:44 >> Yeah, exactly. It's like it it has your
+06:46 
+
+06:46 files, so the ones that you give it
+06:48 
+
+06:48 access to. Um, but actually the even
+06:50 
+
+06:50 cooler thing is it can use all sorts of
+06:51 
+
+06:51 tools. Um, and so like files actually is
+06:55 
+
+06:55 like, you know, that's like that's
+06:56 
+
+06:56 useful, but it's not it's not like that
+06:57 
+
+06:57 cool. What's actually much more
+06:59 
+
+06:59 interesting is it can generate files for
+07:01 
+
+07:01 you. So, you know, it can make like
+07:02 
+
+07:02 presentations and things like this. Um,
+07:04 
+
+07:04 it can interact with any tool over MCP
+07:07 
+
+07:07 and it has built-in support for
+07:08 
+
+07:08 Chromebased browsers. Um, so it can
+07:11 
+
+07:11 actually control your browser to do to
+07:13 
+
+07:13 do stuff.
+07:15 
+
+07:15 And so I'll I'll kind of show that a
+07:16 
+
+07:16 little bit. So this is kind of the first
+07:18 
+
+07:18 step. Um, when you're first getting
+07:20 
+
+07:20 started with co-work, the thing I
+07:21 
+
+07:21 recommend is, you know, do exactly what
+07:23 
+
+07:23 I just did. You know, just mount a
+07:24 
+
+07:24 folder, give co-work access to it. Um,
+07:27 
+
+07:27 and just like play around with it. It's
+07:28 
+
+07:28 it's super useful for cleaning up files,
+07:30 
+
+07:30 organizing things like that. Um, and so
+07:33 
+
+07:33 here it found these four receipts that I
+07:34 
+
+07:34 have. Um, it's asking me if uh one of
+07:39 
+
+07:39 the receipts, I guess, is missing a
+07:40 
+
+07:40 date. So, should it just rename the
+07:42 
+
+07:42 others? So I'll just say um
+07:46 
+
+07:46 you know for one it's we'll say it's
+07:48 
+
+07:48 like up to you
+07:50 
+
+07:50 and then for two I'll say uh don't
+07:52 
+
+07:52 rename it
+07:55 
+
+07:55 and we actually call this uh like
+07:58 
+
+07:58 reverse elicitation in the AI world. So
+08:00 
+
+08:00 so what this means is when the model is
+08:02 
+
+08:02 unsure about something it's going to ask
+08:04 
+
+08:04 you for clarification. Um and we've sort
+08:07 
+
+08:07 of taught the model to be pretty good at
+08:08 
+
+08:08 this. So instead of assuming if it's
+08:10 
+
+08:10 unsure about something it's just going
+08:11 
+
+08:11 to ask you
+08:14 
+
+08:14 And so yeah, in this case, so it renamed
+08:16 
+
+08:16 the receipts. So I'm just going to open
+08:18 
+
+08:18 this up to double check. Yeah, cool. And
+08:20 
+
+08:20 so the receipts are renamed a little bit
+08:22 
+
+08:22 better organized.
+08:24 
+
+08:24 And so maybe what I can try next is um
+08:28 
+
+08:28 let's like put this in a spreadsheet.
+08:30 
+
+08:30 >> So it takes control of your computer
+08:34 
+
+08:34 basically in that sense, right? If you
+08:36 
+
+08:36 allow it to take control.
+08:38 
+
+08:38 >> Yeah. Yeah, that's right. And so we put
+08:40 
+
+08:40 like so much work into kind of safety
+08:42 
+
+08:42 and making sure that as this happens you
+08:44 
+
+08:44 don't you don't like accidentally shoot
+08:46 
+
+08:46 yourself in the foot and like delete
+08:47 
+
+08:47 files or whatever. Um so there's just
+08:49 
+
+08:49 like a huge amount of work that went
+08:50 
+
+08:50 into this and it kind of starts at the
+08:53 
+
+08:53 model side where you know for anthropic
+08:55 
+
+08:55 from the very beginning we were the AI
+08:58 
+
+08:58 safety lab and that's the reason that we
+08:60 
+
+08:60 exist. Um, and so there's a lot of work
+09:02 
+
+09:02 into like alignment and mechanistic
+09:04 
+
+09:04 interpretability and kind of all these
+09:05 
+
+09:05 ideas to to make sure that the model
+09:07 
+
+09:07 does what you want in a way that's safe
+09:09 
+
+09:09 kind of at the model layer. And this
+09:11 
+
+09:11 literally means like studying the
+09:12 
+
+09:12 neurons kind of the same way that you
+09:14 
+
+09:14 would study uh neurons in you know like
+09:17 
+
+09:17 in in the human. Um, and so we you know
+09:19 
+
+09:19 you can like identify structures and you
+09:21 
+
+09:21 can kind of study in a very scientific
+09:23 
+
+09:23 way as a black box also um to make sure
+09:25 
+
+09:25 that it's safe. So this is called
+09:26 
+
+09:26 alignment. Um, and then we do a whole
+09:29 
+
+09:29 bunch of other stuff. So there's
+09:30 
+
+09:30 actually a whole virtual machine running
+09:32 
+
+09:32 under the hood and this is just to make
+09:33 
+
+09:33 sure that any actions taken are safe and
+09:35 
+
+09:35 don't affect your broader system. Um and
+09:38 
+
+09:38 then as of last week there's also
+09:39 
+
+09:39 deletion protection. So if you
+09:41 
+
+09:41 accidentally delete something then um
+09:44 
+
+09:44 you're going to get prompted first. Um
+09:46 
+
+09:46 so the model can kind of make sure that
+09:47 
+
+09:47 that's actually a thing that you want to
+09:49 
+
+09:49 do. Obviously also as we start
+09:51 
+
+09:51 interacting with the internet something
+09:52 
+
+09:52 like prompt injection is quite scary and
+09:55 
+
+09:55 so we built in a lot of protections
+09:56 
+
+09:56 against that. Um, obviously, you know,
+09:58 
+
+09:58 is it's not perfect and it's something
+09:60 
+
+09:60 we're iterating on. Um, but this is also
+10:02 
+
+10:02 part of the reason that we released this
+10:03 
+
+10:03 pretty early is we want to see how
+10:05 
+
+10:05 people use it and a big part of making
+10:08 
+
+10:08 models safe isn't just studying them on
+10:09 
+
+10:09 a lab, but studying them in the wild um
+10:12 
+
+10:12 to see how it's useful. Um, and so this
+10:14 
+
+10:14 was like pretty cool, right? So, we we
+10:16 
+
+10:16 have this folder. Um, first it kind of
+10:18 
+
+10:18 renamed all all my receipts. I asked it
+10:20 
+
+10:20 to make a sheet. It just made this
+10:21 
+
+10:21 spreadsheet. So, it's already here. Um,
+10:24 
+
+10:24 maybe I don't want a spreadsheet. Maybe
+10:26 
+
+10:26 I want like a Google sheet. So, actually
+10:29 
+
+10:29 >> that's so interesting, right? Cuz like I
+10:32 
+
+10:32 think uh where people stumble with tools
+10:35 
+
+10:35 like co-working and cloud code is
+10:37 
+
+10:37 because you can do anything making it of
+10:41 
+
+10:41 course that makes sense making it a
+10:43 
+
+10:43 Google sheet. But like that's where it's
+10:46 
+
+10:46 so interesting that you can you really
+10:48 
+
+10:48 can treat it like a teammate in that
+10:50 
+
+10:50 sense, right? Like go and do this thing.
+10:52 
+
+10:52 The world is your oyster. Whoa. What is
+10:53 
+
+10:53 happening right now?
+10:55 
+
+10:55 Yeah. So, it's like it's opening the
+10:57 
+
+10:57 browser. Um, and so here it's going to
+10:59 
+
+10:59 ask me from for permission. Just for
+11:00 
+
+11:00 this demo, I'm going to say always allow
+11:02 
+
+11:02 for the site. Um, but you can just say
+11:03 
+
+11:03 like allow once or deny. And so, Quad's
+11:07 
+
+11:07 taking the wheel. Um, it's making a
+11:09 
+
+11:09 spreadsheet for me. Um, this is going to
+11:11 
+
+11:11 sort of take a while. And so, this is
+11:12 
+
+11:12 one of the things that we're iterating
+11:14 
+
+11:14 on is like making this kind of computer
+11:15 
+
+11:15 use a lot faster. I I remember like man
+11:19 
+
+11:19 this is like when I first joined
+11:20 
+
+11:20 Enthropic and this was maybe um this
+11:24 
+
+11:24 like sonnet 3.6 6 days or I forgot what
+11:26 
+
+11:26 what we called it like Sonic 3.5 new. Um
+11:29 
+
+11:29 and that was the first model that I
+11:31 
+
+11:31 think we really started to crack
+11:32 
+
+11:32 computers and I remember I was like
+11:34 
+
+11:34 sitting with my team and there was
+11:36 
+
+11:36 literally a researcher that ran into the
+11:38 
+
+11:38 room like in the movies and was like oh
+11:39 
+
+11:39 my god quad knows how to use computers
+11:42 
+
+11:42 and um we just had it like order a pizza
+11:44 
+
+11:44 and it uh it picked a pineapple pizza
+11:46 
+
+11:46 and then ordered it and it asked us for
+11:48 
+
+11:48 a credit card and then we we got that
+11:50 
+
+11:50 delivered to the office but it was
+11:51 
+
+11:51 tedious. it took like an hour or
+11:53 
+
+11:53 something for it to click around. And
+11:56 
+
+11:56 since then, we've been improving the
+11:58 
+
+11:58 model's ability to use a computer. Um,
+12:00 
+
+12:00 and so you can kind of see that here. So
+12:02 
+
+12:02 here the, you know, quad is typing and
+12:04 
+
+12:04 it's interacting with the spreadsheet
+12:05 
+
+12:05 and it can see what's on the screen. It
+12:07 
+
+12:07 can interact with it. Anything that's in
+12:09 
+
+12:09 your browser, it it can just use.
+12:12 
+
+12:12 And could it use like email,
+12:16 
+
+12:16 you know, let's say we wanted to send
+12:17 
+
+12:17 this to somebody, you know, finance
+12:20 
+
+12:20 team, like can you maybe we'll get into
+12:23 
+
+12:23 it later, but you know, with things like
+12:24 
+
+12:24 connections and MCPs,
+12:27 
+
+12:27 um, is that possible?
+12:29 
+
+12:29 >> Yeah. Yeah, totally. Okay. So, let's
+12:30 
+
+12:30 like let's make this like kind of a nice
+12:32 
+
+12:32 spreadsheet because we don't want to
+12:33 
+
+12:33 send like a badly formatted spreadsheet
+12:34 
+
+12:34 to our coworker. Um, but let's make it
+12:37 
+
+12:37 nice and then uh we can ask Quad to send
+12:39 
+
+12:39 it. And so, here it's kind of cool. It's
+12:41 
+
+12:41 like, you know, it's it's still early
+12:42 
+
+12:42 days and so there's some like formatting
+12:44 
+
+12:44 mistakes. It didn't paste it exactly
+12:46 
+
+12:46 correctly, but it noticed it. So notice
+12:48 
+
+12:48 that, you know, it's not actually split
+12:50 
+
+12:50 correctly. And so now it's trying to
+12:51 
+
+12:51 format it.
+12:53 
+
+12:53 Um, so kind of notice this. And yeah,
+12:56 
+
+12:56 Greg, like to your point, it's funny
+12:58 
+
+12:58 these like these use cases and the way
+13:00 
+
+13:00 that people are going to use these
+13:01 
+
+13:01 tools. Like I said at the start, it's
+13:03 
+
+13:03 going to be so surprising. Um, I'm just
+13:05 
+
+13:05 so excited to see how people use it. And
+13:07 
+
+13:07 sort of the crazy thing about them is
+13:09 
+
+13:09 they're so general purpose. It's like
+13:11 
+
+13:11 it's sort of like a computer itself or
+13:13 
+
+13:13 like the internet or something like like
+13:15 
+
+13:15 you said like when when you first like
+13:16 
+
+13:16 had an iPhone like you would never have
+13:18 
+
+13:18 predicted that you know there would be
+13:19 
+
+13:19 an Uber app at some point but you know
+13:21 
+
+13:21 that's that's what happened. Um and I
+13:24 
+
+13:24 sort of feel like we're at the beginning
+13:25 
+
+13:25 of that but for for agents.
+13:27 
+
+13:27 >> Yeah. I think uh it it it's it sounds so
+13:32 
+
+13:32 obvious in hindsight like of course you
+13:34 
+
+13:34 have a phone with GPS. Of course, right?
+13:37 
+
+13:37 You're gonna you're gonna have things
+13:38 
+
+13:38 like Uber and Door Dash and stuff like
+13:40 
+
+13:40 that. But I feel like yes, you're right.
+13:44 
+
+13:44 I think like what I'm trying to figure
+13:46 
+
+13:46 out in my mind, like I'm watching this
+13:47 
+
+13:47 and I'm like this is really cool, but
+13:49 
+
+13:49 I'm thinking about like okay, you know,
+13:52 
+
+13:52 how do I audit like my entire company?
+13:55 
+
+13:55 >> Like what are all the tasks that the
+13:56 
+
+13:56 company is doing? How are they
+13:58 
+
+13:58 interacting with files?
+14:00 
+
+14:00 And how are they using the internet? And
+14:03 
+
+14:03 how are they sending things? And then
+14:05 
+
+14:05 what are opportunities I can use to like
+14:07 
+
+14:07 make my team and also my life more
+14:10 
+
+14:10 productive? That's what's going through
+14:11 
+
+14:11 my head right now.
+14:12 
+
+14:12 >> Yeah. Yeah, totally. That's a great way
+14:14 
+
+14:14 to think about it. Um, and by the way,
+14:16 
+
+14:16 something that's kind of cool is, you
+14:18 
+
+14:18 know, as this is running, I'm just going
+14:19 
+
+14:19 to make a new task and do something
+14:20 
+
+14:20 else. Um, so you know what are
+14:25 
+
+14:25 some cool episodes?
+14:28 
+
+14:28 Uh, start up
+14:38 
+
+14:38 Cool. And so while while this one's
+14:40 
+
+14:40 running, we can like we can let this one
+14:42 
+
+14:42 go too. And I often have a bunch of
+14:43 
+
+14:43 tasks running in parallel, too.
+14:47 
+
+14:47 But yeah, that's exactly it. It's like
+14:48 
+
+14:48 you should just think about like what
+14:49 
+
+14:49 what's all like the tedious stuff that
+14:51 
+
+14:51 you do every day and you can just throw
+14:53 
+
+14:53 all the stuff to cowork. Um and I I feel
+14:56 
+
+14:56 like this happened for coding over the
+14:57 
+
+14:57 last year because of course engineers
+14:59 
+
+14:59 and you know programmers are the
+15:01 
+
+15:01 earliest adopters. So when the tooling
+15:03 
+
+15:03 first be became able to do that kind of
+15:05 
+
+15:05 work engineers adopted it first but you
+15:09 
+
+15:09 know now now this is coming uh uh now
+15:12 
+
+15:12 this is possible for everyone else to
+15:13 
+
+15:13 use too. So that's like that's super
+15:15 
+
+15:15 exciting. And when we talk to engineers
+15:16 
+
+15:16 about the way they like to use quad code
+15:18 
+
+15:18 you know they run a bunch of quads in
+15:19 
+
+15:19 parallel they use it to automate the
+15:20 
+
+15:20 tedious stuff. And I don't know, man.
+15:22 
+
+15:22 Like, for me, this is just the most fun
+15:24 
+
+15:24 I've ever had as an engineer cuz I get
+15:27 
+
+15:27 to do the stuff that I enjoy and I just
+15:29 
+
+15:29 feel so productive because Quad does all
+15:31 
+
+15:31 the, you know, the stuff that I didn't
+15:33 
+
+15:33 want to do.
+15:35 
+
+15:35 Um, okay. So, now we have this like we
+15:37 
+
+15:37 have the spreadsheet. This looks all
+15:38 
+
+15:38 right. It's not too bad. Um, the data
+15:41 
+
+15:41 looks correct. Um, you know, one thing
+15:45 
+
+15:45 that's missing though is, uh,
+15:49 
+
+15:49 uh, well, we we can add maybe like the
+15:50 
+
+15:50 totals, but I think for the sake of the
+15:52 
+
+15:52 demo, what I'm going to do is, um, I'm
+15:55 
+
+15:55 going to see if it can email it.
+15:57 
+
+15:57 >> So, just reading for our audio
+15:58 
+
+15:58 listeners, can you open Gmail and send
+16:00 
+
+16:00 the sheet to Amy? And
+16:05 
+
+16:05 Wow.
+16:06 
+
+16:06 >> Yeah. So, I'm going to say always
+16:07 
+
+16:07 continue.
+16:09 
+
+16:09 So, how is it going to know it's Amy,
+16:12 
+
+16:12 right? It's going to pull up the
+16:13 
+
+16:13 contacts within Gmail.
+16:16 
+
+16:16 >> Yeah. Yeah, exactly. Um,
+16:20 
+
+16:20 yeah, that that's exactly it. It's going
+16:21 
+
+16:21 to interact with it the same way that uh
+16:24 
+
+16:24 you know, anyone else would interact
+16:26 
+
+16:26 with a computer. And it's the same
+16:28 
+
+16:28 thing. It can it can like click stuff.
+16:29 
+
+16:29 It can read the screen.
+16:31 
+
+16:31 >> Okay. So, compose window open. Let me
+16:33 
+
+16:33 type Amy. So, you have like multiple
+16:35 
+
+16:35 when you're when you're like locked in,
+16:37 
+
+16:37 so to speak. you're kind of you have
+16:39 
+
+16:39 multiple of these windows open at or
+16:41 
+
+16:41 multiple multiple virtual machines open
+16:44 
+
+16:44 at at the same time.
+16:45 
+
+16:45 >> Yeah. Yeah. I usually have a bunch of
+16:47 
+
+16:47 these um you know like five or five or
+16:49 
+
+16:49 10 or whatever. Um and so we can see the
+16:52 
+
+16:52 models, you know, trying to interact
+16:54 
+
+16:54 with this. And so it filled out Amy.
+16:57 
+
+16:57 >> And you know, by the way, just so
+16:59 
+
+16:59 because this is, you know, going on
+17:00 
+
+17:00 YouTube, you know, you're going to have
+17:01 
+
+17:01 some haters in the comments. So we're
+17:03 
+
+17:03 just going to address them right now.
+17:05 
+
+17:05 Someone in the comments is going to be
+17:07 
+
+17:07 like, "But that's so slow. I can do it
+17:09 
+
+17:09 faster myself or something." What is
+17:11 
+
+17:11 your reaction?
+17:12 
+
+17:12 >> Yeah, of course you can. Yeah. Um I
+17:15 
+
+17:15 could definitely do this much faster.
+17:16 
+
+17:16 And it's actually the same thing for a
+17:18 
+
+17:18 lot of quad code, right? Like especially
+17:19 
+
+17:19 at the beginning, I I could do it much
+17:21 
+
+17:21 faster. Um but but I think sort of two
+17:24 
+
+17:24 things happen. One is that uh the model
+17:27 
+
+17:27 just gets better at doing it quickly.
+17:29 
+
+17:29 And this is just something you would I I
+17:30 
+
+17:30 would expect over time. But then the
+17:32 
+
+17:32 second thing is because you can do
+17:34 
+
+17:34 multiple things in parallel, it's
+17:36 
+
+17:36 actually a big time saver. And so
+17:37 
+
+17:37 usually my workflow is I'll kick off,
+17:40 
+
+17:40 you know, like a few different tasks in
+17:41 
+
+17:41 parallel and I'll just kind of like go
+17:44 
+
+17:44 back and forth between them and kind of
+17:45 
+
+17:45 tend to my quads, make sure they're in a
+17:47 
+
+17:47 good place, see if they have any
+17:48 
+
+17:48 questions or anything like that. So it's
+17:50 
+
+17:50 really a different kind of workflow.
+17:52 
+
+17:52 Like I feel like now is the age of like
+17:53 
+
+17:53 kind of multi- multi- clotting of of
+17:56 
+
+17:56 paroism of like not going super deep on
+17:59 
+
+17:59 stuff but kind of being more of a
+18:01 
+
+18:01 generalist and more tending tending to
+18:03 
+
+18:03 your clouds. And so like this was this
+18:06 
+
+18:06 other chat that we kicked off earlier.
+18:08 
+
+18:08 Um and in this case it sort of did some
+18:11 
+
+18:11 research. So that's pretty cool. Um, so
+18:13 
+
+18:13 it didn't just go to, you know, like
+18:15 
+
+18:15 startup ideas podcast website, but it
+18:18 
+
+18:18 searched the internet, checked a bunch
+18:19 
+
+18:19 of different places, checked like
+18:21 
+
+18:21 someone's notes about it. Yeah. 10 10
+18:23 
+
+18:23 rules for for quad code. Yeah, I'll find
+18:26 
+
+18:26 that interesting, too.
+18:29 
+
+18:29 And let's see. So, it seems like this is
+18:33 
+
+18:33 the email is probably all drafted.
+18:37 
+
+18:37 The draft has been saved. Yep. Please
+18:40 
+
+18:40 send. And I also use this for like Slack
+18:43 
+
+18:43 too. Like a pretty common use case I've
+18:45 
+
+18:45 been doing maybe a couple times a week
+18:47 
+
+18:47 is I have a spreadsheet where we track
+18:50 
+
+18:50 all the team's work for for the month or
+18:52 
+
+18:52 for the week or whatever. And instead of
+18:54 
+
+18:54 having to bug everyone on the team to
+18:55 
+
+18:55 fill out the status, what I do is I ask
+18:57 
+
+18:57 co-work to look at the spreadsheet, any
+18:59 
+
+18:59 column that's not filled out, just
+19:01 
+
+19:01 message the engineer on Slack. Um, and
+19:03 
+
+19:03 it does that really well. So, you know,
+19:05 
+
+19:05 I I just ask it to do that and then I go
+19:07 
+
+19:07 get a coffee and I I don't have to do
+19:09 
+
+19:09 that anymore.
+19:11 
+
+19:11 Do you think that co-work is going to be
+19:13 
+
+19:13 the gateway drug to cloud code? Because
+19:15 
+
+19:15 for a lot of beginners, nontechnical
+19:18 
+
+19:18 people, cloud code feels a bit
+19:19 
+
+19:19 overwhelming, but when I'm when I'm
+19:21 
+
+19:21 watching you do this, this feels, you
+19:23 
+
+19:23 know, approachable.
+19:26 
+
+19:26 >> Yeah. I I mean, I think it's like
+19:27 
+
+19:27 probably two kinds of users. Um Well,
+19:30 
+
+19:30 and it's also it's funny. Cloud code is
+19:33 
+
+19:33 built originally in a terminal and you
+19:35 
+
+19:35 know, now nowadays it's available in the
+19:37 
+
+19:37 Quad mobile app. It's available on the
+19:39 
+
+19:39 website, uh, in the IDE, on Slack, on
+19:42 
+
+19:42 GitHub. So, you know, nowadays it's
+19:43 
+
+19:43 available everywhere, but originally it
+19:44 
+
+19:44 was built in a terminal. And I never
+19:48 
+
+19:48 thought that most engineers would want
+19:49 
+
+19:49 to use a terminal cuz, you know, it's
+19:51 
+
+19:51 scary. It's like this thing that's sort
+19:52 
+
+19:52 of hidden away on the computer, like,
+19:54 
+
+19:54 you know, only the most hardcore
+19:55 
+
+19:55 engineers want to actually work in a
+19:57 
+
+19:57 terminal day in and day out. And so,
+19:59 
+
+19:59 it's surprising to me that most
+20:00 
+
+20:00 engineers wanted to use it. What's even
+20:02 
+
+20:02 more surprising is a lot of
+20:04 
+
+20:04 non-engineers started to use it. And
+20:05 
+
+20:05 that was the craziest thing. And you
+20:07 
+
+20:07 know looking at like the sales team at
+20:09 
+
+20:09 Enthropic, like the GTM team, half of
+20:10 
+
+20:10 them use quad code every week. Um, and
+20:13 
+
+20:13 looking at other non-technical people at
+20:15 
+
+20:15 Enthropic, like designers, product
+20:17 
+
+20:17 managers, data scientists, pretty much
+20:18 
+
+20:18 all of them use quad code every day. So
+20:20 
+
+20:20 that that's been like pretty surprising.
+20:23 
+
+20:23 But my hypothesis is what they would
+20:26 
+
+20:26 prefer is actually something a little
+20:27 
+
+20:27 bit more like this where you don't have
+20:29 
+
+20:29 to deal with a terminal and all that
+20:31 
+
+20:31 kind of thing. you have a you have a
+20:32 
+
+20:32 nice UI um because you don't need access
+20:35 
+
+20:35 to bash and all that kind of stuff cuz
+20:37 
+
+20:37 the the model will just do it for you.
+20:39 
+
+20:39 >> Yeah. I think what I would love with
+20:41 
+
+20:41 something like this is
+20:44 
+
+20:44 you know automating some of these
+20:45 
+
+20:45 processes. It's like instead of doing
+20:47 
+
+20:47 oneoffs, it's like anytime this happens,
+20:50 
+
+20:50 I want you to do this.
+20:53 
+
+20:53 >> That's my dream.
+20:55 
+
+20:55 >> Yeah, it's a cool idea. I'm excited to
+20:56 
+
+20:56 see like how it's tied into skills also.
+20:58 
+
+20:58 I think it's something we're we're
+20:60 
+
+20:60 thinking about. we haven't quite figured
+21:01 
+
+21:01 out yet. Um yeah, cuz like a skill, what
+21:04 
+
+21:04 what is it? It's essentially kind of a
+21:06 
+
+21:06 repeatable way to do something. And so
+21:08 
+
+21:08 you saw that a little bit earlier up in
+21:10 
+
+21:10 this conversation
+21:12 
+
+21:12 where um when Quad was generating the
+21:14 
+
+21:14 spreadsheet. Um I don't know if you saw,
+21:16 
+
+21:16 but it actually loaded the skill.
+21:18 
+
+21:18 >> And so we prepackaged the skill for
+21:19 
+
+21:19 Excel. And that's the way that Quad
+21:21 
+
+21:21 knows how to do it. Um, and so if you
+21:24 
+
+21:24 have some like weird file format, I
+21:25 
+
+21:25 don't know if you work with like AutoCAD
+21:26 
+
+21:26 or if you work with, you know, like
+21:28 
+
+21:28 Salesforce kind of what whatever it is
+21:30 
+
+21:30 the tool the tool that you use, you just
+21:32 
+
+21:32 make a skill and then quad can can do it
+21:34 
+
+21:34 for you.
+21:35 
+
+21:35 >> That's interesting. So
+21:38 
+
+21:38 if you have more skills, co-working
+21:42 
+
+21:42 it, you know, to do things related to
+21:44 
+
+21:44 those skills, co-workers is more likely
+21:46 
+
+21:46 to use those skills. So you might be
+21:48 
+
+21:48 able to get a better outcome out of
+21:51 
+
+21:51 co-work if you,
+21:54 
+
+21:54 you know, do some upfront work to
+21:56 
+
+21:56 actually create some skills.
+21:58 
+
+21:58 >> I think so. Yeah.
+22:00 
+
+22:00 >> Wow.
+22:01 
+
+22:01 >> Yeah, I think I think that's exactly
+22:03 
+
+22:03 right.
+22:04 
+
+22:04 >> Yeah. Okay. Well, that's good to know.
+22:05 
+
+22:05 And and you know, what else do we need
+22:08 
+
+22:08 to know about co-work? cuz I know
+22:10 
+
+22:10 there's, you know, there's, you know,
+22:12 
+
+22:12 extensions,
+22:14 
+
+22:14 there's there's skills, like walk us
+22:15 
+
+22:15 through some of is there anything else
+22:18 
+
+22:18 that, you know, we need to know in order
+22:20 
+
+22:20 to get the most out of of the product?
+22:24 
+
+22:24 >> You know, we we tried to build cowork
+22:25 
+
+22:25 just to be pretty simple. Um, when we
+22:27 
+
+22:27 think about the different audiences we
+22:28 
+
+22:28 serve for an audience like engineers,
+22:31 
+
+22:31 they don't actually like simple. Like
+22:32 
+
+22:32 simple is is good by default, but
+22:34 
+
+22:34 engineers love to hack their tools. They
+22:36 
+
+22:36 love to customize their tools. Um, so
+22:38 
+
+22:38 that's actually really important. So,
+22:40 
+
+22:40 Quad Code is just like the most
+22:41 
+
+22:41 customizable coding agent. It has just
+22:43 
+
+22:43 like so many extension points. There's
+22:45 
+
+22:45 like there's skills, there's custom
+22:47 
+
+22:47 agents, uh there there's hooks, there's
+22:50 
+
+22:50 a an insane amount of configuration and
+22:52 
+
+22:52 settings that you can set, you know,
+22:53 
+
+22:53 there there's a very sophisticated
+22:56 
+
+22:56 permission system. So, there's all sorts
+22:58 
+
+22:58 of ways to customize it. And this is
+22:59 
+
+22:59 because we know every engineer works
+23:01 
+
+23:01 different and everyone has different
+23:02 
+
+23:02 preferences. Everyone uses a different
+23:04 
+
+23:04 tech stack. Everyone uses a different
+23:06 
+
+23:06 editor. everyone use a different OS. So,
+23:09 
+
+23:09 we wanted to make sure it's really
+23:10 
+
+23:10 customizable. For some of my co-work, I
+23:12 
+
+23:12 think we're kind of starting in the
+23:13 
+
+23:13 opposite direction. Um, and just keep it
+23:15 
+
+23:15 really simple at the start. Um, and so
+23:17 
+
+23:17 if you use co-work, I would probably not
+23:19 
+
+23:19 customize too much. Like if you have
+23:21 
+
+23:21 co-work installed and you install the
+23:23 
+
+23:23 Chrome extension, that's pretty much all
+23:25 
+
+23:25 you need and it'll do everything else
+23:27 
+
+23:27 for you. I think over time as you find
+23:30 
+
+23:30 yourself using maybe software that
+23:32 
+
+23:32 co-work is not great at like that's the
+23:33 
+
+23:33 point to think about writing skills but
+23:36 
+
+23:36 that wouldn't be my starting point just
+23:37 
+
+23:37 start simple like you know see how it
+23:39 
+
+23:39 works see what's useful and I think also
+23:42 
+
+23:42 the other thing you know it's just it's
+23:43 
+
+23:43 so early this feels to me a lot like
+23:46 
+
+23:46 quad code a year ago where you know we
+23:49 
+
+23:49 released it before it was early it was
+23:51 
+
+23:51 not very good yet it was like super
+23:53 
+
+23:53 buggy it kind of barely worked like the
+23:56 
+
+23:56 model was not very good at coding a year
+23:57 
+
+23:57 ago
+23:58 
+
+23:58 And it kind of feels like that to me,
+24:00 
+
+24:00 but I think our work is actually a
+24:03 
+
+24:03 little bit better than quad code was
+24:04 
+
+24:04 when we first released it because it's
+24:06 
+
+24:06 actually useful and you know it's
+24:07 
+
+24:07 already a thing that I use every day.
+24:09 
+
+24:09 And um yeah, I think in the first week
+24:11 
+
+24:11 we've we've seen so much more growth.
+24:13 
+
+24:13 It's it's been like a multiple of the
+24:15 
+
+24:15 growth that we saw with quad code the
+24:17 
+
+24:17 first week. Um so that that's very
+24:19 
+
+24:19 exciting. It it seems like this is
+24:20 
+
+24:20 something that people are already
+24:21 
+
+24:21 finding useful.
+24:23 
+
+24:23 >> You know, we're recording this uh what
+24:25 
+
+24:25 is it? January 2026.
+24:27 
+
+24:27 If we if we come back here in 12 months,
+24:29 
+
+24:29 it's January 2027,
+24:33 
+
+24:33 how do you think people are going to be
+24:34 
+
+24:34 using co-work? You know, I know you
+24:37 
+
+24:37 don't have a crystal ball exactly, but
+24:38 
+
+24:38 what sort of use cases and and what is
+24:41 
+
+24:41 what does the product look like? Like
+24:43 
+
+24:43 describe the world in January 2027 with
+24:46 
+
+24:46 with co-work.
+24:48 
+
+24:48 >> Oh jeez, Greg. I I plan in like a
+24:50 
+
+24:50 oneweek timeline.
+24:52 
+
+24:52 The model is just changing so fast. It's
+24:54 
+
+24:54 it's so hard and I just feel like, you
+24:57 
+
+24:57 know, like the model is it's advancing
+24:59 
+
+24:59 exponentially and just like my puny
+25:01 
+
+25:01 human meat brain like can't grapple with
+25:03 
+
+25:03 exponential. It's like we think in
+25:04 
+
+25:04 lineers and so I think this kind of
+25:06 
+
+25:06 exponential is just very very difficult
+25:08 
+
+25:08 to plan around.
+25:10 
+
+25:10 Um okay, but if if I had to speculate um
+25:14 
+
+25:14 a year ago I made and I think Dario also
+25:18 
+
+25:18 made this prediction that by the end of
+25:20 
+
+25:20 the year people wouldn't be writing code
+25:21 
+
+25:21 anymore. And I think that was like
+25:23 
+
+25:23 sometime mid uh you know la last year or
+25:26 
+
+25:26 something in you know I I code every
+25:28 
+
+25:28 day. Uh I ship you know two 300 PRs
+25:31 
+
+25:31 every month or something like that. Uh
+25:33 
+
+25:33 and in the last two months quad quad
+25:35 
+
+25:35 code has written 100% of my code. I
+25:38 
+
+25:38 haven't written a single line by hand.
+25:40 
+
+25:40 And this is something like I also
+25:41 
+
+25:41 predicted this you know like way back
+25:44 
+
+25:44 middle of last year. It was sort of not
+25:47 
+
+25:47 intuitive
+25:49 
+
+25:49 because if you just think about kind of
+25:51 
+
+25:51 the experience at the time and you trace
+25:53 
+
+25:53 it linearly, there's just no way that
+25:55 
+
+25:55 the model would be at that point. So you
+25:57 
+
+25:57 really have to kind of believe in the
+25:58 
+
+25:58 exponential and just literally like plot
+26:01 
+
+26:01 it out and kind of follow the way that
+26:03 
+
+26:03 the line the line goes. That's the only
+26:04 
+
+26:04 way that you would have predicted this.
+26:06 
+
+26:06 And it was just it was absolutely right.
+26:07 
+
+26:07 And so I think for coding this is a work
+26:09 
+
+26:09 this is something that we're going to
+26:10 
+
+26:10 start to see in more and more places for
+26:12 
+
+26:12 more and more kinds of code that the
+26:13 
+
+26:13 model is able to just do all of it. And
+26:16 
+
+26:16 when we think about co-work I think it's
+26:18 
+
+26:18 somewhat similar. I think it's a little
+26:20 
+
+26:20 bit earlier. And I think what we're
+26:22 
+
+26:22 going to see is for all this kind of
+26:23 
+
+26:23 tedious tasks like you know like
+26:25 
+
+26:25 connecting app A and B or kind of
+26:27 
+
+26:27 shuffling data back and forth or or
+26:29 
+
+26:29 whatever the model is just going to be
+26:31 
+
+26:31 able to do it and it's going to get
+26:33 
+
+26:33 increasingly good at it. This is I think
+26:36 
+
+26:36 in some ways it's a little scary and in
+26:38 
+
+26:38 some ways I think it's really exciting
+26:40 
+
+26:40 because you don't have to spend your
+26:42 
+
+26:42 time on this toilome work anymore. You
+26:45 
+
+26:45 can just focus on the work that you
+26:46 
+
+26:46 enjoy. Um and also everyone I think just
+26:49 
+
+26:49 becomes much much more productive
+26:51 
+
+26:51 because you have an army of plots that
+26:53 
+
+26:53 that can do this.
+26:54 
+
+26:54 >> Okay. I like that feature. I like that
+26:56 
+
+26:56 feature a lot. Um it's a hard question.
+26:58 
+
+26:58 It's a hard question. um when you it's
+27:01 
+
+27:01 sort of like the genies out of the
+27:03 
+
+27:03 bottle and it's hard to predict like
+27:04 
+
+27:04 where the genie is going to go. So I
+27:07 
+
+27:07 believe that co uh co-work is the
+27:10 
+
+27:10 gateway drug to cla code. I think that
+27:13 
+
+27:13 people are going to
+27:15 
+
+27:15 uh start using it and they're going to
+27:18 
+
+27:18 develop like vertical use cases like for
+27:21 
+
+27:21 whatever it is their business is like
+27:22 
+
+27:22 you mentioned AutoCAD like you probably
+27:25 
+
+27:25 weren't thinking about AutoCAD when you
+27:26 
+
+27:26 were de helping develop Cobalt uh
+27:28 
+
+27:28 co-work so I think there's going to be
+27:31 
+
+27:31 like these verticals um and I think I
+27:37 
+
+27:37 think that co-work is going to be
+27:39 
+
+27:39 similar to like vertical job boards
+27:41 
+
+27:41 where there's very specific roles that
+27:43 
+
+27:43 you can hire to people. And I do think
+27:45 
+
+27:45 that there's going to be this uh
+27:47 
+
+27:47 combination between skills and these
+27:50 
+
+27:50 like digital teammates that you're going
+27:52 
+
+27:52 to quote unquote hire.
+27:54 
+
+27:54 >> Yeah, that's that's super interesting.
+27:55 
+
+27:55 Maybe we should make a bet and just see
+27:57 
+
+27:57 where it pans out in a year. You know, I
+27:58 
+
+27:58 I have no idea. Um but it it's it's
+28:02 
+
+28:02 definitely interesting to speculate cuz
+28:03 
+
+28:03 I I I just feel like the way this
+28:05 
+
+28:05 technology goes is so different than
+28:06 
+
+28:06 past technology waves. It's sort of
+28:09 
+
+28:09 similar to the internet. It's sort of
+28:11 
+
+28:11 similar to computers, you know, like
+28:13 
+
+28:13 maybe like telephones or something
+28:14 
+
+28:14 before that, but the speed is just so
+28:16 
+
+28:16 much faster. And because it's kind of
+28:18 
+
+28:18 piggybacking on all this, like the
+28:19 
+
+28:19 internet could not exist without
+28:20 
+
+28:20 telephones, uh, telephones and kind of
+28:22 
+
+28:22 like phone lines being everywhere. You
+28:24 
+
+28:24 couldn't have dialup without it. You
+28:25 
+
+28:25 know, mobile phones couldn't exist
+28:27 
+
+28:27 without the internet existing. Um, so
+28:29 
+
+28:29 it's sort of like every layer of the
+28:31 
+
+28:31 stack, it just gets more and more
+28:33 
+
+28:33 powerful and it spreads more quickly.
+28:34 
+
+28:34 And so it's like on the back of all of
+28:36 
+
+28:36 this that AI can exist. Um, and yeah,
+28:39 
+
+28:39 it's it's just gonna be very exciting to
+28:41 
+
+28:41 see to see where it goes.
+28:43 
+
+28:43 >> I want to shift gears just for the last
+28:45 
+
+28:45 10 minutes. Um, because we mentioned
+28:47 
+
+28:47 Claude Code, you had a you had a post
+28:50 
+
+28:50 that went absolutely viral. I think you
+28:53 
+
+28:53 know what post I'm going to talk about.
+28:54 
+
+28:54 99,000 bookmarks, which is crazy. And
+28:59 
+
+28:59 I'm going to share my screen. I want to
+29:01 
+
+29:01 go over it a little bit.
+29:03 
+
+29:03 >> This is me learning to use Twitter.
+29:06 
+
+29:06 I think I made an account like a decade
+29:07 
+
+29:07 ago and I haven't really used it. So,
+29:09 
+
+29:09 um, it's funny. Yeah, it's been fun to
+29:11 
+
+29:11 learn.
+29:12 
+
+29:12 >> You have like a just a few tweets, but
+29:14 
+
+29:14 like this, you know, this one, you
+29:17 
+
+29:17 figured it out. You say, "I'm Boris. I
+29:19 
+
+29:19 created Cloud Code. Lots of people have
+29:21 
+
+29:21 asked for how I use Cloud Code. So, I
+29:22 
+
+29:22 wanted to show off my setup a bit. My
+29:25 
+
+29:25 setup might be surprisingly vanilla.
+29:27 
+
+29:27 Cloud Code works great out of the box.
+29:29 
+
+29:29 So, I personally don't customize it
+29:30 
+
+29:30 much. There's not no one correct.
+29:33 
+
+29:33 There's no one correct way to use cloud
+29:35 
+
+29:35 code. We intentionally built it in a way
+29:37 
+
+29:37 that you can use it, customize it, and
+29:38 
+
+29:38 hack it however you'd like. Each person
+29:40 
+
+29:40 on the cloud code team use it very
+29:42 
+
+29:42 differently. So, here it goes. Could you
+29:44 
+
+29:44 just talk about
+29:47 
+
+29:47 some of the just expand on some of these
+29:49 
+
+29:49 and what you were saying, you know, what
+29:50 
+
+29:50 you were saying on here because I
+29:52 
+
+29:52 thought it was really interesting.
+29:53 
+
+29:53 >> Yeah, I'd love to. So, this first one,
+29:56 
+
+29:56 it's very similar to what I was showing
+29:57 
+
+29:57 in co-work
+30:00 
+
+30:00 now isn't to go super deep on one task.
+30:02 
+
+30:02 it's to do a bunch of tasks in parallel.
+30:05 
+
+30:05 And so, you know, in the when I'm
+30:06 
+
+30:06 working on quad code, I I usually work
+30:08 
+
+30:08 in a terminal um or on the mobile app.
+30:11 
+
+30:11 These are kind of the two services I use
+30:12 
+
+30:12 the most. Um but like I said, everyone
+30:14 
+
+30:14 on the team is different. Every user
+30:16 
+
+30:16 prefers something different. So, we
+30:17 
+
+30:17 build all of these. And so, usually what
+30:20 
+
+30:20 I do is I'll start a task in kind of one
+30:21 
+
+30:21 tab and once Quad is thinking about it
+30:23 
+
+30:23 and starting to work on a plan, I'll
+30:25 
+
+30:25 move on to the second tab and I'll ask
+30:28 
+
+30:28 it to make a plan for the second thing.
+30:29 
+
+30:29 Then, I'll move on to the third one. ask
+30:31 
+
+30:31 it to make a plan. And then finally,
+30:32 
+
+30:32 like when uh you know, I've run out of
+30:35 
+
+30:35 immediate tasks to do, I'll go back to
+30:36 
+
+30:36 the first tab. I'll see if the plan
+30:38 
+
+30:38 looks good, I might go back and forth a
+30:40 
+
+30:40 little bit. And then once the plan looks
+30:42 
+
+30:42 good, I usually go into just auto accept
+30:44 
+
+30:44 edits right away because I think with
+30:47 
+
+30:47 Opus 4.5, once the plan is good, the
+30:49 
+
+30:49 model can just execute it pretty much
+30:50 
+
+30:50 perfectly. This is definitely not the
+30:53 
+
+30:53 case with previous models. And so I
+30:55 
+
+30:55 think there was a lot of excitement
+30:56 
+
+30:56 about Opusport 4.5 in um you know over
+30:60 
+
+30:60 the last couple months and I I think
+31:01 
+
+31:01 this is kind of one of the big reasons
+31:03 
+
+31:03 it's just gotten very good at coding but
+31:04 
+
+31:04 also excellent at planning. So once the
+31:06 
+
+31:06 plan is good, the code is good. And so
+31:08 
+
+31:08 yeah, my my work now is just jumping
+31:10 
+
+31:10 between tabs, kind of tending to the
+31:11 
+
+31:11 clouds, make sure they're unblocked,
+31:13 
+
+31:13 answering their questions. With co-work,
+31:15 
+
+31:15 I think I think it's actually quite
+31:16 
+
+31:16 similar now. I like that. I'm going to
+31:19 
+
+31:19 I'm going to quote you on that. Once the
+31:20 
+
+31:20 plan is good, the code is good because
+31:22 
+
+31:22 that's so true, right? Because if you
+31:24 
+
+31:24 nail the plan, the code should, you
+31:27 
+
+31:27 know, the agent should do the work.
+31:30 
+
+31:30 >> Yeah. Yeah. Exactly. I think like
+31:32 
+
+31:32 sometime last year, there was all this
+31:33 
+
+31:33 buzz about specri development. Yeah.
+31:36 
+
+31:36 >> And you know, it just feels like it's
+31:37 
+
+31:37 feels a little like too QT and like a
+31:39 
+
+31:39 little too rigid to me. But I think this
+31:41 
+
+31:41 is sort of a form of of spec driven
+31:43 
+
+31:43 development. It's like there there's
+31:45 
+
+31:45 some kind of spec, you know. I think
+31:46 
+
+31:46 it's just like a plan. That's all it has
+31:48 
+
+31:48 to be. It's just a text file. It doesn't
+31:49 
+
+31:49 have to be in a particular format. Once
+31:51 
+
+31:51 you have that, you're good.
+31:52 
+
+31:52 >> Number two, you say, I also run five to
+31:54 
+
+31:54 10 clouds uh in in parallel with my
+31:58 
+
+31:58 local clouds. As I code in my terminal,
+32:00 
+
+32:00 I will often hand off local sessions to
+32:02 
+
+32:02 web using and or manually kick off
+32:05 
+
+32:05 sessions in Chrome and sometimes I will
+32:07 
+
+32:07 teleport back and forth. I also start a
+32:09 
+
+32:09 few sessions from my phone obviously
+32:11 
+
+32:11 from cloud iOS app. You got to every
+32:13 
+
+32:13 morning and throughout the day and check
+32:15 
+
+32:15 in on them later. What do you mean by
+32:17 
+
+32:17 that? This morning I kicked off I think
+32:20 
+
+32:20 like three quads as soon as I woke up. I
+32:23 
+
+32:23 just had like some thought in the
+32:24 
+
+32:24 morning about well maybe I should like
+32:26 
+
+32:26 build this thing or fix this bug or
+32:27 
+
+32:27 whatever. I was like checking Twitter
+32:28 
+
+32:28 and someone had a bug report. So I just
+32:31 
+
+32:31 opened my phone and you know in the Quad
+32:33 
+
+32:33 app you on on the left side you click
+32:35 
+
+32:35 the little menu and there's a code tab.
+32:37 
+
+32:37 Um so you can just like access quad code
+32:39 
+
+32:39 there. That's what I use for a lot of my
+32:41 
+
+32:41 code. And it's funny I I never would
+32:42 
+
+32:42 have guessed that this is the way that I
+32:44 
+
+32:44 code. If you ask me a year ago I would
+32:46 
+
+32:46 never have predicted that the way I code
+32:48 
+
+32:48 now was like probably half of it is just
+32:50 
+
+32:50 on my phone and it sort of just works.
+32:53 
+
+32:53 Um and then web is kind of the other
+32:54 
+
+32:54 part. So once I've run out of tabs cuz
+32:58 
+
+32:58 it's just like you know it's kind of a
+32:59 
+
+32:59 pain to manage a bunch of different good
+33:00 
+
+33:00 checkouts cuz in each tab in my terminal
+33:03 
+
+33:03 I actually have a totally separate git
+33:04 
+
+33:04 checkout and I don't really use work
+33:06 
+
+33:06 trees or anything like that. I just keep
+33:07 
+
+33:07 it pretty simple. Um and in web if I if
+33:10 
+
+33:10 I just ran out of terminal tabs I'll
+33:12 
+
+33:12 start like overflowing to web and and
+33:14 
+
+33:14 starting tasks there.
+33:16 
+
+33:16 >> Beautiful. So yeah, I also I so
+33:18 
+
+33:18 recommending
+33:20 
+
+33:20 use iOS, use web, open multiple like
+33:24 
+
+33:24 that's what that's you'll get the most
+33:26 
+
+33:26 out of it that way.
+33:27 
+
+33:27 >> Yeah, absolutely. Yeah, and we have a
+33:29 
+
+33:29 Android app now too. So yeah, just like
+33:31 
+
+33:31 use the mobile app and see how far that
+33:32 
+
+33:32 can take you. Um if it's not giving you
+33:35 
+
+33:35 good results, also make sure that you
+33:36 
+
+33:36 tune the environment setup and make sure
+33:38 
+
+33:38 that you invest in your cloud.md. That's
+33:41 
+
+33:41 super duper important and I talk about
+33:43 
+
+33:43 that in number four also.
+33:45 
+
+33:45 >> Mhm. Number three, you say, "I use Opus
+33:48 
+
+33:48 4.5 with Thinking for Everything. It's
+33:50 
+
+33:50 the best coding model I've ever used.
+33:52 
+
+33:52 And even though it's bigger and slower
+33:54 
+
+33:54 than Sonnet since you have to steer it
+33:56 
+
+33:56 less, and it's better at tool use, it's
+33:59 
+
+33:59 almost always faster than using a
+34:01 
+
+34:01 smaller model in the end
+34:03 
+
+34:03 >> and cheaper. It's sort of
+34:05 
+
+34:05 counterintuitive." And I had to explain
+34:07 
+
+34:07 this to people a few times, but because
+34:10 
+
+34:10 the model is smarter, it actually uses
+34:13 
+
+34:13 less tokens in the end. and uh it uses
+34:16 
+
+34:16 so many less tokens, it's often cheaper
+34:19 
+
+34:19 than using a smaller, less intelligent
+34:22 
+
+34:22 model even though the per token cost for
+34:24 
+
+34:24 that model is lower. So a little
+34:26 
+
+34:26 counterintuitive, but yeah, just use the
+34:27 
+
+34:27 smartest thing if you can.
+34:29 
+
+34:29 >> Well, we appreciate that, you know, we
+34:31 
+
+34:31 appreciate that. Uh number four, our
+34:34 
+
+34:34 team shares a single CloudMD for the
+34:37 
+
+34:37 claude code repo. We check it into Git.
+34:40 
+
+34:40 The whole team contributes multiple
+34:41 
+
+34:41 times a week. Anytime we see Claude do
+34:43 
+
+34:43 something incorrectly, we add it to the
+34:45 
+
+34:45 MD so Claude knows not to do it next
+34:47 
+
+34:47 time. Other teams maintain their own
+34:49 
+
+34:49 Claude MDs. It is each team's job to
+34:52 
+
+34:52 keep theirs up to date.
+34:55 
+
+34:55 And the CloudMD is just a text file. So
+34:57 
+
+34:57 there's no special format. People ask
+34:59 
+
+34:59 this all the time. Is there some special
+35:01 
+
+35:01 format that it has to be in it? No, it's
+35:03 
+
+35:03 just like it's just a text file. So you
+35:04 
+
+35:04 can put whatever you want in it. This is
+35:06 
+
+35:06 a screenshot of our QuadMD. This is
+35:08 
+
+35:08 literally it. So just really simple. And
+35:10 
+
+35:10 you know, you you could format this kind
+35:12 
+
+35:12 of however you want.
+35:14 
+
+35:14 >> Love it. And then finally, I think,
+35:16 
+
+35:16 yeah, number five. Oh, no, you have a
+35:18 
+
+35:18 you got a few more. So,
+35:21 
+
+35:21 uh, number five, during code review,
+35:23 
+
+35:23 I'll often tag at.cloud on my co-workers
+35:26 
+
+35:26 PRs to add something to the cloud MD as
+35:28 
+
+35:28 part of the PR. We use the cloud code
+35:31 
+
+35:31 GitHub action uh, for this. It's our
+35:34 
+
+35:34 version of Dan Chipper's compounding
+35:36 
+
+35:36 engineering. What What do you mean? What
+35:38 
+
+35:38 is compound engineering? Yeah. Oh my
+35:40 
+
+35:40 god. So, there's actually like two bugs
+35:42 
+
+35:42 in this tweet. I think I think Dan
+35:44 
+
+35:44 actually calls it compound engineering,
+35:46 
+
+35:46 not compounding engineering. And then
+35:48 
+
+35:48 the atqu this is me learning how to use
+35:50 
+
+35:50 X. Um, but it's actually at Claw.
+35:52 
+
+35:52 There's there's no dot. I just didn't I
+35:54 
+
+35:54 think there's like an actual user or
+35:55 
+
+35:55 something whose name is Quad. I didn't
+35:57 
+
+35:57 want to attack them. Um, but yeah. So,
+35:59 
+
+35:59 so what you do is in quad code, you run
+36:01 
+
+36:01 this /command/install
+36:03 
+
+36:03 GitHub action. And what this does is it
+36:06 
+
+36:06 installs the Claude app in your GitHub
+36:08 
+
+36:08 repo. And what that lets you do is you
+36:11 
+
+36:11 can then appment mention Claude whenever
+36:12 
+
+36:12 you want and just have it make changes.
+36:15 
+
+36:15 And uh it can just work on PR. So it'll
+36:17 
+
+36:17 push back to your branch and it'll push
+36:18 
+
+36:18 the changes right back. You can also tag
+36:21 
+
+36:21 it on issues. You can tag it kind of
+36:22 
+
+36:22 wherever. I do this multiple times a
+36:25 
+
+36:25 day. It's it's really really useful. I
+36:28 
+
+36:28 think one of the most common use cases
+36:29 
+
+36:29 is just like little fixes. I think the
+36:32 
+
+36:32 other one is updating the quadmd um to
+36:34 
+
+36:34 keep the knowledge base up to date. And
+36:36 
+
+36:36 you know, you should never have to
+36:38 
+
+36:38 comment about something twice. Um, back
+36:41 
+
+36:41 when I was at Meta, something that I did
+36:43 
+
+36:43 is, um, this is like in a in a previous
+36:45 
+
+36:45 life, in a previous job, something that
+36:46 
+
+36:46 I did is every code review that I did, I
+36:49 
+
+36:49 would keep a spreadsheet of all the
+36:51 
+
+36:51 issues that came up and whenever the
+36:53 
+
+36:53 same kind of issue came up again, I
+36:55 
+
+36:55 would just like to up the spreadsheet
+36:57 
+
+36:57 and whenever something hit, I think like
+36:58 
+
+36:58 five or 10 or something, I would write a
+37:01 
+
+37:01 lint rule. And what that is is it's a
+37:04 
+
+37:04 way to automate that part of the code
+37:05 
+
+37:05 review so I don't have to comment about
+37:07 
+
+37:07 it again. And that was back in the days
+37:08 
+
+37:08 before OM and before the model was any
+37:11 
+
+37:11 good at coding. And so this is the
+37:12 
+
+37:12 equivalent nowadays. You just tag cloud
+37:14 
+
+37:14 and you have it update your cloudmd
+37:16 
+
+37:16 which is your team's knowledge base. So
+37:19 
+
+37:19 really simple. And what this means is
+37:21 
+
+37:21 you don't have to point anything out
+37:22 
+
+37:22 twice. I'm curious to see what this
+37:25 
+
+37:25 looks like for co-work. I don't think we
+37:26 
+
+37:26 figured that out yet.
+37:27 
+
+37:27 >> But definitely for cloud code, cloudm is
+37:29 
+
+37:29 kind of the this is the one the one
+37:31 
+
+37:31 thing that you should all be updating
+37:33 
+
+37:33 all the time.
+37:35 
+
+37:35 >> Love it. Number six, most sessions start
+37:38 
+
+37:38 in plan mode. If my goal is to write a
+37:41 
+
+37:41 pull request, I will use plan mode, go
+37:43 
+
+37:43 back and forth with Claude until I like
+37:44 
+
+37:44 its plan. From there, I switch into auto
+37:47 
+
+37:47 accept uh edit edits mode and Claude can
+37:50 
+
+37:50 usually oneshot it. A good plan is
+37:52 
+
+37:52 really important.
+37:53 
+
+37:53 >> Yeah, like I said, planning is just the
+37:55 
+
+37:55 most underused feature in Quad Code.
+37:57 
+
+37:57 Actually, a lot of people use it, but I
+37:58 
+
+37:58 I would say it's still underused. I use
+38:01 
+
+38:01 it for almost all my sessions.
+38:04 
+
+38:04 Yeah, it's
+38:07 
+
+38:07 it's a no-brainer. So, if you aren't
+38:09 
+
+38:09 already doing this, please do. Um, do
+38:13 
+
+38:13 we've got you know, we're not going to
+38:16 
+
+38:16 have time to do all of them. What are
+38:18 
+
+38:18 the I don't think cuz you have a hard
+38:20 
+
+38:20 stop. Do you want to pick one or two to
+38:23 
+
+38:23 end with?
+38:24 
+
+38:24 >> Yeah, let's do um let's do maybe number
+38:28 
+
+38:28 13. Um yeah, number 13. I think this is
+38:31 
+
+38:31 probably in in addition to using opus
+38:33 
+
+38:33 for when people ask about how to get
+38:34 
+
+38:34 better performance out of quad code
+38:37 
+
+38:37 there's three things that I recommend
+38:38 
+
+38:38 almost every time number one is use opus
+38:42 
+
+38:42 4.5 with thinking always don't try to
+38:44 
+
+38:44 use a different model because opus will
+38:46 
+
+38:46 just give you better results and more
+38:48 
+
+38:48 efficiency overall the second thing is
+38:50 
+
+38:50 make sure you have a good quad and then
+38:51 
+
+38:51 the third thing is this this tip number
+38:53 
+
+38:53 13 which is give cloud a way to verify
+38:55 
+
+38:55 its output and so we we just kind of saw
+38:58 
+
+38:58 with co-work how good cla is at using
+39:00 
+
+39:00 the Chrome extension in order to write
+39:03 
+
+39:03 email and in order to work with uh
+39:06 
+
+39:06 sheets. And it's exactly the same thing.
+39:08 
+
+39:08 If I'm building an app, I always use the
+39:10 
+
+39:10 Chrome extension to have Quad test its
+39:12 
+
+39:12 own work. And if Quad can verify its own
+39:15 
+
+39:15 output, the result is going to be way
+39:17 
+
+39:17 way better. And it it's sort of like um
+39:21 
+
+39:21 you know, imagine that you're a painter
+39:22 
+
+39:22 and you're you know, you you make
+39:24 
+
+39:24 paintings and they have to be like
+39:25 
+
+39:25 pretty good. they have to be maybe even
+39:26 
+
+39:26 like photorealistic or something um or
+39:29 
+
+39:29 just like you know some kind of like
+39:30 
+
+39:30 very detailed uh style and uh you you're
+39:33 
+
+39:33 you have to wear a blindfold. You're
+39:35 
+
+39:35 just not going to be that good. It's not
+39:36 
+
+39:36 going to come out that great. Whereas
+39:38 
+
+39:38 the same thing for an engineer like if
+39:39 
+
+39:39 you have to write code but uh you can
+39:41 
+
+39:41 never run the code or you can never see
+39:43 
+
+39:43 the output and you can never see the
+39:44 
+
+39:44 website. It's just not going to be good.
+39:45 
+
+39:45 And so it's the same thing with quad.
+39:47 
+
+39:47 Um, as the model gets more intelligent,
+39:49 
+
+39:49 that first shot is going to get better
+39:51 
+
+39:51 and better. But really, you want to give
+39:53 
+
+39:53 it a way to verify the output and it'll
+39:56 
+
+39:56 be much better. So, this is like running
+39:57 
+
+39:57 tests if you're an engineer, uh,
+39:60 
+
+39:60 starting a server also if you're an
+40:01 
+
+40:01 engineer or, you know, seeing seeing the
+40:03 
+
+40:03 output in a simulator or in a browser.
+40:06 
+
+40:06 >> Amazing. And the ultimate tip, I guess,
+40:09 
+
+40:09 is just get your hands dirty, right?
+40:12 
+
+40:12 I
+40:12 
+
+40:12 >> think that's it. Yeah. I mean, there's
+40:14 
+
+40:14 no right there's no one right way to use
+40:16 
+
+40:16 this stuff. Like, you know, see see
+40:17 
+
+40:17 what's useful, see what's not, find your
+40:19 
+
+40:19 own workflows. It's sort of I I heard
+40:22 
+
+40:22 someone describing quad code as like a
+40:24 
+
+40:24 find your own path book, you know, like
+40:26 
+
+40:26 one of those books where you have to
+40:27 
+
+40:27 like do you do you go to the dungeon or
+40:29 
+
+40:29 do you explore the forest like this kind
+40:31 
+
+40:31 of thing or or like a like an old like
+40:33 
+
+40:33 RPG video game. It's just kind of like
+40:36 
+
+40:36 that. It's like it's very free form.
+40:37 
+
+40:37 There's no one right way to do it. So,
+40:38 
+
+40:38 just see what works for you. Boris, I
+40:40 
+
+40:40 appreciate you taking the time, the
+40:42 
+
+40:42 generosity to spill the sauce and just
+40:45 
+
+40:45 to share with us how we can get the most
+40:48 
+
+40:48 out of both uh co-work and claude code.
+40:53 
+
+40:53 Everyone's thinking about it and
+40:54 
+
+40:54 everyone's trying to especially on this
+40:55 
+
+40:55 podcast, you know, the startup ideas
+40:57 
+
+40:57 podcast, you have millions of people who
+40:58 
+
+40:58 are trying to figure out how I can be
+40:59 
+
+40:59 more productive and how I can build
+41:01 
+
+41:01 businesses around some of these things.
+41:02 
+
+41:02 So, thank you. Thank you for the time.
+41:06 
+
+41:06 Um, I'll include links on where to
+41:08 
+
+41:08 follow Boris. He doesn't tweet a lot,
+41:09 
+
+41:09 but when he tweets, it's it's worth
+41:11 
+
+41:11 paying attention to. And I just have I
+41:14 
+
+41:14 want to leave with one thing just
+41:14 
+
+41:14 because my audience would kill me if I
+41:16 
+
+41:16 didn't ask this. So, as you know, Boris,
+41:19 
+
+41:19 I'm from French Canada, and we speak
+41:23 
+
+41:23 French, obviously, in French Canada, and
+41:25 
+
+41:25 I call Claude Clo. Am I the only one?
+41:33 
+
+41:33 Oh man, you're probably not the only
+41:35 
+
+41:35 one. A lot of the a lot of the world
+41:38 
+
+41:38 speaks French. Which one sounds better?
+41:40 
+
+41:40 What what feels right?
+41:41 
+
+41:41 >> I mean, to me, Clo sounds better. It's
+41:44 
+
+41:44 like Jean Clo Vanam, even though people
+41:46 
+
+41:46 would say John Claude Vanam. It's like
+41:50 
+
+41:50 that's my take. That's my hot take. To
+41:52 
+
+41:52 me, it sounds better.
+41:53 
+
+41:53 >> Oh, you know, Greg, I I'm going to Today
+41:55 
+
+41:55 around the office, I'm just going to
+41:56 
+
+41:56 call it Clo and we'll we'll see what
+41:58 
+
+41:58 people say. I'll I'll report back.
+41:60 
+
+41:60 >> Okay, report back. All right, sounds
+42:02 
+
+42:02 good. Boris, thanks again for coming on
+42:04 
+
+42:04 and I'll see you next time.
