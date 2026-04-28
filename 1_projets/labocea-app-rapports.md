@@ -1,25 +1,28 @@
 # Labocea App Rapports
 
 ## Statut
-🟡 **En veille**
+🔴 **En développement — Phase cadrage**
 
 ## Description
-Outil de génération de rapports d'intervention environnementaux.
-Génère des PDF à partir d'un fichier Excel source.
+Application web interne pour l'équipe PMC. Saisie terrain + import LIMS + génération automatique de rapports d'intervention PDF.
 
-## Contenu
-- `rapport_intervention_environnement.xlsx` — template saisie
-- `generate_pdf_report.py` — script de génération
-- `rapport_intervention_environnement.pdf` — exemple de sortie
+Deux types de rapports :
+- **Bilan 24h** — prélèvement automatique, norme FD T90-523-2
+- **Eau souterraine** — norme NF X 31-615
+
+## Stack
+React + Vite + TypeScript + Firebase + Cloudflare Workers + PWA + jsPDF + PapaParse
 
 ## Repo
-`~/Documents/dev/labocea-app-rapports/`
+`~/Documents/dev/labocea-app-rapports/` ← à initialiser
 
-## Notes
-- Outil fonctionnel (script Python)
-- Potentiellement remplacé par module dans PMC v2
-- À intégrer dans la fiche process "rapport PMC"
+## Cadrage
+Voir [[app-rapports-CLAUDE]] pour le document de référence complet.
+
+## V1 (archive)
+Script Python `generate_pdf_report.py` + template Excel — conservé, ne pas supprimer.
 
 ## Liens
-- [[app-pmc-v2]] — intégration future possible
-- [[3_ressources/fiches-process/01_rapport-intervention-PMC]]
+- [[app-pmc-v2]] — même stack, même équipe, même design system
+- [[3_ressources/fiches-process/07_bilan-24h]] — process bilan 24h
+- [[3_ressources/fiches-process/06_prelevement-eaux-souterraines]] — process ES
