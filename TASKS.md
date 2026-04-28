@@ -15,7 +15,7 @@ _Mis à jour : 2026-04-28_
 ## 🟡 Cette semaine
 
 - [ ] labocea-app-rapports — scanner les 2 fiches terrain manquantes (2/4 faites)
-- [ ] Supprimer doublons vault Obsidian dans le Finder (`2_casquettes/sportif/Santé.md` + dossier `financier/` vide)
+- [x] Supprimer doublons vault Obsidian dans le Finder (`2_casquettes/sportif/Santé.md` + dossier `financier/` vide)
 - [ ] S'inscrire CPF Intelligence Academy (32h, ~1500€)
 
 ---
