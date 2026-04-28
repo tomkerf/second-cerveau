@@ -1,0 +1,489 @@
+00:06 Hello and welcome to lecture one of the fiat standard. In this lecture I'm going to be introducing the book the fiat
+00:13 standard as well as introducing this course and how this course is going to be structured. So what is the fiat
+00:20 standard? Why write the fiat standard? So, as most of you probably know, I had
+00:25 first written a book called The Bitcoin Standard, which tried to explain and analyze Bitcoin, how it works, and the
+00:31 implications of the way that it works to the world monetary system, and what
+00:38 would a world running on Bitcoin look like? So the obvious question after
+00:43 writing the Bitcoin standard was how will bitcoin rise in a world in which we already have a monetary system which is
+00:50 the fiat monetary system which is predominant all over the world and being used in all countries of the world
+00:56 today. So in order to really understand how fiat how bitcoin can rise and how
+01:02 bitcoin can succeed we need to understand what bitcoin replaces which is the fiat monetary system. And in
+01:08 order to do that, we need to study the fiat monetary system up close. So,
+01:13 having written the Bitcoin standard, which I thought was a um a an attempt to
+01:20 study Bitcoin from first principles, an attempt to really explain Bitcoin to somebody who has no familiarity with Bitcoin and not much of a familiarity
+01:28 with economics in general to just start by observing the properties of the
+01:33 system and then deriving the conclusions and the necessary implications of this.
+01:38 I thought it would make sense to do the same thing for fiat. Now fiat has
+01:43 operated for 50 years. Um when I wrote this book when it was published it was the year n 2021.
+01:51 That was exactly 50 years after 1971 which was basically the birth of the modern fiat monetary system which was
+01:58 born when President Nixon severed the connection between the US dollar the global reserve currency and gold in
+02:05 August 15, 1971. Now, one motivation of this book is in 1929,
+02:12 um GK Chesterton wrote a book called The Thing. And in it, he tells the story of a man who finds a fence that appears to
+02:19 serve no purpose and decides to remove it. Another man tells him, "If you don't see the use of it, I certainly won't let
+02:26 you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may
+02:33 allow you to destroy it." The fact that the fence exists suggests that there is
+02:38 a use and a function that it serves. Before we can remove it, we need to understand what that function is and
+02:45 then we can decide whether it is worthy of removal or not. And this was really the motivation for understanding the
+02:51 fiat monetary system in this book. Now the fiat monetary system granted has
+02:57 not won its place on the free market. It was not a free market choice that led to
+03:02 the emergence of the fiat monetary system. But nonetheless, the fiat monetary system continues to work. So
+03:08 beyond the relentless propaganda of its enthusiasts and the rabid venom of its detractors, this book attempts to offer
+03:15 something new, an exploration of the fiat monetary system as a technology
+03:20 from an engineering and functional perspective, outlining its purposes and common failure modes and deriving the
+03:27 wider economic, political, and social implications of its use.
+03:35 In other words, I'm going to basically be copying the approach of the Bitcoin Standard. And the Bitcoin Standard was
+03:41 and remains the best-selling book on Bitcoin. It's been translated to 30 languages. And I think the success of
+03:47 that book relied on the fact that I approached Bitcoin from uh first
+03:52 principles with fresh eyes. I tried to explain Bitcoin from scratch. I started
+03:58 with trying to understand what Bitcoin does, then figured out the implications of what um Bitcoin's function leads to.
+04:06 It is a form of money that is effectively an alternative to central banks and then explained the
+04:12 significance of what that means and what that means in the context of the historical evolution of money. So I
+04:19 thought I should apply the same framework to understanding fiat the fiat monetary system which bitcoin replaces
+04:26 approaching fiat from first principles basically with from an engineering approach. How does the fiat system
+04:32 actually function in an operational sense? The success of bitcoin in operating as a
+04:38 bare bones and standalone free market monetary system helps elucidate the properties and functions necessary to
+04:44 make a monetary system work. And by drawing analogy between the way
+04:49 that fiat between the way that Bitcoin works and the fiat system works, we can actually gain a lot of insight into how
+04:55 fiat works. And I found this to be an enormously powerful analytical tool which I hope you will enjoy in this
+05:01 course and in this book. Um, basically Bitcoin shows us what a monetary system
+05:09 needs to do in order to function. And fiat is a much more complicated and
+05:15 sophisticated monetary system. Now, if you think Bitcoin is complicated, I assure you fiat is much more
+05:20 complicated. It's much more convoluted. It is far more political, which makes it far more predictable. H sorry, far more
+05:28 unpredictable than software, which is what Bitcoin is. And therefore it's harder to understand
+05:35 when the functioning of this system is intertwined with so much political um
+05:42 rhetoric and propaganda. But thinking through a Bitcoiner's eye,
+05:47 you know, a Bitcoiner studying fiat allows us to see through a lot of the noise and focus on the signal because we
+05:55 have Bitcoin as a frame of reference of how a monetary system can function.
+05:60 So the lectures of this course are going to each cover one chapter of the book.
+06:05 The book has 18 chapters and each lecture is going to cover one chapter. The first six chap six chapters of the
+06:11 book discuss the operation of fiat. How does fiat function? They are analogous
+06:18 to the last three chapters of the Bitcoin standard. And so you could say
+06:23 that if the Bitcoin standard, the Bitcoin standard, you know, if you read it, you remember the first seven chapters of it do not even discuss
+06:29 Bitcoin. They do not mention Bitcoin. It's a historical book about money and the history of money and the evolution of money. And then it introduces Bitcoin
+06:37 to explain the significance of Bitcoin for this uh technology that is money. So
+06:43 if Bitcoin had not been invented, the Bitcoin standard, the first seven chapters of the Bitcoin standard could still have been written. And I could
+06:51 have moved on then to discuss the fiat monetary system starting with chapter 7. And that's what we do in this book
+06:57 starting with chapter 1 or two which is the first real chapter of the book we
+07:03 begin with discussing how fiat operates. And
+07:08 um to begin with you know just like in the Bitcoin standard the Bitcoin standard did mention a little bit about
+07:13 the history of Bitcoin and the evolution of Bitcoin but it's not a history book. And similarly, the fiat standard is not
+07:19 a history book. So, we're not going to spend a lot of time explaining the fiat the history of the fiat monetary system
+07:25 and how it came about. But the first or the second chapter is going to delve into that because I think
+07:32 it's it's important to understand the birth of the fiat monetary system to understand how it functions. So while
+07:39 this isn't a history book, it's still going to rely on history in order to situate the discussion and place it
+07:44 within the context of the politics that brought the system about in order to
+07:50 really be able to understand how it functions. So the key thing that we learn from lecture
+07:56 two and which is the next lecture after this one is that the fiat system was not
+08:01 a carefully consciously or deliberately designed financial operating system like Bitcoin. Rather it evolved through a
+08:08 complex process of compromise between political constraints and expedience in managing government default. I think
+08:15 this is an extremely important fact which you will not learn from modern
+08:20 textbooks of macroeconomics which present the fiat monetary system as this
+08:26 amazing technological breakthrough that allowed us to break free from the shackles of the gold monetary system
+08:33 which prevented governments from printing all the money that they could. I believe looking at how the fiat
+08:39 standard was born will uh completely dispel this myth. Once we've understood
+08:45 that then we can move toward understanding how fiat actually functions. And so chapter 3 is fiat
+08:50 technology. How does fiat actually function under the hood. So we examine
+08:56 the network topography, the underlying technology uh behind how fiat operates. And in the
+09:02 fiat system, government does not just print currency and hand it out to a society that accepts it as money. This
+09:07 is the kind of common conception, simplified conception of how fiat works, that government just prints money and hands it out. But it's not true. Uh the
+09:14 vast majority of fiat money is not actually physical money. It's not printed into existence. It is lent into
+09:21 existence. It comes into existence when new loans are issued. So modern fiat money is far more sophisticated and
+09:28 convoluted in its operation than just handing out pieces of paper that the government prints. The fundamental
+09:34 engineering feature of the fiat system is that it treats future promises of money as if they were as good as present
+09:42 money because the government guarantees those promises. And keeping that in mind is going to be
+09:48 an enormously significant analytical tool in understanding fiat, understanding its evolution,
+09:54 understanding its future, and understanding how it interacts with Bitcoin. In the next chapter, fiat
+10:01 mining in or lecture four, we're going to discuss how fiat is mined. And again,
+10:06 remember we're drawing analogy here with Bitcoin. So in Bitcoin, we have a process of mining that brings about new
+10:12 Bitcoin into existence. In fiat, the equivalent of the process of mining is
+10:18 lending. New fiat money comes into existence when new loans are made. So we
+10:23 focus on this process of the creation of fiat in lecture 4. And we explain how
+10:31 lending happens under the fiat monetary system. And of course, we realize quickly that in the Bitcoin system, we
+10:38 have something called difficulty adjustment, which I focus on extensively in the Bitcoin standard. And I also discuss in the latter chapters of this
+10:45 book. And the difficulty adjustment is an enormously important part of Bitcoin. I I I like to call it the magic glue that
+10:53 holds all of the pieces of the puzzle together. It's what makes Bitcoin really
+10:59 tick. And in fact, I argue that it was probably the
+11:05 most important technical breakthrough of Bitcoin. The all the other constituent
+11:11 technologies of Bitcoin, you know, cryptography, uh, proof of work, uh, hash, all of
+11:16 these things had existed before Bitcoin. Satoshi Nakamoto did not invent those things. What he did invent was that he
+11:23 put them all together and he added the difficulty adjustment which is what allows the whole thing to hold together
+11:29 and function. And basically um fiat lacks the difficulty adjustment. It
+11:35 expands and contracts haphazardly. The supply goes up and down depending on the
+11:41 dynamics of the credit market which we will discuss in this lecture. So when lending takes place, the supply expands.
+11:48 But lending is kind of a self-correcting mechanism, which is what prevents the fiat monetary system from being too
+11:54 inflationary. Usually is that when a lot of debt is issued and
+11:59 a lot of credit is created, that leads to the collapse of credit markets. that
+12:05 leads to business cycles and it leads to business collap business to the bust phase of the business cycle which brings
+12:11 down the money supply and restricts it from growing too fast. Understanding
+12:17 these dynamics I think is enormously important and of course we get into the topic of the money supply under the fiat
+12:25 monetary system how it grows how it contracts and what its relation is to price inflation or increases in the
+12:31 price. The Bitcoin Standard podcast is brought to you by the safehouse.com, my independent publisher and bookshop,
+12:37 selling the best Bitcoin books in high-quality cloth hard covers built to last for generations. Most books these
+12:43 days are pretty fiat. They're flimsy and they fall apart quickly. And I did not want that for my books. So, I set up the
+12:48 safe house especially to provide you with beautiful, long-lasting classic cloth hard covers you can proudly pass
+12:53 down for generations. You can get copies of my three books, The Bitcoin Standard, The Fiat Standard, and Principles of Economics. And you can also get copies
+13:00 of Lyn Alden's Broken Money, Parker Lewis's Gradly Then Suddenly, and Matthew Lishiaak's Fiat Food, to which I
+13:06 contributed a few chapters, and Mexican billionaires Ricardo Selenas PGO's new book, The Bitcoin Enlightenment. We now
+13:14 offer bulk discounts, so you can buy books for yourself and for the friends and family you'd like to learn about Bitcoin. Buy any two books for $50, any
+13:21 five books or more for $20 per book, and for more than 50 books, it's only $15 per book. Go to the safehouse.com the
+13:28 sifhouse.com where you can get all of these books in highquality cloth hard covers delivered
+13:34 worldwide and get 10% off for paying with Bitcoin.
+13:39 The Bitcoin standard podcast is brought to you by the daylight computer. I love to work early in the morning and late at
+13:45 night or in the sun outdoors, but regular computer screens are terrible at these times and they strain your eyes.
+13:51 For years, I've wanted a paper-like electronic screen on a simple computer I could use to write. I tried several
+13:57 models, but none were very good. Now, finally, Daylight have delivered a
+14:02 fantastic full function tablet with a paper-like screen that's easy on your eyes and great for outdoor use. I've
+14:09 been using the Daylight computer to write my next book, and it is absolutely fantastic, and it has led me to invest
+14:16 in this company myself. Check out my interview with Anjan Kata in episode 249.
+14:22 In lecture five, we look at fiat balances in the Bitcoin monetary system. The balances of each address in the
+14:30 network is recorded by each other node on the network. So
+14:36 each node has a full record of every single bitcoin in existence and every single address how many bitcoins they
+14:42 have. In fiat, we notice this is very different, and I think it's enormously instructive to think about it in Bitcoin
+14:50 terms. The astonishing thing about fiat balances is that they're negative. Fiat
+14:55 balances are for most people negative. Most people, well, maybe not necessarily for most people, but for most um holders
+15:03 of large quantities of fiat, they actually hold negative balances of fiat. And the reason is that most people are
+15:10 in fiat debt. So generally poor people hold fiat um positive balances. They
+15:17 hold physical cash and um you know small sums of physical cash which is the only
+15:23 access they have to the fiat network. But holding physical cash or holding
+15:28 money in a bank account, in a checking account or a saving account in a fiat monetary system is essentially a
+15:36 liability because all of that money is constantly being devalued by the extra inflation, by the increase in the supply
+15:43 of the currency. So people who have large amounts of money and wealth and
+15:49 income, they seek to get away from holding large balances of fiat and
+15:56 instead they hold large negative balances. They borrow fiat. They have negative balances of fiat and they use
+16:03 these negative balances in order to accumulate hard assets. So people under
+16:08 the fiat monetary system, anybody who cans generally tries to get into as much debt as they can and understanding the
+16:15 mining process of fiat as lending helps us understand why everybody in today's
+16:22 world is in debt. I think this is an extremely powerful um analytical tool. Once you understand that mining fiat is
+16:30 mining debt, creating debt is creating new fiat. It's
+16:36 analogous to how mining gold brings more new gold into the supply or mining Bitcoin brings new Bitcoin into the
+16:42 Bitcoin supply. You can see why everybody wants to get into debt. It's the rational strategy of the fiat
+16:49 standard. And we're going to discuss this uh in detail in lecture five and explain why fiat destroys saving. Fiat
+16:56 is a technology that has just destroyed the ability of people to save for their future. You can't save because saving is
+17:02 constantly getting devalued. And so you have to accumulate negative liabilities
+17:08 basically negative balances. You have to accumulate liabilities as much as you can. That's the rational way to benefit
+17:14 from the inflation and to not get robbed by the inflation. But of course it destroys your ability to save and forces
+17:20 you to get into more and more debt and become more and more insecure and that I
+17:26 think has enormous ramifications felt all across society not just economic ramifications.
+17:32 And then lecture six we move on to discuss what is fiat good for? What are
+17:38 the functions of fiat? And I had a similar chapter for explaining bitcoin in um the bitcoin standard. And I think
+17:46 in the fiat system we can see there are three main benefits for uh the operation
+17:52 of fiat. The first one is government finance which I discuss extensively in both the fiat standard and the bitcoin
+17:57 standard. The second one is bank bailouts. And it's um you know the
+18:04 having a monetary system where the government is able to make money um and and issue it is extremely beneficial for
+18:13 the banking system because it allows the banking system to continue to get into
+18:18 um to to issue all kinds of um debt and when irresponsibly issue large amounts
+18:24 of debt. when that debt um goes bad and when these financial
+18:30 institutions are facing trouble, when they can't meet their liabilities, when they can't meet their financial
+18:36 obligations, they can count on the government to effectively generate more debt for them to bail them out. So, it's
+18:43 an extremely effective technology for helping banks. It's an extremely effective technology for financing
+18:49 government spending. But when you think about it as a technology and when you think about it
+18:54 with um you know with an open mind and when to give the devil its due and to
+19:00 try and think about the benefits of the fiat monetary system I think there's one
+19:06 um undeniable benefit which it has over the gold standard and that is
+19:11 sailability across space. Fiat allows you to move money across
+19:17 space very quickly compared to gold. And I think this is really the key engineering
+19:25 feature in the fiat monetary system that allowed it to replace gold. Now granted, it did not replace gold in the free
+19:31 market. It was not a free market choice for people to switch from fiat from gold to fiat. But what made fiat um function
+19:41 and succeed in spite of the fact that it is highly inflationary
+19:46 is the fact that it is quick and cheap to move it around uh the planet. Um so
+19:52 settling trade with gold involves shipping physical gold on boats and airplanes which is enormously expensive
+19:58 and risky. But settling fiat payments is much easier. it involves a lot less um
+20:07 cost and allows people to conduct more trade. And I think you know in in the Bitcoin
+20:14 standard the the analysis of the Bitcoin standard focused extensively on salailability across time. So the idea
+20:21 of the stock toflow ratio the idea of the increase in the hardness of money
+20:26 being um a pivotal point about what makes money I think still holds.
+20:31 However, in the fiat standard, studying fiat and expla and trying to explain how fiat functions has really brought into
+20:38 focus for me the importance of salailability across space. And so, just
+20:43 like gold is better than government money at holding on to its value across time, government money is better than
+20:50 gold for holding on to its value across space. If you want to send a bar of gold
+20:56 across the Atlantic, and we get into the math and the discussion of this, generally you have to pay something like
+21:02 half a percent um of the cost of the gold bar to send it across the Atlantic,
+21:09 which is pretty significant cost. So basically, sending a gold bar across the Atlantic 100 times or 200 times costs
+21:17 roughly the cost of the gold bar. And of course, if you want to verify it, the only way to truly verify it is to melt
+21:24 it down and recast it, which is extremely expensive as well. But sending
+21:29 fiat money across the Atlantic can be done much cheaper. So, um, in a sense, I
+21:38 think, you know, gold loses its value across space, fiat loses its value
+21:43 across time. And that will we will see later in the latter chapters of the book how this helps us understand Bitcoin's
+21:50 value proposition really well because it's better than gold at moving value
+21:55 across time. It's better than fiat at moving value across space.
+22:01 Now the second part of the book chapters 7 to 12 fiat life they examine the social political and economic
+22:07 implications of fiat money. Fiat increasingly divorces economic
+22:13 reward from economic productivity and instead bases it on political allegiance. This attempted suspension of
+22:20 the concept of opportunity cost makes fiat a revolt against the natural order of the world in which humans and all
+22:26 other animals have to struggle against scarcity every day of their lives. I
+22:32 think the implications of this are enormous. And in chapter 7 to 12, before I get into Bitcoin, I take this um take
+22:41 these six chapters to analyze how bit how fiat's use over the last century has
+22:47 affected human society. And um I discuss this across several facets of um human
+22:53 society. In uh lecture seven um or
+22:58 chapter seven in the book, we discuss fiat life. How fiat pervades uh individual and societal time preference.
+23:06 Um you know the impact on time preference for me is one of the most important. I think the hardness of money is like a control knob for individual
+23:13 and societal time preference. When people can expect their money to say to hold on to its value into the future,
+23:20 they are more confident about the future and so they discount the future less and
+23:25 so they value the future more and so they think more and more about it and they invest more in the future and their
+23:32 actions are more future oriented and you see that on an individual level and you see it across society in all kinds of
+23:39 different um phenomena for instance architecture. I discuss how
+23:45 architectures u evolution in the 20th century can really be understood as a
+23:51 function of rising time preference and how fiat um arguably affects this
+23:56 heavily. We can see it in the destruction of capital how capital um
+24:01 how fiat incentivizes people to destroy capital and we can see it in the family.
+24:07 Uh family is one of the longest lived institutions of humanity and it is one
+24:12 that requires a lot of um sacrifice for the future. You discount the the future
+24:17 less when you have a family to tend for. You have to have a low time preference
+24:23 in a sense in order to think about the family in the long run. And we notice
+24:28 that in the 20th century um I think a big part of the uh reduction in the
+24:34 importance of the family can be understood as a consequence of the rise in time preference. Now in chapter 8 or
+24:42 lecture 8 we look into fiat food and this is a favorite topic of mine.
+24:50 um you know fiat money again and and the whole idea behind these six chapters in
+24:56 the middle of the book chapters 7 to 12 is ultimately money is one half of every
+25:03 transaction that people conduct among themselves and one half of and and big
+25:08 part of the transactions that individuals conduct with their future selves. So when people trade, money is
+25:14 involved and when people think about their future and when they act for their future, they are also thinking about
+25:21 money because money is the most effective technology for providing for your future. So it's no exaggeration to
+25:28 say that money has a pervasive impact across society and fiat money um has I
+25:35 believe led to enormous enormous complications in terms of uh impact on
+25:42 human diet and food production. Uh fiat destroys purchasing power of money and
+25:49 it makes people unable to afford the healthy expensive forms of food that
+25:54 they require for survival and forces them to eat inferior cheap junk food.
+25:60 The flip side of this is that by taking purchasing power away from people and providing that purchasing power to
+26:06 government, it incentivizes governments to tell people to eat the cheap
+26:11 industrial waste because that makes inflation look better
+26:16 than it actually is. And I think this is something that I try and document extensively in this chapter. You see it
+26:23 over and over again. You see the examples of how governments have pushed unhealthy cheap industrial food in this
+26:30 20th century in order to cover up the inflation that was um really very
+26:37 politically unpopular. So the I if if you make people switch from expensive
+26:42 food to cheaper food, um their basket of goods looks like it is a lot cheaper and
+26:49 therefore u that helps them that helps the government pretend like inflation is not
+26:54 such a big problem. And of course the inflation itself is what finances the government and allows it to interfere in
+27:01 things like the diet of its citizens. um you know which is always presented as if
+27:06 it is motivated by or good intentions but I think we'll see that there are a
+27:11 lot more nefarious um ideas driving this kind of intervention. So it allows you
+27:18 know inflationism is what allows government to centrally plan and direct food markets and it allows government to
+27:25 centrally plan farming. It influences government food guidelines and I think a
+27:30 very important point is that it strongly affects the quality of the soil. The soil is a form of capital and when um
+27:39 when money is being destroyed, people have less mechanisms for saving for
+27:44 their future, people start discounting the future more. And one way in which they discount the future is that they
+27:50 run down the capital stocks that they have. And soil is a great example of capital. So in the 20th century, we see
+27:56 more and more growth in unsustainable farming because it makes more sense when
+28:01 the money is being inflated away, when you don't have a decent store of value,
+28:07 when you can't provide for your future, it makes more sense to um basically strip mine the soil and uh spend the
+28:15 resources that are in it in the present rather than save them for the future.
+28:21 And um also of course the inflationism leads to government developing this insane
+28:28 modern pseudocience that we have which is nutrition science which has caused
+28:33 enormous damage to the world in the last 50 years by telling people to essentially substitute the foods that
+28:38 their ancestors have eaten for centuries with basically industrial waste.
+28:44 Um in chapter nine I focus on this issue of science and the intervention and and
+28:50 what fiat allows governments to do in science and education. We look at how it
+28:56 has influenced fiat schools. How how fiat influences schooling and what has happened to the modern school. We look
+29:02 at what has happened to the modern university. We look at what happens to modern academics and how the academic
+29:07 process has been completely subverted. how publications have just become an enormous paper mill of turnurning out
+29:16 millions of pages that nobody reads in order to tick boxes
+29:22 to continue to secure more and more funding. And how the um
+29:28 the the the financing of science through one central authority has essentially
+29:33 destroyed the scientific process as a process of free inquiry and a free market of ideas where um people and
+29:42 scientists and intellectuals compete with their ideas against one another and replace that entire process with a top-
+29:47 down um with a top- down process of government selection and government subsidy and support and government
+29:55 deciding what is science, what is accurate and the implication of that on
+30:01 to the emergence of an enormous number of um really hysterical fields of inquiry
+30:07 where um because of the way the incentives work. Scientists face no consequences for being wrong about
+30:14 anything. They just face a consequence for not getting published. that motivates scientists to constantly
+30:20 overhype threats, to constantly overplay the risks that emerge from um their
+30:28 field of research and results in an enormous amount of hysteria really
+30:34 around all kinds of different topics where constantly we hear scientists
+30:40 um getting into all kinds of details, detailed apocalyptic scenarios. And I
+30:47 think uh there's very good reasons to understand how the current structure of funding science leads to these things
+30:54 and to begin to realize that yeah, maybe this isn't um just settled science.
+30:60 Maybe this is distorted science. The Bitcoin Standard podcast is brought to you by Coite. Coin Kite are my favorite
+31:07 makers of Bitcoin hardware. They produced the legendary open dime, the first Bitcoin bearer asset, as well as
+31:13 the reliable cold card hardware wallet, the excellent stainless steel seed plates for storing your seed phrases,
+31:19 and the block clock. Now, Coin Kite have produced the SATS card, a card the size
+31:24 of a credit card, which can store Bitcoin and works great as a gift. Coin Kite have just produced a limited
+31:30 edition gorgeous Bitcoin standard SATS card, which carries the Bitcoin Standard logo, and you can get it from
+31:36 cokite.shop/bitcoin shop/bitcoinstandard. Use the code Bitcoin Standard to get 5%
+31:41 off your purchase. This podcast is also brought to you by the Bitcoin Way, your professional Bitcoin IT team, offering
+31:48 you personalized, secure, and comprehensive solutions for every step along your Bitcoin journey. The Bitcoin
+31:54 way offer live concierge service to guide you with your Bitcoin cold storage, running your node, privacy,
+32:00 best practices, inheritance planning, corporate strategy, and multisig solutions. They don't touch your coins.
+32:07 They guide you through the process of acquiring your coins and securing them. If you'd like to make your setup safer
+32:13 and more reliable, book a consult with them and see what they have to suggest. If you want to give someone the gift of
+32:19 Bitcoin, get them this professional service that will ensure they start off knowing exactly how to manage their
+32:25 coins and not lose them. Go to the bitcoinway.com and start bitcoining more confidently.
+32:33 And that brings us to chapter 10 which discusses fiat fuels and the impact that
+32:39 fiat monetary system has had on the fuels and the energies that we use and
+32:44 the sources of energy that we use. So similarly uh you know in chapter 8 and
+32:50 lecture 8 we discuss how fiat food how fiat money leads to inflation which
+32:56 increases the price of food and government encourages people to substitute with cheap substitutes. Well,
+33:02 similar thing happens with fuels. You know, food and fuel are two very important expenses for most people and
+33:07 they're very liquid markets with very fast turnover because people need to eat and consume fuels every day. And so the
+33:13 price is highly sensitive and highly responsive to um increases in uh the
+33:19 money supply. And as a result um these are highly politically sensitive goods.
+33:25 And as a result, governments have chosen to follow the path of trying to get
+33:31 people off of these goods rather than stopping inflation. So in the same way that they tell you to stop eating good
+33:38 expensive healthy food that you need, they are also telling you to avoid the
+33:44 essential fuels that have built the modern world without which we cannot survive. And um you know inflation
+33:52 allows them to finance all kinds of insane pseudocience that finds a problems with um these kinds of fuels.
+34:01 And we're going to discuss this in detail in lecture 10. We're going to look at what is the rationale for all of
+34:09 this hysteria around oil and gas and coal and how realistic are the options
+34:15 of these um alternatives, these essentially pre-industrial alternatives that are presented as the way to get uh
+34:23 out of the dependence on these supposedly really dangerous fuels. and how all of this is uh related to
+34:31 inflation both in the fact that inflation drives the cost of the fuels higher and in the fact that the
+34:38 inflation allows the government to dictate the the science that tells people that these things are not good
+34:44 for them. In chapter 11, possibly the longest chapter in the book
+34:49 and the most detailed, it discusses the geopolitical implications of a fiat monetary system. Fiat states have um you
+34:59 know the fiat monetary system has created an international order where the United States has an enormous amount of
+35:06 dominance over the rest of the world because the United States essentially runs the only full node in the fiat
+35:11 monetary system. only fiat full node, the only member of the fiat network that
+35:19 can decide the validity of transactions is the fiat network and is the Federal
+35:26 Reserve. And so that gives the US Federal Reserve and the US government an enormous amount of power and leverage
+35:31 over the rest of the world. And it has resulted in the creation of this
+35:36 enormously powerful industry that is called the development industry which essentially functions with very little
+35:43 um very little uh link to economic reality because it is
+35:49 financed with a credit line from the Federal Reserve effectively that allows it to operate while suspending the rules
+35:57 and laws of economics. the the organizations like the IMF and the World Bank don't face any serious budget
+36:05 constraints because they can um always draw on their credit line that allows
+36:12 them to lend out as much money as possible. And so they continue to grow. They face no budget limits. They have no
+36:20 real accountability to voters or to shareholders. and they just have they just need they
+36:27 exist in a world in which they need to make up more stories in order to justify getting more credit more money from
+36:34 their uh constituent governments primarily of course the US government and that allows them to just um run
+36:41 roughshod over the rest of the world's governments because they have enough
+36:47 money to essentially um be the most important player in any of these
+36:52 governments's uh economies. It allows the monetary system, it allows these organizations to supersede local
+36:59 politics. They face no accountability. And in this chapter, we end with an
+37:04 attempt to look at a real impact assessment of what this industry has achieved in its uh ex during its
+37:11 existence. And um the results are not very positive.
+37:17 In chapter 12 or lecture 12, we sum up by looking at a costbenefit analysis of
+37:24 the fiat monetary system. Now, generally, you must have heard a lot of people talk about how Bitcoin wastes a
+37:30 lot of energy and Bitcoin is a big waste and Bitcoin is a massive waste of resources. Well, in this chapter, we're
+37:36 going to turn the tables. We're going to look at the fiat monetary system, which for most people is just considered an an
+37:43 an inescapable fact of life. They think that it's just normal and inevitable that government needs to control the
+37:48 money supply and that it needs to print as much money as it wants. In lecture 12, we try and run a costbenefit
+37:55 analysis on the use of fiat. What are the benefits of the fiat system? And there are some, believe it or not. We we
+38:02 try and be as fair as possible and try and figure out what those benefits are. And then what are the costs of this fiat
+38:08 system? And then we try and answer the question of is the fiat monetary system
+38:14 worth it? And that's the end of the second part of the book. Now in the third part of the
+38:19 book, we'll call it the fiat liquidator. We get into Bitcoin. This is still a
+38:24 Bitcoin book. Ultimately, even though the first 12 chapters are about fiat, just like the Bitcoin standard, the
+38:31 first seven chapters were about Bitcoin. The last six chapters of this book are going to be about Bitcoin. And the first
+38:37 12 chapters are really there to lay the groundwork for understanding how Bitcoin functions. So how does Bitcoin interact
+38:45 with fiat as it rises? That is really the question of the third part of the book. We first begin with uh trying to
+38:54 illustrate the Bitcoin value proposition and why Bitcoin fixes all of those problems that we've seen with fiat. And
+39:00 we discuss, you know, we we we pick this up where we left off with the value proposition of fiat, salailability
+39:07 across space. We said that the good thing about fiat is that it has salailability across space. Well, in this chapter, we begin with
+39:13 understanding what Bitcoin can offer us in terms of salailability across space.
+39:19 Secondly, we get into the concept of the separation of money and debt. This is a key point. You know, the fiat monetary
+39:25 system just makes money and debt one thing. And I think that has enormous implications for society.
+39:32 In this uh in this chapter, we explain why Bitcoin is such a solution to this
+39:38 and an effective solution to this because it separates money and debt. And then in the um and and then the rest of
+39:46 the chapter, we explain how Bitcoin is really the anti-fiat technology. Whereas
+39:51 fiat is just turning government debt into money. Bitcoin is
+39:58 demonet the demonetization of government debt, the demonetization of government rules as money and the reintroduction of
+40:06 a market commodity as money. But unlike gold, the advantage that Bitcoin has is
+40:12 it has faster sailability across space. Better salailability across space. So it can be used for payments much better
+40:19 across space than gold can. And finally, the advantage that Bitcoin offers us is
+40:24 that it is a neutral global currency. It depoliticizes the use of money and takes
+40:31 money out of the geopolitical game. So that's um the value proposition for
+40:38 Bitcoin, why Bitcoin can fix this. And then in lecture 14, we discuss Bitcoin scaling. why Bitcoin is, I argue,
+40:47 destined to continue to grow. The fact that it is hard money means that more and more people are going to demand it
+40:52 and more and more people going to want more and more of it and it's going to continue to increase in value and it's
+40:57 going to continue to increase in importance and I cannot see it remain a small niche monetary network. Um because
+41:06 of that we must understand Bitcoin block space as a scarce market good and we need to understand the market for
+41:11 Bitcoin block space and that's really the main focus of this chapter and I think the correct analytical framework
+41:17 for understanding how bitcoin scales is thinking of block space as a scarce market good and then we move on to
+41:26 explaining how inevitably Bitcoin is going to scale through second layer solutions and then the focus of the rest
+41:32 of this chapter is on looking at the lightning network and the economics of the lightning network as a scaling solution for Bitcoin.
+41:39 In chapter 15, we move toward discussing Bitcoin banking. What would banking look
+41:45 like in a Bitcoin world? Uh thinking of Bitcoin as a savings technology. What it
+41:51 would result in the use of Bitcoin as a more predominantly
+41:58 used savings technology. How would that affect banks? I think it would lead to
+42:04 higher cash reserves. I think it would lead to banks having more and more cash on hand, less fractionalized lending. I
+42:11 think it would lead to demonetization of non-monetary assets. This is a very
+42:16 important point we witness under the fiat standard because fiat is not a good
+42:22 form of saving for the future. People resort to saving in all kinds of other non-monetary assets. And so people
+42:28 overinvest in real estate, they overinvest in art, they overinvest in um stocks, bonds, and all kinds of other
+42:35 instruments. Not because they want to own the real estate or they need it or because they want to own the art and
+42:40 they need it. Not because they believe in the companies that they're investing in and they've studied them, not because
+42:45 they believe in the governments or companies whose bonds they're buying. They need to invest in those things because if they didn't, their money
+42:52 would just lose value. So we witness an enormous amount of misallocation of
+42:57 capital into all of these non-monetary assets simply as a form of saving
+43:03 because people don't have a good form of saving in the fiat monetary system. And Bitcoin allows us to demonetize these.
+43:10 Bitcoins allows us to go back to saving in money. Having a form of money perform
+43:16 the function of saving. And then we discuss bonds. I think
+43:21 perhaps the most important implication of Bitcoin might just be well I use the
+43:27 word most important a lot of times. Um maybe there are others but one of the
+43:32 most important implications of Bitcoin is the implication that it is likely in
+43:37 my opinion to destroy the bond market. And I make the case for why I think Bitcoin will likely destroy bonds as a
+43:45 financial instrument. And um then we discuss why I think Bitcoin is likely to lead to equity
+43:51 finance dominating credit finance. I think um the reason for that really
+43:58 comes down to the fact that um a lot of the a lot of the demand for debt is the
+44:04 fact that debt is monetized and that's what incentivizes people to get into debt and to get into bond because it's a
+44:11 way of issuing new money. But when you take that away, I think we're going to witness a return to equity finance. And
+44:17 we discussed this in more detail in um lecture 15.
+44:22 In lecture 16, we discussed Bitcoin and energy markets. And I think this is an enormously important topic. Bitcoin has
+44:30 very profound impacts on the energy market and the process of understanding Bitcoin monetization through the mining
+44:36 process is I think uh deeply significant for Bitcoin and for energy markets and
+44:45 understanding the difficulty adjustment is key to understanding how Bitcoin
+44:50 operates and why it functions primarily by consuming uh electricity that has
+44:59 roughly zero opportunity cost that people would not be using uh otherwise.
+45:04 So we look at the implications for the Bitcoin energy mix. What are the energy sources that are likely to be utilized
+45:10 in order to make Bitcoin happen? And we look at the implications for energy market effectively. I argue that Bitcoin
+45:16 is a huge incentive for the development of cheap reliable energy which I think
+45:22 is an enormously important thing in light of the issues discussed under the chapter of fiat fuels in chapter 10
+45:29 about um the destruction of the reliable energy sources through inflation and
+45:35 through modern pseudoscientific hysteria about the dangers of these fuels that is
+45:40 basically destroying the essential infrastructure that we need for our modern life. Bitcoin is effectively a
+45:47 lifeline for these energy sources because it's just a massive global bounty to the production of cheap
+45:53 energy. In chapter 17, we do a costbenefit analysis for
+45:60 Bitcoin. How much does Bitcoin cost? What are the benefits of Bitcoin? And is Bitcoin worth it? So, similar to the
+46:06 cost and benefit analysis that we did with fiat, we do something similar with uh Bitcoin in lecture 17.
+46:14 And finally, chapter 18 is really the culmination of the whole book. Can
+46:19 Bitcoin fix this? And then the point of all the analysis of all of the ways of
+46:25 analyzing fiat, analyzing how it functions, analyzing the impact it has on fiat life and how Bitcoin is an
+46:32 alternative to it is to get us to this point of um analyzing how Bitcoin rises uh in a
+46:40 fiat world. Can Bitcoin be stopped? Can a gold standard, can a return to a gold standard stop Bitcoin?
+46:48 What happens um if it doesn't? I think the point is if Bitcoin is can't be
+46:54 stopped and if Bitcoin won't be stopped by a gold standard, then we need to start thinking seriously about the implications of the rise of Bitcoin. And
+47:01 I, you know, I think the most common conception is that Bitcoin will lead to hyperinflation. But I make the argument
+47:07 that um that's not the case. Bitcoin is more likely to be a debt
+47:14 jubilee than a hyperinflation. And if we do get hyperinflation, I don't think Bitcoin is going to be the cause of the
+47:19 hyperinflation. The hyperinflation will just come along because, you know, individual central banks and governments
+47:25 will abuse their currency and bring about hyperinflation. But Bitcoin is our way out of this and it's a way to fix it
+47:33 because remember fiat monetizes debt. Bitcoin demonetizes
+47:41 debt. And so rather than a collapse of the monetary system, Bitcoin allows us
+47:48 to smoothly transition and upgrade to a superior monetary system. And that I
+47:53 think is an enormously significant point. And that's really the punchline of the whole book. If you understand
+47:59 fiat money as debt, Bitcoin brings us back to monetizing a hard asset. The
+48:05 problem with the current fiat monetary system is that we can't keep making more
+48:10 debt. We're running out of things to collateralize and to make debt out of. And so, as a result, we're constantly uh
+48:17 you know, we were witnessing the value of the money decline and people are unable to find a medium to save. They're
+48:25 unable to find ways of transferring value into the future. But Bitcoin
+48:30 provides just that. And it doesn't while also reducing the demand for the debt
+48:38 creation. You know, as people start holding more Bitcoin, they need to issue less debt. They need to borrow less and
+48:44 that leads to less and less money creation. So, generally people think of Bitcoin as being
+48:50 the driver of hyperinflation because it will reduce demand for the dollar. But what I try and make in this book, the
+48:56 original point that I think I'm making in this book is that Bitcoin also
+49:02 destroys the supply of dollars. It destroys the ability of the governments around the world to make more money
+49:09 because it undermines the need and the demand for credit. It undermines the
+49:14 demand for government bonds. It undermines the demands for um people to take out loans. And it undermines the
+49:21 demands for people to invest in loans. As a result, it um it it can help us
+49:27 unwind the fiat bubble. It can help us really take apart the h
+49:32 fiat house of cards one uh pyramid at a time. You know, we just like a house of
+49:39 card will have two cards leaning on each other. Think of it as the supply and the
+49:44 demand for fiat debt. Well, Bitcoin reduces the supply of fiat by taking away the incentive for people to get
+49:50 into debt. And it reduces the demand for fiat by offering people a better money
+49:56 to hold. And I think as both of those things happen, we could avoid a
+50:01 catastrophic collapse of the fiat monetary system. Instead, it'll just be more and more of an upgrade,
+50:08 particularly as um the vast majority of people don't hold positive balances of
+50:13 fiat. Well, maybe not the vast majority of people. The vast majority of wealth in this world is held by people who have
+50:20 negative balances of fiat. So, if the value of fiat continues to collapse, the
+50:25 richest, most powerful entities and people in the world benefit from this
+50:30 because the they are short fiat because they are in debt. And so, as
+50:38 Bitcoin continues to rise, it can offer us the way out of this. But then I
+50:44 finish the chapter by discussing why the rise of central bank digital currencies can actually change everything about
+50:50 this analysis. That is basically a short brief overview
+50:56 of the 18 lectures of this course and the 18 chapters of the book the fiat standard. I hope you enjoyed this and I
+51:03 hope you will join me in this course on available for members of safeand.com. So
+51:10 subscribe now, join as a member of safety.com and you'll be getting one lecture of this course once a week
+51:16 presented in this format that you see here and you will also be able to join
+51:21 our seminar discussions where we discuss these uh lectures in detail. Thank you
+51:27 very much. [Music]
+51:33 Heat. Heat. [Music]
+51:47 [Music]
