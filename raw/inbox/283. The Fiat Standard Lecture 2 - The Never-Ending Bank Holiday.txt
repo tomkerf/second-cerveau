@@ -1,0 +1,2653 @@
+00:04 [Music]
+00:06 
+
+00:06 Hello, welcome to the second lecture of
+00:08 
+
+00:08 the fiat standard. In today's lecture,
+00:10 
+
+00:10 we're going to talk about the start of
+00:12 
+
+00:12 the fiat standard as a monetary system
+00:14 
+
+00:14 and how it was born. To discuss that, of
+00:17 
+
+00:17 course, we need to go back to the
+00:19 
+
+00:19 history of England around the start of
+00:21 
+
+00:21 the first world war. England before the
+00:24 
+
+00:24 first world war was the global financial
+00:26 
+
+00:26 center. The Bank of England was the most
+00:29 
+
+00:29 important bank in the world. The
+00:30 
+
+00:30 majority of the world's population
+00:33 
+
+00:33 dealed with the Bank of England and used
+00:35 
+
+00:35 the uh British pound as their reserve
+00:39 
+
+00:39 currency.
+00:40 
+
+00:40 The Bank of England settled the majority
+00:42 
+
+00:42 of the world's trade and because of that
+00:44 
+
+00:44 it had a very uh prominent position in
+00:47 
+
+00:47 the world economy and also it allowed it
+00:51 
+
+00:51 to have more British pounds outstanding
+00:56 
+
+00:56 than it had gold reserves backing it. So
+00:59 
+
+00:59 when the World War I started the British
+01:02 
+
+01:02 the Bank of England found itself in a
+01:04 
+
+01:04 curious position. It didn't quite have
+01:07 
+
+01:07 enough gold to cover its position, but
+01:09 
+
+01:09 it also wanted to finance war.
+01:13 
+
+01:13 So, this became a problem around July
+01:15 
+
+01:15 1914 when war was beginning to break out
+01:18 
+
+01:18 in Europe. Depositors in England were
+01:21 
+
+01:21 trying to withdraw their gold from the
+01:24 
+
+01:24 Bank of England and to deposit their
+01:26 
+
+01:26 papers. But the Bank of England didn't
+01:28 
+
+01:28 have enough paper to deposit to fulfill
+01:32 
+
+01:32 the depositors
+01:33 
+
+01:33 uh promises because the Bank of England
+01:36 
+
+01:36 had grown accustomed to printing more
+01:40 
+
+01:40 British pounds than it had on hand. So
+01:44 
+
+01:44 in July 1914, the bank paid out 122.3
+01:48 
+
+01:48 million in gold coins from it 26.5
+01:51 
+
+01:51 million pounds in total reserves. Almost
+01:54 
+
+01:54 u a half of all the reserves of the Bank
+01:56 
+
+01:56 of England in gold were paid out and
+01:59 
+
+01:59 this was a bit of a problem. Foreign
+02:01 
+
+02:01 central banks also wanted to get some of
+02:03 
+
+02:03 their gold out and the Bank of England
+02:05 
+
+02:05 faced the unthinkable prospect of a gold
+02:08 
+
+02:08 run, a bank run on its gold.
+02:11 
+
+02:11 So in November 1914 and at the same time
+02:14 
+
+02:14 of course they wanted to finance a war.
+02:16 
+
+02:16 So in November 1914 the British Treasury
+02:19 
+
+02:19 issued a war bond where to finance the
+02:22 
+
+02:22 war worth £350 million and the idea was
+02:25 
+
+02:25 that the British public would buy the
+02:27 
+
+02:27 bond and that money would be used to
+02:29 
+
+02:29 finance the war effort and then the
+02:31 
+
+02:31 British government would pay back the
+02:33 
+
+02:33 bond and pay back the investors after
+02:35 
+
+02:35 the war was won. But surprisingly less
+02:40 
+
+02:40 than a third of these bonds were
+02:41 
+
+02:41 purchased and this was a major problem
+02:43 
+
+02:43 for the English
+02:45 
+
+02:45 because how could they finance the war
+02:48 
+
+02:48 effort and how could they um engage in
+02:51 
+
+02:51 the military adventures of World War I
+02:54 
+
+02:54 without all of this money? So what did
+02:56 
+
+02:56 the British do? Well, the Bank of
+02:58 
+
+02:58 England engaged in what our old friend
+03:01 
+
+03:01 John Maynard Kanes called a masterly
+03:04 
+
+03:04 manipulation.
+03:07 
+
+03:07 In this uh in November 1914, the Bank of
+03:10 
+
+03:10 England had two of its employees buy the
+03:14 
+
+03:14 2/3 of the bonds that weren't bought up
+03:17 
+
+03:17 by the public. The money of course was
+03:19 
+
+03:19 not their own private money. It was
+03:21 
+
+03:21 money from the Bank of England. So the
+03:23 
+
+03:23 Bank of England basically bought the
+03:25 
+
+03:25 Treasury's bonds, financed the war
+03:28 
+
+03:28 effort, but of course they did not
+03:30 
+
+03:30 announce that and they engaged in what
+03:33 
+
+03:33 Kanes called a masterly manipulation. Of
+03:37 
+
+03:37 course, the Financial Times, which is
+03:39 
+
+03:39 always the uh mouthpiece of the Bank of
+03:42 
+
+03:42 England and central banks and continues
+03:44 
+
+03:44 to this day to be that mouthpiece,
+03:47 
+
+03:47 published a story um announcing that the
+03:50 
+
+03:50 war bonds were oversubscribed and that
+03:53 
+
+03:53 everybody wanted to get a piece of the
+03:55 
+
+03:55 action of financing the war in Europe.
+03:59 
+
+03:59 And this was um viewed as um settled
+04:05 
+
+04:05 history until very recently. Only in
+04:08 
+
+04:08 2017 did this uh come to light. Only
+04:12 
+
+04:12 then did we people find out that, you
+04:15 
+
+04:15 know, after they were digging into the
+04:16 
+
+04:16 bank's archives in 2017, so more than a
+04:19 
+
+04:19 hundred years after this war started,
+04:22 
+
+04:22 did the world find out that actually the
+04:24 
+
+04:24 British people did not buy the bonds to
+04:27 
+
+04:27 finance World War I.
+04:29 
+
+04:29 The war was financed through the Bank of
+04:32 
+
+04:32 England's masterly manipulation. This
+04:34 
+
+04:34 was really how the fiat standard was
+04:36 
+
+04:36 born. So now the Bank of England was
+04:38 
+
+04:38 massively short gold. It had effectively
+04:42 
+
+04:42 printed a whole bunch of money to go to
+04:45 
+
+04:45 finance the war bonds and it had a lot
+04:48 
+
+04:48 of outstanding paper money but not
+04:50 
+
+04:50 enough gold to back it. So what did they
+04:53 
+
+04:53 do? Well, they started collecting the
+04:56 
+
+04:56 golds from the banks and the post
+04:57 
+
+04:57 offices. They told banks and post
+05:00 
+
+05:00 offices to take payment from citizens in
+05:03 
+
+05:03 paper in gold and to make payment in uh
+05:07 
+
+05:07 paper and they encouraged the citizens
+05:10 
+
+05:10 to turn in all of their gold and they
+05:12 
+
+05:12 made it um nationalist duty for
+05:15 
+
+05:15 everybody. They emotionally blackmailed
+05:17 
+
+05:17 people's sense of nationalism in order
+05:19 
+
+05:19 to get them to hand over their gold to
+05:21 
+
+05:21 the post to their local post office and
+05:23 
+
+05:23 bank. and then they got the post offices
+05:25 
+
+05:25 in the bank to hand over their gold to
+05:27 
+
+05:27 the central bank.
+05:29 
+
+05:29 Um, we have the details of how this went
+05:31 
+
+05:31 about in the book and I urge you of
+05:33 
+
+05:33 course to look at the book in detail to
+05:35 
+
+05:35 see how it was carried out. But to
+05:38 
+
+05:38 conclude, the cost of the collecting of
+05:40 
+
+05:40 collecting the gold was roughly 0.01 of
+05:43 
+
+05:43 the face value of the gold. So for every
+05:46 
+
+05:46 pound of gold that the Bank of England
+05:49 
+
+05:49 collected cost the Bank of England
+05:51 
+
+05:51 somewhere in the range of 1 cent, one or
+05:54 
+
+05:54 one pence, 1% of the uh pound basically.
+05:59 
+
+05:59 So they were able to move the country
+06:03 
+
+06:03 onto a paper money standard because they
+06:06 
+
+06:06 were able to collect the gold and they
+06:09 
+
+06:09 stopped redeeming their obligations in
+06:12 
+
+06:12 gold.
+06:13 
+
+06:13 So to summarize, by using the war to
+06:16 
+
+06:16 suspend redeemability abroad and
+06:18 
+
+06:18 discourage it at home, the bank had
+06:21 
+
+06:21 successfully used its fiat regulations
+06:23 
+
+06:23 and monopoly control over the most
+06:25 
+
+06:25 important financial infrastructure in
+06:27 
+
+06:27 the world to finance the war effort
+06:29 
+
+06:29 without officially coming off the gold
+06:31 
+
+06:31 standard, announcing a suspension of
+06:33 
+
+06:33 gold redemption or devaluing the pound.
+06:37 
+
+06:37 They used the war as an excuse. They
+06:39 
+
+06:39 told the world that we're not going to
+06:40 
+
+06:40 give you your gold because it's too
+06:42 
+
+06:42 dangerous to ship our gold right now
+06:43 
+
+06:43 because there's a war. And they used all
+06:46 
+
+06:46 kinds of regulation, manipulation in
+06:48 
+
+06:48 order to stop British people from uh
+06:51 
+
+06:51 holding gold and in order to take in the
+06:52 
+
+06:52 gold and to give the people the paper.
+06:55 
+
+06:55 And as a result, they were able to
+06:56 
+
+06:56 finance the war effort without
+06:58 
+
+06:58 officially coming off the gold standard
+07:00 
+
+07:00 or announcing a suspension of gold
+07:02 
+
+07:02 redemption or officially devaluing the
+07:04 
+
+07:04 pound. This is why I like to call this
+07:06 
+
+07:06 the new alchemy. Thus was born a new
+07:09 
+
+07:09 science of government sponsored
+07:11 
+
+07:11 financial alchemy. By controlling banks
+07:13 
+
+07:13 and confiscating gold, central banks
+07:15 
+
+07:15 could create money by fiat. By making
+07:18 
+
+07:18 the pound as good as gold, the new paper
+07:21 
+
+07:21 alchemists succeeded where Newton and
+07:23 
+
+07:23 the old alchemists failed. Gold could be
+07:26 
+
+07:26 produced at will. After all, the
+07:28 
+
+07:28 printing press and the checking account
+07:30 
+
+07:30 where the alchemists long sought
+07:31 
+
+07:31 philosopher stone. So for centuries and
+07:35 
+
+07:35 millennia, alchemists had thought of
+07:37 
+
+07:37 ways of how to make gold out of base
+07:40 
+
+07:40 metals. The Bank of England had
+07:42 
+
+07:42 effectively succeeded at it. They
+07:44 
+
+07:44 convinced people that they had gold in
+07:46 
+
+07:46 their hand, that they had a paper that
+07:48 
+
+07:48 was as good as gold, and yet they could
+07:50 
+
+07:50 print that paper at will, and they could
+07:52 
+
+07:52 issue credits that was as good as gold
+07:55 
+
+07:55 and issue it at will. This was
+07:57 
+
+07:57 effectively modern alchemy and it seemed
+07:60 
+
+07:60 to work at least during the war
+08:02 
+
+08:02 initially.
+08:04 
+
+08:04 But of course the honeymoon didn't last.
+08:07 
+
+08:07 Inflation hit as we see in figure one in
+08:10 
+
+08:10 the book.
+08:11 
+
+08:11 The war had a very very significant
+08:14 
+
+08:14 impact on the value of the British
+08:16 
+
+08:16 pound. The um prices were rising and
+08:20 
+
+08:20 people didn't quite understand because
+08:21 
+
+08:21 inflation wasn't a very common thing at
+08:23 
+
+08:23 that point. they hadn't had a century of
+08:25 
+
+08:25 experience with inflation like we do
+08:27 
+
+08:27 today. And so, strangely, people just
+08:29 
+
+08:29 started noticing that prices began to
+08:31 
+
+08:31 rise. And so according to the price
+08:34 
+
+08:34 index uh that the British government uh
+08:38 
+
+08:38 published in uh the UK parliament papers
+08:41 
+
+08:41 in 1999 which you can see the source in
+08:44 
+
+08:44 the chapter in chapter 2 in 1915 prices
+08:48 
+
+08:48 went up by 12.5%
+08:50 
+
+08:50 and then the next year was 18.1 and then
+08:53 
+
+08:53 25.2 and then 22% and then 10.1%.
+08:58 
+
+08:58 So commumulative rise over the 5-year
+09:00 
+
+09:00 period was 124%.
+09:04 
+
+09:04 So prices more than doubled over the
+09:06 
+
+09:06 5-year period of the war, which was a
+09:09 
+
+09:09 very very high rise. And um you know,
+09:12 
+
+09:12 people thought they were just getting
+09:14 
+
+09:14 into
+09:16 
+
+09:16 um getting into war and maybe the war
+09:18 
+
+09:18 was causing it. They didn't quite
+09:20 
+
+09:20 understand the monetary manipulation
+09:22 
+
+09:22 that was taking place. But this chart
+09:24 
+
+09:24 makes it very clear how the price of the
+09:28 
+
+09:28 goods that people were buying was going
+09:30 
+
+09:30 up extremely quickly at a time you know
+09:34 
+
+09:34 if you look historically before that
+09:36 
+
+09:36 prices were very constant and they were
+09:39 
+
+09:39 largely declining slightly every year
+09:41 
+
+09:41 but then after they after the bank of
+09:44 
+
+09:44 England started engaging in this
+09:45 
+
+09:45 inflation prices started to go up very
+09:48 
+
+09:48 quickly. The Bitcoin Standard podcast is
+09:50 
+
+09:50 brought to you by the safehouse.com, my
+09:52 
+
+09:52 independent publisher and bookshop,
+09:53 
+
+09:53 selling the best Bitcoin books in
+09:54 
+
+09:54 high-quality cloth hard covers built to
+09:56 
+
+09:56 last for generations. Most books these
+09:59 
+
+09:59 days are pretty fiat. They're flimsy and
+10:00 
+
+10:00 they fall apart quickly. And I did not
+10:02 
+
+10:02 want that for my books. So, I set up the
+10:04 
+
+10:04 safe house especially to provide you
+10:05 
+
+10:05 with beautiful, long-lasting classic
+10:07 
+
+10:07 cloth hard covers you can proudly pass
+10:09 
+
+10:09 down for generations. You can get copies
+10:11 
+
+10:11 of my three books, The Bitcoin Standard,
+10:13 
+
+10:13 The Fiat Standard, and Principles of
+10:14 
+
+10:14 Economics. And you can also get copies
+10:16 
+
+10:16 of Lyn Alden's Broken Money, Parker
+10:18 
+
+10:18 Lewis's Gradly Then Suddenly, and
+10:20 
+
+10:20 Matthew Lishiaak's Fiat Food, to which I
+10:22 
+
+10:22 contributed a few chapters, and Mexican
+10:24 
+
+10:24 billionaires Ricardo Selenas PGO's new
+10:27 
+
+10:27 book, The Bitcoin Enlightenment. We now
+10:30 
+
+10:30 offer bulk discounts, so you can buy
+10:31 
+
+10:31 books for yourself and for the friends
+10:32 
+
+10:32 and family you'd like to learn about
+10:34 
+
+10:34 Bitcoin. Buy any two books for $50, any
+10:37 
+
+10:37 five books or more for $20 per book, and
+10:39 
+
+10:39 for more than 50 books, it's only $15
+10:41 
+
+10:41 per book. Go to the safehouse.com the
+10:44 
+
+10:44 sifhouse.com
+10:46 
+
+10:46 where you can get all of these books in
+10:48 
+
+10:48 highquality cloth hard covers delivered
+10:50 
+
+10:50 worldwide and get 10% off for paying
+10:53 
+
+10:53 with Bitcoin.
+10:55 
+
+10:55 The Bitcoin standard podcast is brought
+10:57 
+
+10:57 to you by the daylight computer. I love
+10:59 
+
+10:59 to work early in the morning and late at
+11:01 
+
+11:01 night or in the sun outdoors, but
+11:02 
+
+11:02 regular computer screens are terrible at
+11:04 
+
+11:04 these times and they strain your eyes.
+11:07 
+
+11:07 For years, I've wanted a paper-like
+11:09 
+
+11:09 electronic screen on a simple computer I
+11:11 
+
+11:11 could use to write. I tried several
+11:13 
+
+11:13 models, but none were very good. Now,
+11:16 
+
+11:16 finally, Daylight have delivered a
+11:18 
+
+11:18 fantastic full function tablet with a
+11:20 
+
+11:20 paper-like screen that's easy on your
+11:23 
+
+11:23 eyes and great for outdoor use. I've
+11:25 
+
+11:25 been using the Daylight computer to
+11:27 
+
+11:27 write my next book, and it is absolutely
+11:29 
+
+11:29 fantastic, and it has led me to invest
+11:31 
+
+11:31 in this company myself. Check out my
+11:34 
+
+11:34 interview with Anjan Kata in episode
+11:36 
+
+11:36 249.
+11:38 
+
+11:38 So now this is where we understand how
+11:41 
+
+11:41 fiat was born. Um initially it starts
+11:45 
+
+11:45 off with the central bank buying uh
+11:48 
+
+11:48 bonds to finance war or to finance
+11:50 
+
+11:50 whatever kind of um emotionally
+11:52 
+
+11:52 important um undertaking the government
+11:55 
+
+11:55 wants to undertake and then um it takes
+11:59 
+
+11:59 over the gold from the society. It gives
+12:01 
+
+12:01 them paper and credit instead. It issues
+12:04 
+
+12:04 a lot of paper, issues a lot of credit.
+12:07 
+
+12:07 And then once it's faced with a price
+12:10 
+
+12:10 rise, there are two options of what to
+12:13 
+
+12:13 do. The prudent step, the honest thing
+12:15 
+
+12:15 to do would have been to acknowledge the
+12:17 
+
+12:17 fiat standard had served its purpose as
+12:19 
+
+12:19 a temporary war financing measure and to
+12:22 
+
+12:22 return to the gold standard. Governments
+12:25 
+
+12:25 had repeatedly promised this and
+12:26 
+
+12:26 Europe's citizens had expected it.
+12:28 
+
+12:28 However, returning to the gold standard
+12:31 
+
+12:31 at the pre-war parity would have meant
+12:33 
+
+12:33 an inevitable end to the inflationary
+12:35 
+
+12:35 boom started by the credit expansion
+12:37 
+
+12:37 that financed the war and subsequently a
+12:40 
+
+12:40 painful recession. So, while this would
+12:43 
+
+12:43 have been the honest thing to do, it was
+12:45 
+
+12:45 obviously a very politically unpopular
+12:47 
+
+12:47 thing to do because it would have caused
+12:49 
+
+12:49 a recession and no government wants to
+12:51 
+
+12:51 preside over a recession.
+12:54 
+
+12:54 But, uh and and so most European
+12:56 
+
+12:56 countries didn't choose this. The US
+12:58 
+
+12:58 though did choose this path because the
+12:60 
+
+12:60 US the US was in a unique position in
+13:02 
+
+13:02 which it stayed on the gold standard
+13:04 
+
+13:04 until 1917. So whereas Britain and most
+13:08 
+
+13:08 of European countries went off the gold
+13:09 
+
+13:09 standard in 1914, the US stayed on the
+13:11 
+
+13:11 gold standard until 1917. And during
+13:14 
+
+13:14 that 3-year period, there was an
+13:16 
+
+13:16 enormous amount of gold that entered the
+13:18 
+
+13:18 US from Europe that flew that migrated
+13:21 
+
+13:21 from Europe to the US. And so the US's
+13:24 
+
+13:24 monetary u strength was enhanced
+13:27 
+
+13:27 significantly by the war. And so it was
+13:29 
+
+13:29 possible for the US to go back on the
+13:31 
+
+13:31 gold standard. It wasn't that difficult
+13:33 
+
+13:33 for them because they had a lot of gold.
+13:35 
+
+13:35 Um and there was a recession in the US,
+13:38 
+
+13:38 but it was a quick and sharp recession
+13:39 
+
+13:39 in 1920
+13:41 
+
+13:41 after which the US economy began one of
+13:43 
+
+13:43 its longest expansions in history. US
+13:46 
+
+13:46 gold redemption resumed in 1922 after a
+13:49 
+
+13:49 5-year suspension. So by 1922 you could
+13:51 
+
+13:51 go back and the dollar was again backed
+13:53 
+
+13:53 with gold and you could redeem your
+13:55 
+
+13:55 dollars for gold. But Britain on the
+13:58 
+
+13:58 other hand tried to square the
+13:60 
+
+14:00 impossible circle of maintaining the
+14:02 
+
+14:02 treasury's high spending, the union's
+14:05 
+
+14:05 high wage requirements, the gold peg at
+14:07 
+
+14:07 its pre-war rate and sterling's role as
+14:10 
+
+14:10 a global reserve currency. So Britain
+14:13 
+
+14:13 faced the problem of the deeply
+14:15 
+
+14:15 politically unpopular
+14:17 
+
+14:17 uh problem of how do we get back on a
+14:20 
+
+14:20 gold standard with all of this extra
+14:22 
+
+14:22 money out there. They could have
+14:23 
+
+14:23 devalued the currency, but that would
+14:24 
+
+14:24 have been very unpopular. They could
+14:26 
+
+14:26 have uh forced unions to accept lower
+14:30 
+
+14:30 wages, but that would have been very
+14:31 
+
+14:31 unpopular for unions.
+14:33 
+
+14:33 And they wanted to also maintain the
+14:36 
+
+14:36 sterling as a global reserve currency.
+14:40 
+
+14:40 that was practically an impossible thing
+14:42 
+
+14:42 to pull off for Britain after World War
+14:44 
+
+14:44 I.
+14:46 
+
+14:46 And Rothbard um gives us a very good
+14:49 
+
+14:49 explanation of what happened. Rothbart
+14:51 
+
+14:51 in America's Great Depression, which is
+14:52 
+
+14:52 a very important book that I highly
+14:53 
+
+14:53 recommend reading. He says essentially
+14:56 
+
+14:56 in short, Britain insisted on returning
+14:59 
+
+14:59 to gold at a valuation that was 10 to
+15:01 
+
+15:01 20% higher than the going exchange rate,
+15:04 
+
+15:04 which reflected the results of war and
+15:06 
+
+15:06 post-war inflation. So they wanted to
+15:08 
+
+15:08 just effectively ignore the effects of
+15:11 
+
+15:11 the war and ignore the inflation and
+15:13 
+
+15:13 assume that they could just go back to
+15:14 
+
+15:14 the original parity. But this meant that
+15:17 
+
+15:17 British prices would have had to decline
+15:19 
+
+15:19 by about 10 to 20% in order to remain
+15:21 
+
+15:21 competitive with foreign countries and
+15:23 
+
+15:23 to maintain her allimportant export
+15:26 
+
+15:26 business. But no such decline occurred
+15:28 
+
+15:28 primarily because unions did not permit
+15:31 
+
+15:31 wage rates to be lowered. real wage
+15:33 
+
+15:33 rates rose and chronic large-scale
+15:36 
+
+15:36 unemployment struck Great Britain. And
+15:39 
+
+15:39 we see this repeat over and over again.
+15:41 
+
+15:41 This chapter is extremely informative
+15:43 
+
+15:43 because this was really the first time
+15:44 
+
+15:44 we see this example
+15:47 
+
+15:47 um in a modern capitalist industrial
+15:49 
+
+15:49 economy, but we've seen it repeat all
+15:51 
+
+15:51 over the 20th century all over the
+15:53 
+
+15:53 world. After the inflation comes the
+15:57 
+
+15:57 unemployment and the recession and um
+16:00 
+
+16:00 the deeply politically unpopular
+16:03 
+
+16:03 demand, the deeply politically unpopular
+16:06 
+
+16:06 need for uh admitting the inflation
+16:09 
+
+16:09 which politically is very unpopular and
+16:11 
+
+16:11 therefore um governments choose to delay
+16:15 
+
+16:15 the reckoning and choose to delay the
+16:17 
+
+16:17 inevitable.
+16:19 
+
+16:19 And so as Rothbart continues, credit was
+16:22 
+
+16:22 not allowed to contract as was needed to
+16:24 
+
+16:24 bring about deflation as unemployment
+16:26 
+
+16:26 would have grown even more menacing and
+16:29 
+
+16:29 unemployment caused partly by the
+16:31 
+
+16:31 post-war establishment of government
+16:32 
+
+16:32 unemployment insurance which permitted
+16:34 
+
+16:34 trade unions to hold out against any
+16:36 
+
+16:36 wage cuts.
+16:38 
+
+16:38 So they could not stop credit expansion.
+16:42 
+
+16:42 They had to continue to spend and print
+16:45 
+
+16:45 money and generate credit because that
+16:48 
+
+16:48 would allow
+16:49 
+
+16:49 uh unions and um strong political
+16:53 
+
+16:53 politically connected uh influence in
+16:57 
+
+16:57 Britain to continue to um basically live
+17:00 
+
+17:00 the economic delusion that they were
+17:03 
+
+17:03 still in the pre-war period and that the
+17:05 
+
+17:05 inflation had not happened and that
+17:07 
+
+17:07 prices and wages don't need to adjust.
+17:10 
+
+17:10 So as a result of this, Great Britain
+17:13 
+
+17:13 tended to lose gold. Instead of
+17:15 
+
+17:15 repealing unemployment insurance,
+17:17 
+
+17:17 contracting credit, and or going back to
+17:19 
+
+17:19 gold at a more realistic parity, Great
+17:22 
+
+17:22 Britain inflated their money supply to
+17:24 
+
+17:24 offset the loss of gold and turned to
+17:26 
+
+17:26 the United States for help.
+17:29 
+
+17:29 For if the United States government were
+17:31 
+
+17:31 to inflate American money, Great Britain
+17:33 
+
+17:33 would no longer lose gold to the United
+17:35 
+
+17:35 States. In short, the American public
+17:37 
+
+17:37 was nominated to suffer the burdens of
+17:39 
+
+17:39 inflation and subsequent collapse in
+17:41 
+
+17:41 order to maintain the British government
+17:43 
+
+17:43 and the British trade union movement in
+17:45 
+
+17:45 the style to which they insisted on
+17:47 
+
+17:47 becoming accustomed. I think this is an
+17:50 
+
+17:50 enormously important period in history,
+17:53 
+
+17:53 extremely pivotal in 20th century
+17:56 
+
+17:56 history. And like many and maybe most
+17:60 
+
+18:00 important politically uh pivotal moments
+18:03 
+
+18:03 in history, it's of course not discussed
+18:05 
+
+18:05 much because the truth is kind of very
+18:08 
+
+18:08 ugly. So Britain had the problem of
+18:11 
+
+18:11 needing to go back to its uh currency at
+18:14 
+
+18:14 its old valuation because they didn't
+18:15 
+
+18:15 want to admit the masterly manipulation
+18:18 
+
+18:18 that they had engaged in. But the
+18:20 
+
+18:20 problem was if they continued to print
+18:23 
+
+18:23 money at the old rate that meant that
+18:26 
+
+18:26 gold was undervalued in Britain. In
+18:28 
+
+18:28 other words, if you were a British
+18:29 
+
+18:29 person or any person from anywhere in
+18:31 
+
+18:31 the world and you had British pounds,
+18:35 
+
+18:35 you could buy gold at a low price in
+18:38 
+
+18:38 Britain and then you could send it to
+18:40 
+
+18:40 the US or France or any other country
+18:43 
+
+18:43 and exchange it for dollars or franks at
+18:46 
+
+18:46 a much higher rate. So there was a very
+18:49 
+
+18:49 s very profitable arbitrage opportunity
+18:51 
+
+18:51 there. Britain by trying to go back to
+18:55 
+
+18:55 the pre-war parity the rate that was
+18:58 
+
+18:58 prevalent before the war. Britain was
+18:60 
+
+19:00 basically putting its gold on discount.
+19:02 
+
+19:02 It was telling the world you can get our
+19:05 
+
+19:05 gold for uh4 pound when in reality given
+19:10 
+
+19:10 the prevalent exchange rates that meant
+19:13 
+
+19:13 the gold was at a low what was um you
+19:17 
+
+19:17 know that was that meant the gold was
+19:18 
+
+19:18 undervalued. So you could take your
+19:20 
+
+19:20 British pounds,
+19:22 
+
+19:22 buy gold in Britain, ship the gold to
+19:25 
+
+19:25 the US, sell the gold in the US, get
+19:28 
+
+19:28 dollars from the US, send the gold, send
+19:32 
+
+19:32 the dollars back to Britain, and you'll
+19:34 
+
+19:34 make more British pounds that way. So
+19:36 
+
+19:36 the result was gold would flow out of
+19:42 
+
+19:42 Britain to the US and to other countries
+19:44 
+
+19:44 where uh the value of gold was more in
+19:47 
+
+19:47 line with uh the market fundamentals of
+19:50 
+
+19:50 the national currency. And this is what
+19:52 
+
+19:52 we see happening across the fiat
+19:54 
+
+19:54 standard today with capital flights.
+19:56 
+
+19:56 When governments insist on fixing the
+19:59 
+
+19:59 price of their reserve currencies
+20:01 
+
+20:01 according to their currency, that just
+20:03 
+
+20:03 means that people will speculate against
+20:05 
+
+20:05 that currency, sell the national
+20:07 
+
+20:07 currency, buy go buy the reserve
+20:09 
+
+20:09 currency in that country and then send
+20:11 
+
+20:11 the reserve currency abroad. And the way
+20:13 
+
+20:13 to stop that today, of course, is
+20:15 
+
+20:15 through capital controls, which we'll
+20:16 
+
+20:16 discuss in more detail in lecture six.
+20:19 
+
+20:19 But back then, what the British sought
+20:23 
+
+20:23 to do was they figured out that if they
+20:26 
+
+20:26 could get the American government to
+20:28 
+
+20:28 engage in inflation,
+20:30 
+
+20:30 then the American dollar would also be
+20:33 
+
+20:33 devalued. And then if the American
+20:34 
+
+20:34 dollar is devalued compared to gold,
+20:37 
+
+20:37 then we'd get into some form of
+20:38 
+
+20:38 equilibrium between the two where it
+20:40 
+
+20:40 stops being profitable for speculators
+20:42 
+
+20:42 to take gold from Britain and sell it in
+20:45 
+
+20:45 the US. In other words, rather than stop
+20:48 
+
+20:48 inflation in Britain, Britain pressured
+20:52 
+
+20:52 the US to engage in inflation and
+20:55 
+
+20:55 therefore if the two of them are
+20:57 
+
+20:57 inflationary, then we would get uh we
+21:01 
+
+21:01 would go back to a new kind of
+21:02 
+
+21:02 equilibrium where gold doesn't flow away
+21:04 
+
+21:04 from the UK. So again, another
+21:07 
+
+21:07 short-term fix. And this is exactly what
+21:10 
+
+21:10 we see over and over again with the fiat
+21:12 
+
+21:12 standard, a short-term fix that creates
+21:15 
+
+21:15 more and more problems in the long term.
+21:17 
+
+21:17 So this again sounds like it solved the
+21:19 
+
+21:19 problem. Well, now we don't have a
+21:21 
+
+21:21 problem with fiat with gold leaving
+21:25 
+
+21:25 Britain. But where did the problem go?
+21:28 
+
+21:28 You can't cheat economic reality. You
+21:30 
+
+21:30 can't lie to economic reality. So where
+21:32 
+
+21:32 did all that uh problem go? That problem
+21:35 
+
+21:35 manifested in inflation in the United
+21:38 
+
+21:38 States
+21:40 
+
+21:40 and so as a result
+21:43 
+
+21:43 the inflation moved to the US and that
+21:45 
+
+21:45 was to eventually cause the great
+21:47 
+
+21:47 depression. So um another way of trying
+21:51 
+
+21:51 to solve this problem was that the US
+21:53 
+
+21:53 and the UK attempted to introduce a gold
+21:56 
+
+21:56 exchange standard modern modeled on the
+21:59 
+
+21:59 monetary arrangements that had prevailed
+22:00 
+
+22:00 in some Asian countries before the war.
+22:03 
+
+22:03 the abuse of which caused the Bank of
+22:05 
+
+22:05 England to have a gold shirt shortage at
+22:07 
+
+22:07 the eve of the war. In essence, global
+22:10 
+
+22:10 central banks would deposit gold at the
+22:12 
+
+22:12 Bank of England and US Federal Reserve
+22:15 
+
+22:15 and use their international settlement
+22:17 
+
+22:17 network to add salailability across
+22:18 
+
+22:18 space to their gold. This gave the Bank
+22:21 
+
+22:21 of England and the Federal Reserve
+22:22 
+
+22:22 significant leeway to go off the gold
+22:24 
+
+22:24 standard because other countries
+22:25 
+
+22:25 reliance on these institutions financial
+22:27 
+
+22:27 infrastructure for international trade
+22:29 
+
+22:29 settlement meant they would rarely
+22:31 
+
+22:31 attempt to take physical custody of the
+22:34 
+
+22:34 gold. So this is really how the problems
+22:37 
+
+22:37 had started in the first place because
+22:38 
+
+22:38 the British colonies could only trade
+22:40 
+
+22:40 with one another by using the Bank of
+22:41 
+
+22:41 England as their network for settlement.
+22:45 
+
+22:45 That meant that they had to keep a lot
+22:46 
+
+22:46 of gold in the Bank of England. And that
+22:48 
+
+22:48 meant that they couldn't just call on
+22:50 
+
+22:50 this gold because if they were to
+22:52 
+
+22:52 withdraw all of that gold from the Bank
+22:53 
+
+22:53 of England, they would end up with lots
+22:57 
+
+22:57 of gold in their own home country, but
+22:59 
+
+22:59 they had no way of using it to to settle
+23:03 
+
+23:03 trade. Well, I mean, they did have a way
+23:04 
+
+23:04 of using it to settle trade, but would
+23:06 
+
+23:06 have been expensive, extremely expensive
+23:08 
+
+23:08 to put it on boats and use it, you know,
+23:11 
+
+23:11 to settle trade periodically with other
+23:13 
+
+23:13 countries. So, you know, think about um
+23:15 
+
+23:15 India and South Africa and Brazil having
+23:19 
+
+23:19 to trade with one another. Um before
+23:22 
+
+23:22 World War I, it would have been
+23:24 
+
+23:24 extremely expensive to ship gold
+23:27 
+
+23:27 physically every time those countries
+23:28 
+
+23:28 wanted to trade with one another. But um
+23:31 
+
+23:31 by using the Bank of England, they could
+23:34 
+
+23:34 save enormously on the cost of gold
+23:36 
+
+23:36 clearance. In other words, the Bank of
+23:38 
+
+23:38 England added sailability across space
+23:41 
+
+23:41 to the gold. And this concept of
+23:43 
+
+23:43 salailability across space is a key
+23:45 
+
+23:45 concept in this book. It's really the
+23:48 
+
+23:48 fundamental premise, the fundamental
+23:50 
+
+23:50 analytical tool that we use to analyze
+23:52 
+
+23:52 fiat money in this book. And I we're
+23:54 
+
+23:54 going to come back to it repeatedly
+23:55 
+
+23:55 across the uh chapters of this book.
+23:60 
+
+23:60 So because gold is very expensive to
+24:02 
+
+24:02 move around,
+24:04 
+
+24:04 colonies needed to use the Bank of
+24:07 
+
+24:07 England before the World War I in order
+24:10 
+
+24:10 to trade with the rest of the world. And
+24:13 
+
+24:13 that meant that they had to leave a lot
+24:14 
+
+24:14 of their gold at the Bank of England.
+24:15 
+
+24:15 And that meant that the Bank of England
+24:17 
+
+24:17 could issue more pounds, more credit
+24:20 
+
+24:20 than it had um than the gold it had
+24:24 
+
+24:24 because it knew that all of these
+24:25 
+
+24:25 countries can't come and withdraw and
+24:27 
+
+24:27 ask to withdraw all of their gold.
+24:29 
+
+24:29 effectively by keeping their gold in the
+24:32 
+
+24:32 uh Bank of England, the Bank of England
+24:34 
+
+24:34 could just print money. And so
+24:38 
+
+24:38 after World War I and as the inflation
+24:40 
+
+24:40 was a problem in the US and the UK, they
+24:43 
+
+24:43 copied that model, the model that
+24:45 
+
+24:45 Britain had used with its colonies and
+24:47 
+
+24:47 tried to implement it again in new
+24:49 
+
+24:49 international arrange monetary
+24:50 
+
+24:50 arrangements. And that that's what they
+24:53 
+
+24:53 did. And so they introduced something
+24:54 
+
+24:54 called the gold exchange standard where
+24:57 
+
+24:57 countries across the world would deposit
+24:59 
+
+24:59 their gold at the US Federal Reserve and
+25:01 
+
+25:01 the Bank of England and that would just
+25:02 
+
+25:02 then allow them to print more money to
+25:04 
+
+25:04 save their uh currencies. It effectively
+25:08 
+
+25:08 increased demand for their currency. And
+25:10 
+
+25:10 then that inflation of the 1920s caused
+25:16 
+
+25:16 by the gold exchange standard and caused
+25:17 
+
+25:17 by Britain pressuring the US to print
+25:20 
+
+25:20 more money that would cause the massive
+25:22 
+
+25:22 boom of the 1920s. And that would then
+25:25 
+
+25:25 result in the 1929 stock market crash
+25:28 
+
+25:28 and then the Great Depression of the
+25:29 
+
+25:29 1930s.
+25:31 
+
+25:31 And then in 1933, the US followed
+25:35 
+
+25:35 Britain's lead. In 1933, the US did what
+25:38 
+
+25:38 Britain did in 1915, which is confiscate
+25:41 
+
+25:41 the gold. Um, it was more blatant in the
+25:44 
+
+25:44 case of the US because the desper the
+25:46 
+
+25:46 situation was more desperate at that
+25:48 
+
+25:48 time. And so the US, you know, President
+25:50 
+
+25:50 Roosevelt issued the um executive orders
+25:54 
+
+25:54 6102 in which they just um um seized all
+25:58 
+
+25:58 of the gold that existed in the banks
+25:60 
+
+26:00 and gave people dollars in exchange of
+26:03 
+
+26:03 it and they devalued the dollar. you
+26:05 
+
+26:05 know they it used to be that gold was
+26:07 
+
+26:07 worth uh $20 an ounce and then they
+26:09 
+
+26:09 devalued it to 35. So there was about a
+26:12 
+
+26:12 40% devaluation of the dollar and as a
+26:15 
+
+26:15 result of this of course the government
+26:17 
+
+26:17 of the US grew enormously and there was
+26:20 
+
+26:20 a massive growth in the bureaucracy in
+26:22 
+
+26:22 the military-industrial complex and of
+26:24 
+
+26:24 course in inflation
+26:26 
+
+26:26 and this would then lead to World War II
+26:29 
+
+26:29 and I think this was enormously
+26:31 
+
+26:31 consequential because it was this
+26:34 
+
+26:34 inflation that took place across the
+26:35 
+
+26:35 world in the 1920s and 30s that led to
+26:39 
+
+26:39 the growth of very powerful governments
+26:41 
+
+26:41 across the world led to the growth of
+26:42 
+
+26:42 totalitarian regimes across the world
+26:45 
+
+26:45 and led to the rise of these militant
+26:48 
+
+26:48 regimes that could only fight one
+26:51 
+
+26:51 another because they were all blaming
+26:53 
+
+26:53 each other for all of the world's
+26:54 
+
+26:54 economic problems. And they were all
+26:56 
+
+26:56 imposing trade restrictions which
+26:58 
+
+26:58 restricted trade and prevented goods
+27:00 
+
+27:00 from flowing and destroyed the global
+27:03 
+
+27:03 world order that had emerged under the
+27:05 
+
+27:05 gold standard and replaced it with a
+27:07 
+
+27:07 fractured global monetary and economic
+27:10 
+
+27:10 order built on animosity where
+27:12 
+
+27:12 governments and uh regimes blamed each
+27:15 
+
+27:15 other for things. And of course they
+27:16 
+
+27:16 blamed their local populations and they
+27:18 
+
+27:18 blamed their local ethnic minorities.
+27:21 
+
+27:21 And that led to World War II. And after
+27:24 
+
+27:24 World War II, it led to even uh you know
+27:26 
+
+27:26 the the the move of the um global
+27:31 
+
+27:31 monetary system from being based around
+27:33 
+
+27:33 the British pound and the dollar to
+27:35 
+
+27:35 being predominantly based around the US
+27:37 
+
+27:37 dollar. So what started in 1914 was
+27:41 
+
+27:41 really the devaluation of the British
+27:43 
+
+27:43 pound and the loss of um value and loss
+27:47 
+
+27:47 of significant monetary role for the
+27:49 
+
+27:49 British pound in favor of the US dollar.
+27:52 
+
+27:52 And that continued throughout the
+27:54 
+
+27:54 1940s50s and60s and then the US dollar
+27:57 
+
+27:57 of course was also engaged in more and
+27:59 
+
+27:59 more inflation. But it was because the
+28:00 
+
+28:00 US was the leading power of the world at
+28:03 
+
+28:03 that time. They exported their dollars
+28:06 
+
+28:06 to the rest of the world. And under the
+28:09 
+
+28:09 Bretonwood system, more and more of the
+28:11 
+
+28:11 world's countries had held gold, had
+28:13 
+
+28:13 held dollars as reserves. But the idea
+28:16 
+
+28:16 was that the dollar was redeemable for
+28:19 
+
+28:19 gold for global central banks at least.
+28:21 
+
+28:21 So Americans couldn't own gold and they
+28:24 
+
+28:24 couldn't redeem their dollars for gold
+28:25 
+
+28:25 after the 1933 confiscation, but foreign
+28:28 
+
+28:28 central banks could. That was the idea
+28:30 
+
+28:30 in principle.
+28:32 
+
+28:32 But of course, as global central banks
+28:35 
+
+28:35 started to demand to take custody of
+28:36 
+
+28:36 their gold instead of um instead of the
+28:41 
+
+28:41 uh dollar reserves that they had, the US
+28:45 
+
+28:45 had expanded its it its money supply
+28:48 
+
+28:48 significantly and it could not meet all
+28:50 
+
+28:50 of those demands. And so as a result in
+28:52 
+
+28:52 1971 they depegged the dollar from gold.
+28:57 
+
+28:57 So in conclusion this was really the
+29:01 
+
+29:01 what I call the fiat standard protocol
+29:04 
+
+29:04 installation.
+29:05 
+
+29:05 The whole world copied this process.
+29:07 
+
+29:07 First you run unsustainable deficits.
+29:10 
+
+29:10 You default by confiscating and
+29:12 
+
+29:12 restricting the movement of gold. And
+29:14 
+
+29:14 this is a very important point. The
+29:16 
+
+29:16 confiscation of gold is default. It's
+29:20 
+
+29:20 not called default, but it is default
+29:22 
+
+29:22 because the government had promised that
+29:24 
+
+29:24 they would redeem your papers for gold,
+29:27 
+
+29:27 but then they just go ahead and tell
+29:30 
+
+29:30 you, "No, you can't redeem your paper
+29:32 
+
+29:32 for gold. Here's more paper." So, that's
+29:34 
+
+29:34 a default really. And of course, you
+29:37 
+
+29:37 restrict the movement of gold. You stop
+29:39 
+
+29:39 banks from using gold, and you stop
+29:41 
+
+29:41 international trade being based on gold.
+29:45 
+
+29:45 You suspend the redemption of gold. You
+29:47 
+
+29:47 increase the supply of paper notes and
+29:49 
+
+29:49 if you can you try to get other
+29:51 
+
+29:51 countries to hold your currency as a
+29:53 
+
+29:53 reserve. This is a very important part
+29:55 
+
+29:55 of it because this prevents your
+29:57 
+
+29:57 currency from devaluing a lot and of
+29:59 
+
+29:59 course the US did it best in the post
+30:02 
+
+30:02 war in the postworld war II system in
+30:04 
+
+30:04 the Bretonwood system.
+30:07 
+
+30:07 So in summation, if we wanted to think
+30:09 
+
+30:09 about how fiat standard came into being,
+30:12 
+
+30:12 the bank of England effectively went off
+30:14 
+
+30:14 the gold standard in 1914 and only
+30:16 
+
+30:16 returned in 1925 in a gold bullion
+30:18 
+
+30:18 standard, which it abandoned in 1931.
+30:22 
+
+30:22 The US abandoned the gold standard in
+30:23 
+
+30:23 1917, but restored it in 1922 and
+30:27 
+
+30:27 abandoned it again in 1934.
+30:30 
+
+30:30 Britain and the US adopted a gold
+30:32 
+
+30:32 exchange standard in 1922 and abandoned
+30:35 
+
+30:35 it in 1971 to go on a fiat dollar
+30:39 
+
+30:39 standard. Since 1914, both currencies
+30:43 
+
+30:43 have lost more than 95% of their value
+30:46 
+
+30:46 relative to gold. The fiat standard
+30:49 
+
+30:49 installation process has been a long
+30:50 
+
+30:50 one, but it has had these whole marks.
+30:53 
+
+30:53 gold confiscation, price increases,
+30:56 
+
+30:56 price controls, central planning,
+30:59 
+
+30:59 inflationary credit expansion, booms and
+31:01 
+
+31:01 busts, and the aspiration to export
+31:03 
+
+31:03 inflation by trying to dump fractionally
+31:06 
+
+31:06 backed currency on foreign regimes. The
+31:09 
+
+31:09 Bitcoin Standard podcast is brought to
+31:10 
+
+31:10 you by Coite. Coin Kite are my favorite
+31:13 
+
+31:13 makers of Bitcoin hardware. They
+31:15 
+
+31:15 produced the legendary open dime, the
+31:17 
+
+31:17 first Bitcoin bearer asset, as well as
+31:19 
+
+31:19 the reliable cold card hardware wallet,
+31:21 
+
+31:21 the excellent stainless steel seed
+31:23 
+
+31:23 plates for storing your seed phrases,
+31:25 
+
+31:25 and the block clock. Now, Coin Kite have
+31:28 
+
+31:28 produced the SATS card, a card the size
+31:30 
+
+31:30 of a credit card, which can store
+31:32 
+
+31:32 Bitcoin and works great as a gift. Coin
+31:34 
+
+31:34 Kite have just produced a limited
+31:36 
+
+31:36 edition gorgeous Bitcoin standard SATS
+31:38 
+
+31:38 card, which carries the Bitcoin Standard
+31:40 
+
+31:40 logo, and you can get it from
+31:42 
+
+31:42 cokite.shop/bitcoin
+31:43 
+
+31:43 shop/bitcoinstandard.
+31:45 
+
+31:45 Use the code Bitcoin Standard to get 5%
+31:47 
+
+31:47 off your purchase. This podcast is also
+31:50 
+
+31:50 brought to you by the Bitcoin Way, your
+31:52 
+
+31:52 professional Bitcoin IT team, offering
+31:54 
+
+31:54 you personalized, secure, and
+31:56 
+
+31:56 comprehensive solutions for every step
+31:58 
+
+31:58 along your Bitcoin journey. The Bitcoin
+32:00 
+
+32:00 way offer live concierge service to
+32:03 
+
+32:03 guide you with your Bitcoin cold
+32:04 
+
+32:04 storage, running your node, privacy,
+32:06 
+
+32:06 best practices, inheritance planning,
+32:09 
+
+32:09 corporate strategy, and multisig
+32:11 
+
+32:11 solutions. They don't touch your coins.
+32:13 
+
+32:13 They guide you through the process of
+32:15 
+
+32:15 acquiring your coins and securing them.
+32:17 
+
+32:17 If you'd like to make your setup safer
+32:19 
+
+32:19 and more reliable. Book a consult with
+32:21 
+
+32:21 them and see what they have to suggest.
+32:24 
+
+32:24 If you want to give someone the gift of
+32:25 
+
+32:25 Bitcoin, get them this professional
+32:27 
+
+32:27 service that will ensure they start off
+32:29 
+
+32:29 knowing exactly how to manage their
+32:31 
+
+32:31 coins and not lose them. Go to the
+32:34 
+
+32:34 bitcoinway.com
+32:35 
+
+32:35 and start bitcoining more confidently.
+32:40 
+
+32:40 So in conclusion, we see that the fiat
+32:42 
+
+32:42 standard, I think this is an enormously
+32:44 
+
+32:44 important point, um, and and it's
+32:46 
+
+32:46 something that fiat enthusiasts and
+32:48 
+
+32:48 defenders don't get. The fiat standard
+32:51 
+
+32:51 was not the design of an engineer. It
+32:53 
+
+32:53 was instead the central bank's desperate
+32:55 
+
+32:55 solution to their looming insolveny, the
+32:58 
+
+32:58 inevitable geopolitical outcome of a
+32:60 
+
+32:60 60-year long marriage of politics and
+33:02 
+
+33:02 money. The history of fiat is the
+33:05 
+
+33:05 history of government-run financial
+33:06 
+
+33:06 institutions managing default. It was
+33:09 
+
+33:09 not a technology consciously designed to
+33:12 
+
+33:12 provide sound money or payment
+33:13 
+
+33:13 transfers. Central banks the world over
+33:16 
+
+33:16 would closely follow the prototype set
+33:18 
+
+33:18 by Britain and the US as they too would
+33:20 
+
+33:20 default on gold and force the use of
+33:23 
+
+33:23 their fiat. The process of implementing
+33:26 
+
+33:26 this standard which started in 1914 had
+33:29 
+
+33:29 been practically completed by 1971.
+33:32 
+
+33:32 A century after its genesis and a half
+33:34 
+
+33:34 century after it took on its final
+33:36 
+
+33:36 operational form, it is now possible to
+33:39 
+
+33:39 pass judgment on this monetary standard.
+33:42 
+
+33:42 And that is what we attempt to do in
+33:45 
+
+33:45 this book. The point of this uh chapter,
+33:48 
+
+33:48 the second chapter in the book is to
+33:53 
+
+33:53 really arrive at just explaining the
+33:56 
+
+33:56 conclusion that this was not a conscious
+33:58 
+
+33:58 design and that this was a product of a
+34:02 
+
+34:02 government default. If you read
+34:04 
+
+34:04 economics textbooks, Keynesian economics
+34:06 
+
+34:06 textbooks, this is presented uh you know
+34:09 
+
+34:09 the fiat standard, the ability of
+34:11 
+
+34:11 government to control money, the the
+34:13 
+
+34:13 idea of having the entire monetary
+34:14 
+
+34:14 system in the hand of the government.
+34:17 
+
+34:17 It's presented as if it is a remarkable
+34:19 
+
+34:19 um engineering achievement that you know
+34:22 
+
+34:22 some geniuses can and a bunch of others
+34:25 
+
+34:25 uh around the early 20th century figured
+34:27 
+
+34:27 out that uh gold was extremely
+34:30 
+
+34:30 inefficient because it's extremely
+34:32 
+
+34:32 expensive and you can't print it and now
+34:34 
+
+34:34 if we just have the government print
+34:36 
+
+34:36 money then this would be a much better
+34:39 
+
+34:39 idea and that's a bald-faced lie. It's
+34:42 
+
+34:42 nonsense. The fiat standard was never
+34:45 
+
+34:45 introduced um as an honest solution. It
+34:49 
+
+34:49 was never put to a vote. It was never
+34:51 
+
+34:51 discussed in parliament. It was never
+34:53 
+
+34:53 honestly introduced.
+34:55 
+
+34:55 It was a lie. It was a cover up. It was
+34:58 
+
+34:58 a cover up for default. We had
+35:00 
+
+35:00 institutions that were insolvent and
+35:02 
+
+35:02 they covered up their insolveny by
+35:06 
+
+35:06 turning government debt into money and
+35:09 
+
+35:09 by using and dealing with government
+35:12 
+
+35:12 debt as if it is money.
+35:15 
+
+35:15 So this is not a history book and we're
+35:18 
+
+35:18 not going to spend the next the rest of
+35:19 
+
+35:19 the book talking about um
+35:23 
+
+35:23 talking about the historical
+35:25 
+
+35:25 circumstances that led to this
+35:27 
+
+35:27 development and how it happened. The
+35:29 
+
+35:29 point uh of this book is to really study
+35:32 
+
+35:32 how fiat works. And the point of this
+35:34 
+
+35:34 chapter, as I said, is to just
+35:36 
+
+35:36 illustrate that it was not the conscious
+35:38 
+
+35:38 design of an engineer. It was the
+35:41 
+
+35:41 political solution to a problem of
+35:43 
+
+35:43 default. And we're going to see how this
+35:46 
+
+35:46 shaped the design of this monetary
+35:49 
+
+35:49 system in the coming chapters and
+35:52 
+
+35:52 lectures.
+35:55 
+
+35:55 Oh,
+35:60 
+
+35:60 [Music]
+36:07 
+
+36:07 for me.
+36:11 
+
+36:11 [Music]
