@@ -21,9 +21,11 @@ Application de gestion du parc de mesure continue
 - **Stack** : React 18 + Vite + TypeScript + Firebase + Cloudflare Workers
 - **État** : développement actif, validé N+2/N+3
 - **Dossier** : `1_projets/app-pmc-v2/`
-- **Blocage** : hébergement production — en attente DSIN (Sébastien ROUBAUD)
+- **Hébergement** : Cloudflare Workers via Wrangler CLI (`npx wrangler deploy`)
+  - Staging : `labocea-pmc-v2-dev.tomkerf.workers.dev`
+  - Prod : `labocea-pmc.tomkerf.workers.dev`
+  - Aucune dépendance DSIN
 - **Coût personnel** : ~160€/mois tokens Claude API
-- **Action** : relancer DSIN pour accès serveur production
 
 ### 🟡 Revalorisation salariale
 - Coeff 400 inchangé depuis prise de poste
@@ -86,7 +88,7 @@ Poids : 82.8 kg · Objectif : 80 kg · Sessions sport : 3 (cible 4) · ~18 bièr
 | Priorité | Action | Échéance | Statut |
 |----------|--------|----------|--------|
 | 🔴 | Signer CR annuel + transmettre RH | ~5 mai 2026 | En attente signature |
-| 🔴 | Relancer DSIN (hébergement PMC v2) | ASAP | À faire |
+| ✅ | Hébergement PMC v2 | — | Résolu en autonomie |
 | 🔴 | `git pull && git push` PMC v2 — retrait Bilan 24h | ASAP | Commit prêt localement, push à faire en terminal |
 | 🟡 | S'inscrire CPF Intelligence Academy | Mai 2026 | À faire |
 | 🟡 | labocea-app-rapports — récupérer les 2 fiches terrain manquantes | Dès que possible | En attente Tom (2/4 fiches analysées) |
