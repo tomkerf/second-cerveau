@@ -13,10 +13,14 @@
 
 **Utilisateurs cibles :** toute l'équipe PMC — même périmètre que PMC v2.
 
-**Types de rapports connus (4 fiches terrain Labocea) :**
-- **Bilan 24h** — prélèvement automatique avec asservissement au débit, norme FD T90-523-3 (PENV-SU-0120 v3)
-- **Eau souterraine** — norme NF X 31-615 (COP0007)
-- *(2 autres fiches à venir — modélisation à compléter)*
+**4 fiches terrain Labocea — toutes modélisées :**
+
+| Réf. | Norme | Nature | Méthode |
+|------|-------|--------|---------|
+| PENV-SU-0114 p.1 | NF X 31-615 | Eau souterraine — sites pollués | Purge statique (3-5 Vp), massif filtrant |
+| PENV-SU-0114 p.2 | FD T90-523-3 | Eau souterraine — suivi environnemental | Purge (3 Vc), pompe à demeure, salinité + O2 |
+| PENV-SU-0117 | FD T90-523-1 / ISO 5667-9 / FD T90-523-2 | Eaux de surface (rivière / eaux salines / ERI) | Ponctuel + composite manuel |
+| PENV-SU-0120 | FD T90-523-2 | Bilan 24h — prélèvement automatique asservi au débit | Asservissement débit + vérifications débitmètre + échantillonneur |
 
 **Contenu d'un rapport :**
 1. En-tête (client, site, date, technicien, type d'intervention)
@@ -223,6 +227,47 @@ Tableau : 3 essais (mL) × début + fin bilan → Volume demandé (mL)
 - Changement du point d'échantillonnage (O/N, motif)
 - Coordonnées géographiques, client prévu
 
+---
+
+*Fiche Eaux de surface (PENV-SU-0117) :*
+
+Couvre 3 natures d'eau via une fiche commune (choix au départ) :
+- **ER** — Eaux de rivière (FD T90-523-1)
+- **ES** — Eaux salines (ISO 5667-9 / PENV-MO-0052)
+- **ERI** — Eaux résiduaires (FD T90-523-2)
+
+**Identification**
+- Client, N° convention/devis
+- Date prélèvement, identité préleveur (pré-rempli)
+- Conditions climatiques (sec ensoleillé / sec couvert / humide / pluie / orage / gel / neige)
+- Conditions de marée (si ES) : heure BM / HM / coefficient (début + fin campagne)
+- Nature de l'échantillon (ER / ES / ERI)
+- Méthode de prélèvement (FD T90-523-1 / ISO 5667-9 / FD T90-523-2)
+
+**Section Échantillonnage ponctuel**
+- Références appareils et sondes utilisés
+- Position du prélèvement (en rive / depuis un pont / depuis l'eau / depuis un bateau / depuis un ponton / depuis le rivage / autre)
+- Technique (main / perche / seau / lest)
+- Observations/remarques (couleur, limpidité, odeur, changement climatique, modification point, sous-devis)
+
+Tableau multi-points (lignes dynamiques) :
+| Libellé du point | Heure | Type mesure (in situ / sur site) | T°C | pH | Cond25°C (µS/cm) | Salinité (g/kg) | O2 (optique/électrochimique) — O2 mg/L, %O2, Pression atm. (hPa) |
+
+**Section Échantillonnage composite manuel (ERI uniquement)**
+- Références appareils et sondes
+- Observations/remarques
+
+Tableau multi-points (lignes dynamiques) :
+| Libellé du point | Heures élémentaires | Volume unitaire prélevé (mL) | Matériel intermédiaire (flacon/perche/seau/lest) | Homogénéisation (seau/flacon, mécanique/manuelle) | Type mesure | T°C | pH |
+
+**Réception laboratoire**
+- Date et heure de réception
+- T° à réception 1er échantillon (°C)
+- T° enceinte (conforme / non conforme — Cf. PENV-IN-0035)
+- Autres observations
+
+---
+
 **Étape 3 — Résultats d'analyses**
 - Import CSV/Excel LIMS (PapaParse) → auto-mapping colonnes
 - Ou saisie manuelle ligne par ligne
@@ -262,7 +307,7 @@ Tableau : 3 essais (mL) × début + fin bilan → Volume demandé (mL)
 #### `rapports/{rapportId}`
 ```
 id                  string
-type                string    "bilan24h" | "eau_souterraine"
+type                string    "bilan24h" | "es_sites_pollues" | "es_suivi_enviro" | "eaux_surface"
 statut              string    "brouillon" | "finalise"
 clientNom           string
 clientId            string    (ref → clients-v2, optionnel)
