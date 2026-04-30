@@ -32,28 +32,28 @@ _12 Impasse de la Trinquette, 29900 Concarneau_
 ## Pièces à corriger / produire (3 exemplaires papier à la mairie)
 
 ### CERFA — à corriger soi-même
-- [ ] Cadre 4.1 → "Régularisation d'un appenti. Toiture : bac acier gris anthracite. Structure : bois douglas."
-- [ ] Cadre 4.3 → ES existante : 75,25 m² / ES créée : 19,80 m² / ES totale : 95,05 m²
-- [ ] Cadre 4.4 → SP existante : 99,25 m²
-- [ ] Cadre 5 → cocher OUI/NON Législation Connexe (à faire soi-même)
+- [x] Cadre 4.1 → "Régularisation d'un appenti. Toiture : bac acier gris anthracite. Structure : bois douglas."
+- [x] Cadre 4.3 → ES existante : 75,25 m² / ES créée : 19,80 m² / ES totale : 95,05 m²
+- [x] Cadre 4.4 → SP existante : 99,25 m²
+- [x] Cadre 5 → cocher OUI/NON Législation Connexe (à faire soi-même)
 
 ### DPC2 — Plan de masse
-- [ ] Reprendre PCM2 de 2013
-- [ ] Ajouter appenti côté EST avec cotes 6,60 × 3 m × H 3 m
-- [ ] Indiquer distances aux limites de propriété voisines
-- [ ] Indiquer gestion eaux pluviales
-- [ ] Ajouter échelle graphique
+- [x] Reprendre PCM2 de 2013
+- [x] Ajouter appenti côté EST avec cotes 6,60 × 3 m × H 3 m
+- [x] Indiquer distances aux limites de propriété voisines
+- [x] Indiquer gestion eaux pluviales
+- [x] Ajouter échelle graphique
 
 ### DPC3 — Plan en coupe
 - [ ] Profil terrain naturel (+66,08 NGF) et projeté (+65,99 NGF)
-- [ ] Implantation appenti H = 3 m par rapport au terrain naturel
-- [ ] Indiquer l'emplacement de la coupe sur le plan de masse
+- [x] Implantation appenti H = 3 m par rapport au terrain naturel
+- [x] Indiquer l'emplacement de la coupe sur le plan de masse
 
 ### DPC4 — Plan des façades (4 faces, avant/après)
-- [ ] Reprendre PCM5 de 2013
-- [ ] Ajouter les 2 faces manquantes de l'appenti
-- [ ] Corriger la façade transmise (ne correspond pas à la structure réalisée)
-- [ ] Ajouter échelle graphique
+- [x] Reprendre PCM5 de 2013
+- [x] Ajouter les 2 faces manquantes de l'appenti
+- [x] Corriger la façade transmise (ne correspond pas à la structure réalisée)
+- [x] Ajouter échelle graphique
 
 ## PC de référence
 - PC 029039130030 — obtenu le 5 juillet 2013 (TRECOBAT)
