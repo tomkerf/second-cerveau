@@ -1,0 +1,6301 @@
+00:00 J'ai développé cette application en
+00:02 
+
+00:02 React Native et dans cette vidéo, je
+00:04 
+
+00:04 vous montre comment construire une
+00:05 
+
+00:05 application mobile 2.0 en utilisant les
+00:08 
+
+00:08 meilleures pratiques de développement
+00:10 
+
+00:10 avec React Native et Cloud Code. Je
+00:13 
+
+00:13 m'appelle Virgile, développeur full
+00:14 
+
+00:14 stack depuis plus de 5 ans et j'ai
+00:16 
+
+00:16 accompagné plus de 10 entreprises avec
+00:19 
+
+00:19 mon agence Algomax. Je vais te montrer
+00:21 
+
+00:21 mon process complet pour faire de même.
+00:24 
+
+00:24 C'est parti. L'objectif qu'on se fixe,
+00:26 
+
+00:26 c'est d'utiliser Lia pour créer une
+00:29 
+
+00:29 application mobile qu'on va pouvoir
+00:31 
+
+00:31 ensuite télécharger sur notre téléphone
+00:33 
+
+00:33 et l'utiliser. On va bien sûr pas tout
+00:36 
+
+00:36 faire, ça prendrait trop de temps dans
+00:37 
+
+00:37 cette vidéo. On va pas créer les écrans
+00:40 
+
+00:40 pour le Play Store et l'Apple Store. On
+00:42 
+
+00:42 va pas publier l'application parce qu'on
+00:44 
+
+00:44 a besoin qu'Apple le valide. Mais on va
+00:47 
+
+00:47 à partir de zéro et ça même si on a
+00:50 
+
+00:50 aucune expérience en code, créer une
+00:52 
+
+00:52 application fonctionnelle. adapté à
+00:55 
+
+00:55 notre besoin. L'objectif est donc de
+00:57 
+
+00:57 voir jusqu'où on peut aller pour créer
+00:59 
+
+00:59 une application mobile très très simple
+01:01 
+
+01:01 avec l'IA. Mais d'abord, je vais vous
+01:03 
+
+01:03 montrer quelque chose. Ça, c'est les
+01:06 
+
+01:06 médicaments que je dois consommer tous
+01:08 
+
+01:08 les jours. Effectivement, j'ai subi une
+01:10 
+
+01:10 greffe de foi, ce qui me force à devoir
+01:14 
+
+01:14 prendre donc ces médicaments tous les
+01:16 
+
+01:16 jours pour éviter un rejet du foie qui
+01:19 
+
+01:19 m'a été greffé. Et comme vous pouvez
+01:21 
+
+01:21 l'imaginer, il y en a beaucoup. Je dois
+01:23 
+
+01:23 donc en prendre plusieurs fois par jour
+01:25 
+
+01:25 et le challenge n'est pas de se rappeler
+01:28 
+
+01:28 que je dois les prendre mais c'est aussi
+01:30 
+
+01:30 d'aller me ravitailler dans une
+01:32 
+
+01:32 pharmacie parce que j'ai une ordonnance
+01:35 
+
+01:35 renouvelable tous les mois sauf que dans
+01:38 
+
+01:38 cette boîte là il y en a 28 dans cette
+01:41 
+
+01:41 boîte là il y en a 60 et il y a certains
+01:44 
+
+01:44 mois qui ont donc 31 jours. D'autres
+01:46 
+
+01:46 mois ont 28 jours. Donc si je prends un
+01:49 
+
+01:49 médicament par jour de chaque, il y en a
+01:51 
+
+01:51 un pour lequel j'aurai un surplus, donc
+01:54 
+
+01:54 que je devrais ne pas prendre un mois
+01:56 
+
+01:56 sur deux et l'autre que je devrais
+01:58 
+
+01:58 renouveler à une plus grande cadence.
+02:01 
+
+02:01 Vous allez donc me dire, tu aurais pu
+02:02 
+
+02:02 utiliser un Excel pour tracker ta
+02:04 
+
+02:04 consommation ou alors il existe déjà des
+02:07 
+
+02:07 app mobiles qui répondent à ce besoin.
+02:09 
+
+02:09 Et encore une autre solution, je peux
+02:11 
+
+02:11 très bien utiliser ce pilulier qui va me
+02:14 
+
+02:14 permettre de ranger à l'avance chaque
+02:16 
+
+02:16 médicament que je dois prendre. et de
+02:18 
+
+02:18 les prendre aux heures indiquées. Vous
+02:20 
+
+02:20 l'avez compris, c'est une idée
+02:22 
+
+02:22 d'application qui est parfaite parce que
+02:24 
+
+02:24 elle vient d'un besoin personnel que je
+02:27 
+
+02:27 rencontre. C'est un problème. Je dois me
+02:30 
+
+02:30 rappeler que je dois prendre ces
+02:31 
+
+02:31 médicaments. Je dois renouveler des
+02:34 
+
+02:34 quantités à des dates différentes. Et
+02:36 
+
+02:36 une application mobile, c'est parfait
+02:38 
+
+02:38 pour ça parce queon peut créer une
+02:40 
+
+02:40 application mobile en hors ligne sans
+02:42 
+
+02:42 base de données qui va me permettre de
+02:44 
+
+02:44 configurer des rappels, donc de
+02:46 
+
+02:46 m'envoyer des notifications tous les
+02:49 
+
+02:49 jours, que ça soit pour prendre ces
+02:51 
+
+02:51 médicaments aux heures que j'aurai
+02:52 
+
+02:52 indiqué ou alors pour les renouveler
+02:55 
+
+02:55 dans une pharmacie. Et le petit bonus,
+02:57 
+
+02:57 c'est qu'on peut prendre une photo de
+02:60 
+
+02:60 notre ordonnance et demander à
+03:02 
+
+03:02 l'intelligence artificielle de calculer
+03:05 
+
+03:05 la quantité de médicaments qui nous
+03:07 
+
+03:07 reste dans le stock et d'ajouter
+03:09 
+
+03:09 automatiquement chaque médicament que
+03:12 
+
+03:12 nous devons prendre. Maintenant qu'on a
+03:14 
+
+03:14 trouvé une idée d'App, on va se
+03:15 
+
+03:15 connecter sur Chat GPT ou cloud.
+03:18 
+
+03:18 [musique] Je vais donc me connecter à
+03:19 
+
+03:19 mon compte Chat GPT et je lui envoie
+03:21 
+
+03:21 donc cette instruction. J'aimerais créer
+03:24 
+
+03:24 une application mobile en React native
+03:26 
+
+03:26 et expo. Ça c'est donc la technologie
+03:28 
+
+03:28 [musique] qu'on va utiliser pour créer
+03:30 
+
+03:30 cette application. Je prends des
+03:32 
+
+03:32 médicaments tous les jours suite à une
+03:34 
+
+03:34 graphe de fois. [musique] Explication du
+03:36 
+
+03:36 problème. L'objectif est de me rappeler
+03:38 
+
+03:38 tous les jours aux heures indiquées de
+03:41 
+
+03:41 prendre ces médicaments et de me
+03:42 
+
+03:42 rappeler de renouveler les stocks qui
+03:44 
+
+03:44 sont différents par médicament. Pose-moi
+03:47 
+
+03:47 des questions pour comprendre le genre
+03:49 
+
+03:49 d'application que je souhaite créer. Une
+03:52 
+
+03:52 fois que tu auras tout le contexte,
+03:53 
+
+03:53 propose-moi un plan pour commencer à la
+03:56 
+
+03:56 développer. Cette instruction est très
+03:58 
+
+03:58 importante. Ici, on ne demande pas à
+03:60 
+
+03:60 Chat GPT de nous renvoyer de code
+04:02 
+
+04:02 directement. On lui demande de nous
+04:04 
+
+04:04 interviewer et de nous poser des
+04:06 
+
+04:06 questions adaptées au besoins qu'on
+04:09 
+
+04:09 vient de lui donner pour qu'il puisse au
+04:11 
+
+04:11 mieux définir le scope de cette
+04:14 
+
+04:14 application. Le but c'est de la
+04:16 
+
+04:16 développer en 30 minutes, 1 heure grand
+04:19 
+
+04:19 max. Et ensuite à la fin je lui dis la
+04:22 
+
+04:22 contrainte c'est qu'on ne souhaite pas
+04:23 
+
+04:23 utiliser une base de données et elle
+04:26 
+
+04:26 doit fonctionner en hors ligne. Comme ça
+04:29 
+
+04:29 cette application aura aucun coût de
+04:31 
+
+04:31 fonctionnement. Elle va fonctionner en
+04:33 
+
+04:33 hors ligne et sans base de données. Donc
+04:35 
+
+04:35 je vais envoyer cette instruction et on
+04:38 
+
+04:38 va attendre la réponse de CHGPT et on va
+04:41 
+
+04:41 échanger [musique] avec ce dernier. Il
+04:44 
+
+04:44 nous a donc répondu avec une première
+04:46 
+
+04:46 série de [musique] questions. Est-ce que
+04:48 
+
+04:48 l'application est prévue seulement pour
+04:50 
+
+04:50 toi ou pour plusieurs patients plus tard
+04:52 
+
+04:52 ? On a quand même envie dès le début de
+04:55 
+
+04:55 la prévoir pour plusieurs patients parce
+04:57 
+
+04:57 que si ce tapis est utile et que ça
+04:59 
+
+04:59 donne envie à mes amis de l'utiliser, il
+05:02 
+
+05:02 faut le prévoir dès le début dans
+05:04 
+
+05:04 l'architecture. Comme ça, Chat GPT va
+05:06 
+
+05:06 pouvoir nous faire un plan [musique] qui
+05:07 
+
+05:07 est déjà prévu pour une utilisation
+05:11 
+
+05:11 multiple. Donc je vais lui répondre à la
+05:13 
+
+05:13 question 1, plusieurs patients.
+05:16 
+
+05:16 [musique] La question 2, c'est est-ce
+05:17 
+
+05:17 que tu veux une apple et perso ou
+05:19 
+
+05:19 quelque chose de plus proprement
+05:21 
+
+05:21 structuré [musique] ? Donc je vais lui
+05:22 
+
+05:22 dire plus proprement structuré. Pour la
+05:26 
+
+05:26 question 3, est-ce que tu veux pouvoir
+05:27 
+
+05:27 changer facilement ton traitement
+05:29 
+
+05:29 toi-même ? Je vais lui dire oui.
+05:31 
+
+05:31 [musique] Je souhaite changer mon
+05:33 
+
+05:33 traitement facilement. Donc ça c'est
+05:35 
+
+05:35 pour l'utilisation. Ensuite la deuxième
+05:37 
+
+05:37 série de questions, c'est combien de
+05:39 
+
+05:39 médicaments différents prends-tu en ce
+05:42 
+
+05:42 moment ? [musique]
+05:43 
+
+05:43 C'est pas la peine d'être spécifique. Je
+05:44 
+
+05:44 vais lui dire, j'en prends cinq
+05:47 
+
+05:47 différents. Ça serait sympa [musique]
+05:49 
+
+05:49 qu'il y ait une liste de médicaments
+05:52 
+
+05:52 préconfigurés
+05:54 
+
+05:54 adapté [musique]
+05:55 
+
+05:55 à la grisse de fois avec les quantités
+05:58 
+
+05:58 disponibles sur le marché en pharmacie.
+06:01 
+
+06:01 Et ensuite, [musique] l'autre question,
+06:03 
+
+06:03 pour chaque médicament, veux-tu
+06:04 
+
+06:04 enregistrer le nom ? Oui. Le dosage ?
+06:07 
+
+06:07 Oui. La forme ? pas nécessaire mais bon
+06:11 
+
+06:11 on veut dire forme optionnelle une photo
+06:14 
+
+06:14 non [musique] c'est optionnel sauf si la
+06:17 
+
+06:17 base de données l'expose mais j'ai pas
+06:20 
+
+06:20 envie moi de prendre en photo le
+06:21 
+
+06:21 médicament et des instructions par
+06:24 
+
+06:24 exemple [musique] à prendre à gin ou
+06:25 
+
+06:25 après les repas oui si c'est exposé dans
+06:28 
+
+06:28 un jeu de données. Ensuite question 6
+06:31 
+
+06:31 est-ce qu'un médicament peut être pris
+06:33 
+
+06:33 plusieurs fois par jour ? [musique] Oui,
+06:35 
+
+06:35 dans des quantités différentes, mais je
+06:37 
+
+06:37 pense qu'il y a des cas où on prend
+06:39 
+
+06:39 plusieurs fois le même médicament par
+06:41 
+
+06:41 jour. [musique] Question 7. Les heures
+06:43 
+
+06:43 sont-elles fixes tous les jours ou
+06:44 
+
+06:44 parfois différentes selon les jours ? Je
+06:46 
+
+06:46 dirais, pour être plus simple, [musique]
+06:48 
+
+06:48 fixe tous les jours. Question 8.
+06:50 
+
+06:50 Certains médicaments sont-ils pris
+06:52 
+
+06:52 seulement certains jours ? Oui, il y a
+06:55 
+
+06:55 effectivement un médicament que je dois
+06:56 
+
+06:56 prendre tous les mois. Donc je vais le
+06:58 
+
+06:58 rajouter. Il [musique] y a un médicament
+07:00 
+
+07:00 que je dois prendre une fois par mois.
+07:03 
+
+07:03 Et ensuite 9. Veux-tu suivre seulement
+07:06 
+
+07:06 le fait de prendre, ne pas prendre ou
+07:08 
+
+07:08 aussi la quantité exacte [musique] ? Je
+07:10 
+
+07:10 vais suivre la quantité exacte et
+07:13 
+
+07:13 connaître mon stock pour savoir si je
+07:16 
+
+07:16 dois retourner [musique] en pharmacie
+07:19 
+
+07:19 pour me ravitailler. Troisème série de
+07:22 
+
+07:22 questions, les rappels. Quand une alerte
+07:24 
+
+07:24 sonne, que veux-tu pouvoir faire ? comme
+07:26 
+
+07:26 prix reporté de 10 minutes [musique]
+07:29 
+
+07:29 ignoré. C'est très bien. Donc on va
+07:30 
+
+07:30 mettre prix reporté ignorer. Ça c'était
+07:33 
+
+07:33 la question 10. Pour la question 11,
+07:35 
+
+07:35 veux-tu qu'un rappel revienne tant que
+07:37 
+
+07:37 tu n'as pas confirmé la frise ? Oui.
+07:40 
+
+07:40 Avec possibilité de désactiver. Question
+07:43 
+
+07:43 12. Si tu oublies une prise, veux-tu un
+07:46 
+
+07:46 rappel de retard ? Oui. C'est bien si
+07:50 
+
+07:50 c'est sauvegardé dans l'historique. On
+07:52 
+
+07:52 sait jamais. pour le montrer au mulin
+07:55 
+
+07:55 plus tard lors d'une consultation. Et
+07:57 
+
+07:57 ensuite, [musique]
+07:58 
+
+07:58 réponse 13. Veux-tu recevoir les rappels
+08:00 
+
+08:00 même si l'application est fermé ? Oui,
+08:03 
+
+08:03 bien évidemment. [musique] Et question
+08:05 
+
+08:05 14, le rappel doit-il être juste une
+08:08 
+
+08:08 notification locale [musique] ou aussi
+08:10 
+
+08:10 une alarme plus insistante ? Bon, dans
+08:12 
+
+08:12 mon cas, c'est quand même très
+08:13 
+
+08:13 important. Donc, on va mettre alarme
+08:16 
+
+08:16 plus [musique] insistante. Ensuite, pour
+08:18 
+
+08:18 le niveau du stock, question 15. Pour
+08:21 
+
+08:21 chaque médicament, je veux gérer le
+08:22 
+
+08:22 stock actuel, la quantité consommée par
+08:26 
+
+08:26 prise, pas besoin du [musique] seuil
+08:29 
+
+08:29 d'alerte. Rappelle-moi à 25 %, je pense
+08:32 
+
+08:32 que c'est un bon pourcentage. Ensuite,
+08:35 
+
+08:35 quand tu renouvelles un médicament,
+08:36 
+
+08:36 veux-tu simplement cliquer sur j'ai
+08:37 
+
+08:37 renouvelé ou entrer une nouvelle
+08:38 
+
+08:38 quantité ? Oui, je veux cliquer sur "Jai
+08:41 
+
+08:41 renouvelé". Oui, [musique] cliquer sur
+08:44 
+
+08:44 j'ai renouvelé me paraît très bien vu
+08:47 
+
+08:47 que les quantités sont toujours les
+08:50 
+
+08:50 mêmes. [musique] Question 17. Sur
+08:53 
+
+08:53 l'alerte, veux-tu stock faible ? Non,
+08:55 
+
+08:55 c'est pas précis. Il reste x jours, ça
+08:58 
+
+08:58 c'est pas mal. Ou pense à renouveler
+08:60 
+
+08:60 maintenant. Pense à renouveler
+09:02 
+
+09:02 maintenant et il reste x jours.
+09:06 
+
+09:06 D'ailleurs, ça me rappelle et on va lui
+09:08 
+
+09:08 expliquer ce rappel. Le weekend, les
+09:11 
+
+09:11 pharmacies sont fermées. Donc dans le
+09:13 
+
+09:13 rappel, il reste x jours. Il faudrait
+09:15 
+
+09:15 que l'application sache si il y a un
+09:18 
+
+09:18 weekend et donc qu'on va manquer de ce
+09:21 
+
+09:21 médicament durant le weekend. Donc je
+09:22 
+
+09:22 vais lui dire, il faut prendre en compte
+09:25 
+
+09:25 que certaines pharmacies sont fermées le
+09:28 
+
+09:28 weekend. Je ne sais pas si c'est
+09:31 
+
+09:31 possible d'exploiter les API locals, par
+09:35 
+
+09:35 exemple Apple Maps, pour sélectionner sa
+09:40 
+
+09:40 pharmacie de renouvellement et connaître
+09:44 
+
+09:44 ses horaires. D'ailleurs, ça me fait
+09:46 
+
+09:46 penser à une autre idée. Parfois, quand
+09:48 
+
+09:48 je vais dans ma pharmacie et que je
+09:49 
+
+09:49 donne l'ordonnance, ils n'ont pas les
+09:51 
+
+09:51 médicaments. Donc, ils me disent
+09:52 
+
+09:52 "Repassez, demain, on vous donne un
+09:54 
+
+09:54 ticket et demain ils seront livrés."
+09:56 
+
+09:56 Donc je vais lui rajouter pour les
+09:59 
+
+09:59 livraisons. Quand on commande le jour
+10:01 
+
+10:01 même mais que la pharmacie ne possède
+10:04 
+
+10:04 pas le stock, il faudrait le prendre en
+10:08 
+
+10:08 compte également. [musique] Par exemple
+10:11 
+
+10:11 avec une option j'ai renouvelé mais il
+10:14 
+
+10:14 ne l'avait pas en stock. rappelle-moi le
+10:18 
+
+10:18 lendemain d'aller les chercher. Donc là,
+10:21 
+
+10:21 on a déjà un super contexte qu'on va
+10:24 
+
+10:24 ensuite donner à notre IA de code pour
+10:26 
+
+10:26 créer cette application de zéro. Et tout
+10:29 
+
+10:29 ce contexte, on l'aurait pas eu si on
+10:30 
+
+10:30 avait tout de suite commencé à demander
+10:32 
+
+10:32 à Claude s'il te plaît code-moi une
+10:34 
+
+10:34 application qui me rappelle que je dois
+10:36 
+
+10:36 prendre mes Medoc. Donc on joue le jeu,
+10:38 
+
+10:38 on continue. Question 18. Est-ce que
+10:40 
+
+10:40 certains médicaments ont un
+10:41 
+
+10:41 renouvellement plus critique que
+10:43 
+
+10:43 d'autres ? Oui, certains médoc se
+10:45 
+
+10:45 renouvellent en 60 unités, d'autres en
+10:49 
+
+10:49 28 unités, en sachant que certains
+10:52 
+
+10:52 [musique] mois possèdent 31 jours. Le
+10:55 
+
+10:55 médicament qui se renouvelle en 28
+10:58 
+
+10:58 unités est le plus critique. Ensuite,
+11:00 
+
+11:00 question 19. Veux-tu garder un
+11:02 
+
+11:02 historique des prises passées ? Oui.
+11:04 
+
+11:04 Question 20. Si oui, combien de temps
+11:06 
+
+11:06 environ ? Illimité. D'ailleurs, c'est
+11:08 
+
+11:08 pourrait être une feature premium. On
+11:10 
+
+11:10 pourrait vendre l'application 2 dollars
+11:12 
+
+11:12 ou 3 dollars pour autoriser
+11:15 
+
+11:15 l'utilisateur à le faire en illimité.
+11:17 
+
+11:17 21. Veux-tu voir un écran avec les
+11:19 
+
+11:19 prises faites, les prises oubliées et le
+11:22 
+
+11:22 taux d'adhérence ? Prise faite, oui,
+11:25 
+
+11:25 prise oubliée, oui. [musique] Question
+11:28 
+
+11:28 22. Est-ce important de pouvoir corriger
+11:30 
+
+11:30 après coup une prise oubliée ou marquée
+11:33 
+
+11:33 par erreur ? Oui, c'est important.
+11:35 
+
+11:35 Question 23. Là, on rentre dans la
+11:37 
+
+11:37 technique. Quand tu dis pas de base de
+11:39 
+
+11:39 données, tu veux dire pas de backend
+11:40 
+
+11:40 server, pas de base distante ou même pas
+11:43 
+
+11:43 de SQL local. Je veux dire pas de
+11:46 
+
+11:46 serveur, on utilise la sync storage.
+11:50 
+
+11:50 Donc la sync storage c'est la mémoire
+11:52 
+
+11:52 locale du téléphone, que ça soit donc
+11:55 
+
+11:55 Apple ou Android dans lequel on va
+11:56 
+
+11:56 sauvegarder ces informations. Ce qui
+11:59 
+
+11:59 veut dire que dans l'état actuel, on ne
+12:00 
+
+12:00 prévoit pas de pouvoir transférer sur
+12:02 
+
+12:02 plusieurs téléphones l'historique. Donc
+12:06 
+
+12:06 question 24, à 5 storage, c'est
+12:08 
+
+12:08 [musique] très bien. Question 25, en cas
+12:10 
+
+12:10 de changement de téléphone, est-ce grave
+12:11 
+
+12:11 de perdre les données ? Du coup, c'est
+12:13 
+
+12:13 ce que j'ai demandé. J'ai demandé de ne
+12:15 
+
+12:15 pas sauvegarder les données. Donc, on va
+12:16 
+
+12:16 dire, c'est pas grave, mais possibilité
+12:19 
+
+12:19 d'export
+12:21 
+
+12:21 est intéressante. Ça sera bien sûr pas
+12:24 
+
+12:24 compliqué de rajouter plus tard.
+12:26 
+
+12:26 Ensuite, question 26. Veux-tu protéger
+12:28 
+
+12:28 l'application par code pin, biométrie ou
+12:31 
+
+12:31 rien du tout ? Je vais dire rien du
+12:33 
+
+12:33 tout. Pour l'instant, on veut faire une
+12:35 
+
+12:35 application très simple. Y a-t-il des
+12:37 
+
+12:37 données [musique] médicales sensibles
+12:38 
+
+12:38 que tu veux absolument minimiser dans
+12:40 
+
+12:40 l'interface ? Non. 28. Veux-tu éviter
+12:43 
+
+12:43 complètement toute dépendance cloud ?
+12:45 
+
+12:45 Oui. 29. Tu préfères une interface ultra
+12:48 
+
+12:48 simple, propre mais minimaliste ? On va
+12:51 
+
+12:51 utiliser ultra simple. Et question 30.
+12:55 
+
+12:55 Quels écrans imagines-tu au minimum ?
+12:57 
+
+12:57 Accueil du jour, liste des médicaments,
+12:59 
+
+12:59 [musique] historique, stock. Donc là, il
+13:02 
+
+13:02 y a déjà beaucoup trop d'écran. On va
+13:03 
+
+13:03 dire la liste des médicaments et le
+13:06 
+
+13:06 stock est affiché sur la même page, la
+13:09 
+
+13:09 page principale. L'ajout d'un nouveau
+13:13 
+
+13:13 médicament, ça sera sur une icône plus
+13:17 
+
+13:17 au-dessus de la page principale.
+13:20 
+
+13:20 L'historique pourra également être
+13:23 
+
+13:23 consulté, on va dire, sur une nouvelle
+13:25 
+
+13:25 page. Du coup, 31, veux-tu un widget ou
+13:28 
+
+13:28 juste l'app mobile ? On va commencer par
+13:31 
+
+13:31 l'app, donc juste l'app mobile 32,
+13:34 
+
+13:34 iPhone, Android ou les deux.
+13:37 
+
+13:37 Personnellement, je suis sur iPhone.
+13:38 
+
+13:38 Après, c'est très simple avec Expo de
+13:40 
+
+13:40 migrer, mais pour l'instant, on va le
+13:41 
+
+13:41 faire sur iPhone comme ça, on va pouvoir
+13:44 
+
+13:44 tester l'application sur le Mac. Donc
+13:47 
+
+13:47 33. Que doit-il se passer ? Si tu prends
+13:48 
+
+13:48 un médicament en avance, ça n'arrivera
+13:51 
+
+13:51 pas. 34. Et si tu oublies de confirmer
+13:53 
+
+13:53 une prise, mais que tu l'as prise, on
+13:55 
+
+13:55 peut ajouter la [musique] prise plus
+13:57 
+
+13:57 tard en spécifiant l'heure. 35. Veux-tu
+13:60 
+
+13:60 gérer les cas comme traitement
+14:01 
+
+14:01 temporaire, changement de dose, pose
+14:04 
+
+14:04 d'un médicament, remplacement des
+14:06 
+
+14:06 médicaments par un autre ? Juste le
+14:09 
+
+14:09 changement de dose me paraît [musique]
+14:11 
+
+14:11 bien pareil pour la pause médicament
+14:15 
+
+14:15 mais si j'utilisais l'apprimerai
+14:19 
+
+14:19 simplement ce dernier. Question 36. Tu
+14:22 
+
+14:22 veux qu'on construise un MVP personnel
+14:24 
+
+14:24 rapide ou une base de code plus propre,
+14:27 
+
+14:27 évolutile et maintenable ? Là, c'est
+14:29 
+
+14:29 tout l'exercice. Du coup, on veut pas un
+14:31 
+
+14:31 MVP personnel rapide, sinon ça va être
+14:33 
+
+14:33 n'importe quoi. On veut une base de code
+14:36 
+
+14:36 propre, évolutive [musique]
+14:38 
+
+14:38 et maintenable. 37. Oui, je veux
+14:41 
+
+14:41 utiliser Typ Script [musique] et les
+14:43 
+
+14:43 meilleures conventions de développement.
+14:46 
+
+14:46 38. Tu vas rester sur des libes simples
+14:48 
+
+14:48 et peu nombreuses où tu es ouvert à
+14:50 
+
+14:50 quelques dépendances utiles. Toutes les
+14:53 
+
+14:53 dépendances d'expoent
+14:57 
+
+14:57 à prendre. Je ne vois aucune dépendance
+15:00 
+
+15:00 de lib [musique] utile qui peut nous
+15:03 
+
+15:03 intéresser à part peut-être les rappel,
+15:06 
+
+15:06 les notifications et les dates.
+15:08 
+
+15:08 [musique] Ensuite niveau 39, est-ce que
+15:11 
+
+15:11 tu veux que l'architecteur soit pensé
+15:12 
+
+15:12 pour éventuellement ajouter plus tard
+15:15 
+
+15:15 synchronisation cloud, partage avec
+15:17 
+
+15:17 médecin proche et plusieurs profils
+15:20 
+
+15:20 patients. [musique] Oui à la synchro et
+15:23 
+
+15:23 oui au profil patients. Dès que tu
+15:26 
+
+15:26 réponds à toutes ces questions, je te
+15:28 
+
+15:28 propose derrière un plan concret avec le
+15:29 
+
+15:29 périmètre, l'architecture, la stratégie,
+15:32 
+
+15:32 la gestion [musique]
+15:33 
+
+15:33 et les écrans à construire. C'est parti.
+15:36 
+
+15:36 On a répondu aux 40 questions. Ça nous a
+15:38 
+
+15:38 pris une dizaine de minutes. [musique]
+15:40 
+
+15:40 Mais au moins, grâce à ça, on va pouvoir
+15:42 
+
+15:42 créer une application de qualité. Et ça
+15:44 
+
+15:44 vaut vraiment le coup de prendre le
+15:47 
+
+15:47 temps sur [musique]
+15:48 
+
+15:48 l'architecture pour vraiment bien penser
+15:51 
+
+15:51 à l'application qu'on veut concevoir.
+15:53 
+
+15:53 [musique] Ça évitera la dette technique
+15:55 
+
+15:55 pour plus tard. Il nous a donc répondu
+15:57 
+
+15:57 "Merci, j'ai assez de contexte pour te
+15:59 
+
+15:59 proposer une vraie direction propre."
+16:01 
+
+16:01 Et là, du coup, il nous a répondu avec
+16:04 
+
+16:04 un plan vraiment très détaillé de
+16:06 
+
+16:06 l'application qu'on a envie de créer.
+16:07 
+
+16:07 Donc, on va pas dire tout ça. On lui
+16:09 
+
+16:09 fait confiance et on va commencer à
+16:11 
+
+16:11 coder cet appli et on va la tester tout
+16:14 
+
+16:14 de suite. Pour ce faire, on va donc
+16:16 
+
+16:16 ouvrir un terminal en local et dans ce
+16:19 
+
+16:19 terminal, j'ai déjà installé [musique]
+16:22 
+
+16:22 npm qui est donc le runtime JavaScript
+16:25 
+
+16:25 qui est obligatoire pour faire du
+16:27 
+
+16:27 développement [musique] d'applications
+16:28 
+
+16:28 mobile. J'ai également installé Cloud
+16:31 
+
+16:31 Code qui va me permettre de créer
+16:34 
+
+16:34 plusieurs instances d'agents IA de
+16:36 
+
+16:36 [musique] code qui vont développer mon
+16:38 
+
+16:38 application en local. Je possède
+16:40 
+
+16:40 également le CLI de Codex qui est donc
+16:43 
+
+16:43 l'intelligence artificielle de chat GPT.
+16:47 
+
+16:47 Je possède aussi GH qui est donc le CLI
+16:51 
+
+16:51 de GitHub qui va permettre d'héberger le
+16:54 
+
+16:54 code source de notre application sur
+16:56 
+
+16:56 GitHub pour en garder [musique] la trace
+16:59 
+
+16:59 et le versionner sur internet. Et comme
+17:02 
+
+17:02 éditeur de code, on va utiliser Cursor.
+17:05 
+
+17:05 Donc Codex [musique] est une application
+17:07 
+
+17:07 payante qui coûte minimum 20 dollars par
+17:10 
+
+17:10 mois. Il y a un tiers gratuit. Si tu as
+17:12 
+
+17:12 un compte chat GPT et que tu payes pour
+17:14 
+
+17:14 ce compte, tu vas pouvoir [musique]
+17:16 
+
+17:16 l'utiliser pour coder l'application.
+17:18 
+
+17:18 C'est pareil avec Cloud Code. Si tu
+17:20 
+
+17:20 possèdes un abonnement actif chez
+17:21 
+
+17:21 [musique] Anthopic pour Cloud, tu vas
+17:24 
+
+17:24 pouvoir donc télécharger Cloud Code sur
+17:27 
+
+17:27 ton terminal [musique] et développer
+17:29 
+
+17:29 cette application en réact native. Et si
+17:32 
+
+17:32 tu possèdes l'application Cursor avec un
+17:34 
+
+17:34 abonnement [musique] actif, ce qui n'est
+17:36 
+
+17:36 pas mon cas, tu vas pouvoir la
+17:38 
+
+17:38 développer également avec leur modèle et
+17:41 
+
+17:41 tu pourras avec ces trois logiciels
+17:43 
+
+17:43 analyser le code, réparer les bugs,
+17:46 
+
+17:46 compiler l'application et faire un
+17:48 
+
+17:48 [musique] build. Bien sûr, tu n'es pas
+17:49 
+
+17:49 obligé d'utiliser Codex ou Cloud Code ou
+17:52 
+
+17:52 [musique] Cursore pour la développer. Tu
+17:55 
+
+17:55 peux aussi utiliser Open Code. Il y a
+17:57 
+
+17:57 plein d'autres alternatives sur le
+17:59 
+
+17:59 marché. Dans cette vidéo, on va rester
+18:02 
+
+18:02 avec Cloud Code pour designer et créer
+18:05 
+
+18:05 la base de notre application mobile et
+18:08 
+
+18:08 on fera aussi potentiellement quelques
+18:10 
+
+18:10 retouches sur Codex que ça soit dans le
+18:13 
+
+18:13 terminal ou dans l'application parce que
+18:15 
+
+18:15 je trouve que Codex est quand même bien
+18:17 
+
+18:17 meilleur en terme d'architecture.
+18:19 
+
+18:19 Ensuite pour publier cette application
+18:22 
+
+18:22 sur les stores, on va utiliser un
+18:24 
+
+18:24 service qui s'appelle Expo. Expo va nous
+18:27 
+
+18:27 permettre de faire le build de
+18:29 
+
+18:29 l'application, que ça soit sur iOS, sur
+18:32 
+
+18:32 Android et de nous aider à la version
+18:34 
+
+18:34 sur l'Apple Store et le Play Store. Et
+18:37 
+
+18:37 donc bien sûr, Expo possède un tiers
+18:39 
+
+18:39 gratuit et un/ers payant. Là, vu que
+18:41 
+
+18:41 l'objectif c'est de créer une
+18:43 
+
+18:43 application mobile le plus rapidement
+18:44 
+
+18:44 possible, on va pas leser sur les
+18:47 
+
+18:47 dépenses. On va utiliser les abonnements
+18:49 
+
+18:49 payants à Cloud Code ou à Codex. Et on
+18:52 
+
+18:52 va utiliser l'abonnement d'expo
+18:57 
+
+18:57 ensuite envoyer à nos amis, que ça soit
+18:60 
+
+18:60 sur iOS ou sur Android. Du coup, je suis
+19:03 
+
+19:03 sur Google et je vais taper Expo starter
+19:05 
+
+19:05 Kit pour créer une base de code déjà
+19:08 
+
+19:08 configurée en utilisant Expo. Ensuite,
+19:11 
+
+19:11 on va donc copier cette commande qui
+19:14 
+
+19:14 utilise npm pour être exécuté et on va
+19:18 
+
+19:18 aller dans notre terminal. Ici, je vais
+19:20 
+
+19:20 me déplacer dans mon dossier dev/video
+19:24 
+
+19:24 et dans ce terminal là, je vais coller
+19:26 
+
+19:26 la première commande de cette
+19:28 
+
+19:28 application. J'ai oublié de demander à
+19:30 
+
+19:30 Chat GPT de la nommer. Donc, je vais lui
+19:32 
+
+19:32 dire peux-tu nommer cette application et
+19:36 
+
+19:36 il m'a proposé plusieurs noms.
+19:37 
+
+19:37 Mediclock, DOS Track. J'aime beaucoup DS
+19:40 
+
+19:40 track. Donc, on va la nommer Dose track
+19:43 
+
+19:43 en minuscule. Et on va ensuite suivre
+19:46 
+
+19:46 les instructions dans ce terminal. On va
+19:48 
+
+19:48 donc télécharger le code source qui va
+19:51 
+
+19:51 permettre à Expo et à React Native de
+19:54 
+
+19:54 créer notre application mobile. Et
+19:56 
+
+19:56 ensuite, il nous dit donc qu'on peut
+19:58 
+
+19:58 faire un CD de DOS track et on peut
+20:01 
+
+20:01 lancer la commande suivante : npm run
+20:04 
+
+20:04 iOS. C'est la commande que je vais
+20:05 
+
+20:05 lancer bien sûr parce que je suis sur
+20:07 
+
+20:07 mon Mac et on a notre premier message.
+20:10 
+
+20:10 Expo Go 54.0.6
+20:12 
+
+20:12 est recommandé pour ce SDK. Veux-tu le
+20:15 
+
+20:15 télécharger ? Je vais cliquer sur Y. Ça
+20:17 
+
+20:17 va valider le téléchargement de
+20:20 
+
+20:20 l'application Expo sur le simulateur. Et
+20:23 
+
+20:23 on peut voir tout de suite que ça a
+20:25 
+
+20:25 ouvert un simulateur qui s'appelle donc
+20:27 
+
+20:27 iPhone 17 Pro avec l'application
+20:30 
+
+20:30 Dostrack qui n'existe pas pour
+20:32 
+
+20:32 l'instant. C'est le Boyer Plate React
+20:34 
+
+20:34 Native qu'on va modifier. Si tu es
+20:37 
+
+20:37 arrivé jusqu'à cette étape sans
+20:38 
+
+20:38 problème, ça veut dire que tu as bien
+20:40 
+
+20:40 node d'enregistrer, tu as les bonnes
+20:42 
+
+20:42 versions, tu as un simulateur macOS et
+20:45 
+
+20:45 on va pouvoir continuer à travailler
+20:47 
+
+20:47 ensemble. Bien sûr, si tu es sur
+20:49 
+
+20:49 Android, dans ce cas-là, tu vas devoir
+20:51 
+
+20:51 télécharger une application qui
+20:53 
+
+20:53 s'appelle Android Studio. Cette
+20:55 
+
+20:55 application, elle est compatible sur
+20:57 
+
+20:57 Windows et sur Mac. Et bien sûr, tu vas
+20:59 
+
+20:59 devoir développer l'application sur
+21:02 
+
+21:02 Android en appuyant sur le raccourci 1.
+21:05 
+
+21:05 Mais pour le reste de la logique, c'est
+21:06 
+
+21:06 exactement pareil. Donc là, je vais
+21:08 
+
+21:08 arrêter l'exécution du projet du serveur
+21:11 
+
+21:11 en cliquant sur contrôle C. C'est le
+21:14 
+
+21:14 raccourci sur macOS qui va me permettre
+21:17 
+
+21:17 d'accéder de nouveau à mon terminal et
+21:19 
+
+21:19 je vais taper la commande suivante
+21:21 
+
+21:21 cursor point pour ouvrir le dossier
+21:24 
+
+21:24 actuel, donc le fichier actuel qui
+21:26 
+
+21:26 contient tout le code source de mon
+21:28 
+
+21:28 application mobile dans l'application
+21:30 
+
+21:30 Cursor. Et donc je retrouve dans
+21:32 
+
+21:32 l'interface du cursor tous les dossiers
+21:34 
+
+21:34 qui contiennent donc le code source de
+21:36 
+
+21:36 l'application qui a [musique] au
+21:38 
+
+21:38 préalablement été téléchargé. Et et
+21:41 
+
+21:41 maintenant, on [raclement de gorge] va
+21:42 
+
+21:42 donc ouvrir le terminal dans Cursor et
+21:45 
+
+21:45 lancer de nouveau la commande npm run
+21:48 
+
+21:48 iOS. Je vais mettre ensuite Cursor en
+21:51 
+
+21:51 plein écran et je vais ajouter le
+21:53 
+
+21:53 simulator comme ceci. Comme ça, je
+21:55 
+
+21:55 pourrais voir le code et le simulator en
+21:58 
+
+21:58 live. Donc on va faire un premier test.
+22:00 
+
+22:00 On va ouvrir l'explorateur du fichier
+22:02 
+
+22:02 ici. On va se rendre dans le fichier
+22:04 
+
+22:04 index et on va juste modifier le code et
+22:07 
+
+22:07 on va l'appeler dos track. On va
+22:09 
+
+22:09 enregistrer l'application et normalement
+22:12 
+
+22:12 ça aurait dû mettre à jour cette
+22:13 
+
+22:13 application. Là, ça ne l'a pas fait.
+22:15 
+
+22:15 Donc je clique sur cette fenêtre et je
+22:17 
+
+22:17 vais appuyer sur R pour reload le code
+22:20 
+
+22:20 source. Et là, on peut voir que ça a
+22:22 
+
+22:22 fonctionné. Maintenant, on voit bien le
+22:24 
+
+22:24 titre de l'application Dose Track.
+22:27 
+
+22:27 L'environnement est bien configuré. Donc
+22:29 
+
+22:29 maintenant, je vais retourner sur chat
+22:31 
+
+22:31 GPT et je vais copier tout le contexte
+22:34 
+
+22:34 que chat GPT m'a donné précédemment.
+22:37 
+
+22:37 Donc ici, il y a toutes les conventions
+22:39 
+
+22:39 de code, les bonnes pratiques, ce que
+22:41 
+
+22:41 l'application est, ce qu'elle n'est pas
+22:43 
+
+22:43 et ça va guider notre IA pour la
+22:45 
+
+22:45 développer le mieux possible. Donc je
+22:47 
+
+22:47 vais copier vraiment tout le message. Je
+22:50 
+
+22:50 je vais donc copier ce contenu et
+22:52 
+
+22:52 ensuite dans Cursor, je vais créer un
+22:55 
+
+22:55 nouveau fichier que je vais appeler par
+22:58 
+
+22:58 exemple app.m [musique]
+23:01 
+
+23:01 dans lequel je vais donc coller tout ce
+23:03 
+
+23:03 contenu au format textuel. Comme ça, dès
+23:06 
+
+23:06 que je voudrais demander à Lia
+23:07 
+
+23:07 d'implémenter une nouvelle
+23:09 
+
+23:09 fonctionnalité, j'ouvrirai une fenêtre
+23:11 
+
+23:11 dans mon terminal ici et je dirait
+23:13 
+
+23:13 "Peux-tu lire le contenu du fichier ?"
+23:17 
+
+23:17 Et là, je vais le mentionner avec un
+23:18 
+
+23:18 @asapp. [musique] Et implémenter la
+23:22 
+
+23:22 première partie. C'est exactement ce
+23:24 
+
+23:24 qu'on va faire. Donc ici, je vais ouvrir
+23:26 
+
+23:26 une deuxième fenêtre de terminale et je
+23:29 
+
+23:29 je vais donc utiliser cloud code avec la
+23:31 
+
+23:31 commande cloud et je vais appuyer sur
+23:33 
+
+23:33 mage shift deux fois. Pour utiliser le
+23:36 
+
+23:36 mode plan, on peut voir que j'utilise
+23:39 
+
+23:39 Opus 4. Donc le meilleur modèle pour
+23:42 
+
+23:42 coder actuellement. J'utilise le plan à
+23:44 
+
+23:44 200 dollars de Cloud. Il y a aussi un
+23:46 
+
+23:46 plan à 100 dollars [musique]
+23:48 
+
+23:48 et un plan à 20 dollars que tu pourrais
+23:50 
+
+23:50 utiliser avec ce modèle. Après, pas
+23:53 
+
+23:53 d'inquiétude, les modèles les moins
+23:54 
+
+23:54 puissants vont également marcher. On a
+23:57 
+
+23:57 quand même [musique] préchrail avec un
+23:59 
+
+23:59 fichier Markdown qui contient toutes les
+24:02 
+
+24:02 instructions et on va donner une
+24:04 
+
+24:04 dernière instruction à Cloud Code avant
+24:07 
+
+24:07 de développer notre premier feature,
+24:09 
+
+24:09 c'est de transformer l'instruction chat
+24:12 
+
+24:12 GPT que je trouve pas très bien en liste
+24:15 
+
+24:15 de [musique] tâches parce que là
+24:16 
+
+24:16 actuellement il a énuméré les features
+24:18 
+
+24:18 mais nous ce qu'on aurait voulu
+24:21 
+
+24:21 [musique]
+24:21 
+
+24:21 tâches et tracker le suivi de si cette
+24:24 
+
+24:24 tâche a été implémentée ou non. Donc je
+24:27 
+
+24:27 vais demander à Cloud Code prends
+24:29 
+
+24:29 connaissance du fichier. Donc là je vais
+24:32 
+
+24:32 le mentionner avec un @asapp. [musique]
+24:35 
+
+24:35 et transforme-le en liste des tâches
+24:38 
+
+24:38 [musique] pour pouvoir traquer
+24:40 
+
+24:40 l'historique des développements qui ont
+24:43 
+
+24:43 été faits. En gros, c'est comme très lu,
+24:47 
+
+24:47 pas besoin d'inclure les étapes qui ont
+24:51 
+
+24:51 déjà [musique] été implémentées. Quand
+24:54 
+
+24:54 je dis étapes qui ont déjà été
+24:55 
+
+24:55 implémentées, je veux dire par exemple
+24:57 
+
+24:57 télécharger Expo, télécharger
+24:58 
+
+24:58 JavaScript, tout ça on l'a déjà fait
+25:01 
+
+25:01 [musique] vu qu'on est directement dans
+25:03 
+
+25:03 notre terminal d'encursor. J'appuie donc
+25:05 
+
+25:05 sur entrer et là Claude [musique] nous
+25:07 
+
+25:07 dit "Laisse-moi explorer la base de code
+25:09 
+
+25:09 pour voir ce qui a déjà été implémenté."
+25:12 
+
+25:12 Donc il va regarder le boiler plate
+25:14 
+
+25:14 d'expo, il va voir qu'il y a aucun code
+25:17 
+
+25:17 qui n'a été implémenté. On a juste
+25:18 
+
+25:18 téléchargé les dépendances. Cloud
+25:21 
+
+25:21 [musique] code est revenu avec un plan
+25:23 
+
+25:23 vu qu'on était en mode plan et on doit
+25:25 
+
+25:25 maintenant le valider. Donc il a divisé
+25:28 
+
+25:28 l'étape en plusieurs sprints. Le premier
+25:30 
+
+25:30 sprint ça va être donc de tout
+25:31 
+
+25:31 télécharger. Les notifications, le file
+25:34 
+
+25:34 système, la librairie pour les dates et
+25:37 
+
+25:37 zod et créer la structure de dossier par
+25:40 
+
+25:40 domaine, service et feature et bien sûr
+25:42 
+
+25:42 définir le thème visuel de l'app. Ça on
+25:44 
+
+25:44 l'a toujours pas fait. Ensuite, une fois
+25:47 
+
+25:47 que tout a été défini, on va pouvoir
+25:48 
+
+25:48 commencer à développer les types,
+25:52 
+
+25:52 c'est-à-dire les patients, les
+25:53 
+
+25:53 médicaments, [musique]
+25:55 
+
+25:55 les doses, les événements pour le
+25:57 
+
+25:57 restockage et cetera et cetera. Donc
+26:01 
+
+26:01 l'étape 1, c'est la configuration des
+26:03 
+
+26:03 dépendances et donc tous les prérequis
+26:04 
+
+26:04 pour commencer à travailler dans le
+26:06 
+
+26:06 projet. Le deuxième sprint, ça va
+26:08 
+
+26:08 [musique] donc être les fondations, donc
+26:10 
+
+26:10 tout ce qui est code et architecture. Et
+26:13 
+
+26:13 le troisème sprint, ça va [musique] être
+26:15 
+
+26:15 la UI, donc tout ce qui est design,
+26:18 
+
+26:18 graphique, les visuels et ce qui fait
+26:21 
+
+26:21 qu'une application est agréable à
+26:23 
+
+26:23 utiliser. Et bien sûr là, on peut voir
+26:25 
+
+26:25 qu'il y a donc trois autres sprints,
+26:27 
+
+26:27 voire même [musique] quatre. La logique
+26:29 
+
+26:29 métier avec la récurrence, les
+26:31 
+
+26:31 notifications en local, les
+26:33 
+
+26:33 renouvellements et l'export et l'import.
+26:36 
+
+26:36 optionnellement. On va donc accepter ce
+26:39 
+
+26:39 plan et Claude va réécrire notre fichier
+26:42 
+
+26:42 app.md avec ces sprint là. Et l'objectif
+26:46 
+
+26:46 c'est que à chaque nouveau feature
+26:49 
+
+26:49 développé, il puisse mettre à jour ce
+26:52 
+
+26:52 fichier en disant ça c'est terminé, ça
+26:55 
+
+26:55 c'est terminé. Comme ça, on va pas
+26:57 
+
+26:57 redévelopper à chaque fois des nouvelles
+26:59 
+
+26:59 fonctionnalités. Donc là, on peut voir
+27:01 
+
+27:01 qu'il commence déjà avec l'installation
+27:04 
+
+27:04 des premières librairies. On va donc
+27:05 
+
+27:05 mettre oui. Et ensuite, on peut voir
+27:08 
+
+27:08 qu'il va même jusqu'à implémenter le
+27:11 
+
+27:11 premier script. Et on est d'accord,
+27:13 
+
+27:13 c'est pas ce que je lui ai demandé,
+27:14 
+
+27:14 j'accepte quand même. Mais j'aurais dû
+27:16 
+
+27:16 lui dire non, d'abord je t'ai demandé en
+27:19 
+
+27:19 premier de réécrire entièrement le
+27:21 
+
+27:21 fichier app.md MD pour tracker
+27:24 
+
+27:24 l'historique des tâches. Donc là, c'est
+27:26 
+
+27:26 le problème avec les I comme Claude,
+27:28 
+
+27:28 c'est qu'elles ont tendance à être hypé
+27:31 
+
+27:31 par le projet et à tout de suite vouloir
+27:33 
+
+27:33 mettre les mains dans le code. Sauf que
+27:34 
+
+27:34 moi, je voulais imposer une structure
+27:36 
+
+27:36 pour justement qu'on ne déborde pas des
+27:39 
+
+27:39 tâches qui nous ont été assignées.
+27:41 
+
+27:41 Pendant que Claude développe notre
+27:43 
+
+27:43 application, j'aimerais te parler
+27:45 
+
+27:45 d'Algomax. C'est mon site web sur lequel
+27:47 
+
+27:47 je documente absolument tout ce que je
+27:50 
+
+27:50 fais et on vient de lancer une nouvelle
+27:52 
+
+27:52 formule. On lance votre application
+27:54 
+
+27:54 mobile en 3 semaines. On vous la livre
+27:57 
+
+27:57 en utilisant les bonnes pratiques de
+27:58 
+
+27:58 code. On vous aide à la référencer sur
+28:01 
+
+28:01 Google et on crée vos contenus pour
+28:04 
+
+28:04 attirer des clients. C'est parfait si
+28:05 
+
+28:05 vous êtes entrepreneur en train de
+28:07 
+
+28:07 monter votre entreprise. La promesse est
+28:10 
+
+28:10 simple, vous nous déléguez toute la
+28:11 
+
+28:11 partie technique, ce qui vous laisse
+28:13 
+
+28:13 plus de temps pour vous occuper du
+28:15 
+
+28:15 business. Vous retrouverez donc tous les
+28:18 
+
+28:18 détails sur le site ainsi que des
+28:20 
+
+28:20 ressources gratuites comme un template
+28:22 
+
+28:22 d'agent sur Telegram et sur WhatsApp et
+28:25 
+
+28:25 un accès anticipé à notre prochaine
+28:28 
+
+28:28 formation sur le Vibe coding. On a
+28:30 
+
+28:30 également une newsletter pour vous tenir
+28:32 
+
+28:32 informé des dernières tendances dans
+28:34 
+
+28:34 l'IA et des promotions spéciales qu'on
+28:36 
+
+28:36 compte faire chez Algomax. Alors,
+28:38 
+
+28:38 abonnez-vous pour bénéficier de toutes
+28:41 
+
+28:41 les ressources gratuites. Claude a donc
+28:43 
+
+28:43 terminé d'implémenter toutes les
+28:45 
+
+28:45 fonctionnalités et là, on peut se rendre
+28:46 
+
+28:46 compte qu'il y a eu un petit Kiproco. En
+28:48 
+
+28:48 fait, il a implémenté le code. Donc, on
+28:50 
+
+28:50 a une application avec pas mal de
+28:52 
+
+28:52 fonctionnalités. Par contre, il n'a pas
+28:54 
+
+28:54 modifié le fichier app.md. Donc, je vais
+28:57 
+
+28:57 lui demander gentiment, [musique] tu
+28:59 
+
+28:59 n'as pas fait ce que je t'ai demandé.
+29:02 
+
+29:02 App.md MD était censé garder
+29:06 
+
+29:06 l'historique de nos [musique] tâches à
+29:09 
+
+29:09 la troot avec les tâches terminées et
+29:13 
+
+29:13 les tâches non terminées. Peux-tu
+29:17 
+
+29:17 réécrire ce fichier [rires]
+29:19 
+
+29:19 complètement et le maintenir à jour ?
+29:23 
+
+29:23 C'est bon, il a compris ce que je
+29:24 
+
+29:24 voulais et il a maintenant créé une
+29:26 
+
+29:26 liste de tâches ici avec des checkbox
+29:29 
+
+29:29 qui nous affichent donc les
+29:30 
+
+29:30 fonctionnalités qui ont été implémentées
+29:32 
+
+29:32 et les fonctionnalités qui n'ont pas été
+29:34 
+
+29:34 implémentées à savoir qu'il a donc
+29:36 
+
+29:36 commencé à coder alors qu'on n' pas
+29:38 
+
+29:38 encore défini ensemble un design système
+29:42 
+
+29:42 donc des couleurs, une typo et cetera.
+29:45 
+
+29:45 Mais avant de continuer, voici quelques
+29:48 
+
+29:48 bonnes pratiques à faire quand on vibe
+29:50 
+
+29:50 code une application pour être sûr que
+29:52 
+
+29:52 l'agent ne fasse pas n'importe quoi.
+29:55 
+
+29:55 Déjà la première question, comment être
+29:59 
+
+29:59 sûr que l'agent connaisse les bonnes
+30:01 
+
+30:01 pratiques de développement d'une
+30:03 
+
+30:03 application [musique] mobile ? Quand on
+30:05 
+
+30:05 les connaît pas nous-même, c'est
+30:06 
+
+30:06 compliqué de donner ces instructions à
+30:09 
+
+30:09 notre agent. Du coup, il y a ce site
+30:12 
+
+30:12 skills.shsh
+30:14 
+
+30:14 entièrement gratuite. C'est une ligne de
+30:16 
+
+30:16 commande dans le terminal qui va nous
+30:17 
+
+30:17 permettre d'accéder à une base de
+30:19 
+
+30:19 connaissance de bonne pratique pour les
+30:22 
+
+30:22 agents IA. Ça a été créé par Versel et
+30:25 
+
+30:25 c'est compatible avec tous les agents IA
+30:27 
+
+30:27 de code. On peut voir ici que si on tape
+30:30 
+
+30:30 dans la recherche React native par
+30:32 
+
+30:32 exemple, ici on a un fichier qui est
+30:36 
+
+30:36 disponible le premier. Et si on clique
+30:38 
+
+30:38 dessus, on peut voir que ça a été
+30:39 
+
+30:39 téléchargé 50000 fois par semaine et ça
+30:42 
+
+30:42 contient les meilleures pratiques pour
+30:45 
+
+30:45 développer des applications en réact
+30:47 
+
+30:47 native rédigé par l'équipe de Versel. Il
+30:52 
+
+30:52 il faut savoir que Versel est bien
+30:54 
+
+30:54 qualifié pour rédiger ses bonnes
+30:55 
+
+30:55 pratiques parce qu'ils ont eux-mêmes
+30:57 
+
+30:57 développé une application mobile sur iOS
+30:60 
+
+30:60 qui s'appelle Vzeriro qui ressemble à
+31:03 
+
+31:03 ça. C'est comme un cloud code ou un
+31:05 
+
+31:05 codex sur une application mobile et
+31:08 
+
+31:08 c'est la version mobile de leur
+31:09 
+
+31:09 application Visero qui permet de vibe
+31:12 
+
+31:12 coder des sites web et on peut voir
+31:14 
+
+31:14 qu'il y a vraiment plein de règles à
+31:16 
+
+31:16 prendre en compte pour une application
+31:18 
+
+31:18 mobile qui fonctionne. Il faut se
+31:20 
+
+31:20 soucier de la performance, les
+31:22 
+
+31:22 animations, la navigation et plein
+31:25 
+
+31:25 d'autres éléments très importants qu'on
+31:27 
+
+31:27 a tendance à oublier. Pour télécharger
+31:30 
+
+31:30 cette règle, il nous suffit donc de
+31:31 
+
+31:31 copier cette commande et on va retourner
+31:34 
+
+31:34 ici dans Cursor, on va ouvrir un nouveau
+31:36 
+
+31:36 terminal et on va la coller à la racine
+31:40 
+
+31:40 du coup de notre projet. Ça va donc nous
+31:42 
+
+31:42 demander de sélectionner les agents
+31:44 
+
+31:44 qu'on utilise. Personnellement, j'en
+31:46 
+
+31:46 utilise plein mais actuellement ce qui
+31:48 
+
+31:48 compte c'est Cloud Code qui est donc
+31:51 
+
+31:51 sélectionné. On va ensuite appuyer sur
+31:54 
+
+31:54 entrer. On va sélectionner le scope. Je
+31:56 
+
+31:56 veux télécharger ses règles à l'échelle
+31:58 
+
+31:58 du projet. Je vais ensuite appuyer sur
+32:00 
+
+32:00 entrer. [musique] Et enfin SIM link ou
+32:03 
+
+32:03 copy to all agents. On va sélectionner
+32:06 
+
+32:06 SIML [musique] link. Le sim est un lien
+32:08 
+
+32:08 symbolique. Ça veut dire que on utilise
+32:10 
+
+32:10 la même règle importe l'agent a. Et
+32:12 
+
+32:12 maintenant, on appuie sur entrer une
+32:14 
+
+32:14 dernière fois pour confirmer
+32:15 
+
+32:15 l'installation, ce qui nous a créé un
+32:17 
+
+32:17 nouveau dossier ici qui s'appelle agent,
+32:20 
+
+32:20 dans lequel on contient toutes ces
+32:22 
+
+32:22 règles, c'est-à-dire [musique] toutes
+32:24 
+
+32:24 les règles liées aux performances, au
+32:26 
+
+32:26 monoripo, au state. Et la prochaine fois
+32:29 
+
+32:29 qu'on va donc donner des instructions à
+32:32 
+
+32:32 Cloud, par exemple code cette
+32:34 
+
+32:34 fonctionnalité, il pourra de lui-même
+32:36 
+
+32:36 aller piocher là-dedans dans ce
+32:39 
+
+32:39 répertoire de bonne pratique pour être
+32:41 
+
+32:41 sûr d'être à jour. Maintenant, c'est pas
+32:44 
+
+32:44 le seul skill que je veux utiliser. Je
+32:46 
+
+32:46 veux aussi utiliser celui d'Expo qui
+32:48 
+
+32:48 s'appelle building native UI. On peut
+32:51 
+
+32:51 voir qu'il y en a plein d'autres. Il y a
+32:53 
+
+32:53 native data fetching, [musique]
+32:54 
+
+32:54 il y a expo et on va tous les utiliser.
+32:58 
+
+32:58 Alors pour tous les utiliser, au lieu de
+33:00 
+
+33:00 copier la commande complète, ici on va
+33:03 
+
+33:03 charger entièrement tout le repository
+33:06 
+
+33:06 depuis expo. Donc une fois que c'est
+33:09 
+
+33:09 fait, on retourne dans le terminal une
+33:10 
+
+33:10 deuxième fois, on va coller cette
+33:12 
+
+33:12 commande et on va effacer ce dernier
+33:14 
+
+33:14 segment comme ceci. Et là, on peut voir
+33:17 
+
+33:17 qu'on peut maintenant sélectionner
+33:18 
+
+33:18 toutes les règles qui sont donc à notre
+33:20 
+
+33:20 disposition. Donc je vais toutes les
+33:22 
+
+33:22 sélectionner. Je vais ensuite appuyer
+33:24 
+
+33:24 sur entrer une deuxième fois, une
+33:26 
+
+33:26 troisième fois à l'échelle du projet. Et
+33:29 
+
+33:29 ça va maintenant toutes les ajouter
+33:31 
+
+33:31 encore une fois à notre dossier.
+33:33 
+
+33:33 Maintenant, on peut fermer ce terminal
+33:35 
+
+33:35 et on va faire un contrôle C pour
+33:37 
+
+33:37 [musique] terminer cette instance de
+33:39 
+
+33:39 cloud code. On va en relancer une
+33:40 
+
+33:40 nouvelle. C'est une autre bonne pratique
+33:42 
+
+33:42 qu'on développe, c'est qu'on ferme le
+33:44 
+
+33:44 terminal et qu'on relance une nouvelle
+33:46 
+
+33:46 instance pour chaque fonctionnalité à
+33:48 
+
+33:48 ajouter. [musique]
+33:49 
+
+33:49 Comme ça, ça permet de réinitialiser le
+33:51 
+
+33:51 contexte de l'agent pour éviter toute
+33:54 
+
+33:54 dégradation de la qualité. Donc on va
+33:57 
+
+33:57 relancer Cloud Code. Cette fois, je le
+33:59 
+
+33:59 lance en bypassant toutes les
+34:01 
+
+34:01 permissions. Ça veut dire que je lui
+34:02 
+
+34:02 donne l'autorisation d'exécuter
+34:04 
+
+34:04 absolument toutes les commandes, même
+34:06 
+
+34:06 les plus dangereuses. Alors, c'est
+34:08 
+
+34:08 vraiment dangereux, faut pas le faire.
+34:10 
+
+34:10 Moi, je me permets de le faire parce que
+34:12 
+
+34:12 je lui fais confiance. C'est peut-être
+34:13 
+
+34:13 une erreur. Pour l'instant, j'en ai pas
+34:15 
+
+34:15 encore payé les frais. Et on va se
+34:18 
+
+34:18 concentrer maintenant sur le design
+34:20 
+
+34:20 system. Donc on est de nouveau à la
+34:22 
+
+34:22 racine de notre dossier et je vais
+34:24 
+
+34:24 demander à Cloud peut-on brainstormer
+34:27 
+
+34:27 ensemble le design system de cette
+34:30 
+
+34:30 application mobile. Une fois que les
+34:33 
+
+34:33 décisions auront été prises, il faut
+34:36 
+
+34:36 qu'on ait un [musique] design cohérent
+34:39 
+
+34:39 et constant dans l'ensemble [musique] de
+34:43 
+
+34:43 l'application. C'est moi des
+34:45 
+
+34:45 propositions, je choisirai la meilleure.
+34:50 
+
+34:50 Créer des composants d'interface sur la
+34:54 
+
+34:54 page d'accueil pour que je puisse voir
+34:57 
+
+34:57 visuellement le rendu des propositions.
+35:01 
+
+35:01 Et je vais donc mentionner le fichier
+35:03 
+
+35:03 app.down
+35:05 
+
+35:05 qui contient [musique] tout le contexte
+35:07 
+
+35:07 de l'application qu'on est en train de
+35:08 
+
+35:08 développer. Claude nous fait donc trois
+35:10 
+
+35:10 propositions. La première s'appelle Soft
+35:13 
+
+35:13 Clinical. C'est inspiré de Apple Health.
+35:16 
+
+35:16 Des cardes sans bordure avec des ombres
+35:19 
+
+35:19 douces, des coins très arrondis, un fond
+35:21 
+
+35:21 blanc pur et une couleur primaire verte
+35:25 
+
+35:25 qui ressemble à ça. Subtile uniquement
+35:27 
+
+35:27 avec les éléments interactifs.
+35:30 
+
+35:30 Proposition 2, c'est mettre des couleurs
+35:32 
+
+35:32 partout. Proposition 3, c'est du néo
+35:35 
+
+35:35 brutaliste médical. On a donc les
+35:38 
+
+35:38 exemples juste ici. La proposition A,
+35:41 
+
+35:41 c'est celle-ci. On a donc ce genre de
+35:44 
+
+35:44 carte avec ces composants d'interface.
+35:47 
+
+35:47 Plutôt clean, [musique] plutôt très
+35:48 
+
+35:48 simple. Pour la carte B, il y a ici des
+35:52 
+
+35:52 petites bordures et des icônes. Et pour
+35:54 
+
+35:54 la carte C, on utilise du néo brutalisme
+35:58 
+
+35:58 médical, ce qui est donc très contrasté
+36:01 
+
+36:01 avec des belles bordures et jusqu'à
+36:03 
+
+36:03 présent, c'est la version que je
+36:05 
+
+36:05 préfère. On voit bien le niveau des
+36:06 
+
+36:06 stocks. On va donc partir sur la
+36:09 
+
+36:09 proposition 3. Je choisis la proposition
+36:13 
+
+36:13 3. Le néo brutalisme me plaît beaucoup.
+36:17 
+
+36:17 As-tu d'autres questions ? Là, je lui
+36:20 
+
+36:20 demande s'il a d'autres questions pour
+36:21 
+
+36:21 peut-être affiner au mieux ce design. Et
+36:25 
+
+36:25 là, il me pose des questions sur la
+36:27 
+
+36:27 couleur primaire, la typographie, les
+36:30 
+
+36:30 ombres et le dark mode. Donc comme j'ai
+36:33 
+
+36:33 du mal à choisir, je vais lui dire
+36:35 
+
+36:35 efface les deux premières propositions
+36:39 
+
+36:39 et propose-moi maintenant des couleurs
+36:43 
+
+36:43 et des typographies et des ombres. Comme
+36:46 
+
+36:46 ça, ça sera très simple pour moi de
+36:48 
+
+36:48 décider quel design je veux prendre. Et
+36:52 
+
+36:52 donc encore une fois, Claude revient
+36:53 
+
+36:53 vers moi avec des propositions. Pour les
+36:55 
+
+36:55 couleurs, on a donc le vert médical, on
+36:58 
+
+36:58 a Indigo électrique, [musique] on a
+36:60 
+
+36:60 émeraude vif, on a rose, orange, gris.
+37:05 
+
+37:05 Personnellement, ces couleurs sont très
+37:08 
+
+37:08 bien. Le til, il est pas mal. En vrai,
+37:11 
+
+37:11 le emerold, il est vraiment sympa. Et le
+37:14 
+
+37:14 Indigo, il est vraiment cool aussi.
+37:16 
+
+37:16 J'hésite vraiment entre Emerald et
+37:17 
+
+37:17 Indigo. On va partir sur Emerald parce
+37:20 
+
+37:20 que c'est quand même une application
+37:22 
+
+37:22 médicale. Donc pour les couleurs, on va
+37:24 
+
+37:24 partir sur Emerald. Je lui donne déjà
+37:27 
+
+37:27 cette inscription pour lui dire qu'on a
+37:28 
+
+37:28 fait un choix au niveau des couleurs.
+37:31 
+
+37:31 Ensuite pour la police, on a donc SF Pro
+37:34 
+
+37:34 qui est celle-ci, on a Roundad, on a
+37:38 
+
+37:38 monpace et on a serf. Personnellement,
+37:41 
+
+37:41 je préfère monospace. Ça fait vraiment
+37:44 
+
+37:44 développeur mais j'aime bien le style.
+37:47 
+
+37:47 Donc pour la police, je préfère mono. Et
+37:51 
+
+37:51 ensuite au niveau des ombres, qu'est-ce
+37:53 
+
+37:53 qu'on préfère ? On préfère le subtil, le
+37:55 
+
+37:55 médium ou le heavy qui est énorme ?
+37:59 
+
+37:59 Honnêtement, ça m'est égal. On va partir
+38:01 
+
+38:01 sur médium. Médium pour les ombres me
+38:04 
+
+38:04 plaît bien. Tu as d'autres questions ?
+38:07 
+
+38:07 Et ça c'est vraiment une pratique que je
+38:09 
+
+38:09 vous recommande quand vous développez
+38:11 
+
+38:11 avec Lia, c'est toujours de demander à
+38:14 
+
+38:14 cette si elle a bien compris ce que vous
+38:16 
+
+38:16 cherchez à faire. Comme ça, ça évite
+38:18 
+
+38:18 [musique] des allers-retours après en
+38:21 
+
+38:21 lui disant "Mais non, tu as pas compris
+38:22 
+
+38:22 ce que je voulais, c'était pas ça." Et
+38:24 
+
+38:24 ben peut-être que vous vous êtes très
+38:26 
+
+38:26 mal exprimé ou que vous ne lui avez pas
+38:29 
+
+38:29 donné suffisamment de contexte. Le but
+38:31 
+
+38:31 de ces questions, c'est vraiment
+38:32 
+
+38:32 d'éviter Toky Proco. Comme ça, Lia ne
+38:36 
+
+38:36 prend pas de décision sans votre accord.
+38:39 
+
+38:39 OK, donc là Claude a carrément fait
+38:41 
+
+38:41 crash notre application Expo. C'est pas
+38:43 
+
+38:43 grave, on peut retourner sur le premier
+38:45 
+
+38:45 terminal ici. Voir qu'on a des erreurs
+38:48 
+
+38:48 au niveau de Expo- notification qui
+38:51 
+
+38:51 marche pas très bien avec Expo. Il nous
+38:54 
+
+38:54 conseille donc d'utiliser un development
+38:56 
+
+38:56 build. Qu'est-ce que ça veut dire
+38:58 
+
+38:58 concrètement ? Et ben quand on lance la
+38:60 
+
+38:60 commande npm run iOS, on a deux choix.
+39:04 
+
+39:04 Par défaut, ça va utiliser Expo Go qui
+39:06 
+
+39:06 est l'application qui va donc compiler
+39:09 
+
+39:09 le code sur notre mobile. Dans ce
+39:12 
+
+39:12 cas-là, c'est le simulateur. Ou alors,
+39:14 
+
+39:14 on peut appuyer sur S pour à la place
+39:17 
+
+39:17 générer un development build. Et le
+39:20 
+
+39:20 development build peut également être
+39:22 
+
+39:22 exécuté depuis le simulateur. Et là, on
+39:26 
+
+39:26 peut voir maintenant qu'on ne possède
+39:28 
+
+39:28 plus l'erreur. On possède maintenant
+39:30 
+
+39:30 d'autres avertissements. Maintenant, on
+39:32 
+
+39:32 va naviguer sur notre application et on
+39:34 
+
+39:34 va repérer quelques erreurs graphiques.
+39:36 
+
+39:36 Comme par exemple ici, le titre, il est
+39:38 
+
+39:38 tronqué au-dessus.
+39:40 
+
+39:40 On a un historique, on a des réglages. À
+39:44 
+
+39:44 chaque fois le titre est tronqué et si
+39:46 
+
+39:46 on clique sur le plus, on retrouve un
+39:48 
+
+39:48 menu avec un catalogue qu'on peut
+39:51 
+
+39:51 préremplir ici, qu'on peut modifier avec
+39:54 
+
+39:54 un planning quotidien ou mensuel, une
+39:57 
+
+39:57 heure de prise et un statut. C'est pas
+39:60 
+
+40:00 mal. Lix, elle est pas ouf. On va tout
+40:03 
+
+40:03 de suite demander à Claude de corriger
+40:05 
+
+40:05 ça. Alors, on a deux choix. Soit on
+40:07 
+
+40:07 reprend la conversation actuelle, soit
+40:10 
+
+40:10 on va recréer une conversation. Mais
+40:13 
+
+40:13 avant de la recréer, je vais demander à
+40:15 
+
+40:15 Claude : "As-tu bien sauvegarder notre
+40:18 
+
+40:18 design système complet dans app.md ou
+40:23 
+
+40:23 dans un fichier markdown de style
+40:26 
+
+40:26 design-system.m.
+40:30 
+
+40:30 Comme ça, on sauvegarde vraiment une
+40:32 
+
+40:32 trace de ce design système au lieu de
+40:35 
+
+40:35 laisser l'agent faire un peu comme il
+40:37 
+
+40:37 veut. On a bien fait de lui demander
+40:39 
+
+40:39 parce qu'il nous dit "Non, j'ai pas
+40:40 
+
+40:40 encore créé ce fichier, je le créé tout
+40:43 
+
+40:43 de suite." [musique] Et donc il est
+40:44 
+
+40:44 parti sur un nouveau fichier qu'on
+40:46 
+
+40:46 appelle design system qui va contenir le
+40:49 
+
+40:49 style, les principes et les couleurs de
+40:53 
+
+40:53 chaque état en mode [musique] light, en
+40:55 
+
+40:55 mode dark parce qu'il a déjà prévu un
+40:57 
+
+40:57 dark mode, la typographie, la
+41:00 
+
+41:00 hiérarchie, les ombres et cetera. Et là,
+41:04 
+
+41:04 il vient de faire quelque chose de très
+41:05 
+
+41:05 intéressant. Il a [musique] retiré tous
+41:07 
+
+41:07 les accents des mots français. C'est un
+41:10 
+
+41:10 comportement que j'analyse depuis
+41:12 
+
+41:12 plusieurs mois. Claude a tendance à
+41:14 
+
+41:14 retirer les accents français. Je ne sais
+41:16 
+
+41:16 pas pourquoi, mais c'est un bon
+41:17 
+
+41:17 [musique] moyen de vous donner un
+41:19 
+
+41:19 deuxième conseil quand vous développez
+41:21 
+
+41:21 avec Lia. Ici, nous utilisons Cloud. Et
+41:24 
+
+41:24 ce qu'il est possible de faire, c'est de
+41:25 
+
+41:25 créer un fichier Markdown que Claude va
+41:29 
+
+41:29 lire avant d'implémenter le code. En
+41:31 
+
+41:31 l'occurrence, il y a une convention qui
+41:34 
+
+41:34 s'appelle agent.mmd. MD qui permet de
+41:37 
+
+41:37 définir des règles strictes que l'agent
+41:39 
+
+41:39 doit respecter. Peu importe qu'on
+41:41 
+
+41:41 utilise cloud, cursor, codex et cetera.
+41:46 
+
+41:46 Malheureusement, Cloud ne supporte pas
+41:48 
+
+41:48 la convention agent.md. Ils ont créé
+41:51 
+
+41:51 leur propre convention cloud.m.
+41:54 
+
+41:54 C'est pas grave, nous on utilise cloud.
+41:56 
+
+41:56 Donc on va créer un fichier, on va
+41:58 
+
+41:58 appeler cloud.md. Et on n pas besoin de
+42:00 
+
+42:00 mettre grand-chose ici, mais on peut
+42:04 
+
+42:04 rajouter des instructions pour éviter
+42:07 
+
+42:07 les patterns qu'il y a à tendance à
+42:08 
+
+42:08 faire. Par exemple, [grognement] suit la
+42:11 
+
+42:11 progression du développement de
+42:14 
+
+42:14 [musique] l'app.
+42:17 
+
+42:17 Suis le design system [musique] dans le
+42:21 
+
+42:21 fichier design.md.
+42:23 
+
+42:23 Ne retire jamais les accents [musique]
+42:26 
+
+42:26 des mots français. utilise toujours la
+42:30 
+
+42:30 commande lint [musique]
+42:32 
+
+42:32 pour vérifier la qualité du code et on
+42:36 
+
+42:36 va rajouter une commande type check
+42:38 
+
+42:38 [musique] et lint. Donc on va dire
+42:41 
+
+42:41 utilise toujours les commandes type
+42:43 
+
+42:43 check et lint. À quoi je fais référence
+42:45 
+
+42:45 quand je parle de commande ? Et ben dans
+42:47 
+
+42:47 le fichier package. Jason qui permet
+42:50 
+
+42:50 configurer le projet. Ici, on a des
+42:52 
+
+42:52 scripts, notamment un script qui
+42:54 
+
+42:54 s'appelle lint [musique]
+42:55 
+
+42:55 qui permet de vérifier que le code est
+42:58 
+
+42:58 bien conforme aux règles qu'on a fixé.
+43:01 
+
+43:01 Donc ici, on a configuré aucune règle,
+43:03 
+
+43:03 ça a été préconfiguré pour nous avec
+43:05 
+
+43:05 [musique] un logiciel qui s'appelle
+43:07 
+
+43:07 ESLint. Et en gros, le but ça va être
+43:10 
+
+43:10 d'analyser à chaque fois qu'on ajoute
+43:12 
+
+43:12 des fonctionnalités la qualité du code
+43:15 
+
+43:15 avec ces deux commandes. Donc là, je
+43:16 
+
+43:16 vais créer une deuxième commande que je
+43:17 
+
+43:17 vais appeler type check que l'agent va
+43:20 
+
+43:20 devoir exécuter à chaque fois. [musique]
+43:22 
+
+43:22 Et ensuite, une dernière instruction,
+43:24 
+
+43:24 après avoir implémenté une
+43:27 
+
+43:27 fonctionnalité, met à jour le fichier
+43:31 
+
+43:31 app.md avec la progression. Donc ça
+43:34 
+
+43:34 c'est très bien. Et maintenant je vais
+43:35 
+
+43:35 récupérer sur internet une autre liste
+43:38 
+
+43:38 d'instructions que je trouve très
+43:39 
+
+43:39 pertinente. [musique]
+43:41 
+
+43:41 C'est sur le site EAO qui est une
+43:42 
+
+43:42 formation faite par Mat Pocock que je
+43:45 
+
+43:45 vous recommande et c'est le plan
+43:47 
+
+43:47 suivant. Quand on est en mode plan, rend
+43:50 
+
+43:50 ton plan extrêmement concis. Ça veut
+43:52 
+
+43:52 dire que au lieu d'écrire des pavés et
+43:54 
+
+43:54 des lignes et des milliers de pages de
+43:56 
+
+43:56 textes, on veut que l'agent soit hyper
+43:58 
+
+43:58 concis. Genre c'est comme ça. [musique]
+44:01 
+
+44:01 Voici ma vision. Il va utiliser le moins
+44:03 
+
+44:03 de mots possibles. Ce qui va donc
+44:04 
+
+44:04 sauvegarder des tokens et qui va le
+44:06 
+
+44:06 rendre plus rapide. Et à la fin de
+44:09 
+
+44:09 chaque plan, donne-moi une liste de
+44:11 
+
+44:11 questions auxquelles tu n'as pas encore
+44:13 
+
+44:13 les réponses. Ça ça va permettre à
+44:16 
+
+44:16 l'agent automatiquement de nous poser
+44:18 
+
+44:18 des questions si jamais il lui manque du
+44:21 
+
+44:21 contexte. [musique]
+44:22 
+
+44:22 On va donc copier cette liste et on va
+44:24 
+
+44:24 la rajouter dans notre fichier cloud.md.
+44:27 
+
+44:27 Et bien sûr, pour être sûr de rendre
+44:30 
+
+44:30 notre code compatible avec les autres
+44:32 
+
+44:32 agents il y a de code, on va pouvoir
+44:34 
+
+44:34 dupliquer ce fichier et le nommer
+44:36 
+
+44:36 agent.md.
+44:38 
+
+44:38 Comme ça, les deux fichiers qu'on
+44:40 
+
+44:40 utilise, Cursor ou Codex seront mis à
+44:43 
+
+44:43 jour de la même manière. Maintenant
+44:45 
+
+44:45 qu'on a mis à jour ces fichiers, on peut
+44:47 
+
+44:47 donc kill le terminal et on va relancer
+44:50 
+
+44:50 une nouvelle instance. Cette fois, on a
+44:52 
+
+44:52 le design system et on va demander à
+44:54 
+
+44:54 cloud l'application mobile actuellement
+44:58 
+
+44:58 affiche un titre de page tronqué. C'est
+45:02 
+
+45:02 constant sur toutes les pages.
+45:05 
+
+45:05 Assure-toi que le design s'adapte, que
+45:08 
+
+45:08 ça soit sur liquide glace et sur les
+45:11 
+
+45:11 anciennes versions iPhone. Assure-toi
+45:15 
+
+45:15 aussi qu'aucun menu soit inaccessible et
+45:20 
+
+45:20 bloqué à cause du scroll. Parce que oui,
+45:23 
+
+45:23 quand on développe un site internet,
+45:24 
+
+45:24 c'est très permissif. On peut faire un
+45:27 
+
+45:27 peu n'importe quoi, mais là avec une
+45:28 
+
+45:28 application mobile, on est contraint de
+45:30 
+
+45:30 respecter des règles strictes qui sont
+45:33 
+
+45:33 définies par Apple et Android. Et quand
+45:36 
+
+45:36 on va soumettre notre application sur
+45:38 
+
+45:38 les stores, il y aura des testeurs de
+45:40 
+
+45:40 chez Apple et de chez Android qui vont
+45:42 
+
+45:42 manuellement tester notre application et
+45:45 
+
+45:45 nous faire des retours, voire même nous
+45:47 
+
+45:47 refuser l'accès si notre code ou notre
+45:50 
+
+45:50 application n'est pas conforme avec
+45:52 
+
+45:52 leurs règles. Là, j'ai donc rechargé
+45:54 
+
+45:54 l'application après qu'il ait changé le
+45:56 
+
+45:56 comportement et on peut voir qu'on a
+45:57 
+
+45:57 toujours des titres tronqués. Donc je
+45:60 
+
+45:60 vais prendre une capture d'écran comme
+46:02 
+
+46:02 ceci et je vais la drop. Ici, on peut
+46:05 
+
+46:05 voir qu'elle a été ajoutée au contexte
+46:06 
+
+46:06 et je vais lui dire "Regarde le
+46:08 
+
+46:08 [musique] titre en haut, c'est toujours
+46:11 
+
+46:11 tronqué." Malgré mes instructions et
+46:13 
+
+46:13 toutes les règles, Claude s'est trompé.
+46:16 
+
+46:16 Il a pas vraiment réussi à régler le
+46:18 
+
+46:18 problème. Donc, je le confronte à sans
+46:20 
+
+46:20 l'erreur avec une capture d'écran. Et
+46:23 
+
+46:23 là, on peut voir qu'il a trouvé la
+46:24 
+
+46:24 raison sur iOS quand on a des polices
+46:27 
+
+46:27 très grasses, il peut y avoir des
+46:29 
+
+46:29 problèmes. Du coup, je vais changer la
+46:32 
+
+46:32 line he sur toutes les pages. Là, si on
+46:34 
+
+46:34 regarde un petit peu au niveau du code,
+46:37 
+
+46:37 on fait une recherche sur line he, on
+46:40 
+
+46:40 peut voir que le style est dupliqué sur
+46:43 
+
+46:43 chacun des projets. C'est-à-dire que le
+46:45 
+
+46:45 header title par exemple, [musique]
+46:48 
+
+46:48 il est dupliqué et ce line height, il va
+46:51 
+
+46:51 être dupliqué à tous les endroits de
+46:53 
+
+46:53 notre application, ce qui est
+46:55 
+
+46:55 potentiellement une mauvaise pratique.
+46:58 
+
+46:58 Mais c'est pas grave pour l'instant, on
+46:59 
+
+46:59 va continuer à implémenter nos
+47:01 
+
+47:01 fonctionnalités. Maintenant qu'il a
+47:02 
+
+47:02 corrigé ce problème, j'aimerais
+47:04 
+
+47:04 améliorer ici le catalogue avec une
+47:07 
+
+47:07 liste plus exhaustive des médicament.
+47:10 
+
+47:10 [musique]
+47:10 
+
+47:10 Et ici, on peut voir que ces inputs, ils
+47:13 
+
+47:13 sont bizarres en fait parce qu'il y a du
+47:15 
+
+47:15 texte qui passe en dessous de ce menu
+47:17 
+
+47:17 là. Donc il y a vraiment un problème au
+47:19 
+
+47:19 niveau du scroll. Donc je vais encore
+47:20 
+
+47:20 une fois prendre une capte sur écran et
+47:22 
+
+47:22 je vais lui dire dans le formulaire
+47:24 
+
+47:24 d'ajout d'un nouveau document
+47:27 
+
+47:27 médicament, j'aimerais que tu fasses
+47:31 
+
+47:31 quelques changements. Le menu catalogue
+47:34 
+
+47:34 est pas très ergonomique. Utilise un
+47:39 
+
+47:39 bottom sheet. un bottom sheet, c'est en
+47:41 
+
+47:41 fait c'est exactement comme ça.
+47:42 
+
+47:42 C'est-à-dire que c'est un menu qui va
+47:44 
+
+47:44 s'ouvrir par le bas et qui va déplier
+47:47 
+
+47:47 une liste qui va prendre toute la
+47:48 
+
+47:48 longueur qui va nous permettre de
+47:49 
+
+47:49 chercher le médicament ou un composant
+47:53 
+
+47:53 plus ergonomique ajoute une barre de
+47:56 
+
+47:56 recherche et ajoute plus de médicaments
+48:00 
+
+48:00 dans [musique] cette base de
+48:03 
+
+48:03 médicaments. Là, je vais lui dire quels
+48:06 
+
+48:06 sont les médicaments que j'utilise.
+48:07 
+
+48:07 J'utilise l'advagraphe. en quantité 1
+48:11 
+
+48:11 mg, 3 mg et 5 mg, le couurzo en quantité
+48:17 
+
+48:17 500 mg et 250 mg, 600 mg de caltrate et
+48:23 
+
+48:23 du colécalcérol
+48:27 
+
+48:27 50000 UI, je sais pas ce que ça veut
+48:29 
+
+48:29 dire. C'est un liquide, c'est une
+48:31 
+
+48:31 ampoule de 2 mg de 2 ml pardon. ajoute
+48:34 
+
+48:34 aussi d'autres médicaments de ce genre
+48:38 
+
+48:38 pour les immunos déprimés. Donc là,
+48:41 
+
+48:41 finalement, je lui donner trois
+48:42 
+
+48:42 objectifs à faire à la fois, ce qui est
+48:45 
+
+48:45 potentiellement déconseillé quand les
+48:47 
+
+48:47 tâches sont très compliquées. Mais là,
+48:49 
+
+48:49 on utilise quand même un modèle très
+48:50 
+
+48:50 compétent. On utilise Opus 4.5 qui est
+48:53 
+
+48:53 un modèle très puissant, très
+48:55 
+
+48:55 intelligent avec des tâches qui sont
+48:57 
+
+48:57 plutôt simples. Cloud code a terminé. On
+49:00 
+
+49:00 va maintenant tester. Donc on va ajouter
+49:03 
+
+49:03 un nouveau médicament. Ici, on peut voir
+49:05 
+
+49:05 qu'il a corrigé le problème sur les
+49:07 
+
+49:07 inputs. Et si on clique sur le
+49:09 
+
+49:09 catalogue, on peut voir qu'on a
+49:10 
+
+49:10 maintenant une barre de recherche dans
+49:12 
+
+49:12 un deuxième sheet qui fonctionne très
+49:14 
+
+49:14 bien. On va faire une recherche sur
+49:16 
+
+49:16 Colurzo par exemple et on peut voir
+49:18 
+
+49:18 qu'on a bien en stock les médicaments
+49:20 
+
+49:20 que l'on souhaite. Donc c'est plutôt
+49:22 
+
+49:22 très cool. Là, on peut voir que
+49:23 
+
+49:23 l'application s'est arrêtée et si on va
+49:25 
+
+49:25 sur le deuxième terminal, on a une
+49:27 
+
+49:27 petite erreur. Alors, parfois, on a des
+49:28 
+
+49:28 erreurs comme celle-ci. Faut pas hésiter
+49:31 
+
+49:31 à recharger l'application pour éviter
+49:34 
+
+49:34 tous les bugs et appuyer sur R du coup
+49:36 
+
+49:36 pour relancer la compilation du code.
+49:39 
+
+49:39 Maintenant, c'est très très bien.
+49:40 
+
+49:40 [musique] Ça me plaît. On peut
+49:41 
+
+49:41 sélectionner un médicament comme ça,
+49:44 
+
+49:44 mais on va faire encore autre chose.
+49:47 
+
+49:47 Dans le catalogue, n'autorise pas
+49:49 
+
+49:49 l'utilisateur à cliquer sur la carte. Il
+49:53 
+
+49:53 peut seulement cliquer sur la quantité
+49:56 
+
+49:56 pour l'ajouter. [musique]
+49:57 
+
+49:57 Affiche les médicaments déjà ajouté dans
+50:01 
+
+50:01 une autre couleur quand on fait une
+50:04 
+
+50:04 recherche et c'est [musique] tout pour
+50:06 
+
+50:06 le moment. J'ai continué dans mon coin à
+50:09 
+
+50:09 améliorer la user expérience en donnant
+50:12 
+
+50:12 d'autres instructions et on arrive donc
+50:14 
+
+50:14 [musique] à cette application. J'ai donc
+50:16 
+
+50:16 ajouté l'advagraphe 1 mg que je dois
+50:19 
+
+50:19 prendre tous les matins à 9h. On peut
+50:21 
+
+50:21 voir ici mon stock, j'en ai 26. Je peux
+50:25 
+
+50:25 à tout moment modifier le nom ou
+50:27 
+
+50:27 [musique] le dosage. On peut aussi
+50:29 
+
+50:29 modifier la forme avec des select,
+50:32 
+
+50:32 l'unité par boîte. Donc moi, il y en a
+50:34 
+
+50:34 28 [musique] dans la boîte. On va dire
+50:35 
+
+50:35 que pour le stock, il m'en reste une
+50:38 
+
+50:38 dizaine et je dois le prendre au
+50:40 
+
+50:40 quotidien. On peut enregistrer.
+50:42 
+
+50:42 Maintenant, je vais rajouter un deuxième
+50:44 
+
+50:44 médicament, c'est également l'advagraphe
+50:46 
+
+50:46 parce que j'en prends 4 mg [musique]
+50:49 
+
+50:49 par jour. Et donc ça va être exactement
+50:52 
+
+50:52 la même chose. Il y en a 28 dans la
+50:54 
+
+50:54 boîte. Il m'en reste en stock une
+50:56 
+
+50:56 dizaine et je les [musique] prends tous
+50:58 
+
+50:58 les jours à la même heure, c'est-à-dire
+51:00 
+
+51:00 à 9h. Maintenant, on va donc
+51:03 
+
+51:03 enregistrer. [musique]
+51:04 
+
+51:04 Et là, on retrouve donc nos deux
+51:06 
+
+51:06 advagraphes sur la page d'accueil. Et la
+51:08 
+
+51:08 prochaine prise, c'est pour 9h. Donc ce
+51:11 
+
+51:11 que j'ai changé ici, c'est les inputs,
+51:14 
+
+51:14 donc les composantes pour utiliser
+51:15 
+
+51:15 l'interface et pour insérer [musique]
+51:17 
+
+51:17 des quantités. Par exemple, le dosage,
+51:20 
+
+51:20 on va partir sur un select au lieu de
+51:22 
+
+51:22 l'écrire sous forme de texte brut.
+51:24 
+
+51:24 [musique] Pareil pour la forme, pareil
+51:26 
+
+51:26 pour les unités et pour le stock. Et
+51:29 
+
+51:29 bien sûr, pareil pour l'heure de prise
+51:31 
+
+51:31 et les quantités. Ça a du sens
+51:32 
+
+51:32 d'utiliser un input date [musique]
+51:34 
+
+51:34 picker par exemple pour l'heure. Et bien
+51:37 
+
+51:37 sûr, on peut choisir seulement les jours
+51:39 
+
+51:39 où on prend le médicament. [musique]
+51:41 
+
+51:41 Maintenant, je suis pas trop satisfait
+51:44 
+
+51:44 de cette vue. Je vais quand même
+51:45 
+
+51:45 rajouter le dernier médicament que je
+51:47 
+
+51:47 prends le matin, c'est le coluro. Je
+51:49 
+
+51:49 prends 500 mg de colur tous les matins
+51:54 
+
+51:54 sous forme de comprimé. Il y en a donc
+51:56 
+
+51:56 60 [musique] par boîte et il doit m'en
+51:59 
+
+51:59 rester environ 200 en stock. Donc on va
+52:02 
+
+52:02 scroller vers le bas. Il doit m'en
+52:04 
+
+52:04 rester minimum 200 et je le prends
+52:06 
+
+52:06 pareil au quotidien à la même heure. Et
+52:09 
+
+52:09 là on peut voir déjà un problème au
+52:11 
+
+52:11 niveau de l'UX, c'est que l'heure de
+52:13 
+
+52:13 prise, elle est pas par défaut aux
+52:15 
+
+52:15 heures que j'ai déjà renseigné. Donc on
+52:17 
+
+52:17 va prompter et on va dire à Claude,
+52:19 
+
+52:19 peux-tu suggérer l'heure de prise qui a
+52:23 
+
+52:23 déjà [musique]
+52:23 
+
+52:23 été sélectionnée ? Pour les autres
+52:26 
+
+52:26 médicaments, aujourd'hui, si j'ai des
+52:29 
+
+52:29 médicaments [musique]
+52:30 
+
+52:30 qui sont pris à 9h, j'aimerais que
+52:34 
+
+52:34 l'ordre de prise suggérée avec un petit
+52:37 
+
+52:37 bouton [musique] puisse être 9h et
+52:41 
+
+52:41 pourquoi pas d'autres suggestions comme
+52:45 
+
+52:45 midi et 21h. Et en attendant, pendant
+52:49 
+
+52:49 qu'il développe ce changement, je vais
+52:50 
+
+52:50 ouvrir un deuxième terminal et je vais
+52:53 
+
+52:53 donner une instruction sur cet écran
+52:55 
+
+52:55 d'accueil. Sur l'écran d'accueil,
+52:57 
+
+52:57 [musique]
+52:58 
+
+52:58 quand je prends plusieurs fois le même
+53:01 
+
+53:01 médicament, le même nom à des quantités
+53:05 
+
+53:05 différentes, peux-tu fusionner la carde
+53:09 
+
+53:09 [musique]
+53:09 
+
+53:09 tout en conservant l'affichage des infos
+53:14 
+
+53:14 utiles. Exemple, [musique]
+53:15 
+
+53:15 Advagraphe, je prends 1 mg et 3 mg à 9h.
+53:20 
+
+53:20 [musique] Donc la même heure, le même mo
+53:24 
+
+53:24 est différente. Peux-tu améliorer le
+53:28 
+
+53:28 design pour que ce soit plus clair ?
+53:31 
+
+53:31 Pendant ce temps-là, notre première
+53:33 
+
+53:33 instance de terminal a terminé. Donc, on
+53:35 
+
+53:35 va voir si la suggestion fonctionne.
+53:37 
+
+53:37 Ici, il y a bien les heures de prises
+53:39 
+
+53:39 qui sont conseillées [musique] en
+53:41 
+
+53:41 fonction de ce que j'ai sélectionné.
+53:43 
+
+53:43 Alors, on peut les sélectionner, on ne
+53:45 
+
+53:45 peut pas les désélectionner. Donc, je
+53:47 
+
+53:47 vais ajouter ajoute aussi la
+53:49 
+
+53:49 désélection. quand [musique] tu
+53:51 
+
+53:51 recliques sur la carte. Et autre chose,
+53:54 
+
+53:54 pour le statut actif en pause, c'est pas
+53:57 
+
+53:57 très clair. Donc pour le statut actif en
+54:00 
+
+54:00 pause, peux-tu utiliser un switch ? Ce
+54:04 
+
+54:04 sera plus clair. Aussi autre chose pour
+54:08 
+
+54:08 la gestion du stock. Ici, quand on a des
+54:10 
+
+54:10 centaines de stocks, c'est pas très
+54:12 
+
+54:12 agréable de devoir scroller tout en bas.
+54:14 
+
+54:14 Donc pour la gestion du stock, que
+54:17 
+
+54:17 peut-on faire pour laisser l'utilisateur
+54:20 
+
+54:20 rentrer son numéro ? C'est super le
+54:23 
+
+54:23 scroll, mais quand j'ai 300 unités en
+54:28 
+
+54:28 stock et que je scroll de un par un,
+54:32 
+
+54:32 c'est pas très efficace. Et donc pendant
+54:35 
+
+54:35 ce temps-là, pendant qu'il fait
+54:36 
+
+54:36 l'instruction que je lui ai demandé, on
+54:39 
+
+54:39 va repartir sur l'écran d'accueil parce
+54:40 
+
+54:40 que notre deuxième instance de cloud a
+54:42 
+
+54:42 terminé. [musique]
+54:43 
+
+54:43 Et là, on peut voir que j'ai bien deux
+54:45 
+
+54:45 alphagraphes, celui de 1 mg et celui de
+54:48 
+
+54:48 3 mg. Et [musique] on voit bien le
+54:50 
+
+54:50 stock. On peut cliquer ici sur la
+54:51 
+
+54:51 poubelle et c'est très utile comme ça.
+54:55 
+
+54:55 Alors maintenant, quand on clique sur la
+54:56 
+
+54:56 carte, ça va cliquer sur modifier. Donc
+54:58 
+
+54:58 on va changer le comportement parce
+54:60 
+
+54:60 qu'on peut cliquer en se trompant. Pour
+55:03 
+
+55:03 éditer un moc, utilise plutôt une icône
+55:08 
+
+55:08 de stylo plutôt que de rendre toute la
+55:12 
+
+55:12 carte cliquable. [musique]
+55:14 
+
+55:14 Et aussi pas besoin d'afficher tous les
+55:17 
+
+55:17 jours et l'heure deux fois si on prend
+55:22 
+
+55:22 le même médicament à la même heure.
+55:24 
+
+55:24 Parce que encore une fois ici ça fait
+55:26 
+
+55:26 une répétition et le stylo il est pas
+55:28 
+
+55:28 vraiment cliquable. L'icône de stylo est
+55:31 
+
+55:31 très petite. J'aimerais que ça utilise
+55:35 
+
+55:35 notre design système. Pourquoi pas une
+55:38 
+
+55:38 icône [musique] avec un background et
+55:41 
+
+55:41 une bordure pour conserver une cohérence
+55:45 
+
+55:45 avec le néoutalisme.
+55:47 
+
+55:47 Maintenant du coup notre première
+55:49 
+
+55:49 instance a terminé. [musique] Donc on va
+55:50 
+
+55:50 voir si le code a changé. Donc là c'est
+55:54 
+
+55:54 quand même un peu moins bien. Je
+55:56 
+
+55:56 préférais le select. Donc on va lui dire
+55:59 
+
+55:59 en fait je préférais quand même avant le
+56:03 
+
+56:03 scroll rapide mais [musique] avec
+56:06 
+
+56:06 possibilité d'ajouter des presets et
+56:09 
+
+56:09 c'est comme ça qu'on va code. Du coup à
+56:11 
+
+56:11 chaque modification du code, on donne
+56:14 
+
+56:14 notre avis à cloud code. Ici par exemple
+56:18 
+
+56:18 j'ai envie de lui dire l'icône du stylo
+56:21 
+
+56:21 n'est pas claire. utilise une autre
+56:23 
+
+56:23 icône parce que là je ne vois pas un
+56:25 
+
+56:25 stylo ici. Alors c'est un stylo mais
+56:27 
+
+56:27 c'est pas très ressemblant. Réduit le
+56:30 
+
+56:30 padding du bouton pour que l'icône soit
+56:33 
+
+56:33 plus grosse dans le bouton. Et là on
+56:36 
+
+56:36 peut voir qu'il y a une duplication. Ici
+56:38 
+
+56:38 a écrit 10 jours et ici a écrit 10.
+56:42 
+
+56:42 Alors on va lui demander pourquoi il y a
+56:44 
+
+56:44 écrit 10 jours et 10 sur la même carte.
+56:49 
+
+56:49 S la même donnée.
+56:51 
+
+56:51 OK. il me dit que non, les jours c'est
+56:54 
+
+56:54 les jours restants avec la rupture de
+56:55 
+
+56:55 stock et le 10 c'est ce qui reste en
+56:59 
+
+56:59 stock effectivement. Mais dans ce
+57:01 
+
+57:01 cas-là, on peut lui dire vu que la prise
+57:04 
+
+57:04 est toujours de 1, vu que c'est la
+57:07 
+
+57:07 quantité qui change. Exemple
+57:10 
+
+57:10 aujourd'hui, est-ce qu'on peut avoir
+57:13 
+
+57:13 deux prises de 1 mg d'alvagraphe ? va
+57:18 
+
+57:18 afficher une seule ligne ou seulement
+57:21 
+
+57:21 deux lignes. Et là, il me dit que c'est
+57:22 
+
+57:22 peut-être redondant. Donc, je vais lui
+57:24 
+
+57:24 dire "J'aimerais vraiment une interface
+57:28 
+
+57:28 claire et simple et soignée." Peux-tu
+57:31 
+
+57:31 l'améliorer ? Là, en attendant, on va
+57:34 
+
+57:34 donc retourner notre première page de
+57:36 
+
+57:36 cloud code et on va faire la
+57:38 
+
+57:38 commande/clear
+57:40 
+
+57:40 pour réinitialiser le contexte. Et je
+57:42 
+
+57:42 vais demander à changer ici cette partie
+57:45 
+
+57:45 dans le header. Dans le header du
+57:47 
+
+57:47 fichier index, j'aimerais que la
+57:51 
+
+57:51 prochaine prise 9h soit plus claire.
+57:55 
+
+57:55 Affiche par exemple les heures restantes
+57:58 
+
+57:58 avant [musique] la prise. Et voilà, là
+57:60 
+
+57:60 j'ai demandé plein d'ajouts et de
+58:02 
+
+58:02 modifications. Donc ici on a notre
+58:04 
+
+58:04 application. Au tout début, on a les
+58:06 
+
+58:06 prochaines prises. Donc dans 2h, Colurzo
+58:09 
+
+58:09 Caltrat, dans 14h, les deux advagraphes
+58:12 
+
+58:12 et le colurzo. On a donc l'advagraphe
+58:15 
+
+58:15 pour lequel je dois prendre une gélule
+58:17 
+
+58:17 de 1 mg et une géule de 3 mg tous les
+58:20 
+
+58:20 jours à 9h. Pour le colur zo, c'est une
+58:24 
+
+58:24 fois à 9h, une fois à 21h. Donc ici, on
+58:26 
+
+58:26 peut voir qu'il y a un bug, ça n'affiche
+58:28 
+
+58:28 pas l'heure. Et bien sûr, si on change
+58:30 
+
+58:30 de stock, ici, on va cliquer sur le
+58:33 
+
+58:33 petit stylo et on va mettre par exemple
+58:35 
+
+58:35 qu'il nous reste que 4 en stock. On va
+58:38 
+
+58:38 cliquer sur sauvegarder. Et ben là, on
+58:40 
+
+58:40 voit une petite [musique] alerte à
+58:41 
+
+58:41 renouveler bientôt Advagraph. Donc sur
+58:45 
+
+58:45 l'alerte à renouveler, afficher la
+58:48 
+
+58:48 quantité du stock du médicament,
+58:50 
+
+58:50 [musique] c'est pas précisé. Et ici,
+58:53 
+
+58:53 j'ai un médicament coloro. Je prends une
+58:57 
+
+58:57 fois le matin, une fois le soir, mais
+59:00 
+
+59:00 sur la carte, la deuxième, je ne vois
+59:04 
+
+59:04 pas leur indiquer. Aussi, au lieu
+59:07 
+
+59:07 d'afficher 9h PM, affiche 9h PM et donc
+59:13 
+
+59:13 sans le zéro au début, comme ça on
+59:15 
+
+59:15 économise un caractère. Je veux bien sur
+59:19 
+
+59:19 chacune des [musique] cardes une
+59:21 
+
+59:21 indication prochaine prise demain par
+59:25 
+
+59:25 exemple ou ce soir. Aussi sur la carte,
+59:28 
+
+59:28 l'icône modifiée n'est [musique]
+59:31 
+
+59:31 vraiment pas claire. Et un dernier truc,
+59:34 
+
+59:34 la prise dans 2 he qui est sticky en
+59:39 
+
+59:39 haut. Pas besoin que ça soit sticky.
+59:43 
+
+59:43 Pendant que ça fait tout ça, maintenant,
+59:46 
+
+59:46 bon, c'est pas très visuel, on n pas
+59:48 
+
+59:48 encore les images. [musique] Et pour
+59:49 
+
+59:49 avoir les images, des milliers de
+59:51 
+
+59:51 médicaments qu'il y a, ça va être très
+59:52 
+
+59:52 compliqué. On pourrait utiliser
+59:53 
+
+59:53 peut-être une API, on pourrait utiliser
+59:55 
+
+59:55 Google. [musique] C'est pour ça qu'on
+59:57 
+
+59:57 peut dire par exemple Hat GPT dans la
+59:59 
+
+59:59 conversation qu'on avait avec lui,
+60:01 
+
+60:01 j'aimerais une API qui affiche le visuel
+60:05 
+
+60:05 de ses médicaments [musique] comme
+60:07 
+
+60:07 l'alvagraphe et cetera. Est-ce que ça
+60:11 
+
+60:11 existe ? En attendant là en fait on a un
+60:13 
+
+60:13 problème. Donc je vais lui montrer la
+60:14 
+
+60:14 capture d'écran parce qu'il n'a pas
+60:16 
+
+60:16 l'air de comprendre pourquoi pour le
+60:19 
+
+60:19 Colurzo, on voit pas la date de prise.
+60:23 
+
+60:23 Pendant ce temps-là, il y a Chat GPT qui
+60:24 
+
+60:24 me dit qu'il existe pas d'application
+60:27 
+
+60:27 possible pour récupérer les images.
+60:29 
+
+60:29 [musique]
+60:29 
+
+60:29 Mais nous, on sait qu'on peut alors il y
+60:32 
+
+60:32 a deux alors il y a deux choix. Soit on
+60:35 
+
+60:35 va télécharger manuellement les images
+60:37 
+
+60:37 pour le jeu de données qu'on a. Soit on
+60:39 
+
+60:39 peut tenter une requête [musique]
+60:41 
+
+60:41 avec Cloud. Et donc on va demander à
+60:44 
+
+60:44 Cloud, peux-tu s'il te plaît télécharger
+60:46 
+
+60:46 et ajouter dans le code source de
+60:49 
+
+60:49 l'application les images des emballages
+60:52 
+
+60:52 [musique] voire même des géules pour
+60:56 
+
+60:56 chaque médicament qui est présent dans
+60:59 
+
+60:59 le jeu de données [musique] actuel. Et
+61:01 
+
+61:01 là, il y a Claude qui m'a dit que ça
+61:04 
+
+61:04 peut être sujet à les droits d'auteur,
+61:06 
+
+61:06 les photos qui sont copyrighté par
+61:08 
+
+61:08 exemple. Donc je lui dis on va essayer
+61:10 
+
+61:10 de [musique] développer l'application.
+61:13 
+
+61:13 Je lui dis c'est pas grave, prends des
+61:15 
+
+61:15 images prises en pharmacie. par exemple,
+61:17 
+
+61:17 [musique] cette application n'est pas à
+61:18 
+
+61:18 des fins commerciales. Donc qui sait
+61:20 
+
+61:20 peut-être que je vais avoir le droit
+61:22 
+
+61:22 d'afficher les images de ces médicaments
+61:25 
+
+61:25 si je ne cherche pas à commercialiser
+61:27 
+
+61:27 l'appli, [musique] ce qui n'est bien sûr
+61:29 
+
+61:29 pas l'objectif de cette vidéo. Donc on
+61:32 
+
+61:32 peut voir que Claude génère [musique]
+61:34 
+
+61:34 ici des URL comme celui-ci. On a la
+61:38 
+
+61:38 définition d'un médicament comme le
+61:40 
+
+61:40 Tacrolimus. Mais ici, on peut voir qu'on
+61:42 
+
+61:42 ne trouve pas l'image. Finalement,
+61:44 
+
+61:44 [musique] il y a pas d'image. Il y a
+61:45 
+
+61:45 juste la donnée. Ça va du coup pas nous
+61:48 
+
+61:48 aider. Bon, finalement, il a l'air de
+61:51 
+
+61:51 prendre énormément de temps pour nous
+61:53 
+
+61:53 retrouver les images des médicaments. Il
+61:56 
+
+61:56 va même sur Doctisimo, [musique] mais on
+61:58 
+
+61:58 n'arrive pas à extraire les images de
+62:01 
+
+62:01 ses médicaments. Alors, il a téléchargé
+62:03 
+
+62:03 des images, mais c'est vraiment pas les
+62:05 
+
+62:05 bonnes images. [musique]
+62:06 
+
+62:06 Donc ce qu'on peut faire c'est qu'on va
+62:07 
+
+62:07 kill l'exécution de cette instance de
+62:09 
+
+62:09 clone et on va lui dire parce qu'il nous
+62:11 
+
+62:11 l'a proposé, j'avais refusé, c'est
+62:14 
+
+62:14 effectivement dans ce cas-là affiche des
+62:17 
+
+62:17 icônes [musique] génériques au format
+62:19 
+
+62:19 SVG pour les géules, les ampoules et
+62:24 
+
+62:24 cetera. Si tu arrives à générer des
+62:27 
+
+62:27 icônes, des vrais visuels de chaque
+62:29 
+
+62:29 médicament comme [musique] l'Alvagraphe,
+62:32 
+
+62:32 c'est évidemment apprécié et préféré.
+62:35 
+
+62:35 [musique]
+62:36 
+
+62:36 En attendant, ici on a une interface qui
+62:38 
+
+62:38 est quand même très surchargée. On a les
+62:40 
+
+62:40 prochaines prises, on a [musique] à
+62:42 
+
+62:42 renouveler bientôt. Et ensuite ici pour
+62:44 
+
+62:44 l'alvagraphe, on voit qu'on a un x 2,
+62:47 
+
+62:47 donc deux prises, une de 1 mg, une de 3
+62:50 
+
+62:50 [musique] et on pourrait encore
+62:51 
+
+62:51 davantage épurer cette interface parce
+62:54 
+
+62:54 que mine de rien, on a envie de pouvoir
+62:55 
+
+62:55 l'éditer, on a envie peut-être de
+62:57 
+
+62:57 pouvoir la supprimer, on a envie de
+62:59 
+
+62:59 connaître l'heure de prise, on affiche
+63:01 
+
+63:01 donc 9h et tous les jours 9h. Donc au
+63:03 
+
+63:03 lieu d'afficher tous les jours 9h en
+63:07 
+
+63:07 plus du bage 9h, peut-on à la place
+63:11 
+
+63:11 avoir une icône qui représente tous les
+63:14 
+
+63:14 jours en mode tout le type car là la
+63:18 
+
+63:18 carte est surchargée. Et en attendant,
+63:22 
+
+63:22 je vais faire une petite modification
+63:23 
+
+63:23 sur le médicament que je vais prendre ce
+63:25 
+
+63:25 soir à 21h. Donc c'est le 250 ici et au
+63:30 
+
+63:30 lieu de 21h, on va mettre 19h30.
+63:35 
+
+63:35 On va sélectionner comme ça, on peut
+63:37 
+
+63:37 voir que dans 16 minutes, on doit
+63:40 
+
+63:40 prendre le colurzo. Et là, on a bien le
+63:43 
+
+63:43 message ici prise dans 15 minutes. Comme
+63:45 
+
+63:45 ça, si l'utilisateur par chance est sur
+63:48 
+
+63:48 l'application au moment de la prise, ça
+63:51 
+
+63:51 peut vraiment être pas mal. OK, du coup
+63:54 
+
+63:54 là Claude nous a généré des beaux SVG.
+63:57 
+
+63:57 Pour chacun des médicaments qu'on
+63:59 
+
+63:59 utilise, on a un petit peu amélioré l'UX
+64:02 
+
+64:02 ici avec un compte à rebour pour les
+64:04 
+
+64:04 prochaines prises pour que dès qu'on
+64:06 
+
+64:06 ouvre l'application, on retrouve la
+64:08 
+
+64:08 prochaine prise et les médicaments à
+64:11 
+
+64:11 renouveler. En fait, il faut vraiment
+64:13 
+
+64:13 harceler, si tu veux l'utilisateur de
+64:16 
+
+64:16 cet appli parce qu'on a envie qu'il se
+64:18 
+
+64:18 rappelle qu'il doit prendre ses
+64:20 
+
+64:20 médicaments. C'est très important de les
+64:21 
+
+64:21 prendre. Il faut pas qu'il oublie. Un
+64:23 
+
+64:23 oubli peut très vite arriver. Et là, je
+64:26 
+
+64:26 suis quand même déjà très satisfait de
+64:28 
+
+64:28 cette application. Alors, évidemment,
+64:30 
+
+64:30 lui pourrait être un peu amélioré. Là,
+64:33 
+
+64:33 il y a beaucoup d'information, il y a
+64:34 
+
+64:34 pas d'hérarchie. Je suis sûr qu'un
+64:37 
+
+64:37 designer trouverait plein
+64:39 
+
+64:39 d'améliorations à changer, mais au moins
+64:41 
+
+64:41 ça fait le travail. J'ai pu ajouter tous
+64:45 
+
+64:45 les médicaments que je prends et
+64:46 
+
+64:46 maintenant, on va pouvoir passer sur les
+64:49 
+
+64:49 notifications et les rappels et bien sûr
+64:52 
+
+64:52 l'analyse d'ordonnance. J'ai implémenté
+64:55 
+
+64:55 les notifications et le CR.
+64:58 
+
+64:58 Malheureusement, mon écran a freise
+65:01 
+
+65:01 durant l'enregistrement. Donc, au lieu
+65:03 
+
+65:03 de réenregistrer cette partie, je vais
+65:05 
+
+65:05 vous guider vers les étapes que j'ai
+65:07 
+
+65:07 suivies. On a donc redesigné
+65:10 
+
+65:10 complètement l'écran d'accueil et pour
+65:13 
+
+65:13 le redesigner, on a utilisé des skills.
+65:16 
+
+65:16 Donc, c'est fichier Markdown avec des
+65:18 
+
+65:18 instructions en design. J'ai utilisé
+65:22 
+
+65:22 quatre skills différents que je vous
+65:24 
+
+65:24 recommande. Le premier, c'est donc un
+65:27 
+
+65:27 skill qui s'appelle Front-end Design.
+65:30 
+
+65:30 C'est le skill officiel d'Antropique que
+65:32 
+
+65:32 vous devez sûrement avoir déjà
+65:34 
+
+65:34 téléchargé. Le deuxième, je l'ai
+65:36 
+
+65:36 découvert il y a pas longtemps, il
+65:38 
+
+65:38 s'appelle UI UX Pro Max. C'est donc un
+65:42 
+
+65:42 skill qui est vraiment incroyable pour
+65:45 
+
+65:45 rendre un rendu professionnel d'une
+65:48 
+
+65:48 application designée. Franchement,
+65:51 
+
+65:51 j'adore ce skill et je vous le
+65:52 
+
+65:52 recommande. Donc UI-Ux-P-
+65:55 
+
+65:55 [musique]
+65:56 
+
+65:56 Max. Mais j'en ai découvert deux autres
+65:58 
+
+65:58 récemment que j'ai testé et que je vous
+65:60 
+
+66:00 invite à tester également. Le premier
+66:02 
+
+66:02 c'est make interfaces feel better et le
+66:06 
+
+66:06 deuxième s'appelle simplify. Alors je
+66:08 
+
+66:08 vais vous laisser les tester.
+66:10 
+
+66:10 Personnellement dans un seul prompt j'ai
+66:12 
+
+66:12 demandé à Claude d'utiliser Frontend
+66:15 
+
+66:15 Design Uux Pro Max et le make interface
+66:20 
+
+66:20 feel better Better. et ça m'a donné ce
+66:23 
+
+66:23 rendu. On affiche la liste des
+66:25 
+
+66:25 médicaments qu'on a enregistré, la liste
+66:27 
+
+66:27 à prendre aujourd'hui et le dernier
+66:31 
+
+66:31 médicament en prise ou apprendre pour la
+66:35 
+
+66:35 journée. Ça c'est la première partie
+66:37 
+
+66:37 qu'on a fait. La deuxième partie, elle
+66:39 
+
+66:39 est très importante car elle touche à
+66:41 
+
+66:41 une fonctionnalité native sur iOS et
+66:44 
+
+66:44 Android qui s'appelle les notifications.
+66:47 
+
+66:47 Pour implémenter les notifications sur
+66:50 
+
+66:50 mobile, on va avoir besoin de
+66:52 
+
+66:52 transformer le build expo en development
+66:57 
+
+66:57 build. Concrètement, qu'est-ce que ça
+66:59 
+
+66:59 veut dire ? Et bien ça veut dire qu'on
+67:01 
+
+67:01 va devoir faire un build réel de notre
+67:04 
+
+67:04 application pour le développement pour
+67:07 
+
+67:07 pouvoir tester les fonctionnalités
+67:09 
+
+67:09 natives du device. Ici on est donc sur
+67:12 
+
+67:12 le simulateur iOS mais pour activer par
+67:16 
+
+67:16 exemple une notification on a besoin
+67:19 
+
+67:19 d'être en development build. Donc ce
+67:22 
+
+67:22 qu'on a fait, c'est qu'on a demandé à
+67:24 
+
+67:24 Cloud Code de générer un build en
+67:28 
+
+67:28 development de cette application. Alors,
+67:30 
+
+67:30 on a suivi cette documentation qui
+67:32 
+
+67:32 s'appelle create [musique] a development
+67:35 
+
+67:35 build on EAS. Et pour résumer, on a
+67:38 
+
+67:38 besoin d'abord de télécharger EAS.
+67:40 
+
+67:40 Ensuite, on télécharge cette librairie,
+67:43 
+
+67:43 on se connecte via le terminal et à la
+67:47 
+
+67:47 fin, on déclenche donc un build. Et
+67:49 
+
+67:49 c'est à partir de ce build qu'on va
+67:51 
+
+67:51 tester notre application en local. Et
+67:53 
+
+67:53 donc après avoir généré le build, ce qui
+67:56 
+
+67:56 prend une dizaine de minutes sur le
+67:58 
+
+67:58 cloud de Expo et d'ailleurs c'est
+68:00 
+
+68:00 entièrement gratuit, on a pu relancer
+68:03 
+
+68:03 notre application et tester la
+68:05 
+
+68:05 fonctionnalité de rappel. Ici, on peut
+68:08 
+
+68:08 voir qu'on a donc reçu une notification
+68:11 
+
+68:11 de test. [musique] Renouveler ce
+68:13 
+
+68:13 médicament avant que le stock ne soit
+68:15 
+
+68:15 terminé. Par exemple, il y a d'autres
+68:17 
+
+68:17 types de notifications comme par exemple
+68:19 
+
+68:19 le rappel de prise à l'instant et on a
+68:22 
+
+68:22 rajouté d'autres options. Par exemple,
+68:26 
+
+68:26 rappeler on doit prendre un médicament à
+68:29 
+
+68:29 l'heure indiqué, donc à l'heure de
+68:30 
+
+68:30 prise, 5 minutes avant, 15 minutes
+68:33 
+
+68:33 avant, 30 minutes avant ou 1 heure
+68:35 
+
+68:35 avant. Implémenter cette partie avec
+68:37 
+
+68:37 Cloud Code nous a pris environ 1 heure.
+68:40 
+
+68:40 Et maintenant, nous sommes sur la
+68:42 
+
+68:42 deuxième partie sur l'écran d'accueil.
+68:44 
+
+68:44 C'était un feature que je voulais
+68:46 
+
+68:46 implémenter depuis longtemps, c'est
+68:49 
+
+68:49 tester l'IA local du device.
+68:53 
+
+68:53 C'est-à-dire que sur les nouveaux
+68:55 
+
+68:55 iPhones, il y a un modèle, donc un LM
+68:59 
+
+68:59 téléchargé par défaut qu'on peut
+69:01 
+
+69:01 utiliser, ajouter de l'IA à des
+69:04 
+
+69:04 applications de manière native et
+69:06 
+
+69:06 entièrement gratuite vu que [musique] ça
+69:07 
+
+69:07 va utiliser les A de l'iPhone. Du coup,
+69:10 
+
+69:10 j'ai demandé à Cloud Code de redesigner
+69:13 
+
+69:13 la fiture d'ajout. Maintenant, quand on
+69:15 
+
+69:15 clique sur le plus, au lieu de tout de
+69:17 
+
+69:17 suite nous rediriger vers la saisie
+69:18 
+
+69:18 manuelle, on propose à l'utilisateur de
+69:21 
+
+69:21 soit faire une saisie manuelle, soit de
+69:24 
+
+69:24 scanner une ordonnance. Du coup, on va
+69:26 
+
+69:26 tout de suite tester cette
+69:28 
+
+69:28 fonctionnalité. Alors, j'ai demandé à
+69:29 
+
+69:29 Cloud Code parce que j'ai pas de photo
+69:30 
+
+69:30 d'ordonnance sous la main, de générer
+69:33 
+
+69:33 une image en JPEG d'une fausse
+69:36 
+
+69:36 ordonnance qu'on va utiliser. Et donc
+69:38 
+
+69:38 maintenant, on va cliquer sur le plus.
+69:40 
+
+69:40 Et ici, on va cliquer sur scanner une
+69:42 
+
+69:42 ordonnance. Et on possède donc deux
+69:45 
+
+69:45 choix. Prendre une photo. Mais bien sûr
+69:47 
+
+69:47 là, on est sur le simulateur, il y a pas
+69:49 
+
+69:49 de caméra donc on va pas pouvoir prendre
+69:51 
+
+69:51 de photos ou alors choisir une photo. Si
+69:54 
+
+69:54 on clique sur choisir une photo, on a
+69:55 
+
+69:55 donc les images par défaut d'OS et on a
+69:59 
+
+69:59 l'image qu'on [musique] a généré. Donc
+70:02 
+
+70:02 ici, on va suivre les log dans le
+70:03 
+
+70:03 terminal. On va prendre cette photo là.
+70:06 
+
+70:06 Et là, on peut voir qu'on a donc
+70:07 
+
+70:07 sélectionné la photo et on a déclenché
+70:09 
+
+70:09 la pipeline. Alors, on a utilisé l'API
+70:12 
+
+70:12 locale Apple Vision pour voir s'il y a
+70:15 
+
+70:15 du texte qui a été détecté. Et on peut
+70:18 
+
+70:18 voir qu'on a extrait aucun texte, donc
+70:20 
+
+70:20 [musique]
+70:21 
+
+70:21 aucun médicament reconnu. Le texte a été
+70:23 
+
+70:23 lu mais correspond à aucun médicament du
+70:26 
+
+70:26 catalogue. Essayz avec une photo plus
+70:28 
+
+70:28 nette ou ajoutée manuellement. Voir que
+70:30 
+
+70:30 cet appel a pris moins d'une seconde,
+70:32 
+
+70:32 donc c'était vraiment très rapide. On va
+70:34 
+
+70:34 réessayer avec une autre photo dans
+70:37 
+
+70:37 laquelle j'ai mis du colourzo et de
+70:39 
+
+70:39 l'advagraphe. Je clique dessus pour la
+70:41 
+
+70:41 sélectionner et on peut voir qu'il y a
+70:43 
+
+70:43 un petit délai et [musique] après
+70:45 
+
+70:45 environ une seconde, ça nous propose de
+70:48 
+
+70:48 sélectionner l'advagraphe et le colur
+70:52 
+
+70:52 [musique] sauf que cette UI, on va la
+70:55 
+
+70:55 modifier mais regardons le texte qui a
+70:58 
+
+70:58 été détecté. On a donc [musique] 4 mg
+71:01 
+
+71:01 d'Alvagraf et on a Colurzo 5 mg le
+71:04 
+
+71:04 matin, 250 mg le [musique] soir. Bon,
+71:08 
+
+71:08 alors ici du coup, ça nous a suggéré
+71:10 
+
+71:10 Colurzo 250 mg, donc ça n'a pas tout
+71:13 
+
+71:13 détecté. Et pour l'Alvagraphe, ça a
+71:17 
+
+71:17 suggéré les 0.5 mg parce que en fait 4
+71:21 
+
+71:21 mg n'existe pas. Pour faire 4 mg, il
+71:24 
+
+71:24 faut [musique] ajouter 1 mg et 3 mg.
+71:28 
+
+71:28 Donc c'est pas encore ça mais pour un
+71:32 
+
+71:32 OCR implémenté, OCR ça veut dire
+71:34 
+
+71:34 détection de documents comme un PDF ou
+71:37 
+
+71:37 une image entièrement locale et
+71:40 
+
+71:40 entièrement gratuit sans [musique]
+71:41 
+
+71:41 connexion utilisateur, c'est plutôt pas
+71:43 
+
+71:43 mal. Maintenant, si on avait besoin
+71:45 
+
+71:45 d'améliorer la logique, on utiliserait
+71:47 
+
+71:47 potentiellement une API payante comme
+71:50 
+
+71:50 Open AI [musique] où on lui enverrait la
+71:52 
+
+71:52 photo et on lui demanderait de nous
+71:54 
+
+71:54 ressortir en donné structurer les
+71:57 
+
+71:57 médicaments au lieu de faire un matching
+71:59 
+
+71:59 au niveau du texte comme celui-ci. En
+72:02 
+
+72:02 attendant, j'ai demandé à Cloud Code de
+72:03 
+
+72:03 regénérer d'autres images d'exemple. Par
+72:06 
+
+72:06 exemple, je lui demandé de m'ajouter une
+72:08 
+
+72:08 liste de courses pour voir s'il allait
+72:10 
+
+72:10 le détecter. Et là, on peut voir que ça
+72:12 
+
+72:12 a donc détecté le texte.
+72:14 
+
+72:14 Mais ça nous dit bien qu'aucun
+72:15 
+
+72:15 médicament n'a été reconnu et c'est
+72:18 
+
+72:18 vraiment très rapide. On va retester
+72:21 
+
+72:21 avec une autre image un tutoriel sur
+72:23 
+
+72:23 comment monter son PC, monter son PC
+72:26 
+
+72:26 gaming en 2026. Et là, on peut voir que
+72:28 
+
+72:28 ça encore une fois pas détecté de
+72:31 
+
+72:31 médicaments. Par contre, d'autres
+72:33 
+
+72:33 ordonnances qu'on a généré comme
+72:35 
+
+72:35 celle-ci, et bien là, ça nous détecte
+72:37 
+
+72:37 bien le prographe, l'oméprasol et les
+72:41 
+
+72:41 autres médicaments. Alors, encore une
+72:43 
+
+72:43 fois, on a peut-être pas les bons
+72:45 
+
+72:45 dosages, mais c'est quand même mieux que
+72:49 
+
+72:49 de voir tout rentrer à la main.
+72:51 
+
+72:51 Maintenant, on va demander à Claude s'il
+72:53 
+
+72:53 peut améliorer la logique. Et donc, je
+72:55 
+
+72:55 vais lui expliquer le problème. Pour
+72:57 
+
+72:57 l'ordonnance affichant 4 alvagraphe,
+73:01 
+
+73:01 l'algorithme devrait être assez
+73:04 
+
+73:04 intelligent pour recommander 3 mg + 1
+73:08 
+
+73:08 mg. Ici, [musique] ça fback sur 0.5 mg.
+73:13 
+
+73:13 Pareil pour le color zo, il devrait être
+73:16 
+
+73:16 assez intelligent pour [musique]
+73:19 
+
+73:19 détecter sur une seule ligne les deux
+73:22 
+
+73:22 dosages comme sur une ordonnance
+73:25 
+
+73:25 classique. améliore l'UX lui des inputs
+73:30 
+
+73:30 de sélection, ne truncate pas le nom du
+73:34 
+
+73:34 médicament [musique]
+73:35 
+
+73:35 améliore l'input
+73:38 
+
+73:38 dosage au lieu d'afficher un bouton qui
+73:43 
+
+73:43 alterne entre tous les dosages. Et donc
+73:46 
+
+73:46 là, je vais encore une fois lui
+73:48 
+
+73:48 demander, on va réutiliser cette skill
+73:50 
+
+73:50 UI UX Pro Max frontend design et make
+73:55 
+
+73:55 interfaces. Feel better et on va
+73:57 
+
+73:57 rajouter un ultra think pour [musique]
+73:59 
+
+73:59 lui allouer le budget le plus haut en
+74:02 
+
+74:02 terme de reasoning, donc d'intelligence.
+74:05 
+
+74:05 Comme ça, Claude va beaucoup réfléchir,
+74:07 
+
+74:07 il va prendre un petit peu plus de temps
+74:08 
+
+74:08 pour coder, mais ça va garantir une
+74:11 
+
+74:11 qualité de code excellente. Claude a
+74:14 
+
+74:14 terminé son implémentation et j'ai
+74:16 
+
+74:16 refait une analyse et donc on peut déjà
+74:19 
+
+74:19 tester le dosage qui me paraît beaucoup
+74:23 
+
+74:23 mieux. On va recommencer. On va faire un
+74:25 
+
+74:25 test avec la première ordonnance qui est
+74:28 
+
+74:28 donc [musique] celle-ci avec juste de
+74:29 
+
+74:29 l'advagraphe et du colurzo. Et on peut
+74:32 
+
+74:32 voir que maintenant ça détecte bien
+74:33 
+
+74:33 [musique]
+74:34 
+
+74:34 les deux dosages pour les deux
+74:37 
+
+74:37 médicaments. Donc ça c'est vraiment
+74:38 
+
+74:38 parfait. C'est parfait. Je vais cliquer
+74:40 
+
+74:40 sur ajouter quatre médicaments et on
+74:43 
+
+74:43 peut voir que ça les a donc bien ajoutés
+74:45 
+
+74:45 à l'application. À tout moment, on peut
+74:46 
+
+74:46 bien sûr retourner ici pour les
+74:48 
+
+74:48 renommer. D'ailleurs, moi je ne les
+74:50 
+
+74:50 appelle pas par leur nom scientifique de
+74:52 
+
+74:52 médicaments, je les appelle par Colurzo
+74:55 
+
+74:55 ou alvagraphe. Donc je vais tous les
+74:58 
+
+74:58 renommer. On a donc un alvagraphe. On a
+75:02 
+
+75:02 ensuite celui-là, mais celui-là, je
+75:04 
+
+75:04 pense qu'on va plutôt le supprimer parce
+75:06 
+
+75:06 qu'on l'a déjà ajouté. Et on a un
+75:09 
+
+75:09 deuxième advagraphe, cette fois 3 mg
+75:12 
+
+75:12 qu'on va ajouter. On a donc ces
+75:16 
+
+75:16 advagraph et je vais changer la date et
+75:19 
+
+75:19 l'heure. Du coup, je dois les prendre à
+75:21 
+
+75:21 9h. Et voilà, on a donc pour 9h des
+75:25 
+
+75:25 advographes et des coulures à prendre.
+75:28 
+
+75:28 Là, on peut voir que je suis en retard
+75:30 
+
+75:30 de 7h33 parce qu'il est actuellement 16h
+75:32 
+
+75:32 mais c'est pas grave, je les ai pris à
+75:34 
+
+75:34 l'heure. Donc je vais pouvoir les
+75:35 
+
+75:35 marquer comme prix dans l'application.
+75:38 
+
+75:38 Je vais les valider. Là, on peut voir
+75:39 
+
+75:39 qu'il y a eu un petit bug parce que ça
+75:41 
+
+75:41 n'en a validé que un. Mais une fois
+75:43 
+
+75:43 qu'ils ont tous été pris, on a
+75:45 
+
+75:45 maintenant ce design là qui est quand
+75:48 
+
+75:48 même beaucoup mieux. Ils ont été ajoutés
+75:50 
+
+75:50 à l'historique. Et maintenant, on peut
+75:53 
+
+75:53 continuer de retester les notifications
+75:56 
+
+75:56 pour le rappel de renouvellement par
+75:57 
+
+75:57 exemple ou alors pour le rappel de
+76:00 
+
+76:00 prise. C'est parfait. Et si jamais on
+76:02 
+
+76:02 veut faire une saisie manuelle, et ben
+76:04 
+
+76:04 on a toujours la possibilité de le
+76:06 
+
+76:06 faire. Par exemple, pour le soir, je
+76:08 
+
+76:08 dois prendre du caltrat. On va ajouter
+76:11 
+
+76:11 ici le caltrat. On va renommer ce
+76:15 
+
+76:15 médicament et on va dire qu'on le prend
+76:17 
+
+76:17 que à 21h tous les jours. Donc là, on
+76:21 
+
+76:21 peut voir que dans 4h25, je dois prendre
+76:23 
+
+76:23 mon caltrat. Et évidemment, le colurzo
+76:26 
+
+76:26 250, c'est pas le matin que je dois le
+76:28 
+
+76:28 prendre, c'est le soir. Donc, je vais
+76:30 
+
+76:30 retirer 9h pour ce médicament. Là, on
+76:34 
+
+76:34 peut voir du coup que dans 4h25
+76:36 
+
+76:36 pour de vrai, je vais devoir prendre ces
+76:38 
+
+76:38 deux médicaments et on doit tous les
+76:41 
+
+76:41 renouvel parce qu'ils ne sont pas en
+76:42 
+
+76:42 stock. Ça marche très bien. C'est
+76:45 
+
+76:45 vraiment l'application que je voulais
+76:47 
+
+76:47 avoir pour mon usage personnel, le
+76:50 
+
+76:50 rappel puis les rappels de stock. Alors
+76:52 
+
+76:52 bien sûr, j'ai oublié ici parce que la
+76:54 
+
+76:54 donnée a été réinitiée de reconfigurer
+76:57 
+
+76:57 le stock et les unités par boîte. Donc
+76:59 
+
+76:59 on peut voir que le couurzo, il y en a
+77:02 
+
+77:02 60 par boîte. [musique] Je sélectionner
+77:05 
+
+77:05 60 et en stock je dois en avoir environ
+77:08 
+
+77:08 200 par exemple. Donc je vais rajouter
+77:11 
+
+77:11 le bon [musique] stock. Pareil pour le
+77:12 
+
+77:12 couurzo 500. On a des boîtes de 60 et en
+77:16 
+
+77:16 stock je dois en avoir vraiment par
+77:18 
+
+77:18 exemple 300. Et pour ce qui est des
+77:21 
+
+77:21 alagrafes, j'en ai en stock une
+77:23 
+
+77:23 trentaine et il y a 28 unités par boîte.
+77:28 
+
+77:28 On va sauvegarder ceci et bien sûr le
+77:32 
+
+77:32 caltrat. Je dois en avoir bon dans un
+77:34 
+
+77:34 stock il y en a aussi 60 et je dois en
+77:37 
+
+77:37 avoir une petite centaine. On va mettre
+77:39 
+
+77:39 150 pour être [musique] sûr. On va
+77:42 
+
+77:42 s'arrêter là pour cette application
+77:44 
+
+77:44 entièrement gratuite qui utilise donc
+77:46 
+
+77:46 [musique] un LLM local pour analyser les
+77:49 
+
+77:49 ordonnances. Bien sûr, quand on souhaite
+77:51 
+
+77:51 déployer une application pour des
+77:53 
+
+77:53 [musique] clients ou pour des
+77:55 
+
+77:55 utilisateurs et qu'on souhaite la
+77:57 
+
+77:57 déployer sur l'Apple Store et l'Android
+77:59 
+
+77:59 Store, on va passer beaucoup plus de
+78:02 
+
+78:02 temps sur chaque détail. [musique]
+78:04 
+
+78:04 Par exemple, ici, on peut voir qu'on a
+78:05 
+
+78:05 laissé Cloud Code développer entièrement
+78:09 
+
+78:09 cette page en une fois, mais quand je
+78:12 
+
+78:12 développe des applications pour les
+78:14 
+
+78:14 clients, je fais en sorte de peaufiner
+78:16 
+
+78:16 vraiment chaque [musique] étape du
+78:18 
+
+78:18 process, c'est-à-dire par exemple cette
+78:21 
+
+78:21 fonctionnalité là et seulement celle-ci,
+78:23 
+
+78:23 on va [musique] en discuter, on va
+78:25 
+
+78:25 brainstormer avec Claude et je vais lui
+78:27 
+
+78:27 laisser me proposer potentiellement
+78:30 
+
+78:30 trois idées. Je vais choisir la
+78:32 
+
+78:32 meilleure et en fonction de si elle me
+78:34 
+
+78:34 plaît ou non, on va continuer comme ça
+78:36 
+
+78:36 ou alors on va modifier le flow.
+78:39 
+
+78:39 [musique] Maintenant, ce qu'on a envie
+78:40 
+
+78:40 de faire, c'est de tester cette
+78:42 
+
+78:42 application sur un vrai téléphone
+78:44 
+
+78:44 portable. Donc soit on peut le publier
+78:47 
+
+78:47 sur Apple Store ou alors on peut
+78:49 
+
+78:49 l'envoyer sur Test [musique] Flight.
+78:52 
+
+78:52 C'est pour permettre à des amis, à des
+78:56 
+
+78:56 clients de tester l'application sur leur
+78:58 
+
+78:58 téléphone avec une [musique] application
+79:01 
+
+79:01 de test qui s'appelle Test Flight. Bien
+79:04 
+
+79:04 sûr, pour cette étape qui est
+79:06 
+
+79:06 entièrement documentée [musique]
+79:07 
+
+79:07 sur le site de Expo, on va avoir besoin
+79:10 
+
+79:10 d'avoir développé notre application avec
+79:13 
+
+79:13 Expo bien sûr et on va avoir besoin
+79:15 
+
+79:15 d'une licence Apple Developer [musique]
+79:19 
+
+79:19 account. Et cette licence, elle est donc
+79:21 
+
+79:21 payante. Elle coûte 99 dollars par an et
+79:24 
+
+79:24 elle nous permet ensuite de déployer
+79:26 
+
+79:26 autant d'applications sur l'Apple Store
+79:29 
+
+79:29 que l'on souhaite. Et bien sûr, on a
+79:30 
+
+79:30 également besoin d'un [musique] compte
+79:32 
+
+79:32 Expo. Le compte Expo, on l'a déjà créé,
+79:35 
+
+79:35 l'application, on l'a développé et la
+79:37 
+
+79:37 licence Apple Developper,
+79:39 
+
+79:39 malheureusement, on va en avoir besoin.
+79:41 
+
+79:41 Alors, bien sûr, on peut avoir
+79:43 
+
+79:43 l'application [musique] en local sans
+79:45 
+
+79:45 cette licence. si on télécharge et qu'on
+79:48 
+
+79:48 fait un build de l'application,
+79:50 
+
+79:50 [musique] mais dans ce cas-là, elle ne
+79:51 
+
+79:51 sera disponible seulement sur notre
+79:54 
+
+79:54 téléphone et on pourra pas [musique] la
+79:55 
+
+79:55 mettre sur le store. Dans mon cas, ça me
+79:57 
+
+79:57 pose aucun problème parce que c'est une
+79:59 
+
+79:59 application que j'ai développé pour mon
+80:01 
+
+80:01 usage personnel, mais je vais quand même
+80:03 
+
+80:03 vous montrer le process avec un compte
+80:06 
+
+80:06 Apple développer. Pour [musique]
+80:07 
+
+80:07 déployer notre application sur test
+80:09 
+
+80:09 flight, rien de plus simple. Expo a créé
+80:12 
+
+80:12 ce CLI qui s'appelle Test [musique]
+80:14 
+
+80:14 Flight, qui va nous poser des questions
+80:16 
+
+80:16 et qui va nous permettre de déployer
+80:18 
+
+80:18 notre application. Donc, on va copier
+80:20 
+
+80:20 cette commande et on va ouvrir [musique]
+80:22 
+
+80:22 une fenêtre de terminal. Du coup, on va
+80:24 
+
+80:24 taper cette commande test flight
+80:27 
+
+80:27 [musique] et ça va détecter
+80:28 
+
+80:28 automatiquement les fichiers de
+80:29 
+
+80:29 configuration qu'on a créé, le projet
+80:32 
+
+80:32 sur Expo qui a déjà été créé. Et là, on
+80:35 
+
+80:35 peut voir que ça détecte absolument
+80:37 
+
+80:37 tout. Ça détecte l'environnement qui est
+80:40 
+
+80:40 pour la production. Ça détecte les
+80:41 
+
+80:41 variables d'environnement. On en utilise
+80:43 
+
+80:43 pas pour l'instant. Et là, ça va nous
+80:45 
+
+80:45 demander de nous connecter à notre
+80:47 
+
+80:47 compte Apple. Je vais donc taper mes
+80:49 
+
+80:49 identifiants Apple [musique] pour me
+80:51 
+
+80:51 connecter. Et là, ça va me demander de
+80:53 
+
+80:53 d'autoriser l'accès à ce device et je
+80:57 
+
+80:57 vais devoir taper le code qui m'a été
+80:59 
+
+80:59 affiché à l'écran. On peut voir que je
+81:02 
+
+81:02 suis donc connecté. Je vais me connecter
+81:04 
+
+81:04 maintenant à mon compte dans Expo et
+81:07 
+
+81:07 dans Apple. Et là, j'autorise tout en
+81:09 
+
+81:09 appuyant sur Y. C'est-à-dire que
+81:11 
+
+81:11 j'utilise les licences qui sont déjà
+81:14 
+
+81:14 présentes sur mon ordinateur et que vous
+81:16 
+
+81:16 aurez peut-être besoin de créer si c'est
+81:18 
+
+81:18 la première fois que vous développez une
+81:20 
+
+81:20 application. Et maintenant, on peut
+81:22 
+
+81:22 répondre à la question suivante. Alors,
+81:23 
+
+81:23 est-ce qu'on veut paramétrer les
+81:25 
+
+81:25 notifications poche ? Bien sûr, c'est la
+81:28 
+
+81:28 fonctionnalité principale de notre
+81:29 
+
+81:29 appli. Est-ce qu'on veut créer une
+81:31 
+
+81:31 nouvelle clé pour les notifications push
+81:34 
+
+81:34 ? On va mettre oui et on va l'assigner
+81:36 
+
+81:36 bien sûr à com.gomax.drack.
+81:39 
+
+81:39 Ça va automatiquement créer cette
+81:42 
+
+81:42 application dans test flight. On attend
+81:45 
+
+81:45 un petit peu que ça configure tout. Et
+81:48 
+
+81:48 ensuite on a une dernière question.
+81:50 
+
+81:50 Est-ce qu'on veut réutiliser l'Apple
+81:52 
+
+81:52 Store [musique] Connect API ? Je vais
+81:53 
+
+81:53 mettre oui. Et voilà, après une dizaine
+81:56 
+
+81:56 de minutes, on a terminé le build. On
+81:59 
+
+81:59 l'a envoyé à App Store Connect et il
+82:02 
+
+82:02 nous explique maintenant que Apple va
+82:05 
+
+82:05 analyser ce build et nous envoyer un
+82:08 
+
+82:08 mail avec le [musique] recap. Bonne
+82:10 
+
+82:10 nouvelle, j'ai reçu le mail. On a donc
+82:13 
+
+82:13 notre application qui est disponible sur
+82:16 
+
+82:16 test flight. [musique]
+82:17 
+
+82:17 On va donc ouvrir notre téléphone
+82:20 
+
+82:20 portable avec l'application Test Flight.
+82:23 
+
+82:23 Et ici, on peut voir qu'on retrouve bien
+82:26 
+
+82:26 notre application Dose Track sur Test
+82:30 
+
+82:30 Flight. [musique] C'est bien sûr une
+82:31 
+
+82:31 version de test qui va expirer après 90
+82:34 
+
+82:34 jours, mais ça va nous permettre de
+82:36 
+
+82:36 télécharger cet appli sur un vrai device
+82:39 
+
+82:39 et de la tester. On va donc l'ouvrir.
+82:42 
+
+82:42 Donc on va ouvrir l'application tout de
+82:45 
+
+82:45 suite. On accepte les notifications.
+82:47 
+
+82:47 [musique]
+82:48 
+
+82:48 On va ajouter, on va scanner une
+82:50 
+
+82:50 ordonnance tout de suite. On va prendre
+82:53 
+
+82:53 une photo. Et là, du coup, j'ai des
+82:56 
+
+82:56 boîtes d'Alvagraphe. C'est pas grave,
+82:58 
+
+82:58 c'est pas une ordonance.
+83:01 
+
+83:01 
+
+83:01 [grognement]
+83:01 On va quand même tester. On a donc du
+83:02 
+
+83:02 coulur 250 et de l'alvagraphe 3 mg. On
+83:07 
+
+83:07 va utiliser la photo. Et là, ça nous a
+83:10 
+
+83:10 bien détecté l'abagraphe 3 mg. Ça nous a
+83:13 
+
+83:13 aussi sélectionné du prographe qu'on va
+83:16 
+
+83:16 retirer et ça nous a bien détecté de
+83:18 
+
+83:18 couleur Zo 250. Donc c'est plutôt pas
+83:21 
+
+83:21 mal. Regardons le texte qui a été
+83:23 
+
+83:23 détecté. On a donc Colur Zo 250,
+83:26 
+
+83:26 Alvagraphe, Tacrolimus 3 mg. Donc
+83:29 
+
+83:29 effectivement, il a détecté Advagraphe
+83:32 
+
+83:32 et il a détecté Tacrolimus comme étant
+83:35 
+
+83:35 deux médicaments différents. Je vais les
+83:37 
+
+83:37 ajouter. On peut voir qu'ils ont été
+83:39 
+
+83:39 tous les deux ajoutés. On va modifier le
+83:43 
+
+83:43 colurzo de 150 pour dire qu'on le prend
+83:46 
+
+83:46 seulement le soir. Sauvegarder. Et
+83:49 
+
+83:49 l'advagraphe, on le prend seulement le
+83:52 
+
+83:52 matin. Prend le matin à 9h. Maintenant,
+83:55 
+
+83:55 on va tester les notifications. On va
+83:57 
+
+83:57 lancer une notification de rappel.
+83:59 
+
+83:59 On peut voir qu'on l'a bien reçu et une
+84:01 
+
+84:01 notification de renouvellement et on
+84:04 
+
+84:04 peut voir qu'on l'a bien reçu. Si on
+84:07 
+
+84:07 sélectionne ce médicament comme étant
+84:10 
+
+84:10 prix, on peut voir maintenant que la
+84:12 
+
+84:12 prochaine prise est dans un peu moins de
+84:15 
+
+84:15 3h si on la prend à 20h. Ce qui n'est
+84:18 
+
+84:18 pas le cas pour moi. Je vais la prendre
+84:20 
+
+84:20 bien sûr à 21h. Donc dans 3h52.
+84:25 
+
+84:25 Et voilà. Voici l'application qu'on a.
+84:28 
+
+84:28 réussi à développer en un peu moins de 2
+84:32 
+
+84:32 heures grâce à Claude Code React Native
+84:35 
+
+84:35 et Expo. Bien sûr, elle est loin d'être
+84:38 
+
+84:38 prête pour [musique] être mise en
+84:40 
+
+84:40 production et elle est loin d'être prête
+84:42 
+
+84:42 pour un usage commercial. Si on avait
+84:45 
+
+84:45 voulu faire une application plus grand
+84:47 
+
+84:47 public, [musique] il aurait fallu qu'on
+84:48 
+
+84:48 rajoute des images ou des captures
+84:51 
+
+84:51 d'écran pour l'Apple Store. Donc des
+84:53 
+
+84:53 images [musique] commerciales qui
+84:55 
+
+84:55 fassent envie. On aurait rajouté un
+84:57 
+
+84:57 onboarding, on aurait bien sûr rajouté
+84:59 
+
+84:59 une base de données, on aurait rajouté
+85:02 
+
+85:02 l'authentification,
+85:03 
+
+85:03 le paiement, pourquoi pas des publicités
+85:07 
+
+85:07 et ça nous aurait pris beaucoup plus de
+85:09 
+
+85:09 temps. Développer une application réelle
+85:12 
+
+85:12 pour la production, ça prend des
+85:13 
+
+85:13 dizaines et des dizaines d'heures.
+85:15 
+
+85:15 J'espère que cette vidéo vous a donné
+85:17 
+
+85:17 envie de développer votre application.
+85:19 
+
+85:19 Dites-moi dans les commentaires ce que
+85:21 
+
+85:21 vous allez développer et si vous avez
+85:23 
+
+85:23 des suggestions pour des futures vidéos,
+85:27 
+
+85:27 abonnez-vous et on se retrouve bientôt
+85:29 
+
+85:29 pour d'autres tutoriels sur le Vibe
+85:31 
+
+85:31 Coding. À plus !
