@@ -1,5 +1,5 @@
 # Contexte IPCRA — Tom Kerfendal
-_Dernière mise à jour : 2026-04-28_
+_Dernière mise à jour : 2026-05-01_
 
 > Fichier de contexte structuré à lire en PRIORITÉ au début de chaque session Claude.
 
@@ -48,7 +48,8 @@ Delphine a reconnu le problème par écrit ("ce point fait partie de nos sujets"
 3. ✅ Fiches process — 7 fiches créées (`3_ressources/fiches-process/`)
 4. ✅ Vault Obsidian niveau 5 Karpathy — raw/, slash commands, GitHub backup, Obsidian Git auto-sync 10min
 5. ✅ Plugin claude-mem v12.4.7 (niveau 4) — installé, actif sur Claude Code
-6. 🟡 labocea-app-rapports — cadrage terminé, 2 fiches terrain analysées (ES + bilan 24h), 2 autres à venir. CLAUDE.md dans 1_projets/labocea-app-rapports-cadrage.md
+6. ✅ labocea-app-rapports — cadrage terminé, **4 fiches terrain analysées** (PENV-SU-0114 ×2 + PENV-SU-0117 + PENV-SU-0120). CLAUDE.md dans `1_projets/labocea-app-rapports-cadrage.md`. Init React à faire.
+6b. ✅ Recomp — cadrage terminé (app mobile fitness React Native + Expo + Supabase). Fiche : `1_projets/recomp-cadrage.md`. Init à faire.
 7. ⬜ Agents Claude
 8. ⬜ Automatisations n8n
 
@@ -91,6 +92,7 @@ Poids : 82.8 kg · Objectif : 80 kg · Sessions sport : 3 (cible 4) · ~18 bièr
 | ✅ | Hébergement PMC v2 | — | Résolu en autonomie |
 | 🔴 | `git pull && git push` PMC v2 — retrait Bilan 24h | ASAP | Commit prêt localement, push à faire en terminal |
 | 🟡 | S'inscrire CPF Intelligence Academy | Mai 2026 | À faire |
-| 🟡 | labocea-app-rapports — récupérer les 2 fiches terrain manquantes | Dès que possible | En attente Tom (2/4 fiches analysées) |
+| 🟡 | labocea-app-rapports — initialiser projet React | Dès que possible | Cadrage complet (4/4 fiches analysées), init à faire |
+| 🟢 | Recomp — initialiser projet Expo | Après app-rapports | Cadrage complet |
 | 🟡 | Mail relance Delphine nov. 2025 — en attente après CR annuel | Post mai 2026 | Brouillon disponible si besoin |
 | 🟢 | Supprimer doublons vault (Santé.md casquettes + dossier financier vide) | Cette semaine | À faire dans Finder |

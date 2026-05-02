@@ -30,12 +30,12 @@ Tom Kerfendal, Technicien mesures environnementales spécialité eau chez Laboce
 | Nom | Description | Stack |
 |-----|-------------|-------|
 | **labocea-app-client-github** | App interne terrain (principal) | React / Next.js |
-| **labocea-app-terrain** | App terrain Labocea | à préciser |
-| **labocea-app-rapports** | Gestion rapports Labocea | à préciser |
+| **app-pmc-v2** | App gestion parc mesure continue Labocea (multi-users) | React 18 + Vite + TS + Firebase + Cloudflare Workers |
+| **labocea-app-rapports** | App rapports terrain PDF (bilan 24h, ES, eaux surface) | React + Vite + TS + Firebase + Cloudflare Workers + jsPDF |
+| **recomp** | App mobile fitness & recomposition corporelle (perso) | React Native + Expo + Supabase + Victory Native |
 | **labocea-app-preleveur** | Outil préleveur Labocea | à préciser |
-| **melvynx** | Projet perso / formation | à préciser |
+| **melvynx** | Formation dev perso | à préciser |
 | **liveCode** | Projet dev | à préciser |
-| **kicktrack** | Projet perso | à préciser |
 → Détails : labocea-app-client-github/memory/projects/
 
 ## Outils
