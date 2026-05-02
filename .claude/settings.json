@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd \"/Users/thomaskerfendal/Documents/2nd cerveau\" && git add -A && git diff --cached --quiet || git commit -m \"session Claude: $(date '+%Y-%m-%d %H:%M:%S')\"",
+            "timeout": 30,
+            "statusMessage": "Auto-commit vault..."
+          }
+        ]
+      }
+    ]
+  }
+}
