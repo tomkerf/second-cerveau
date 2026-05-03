@@ -1,0 +1,315 @@
+00:00 Two years ago, a simple template was posted on Reddit. The author was Stefango, also known as Kipano. He's the
+00:08 CEO of Obsidian MD. Obsidian being a fantastic free note-taking app already
+00:13 boasting lots of community contributions, this wasn't anything unusual. But when I tried Steph's system
+00:19 myself, I realized it's like nothing I've ever seen before. It ignores all the rules I knew, having me build an
+00:26 absolute mess. But in that chaos, a network of knowledge emerged. Even though the process was lazy and chaotic,
+00:34 I made new connections and started seeing the tracks in my thinking. And suddenly, Obsidian became my most
+00:40 valuable tool for learning, writing, and thinking. But before I built this up and
+00:46 teach you how to use it yourself, let me warn you about a trap that everyone walks into, me included. You see, these
+00:53 two years ago, I already downloaded Steph's template to see it for myself. But I was disappointed because it looked
+00:59 like any other loweffort starter system. It felt like stepping into the palace of
+01:04 a king and just seeing a lot of empty rooms with just tables and chairs and that's it. But that wasn't even the
+01:11 worst part. His blog beautifully gave me the why. His system is designed like it
+01:16 is. The philosophy being so short yet effective. But as much as I wanted to
+01:21 put all of that into action, it was really hard to figure his system out. I didn't really see the genius in it back
+01:28 then and therefore I abandoned it quickly and as a result I oversaw one of
+01:33 the biggest learning opportunities the Obsidian community offers. But now I understand and I want you to do too. I
+01:39 want you to avoid that mistake which is why the entirety of this video is showing you step by step how to use the
+01:46 vault of the Obsidian CEO himself. I guarantee his philosophy must inspire you at least in one aspect.
+01:54 As a first step, you want to download Obsidian if you haven't done so already, which you can do with the first link in
+01:59 the description. Click. And now, when you sit in this view, you're going to download Steph's vault either by
+02:05 clicking here on his blog post, also link in the description, or by cloning his GitHub repo or getting it from my
+02:11 template site. After receiving this zip file, unpack it first. And now you should have a folder that has like a lot
+02:17 of subfolders within it. And you know, instead of creating an Obsidian vault from scratch, now we're going to open
+02:22 this folder as our vault. And I mean, what even is a vault in Obsidian? It's it's literally just a folder of like
+02:28 files, specifically text files. So like uh MD files, which are just fancier text
+02:35 files. So I'm actually going to put it in a more specific place. And now within Obsidian, I'm going to click open folder
+02:40 as vault. Navigate to where saved this folder and highlight kano obsidian main and click on open. And now we have
+02:47 successfully opened the vault of the Obsidian CEO at least this template. And before diving into anything, I want to
+02:53 highlight the first pillar of Steph's note-taking philosophy. Like as much as we can browse through these files, you
+03:01 know, write in them and edit them. In reality, this is still just a folder of
+03:06 files. We are not dependent on the software. And whatever we write like goes into these markdown aka text files.
+03:15 So if the software were ever to broke down, what we wrote is would still like
+03:20 exist. It would outlast the software. And he immediately highlights this within his blog because this is part of
+03:26 the file over app philosophy. If you don't really have that much Obsidian experience yet and the system doesn't
+03:31 really make any sense on like first site, we're going to go through everything step by step. So don't worry,
+03:37 things will make sense later. So let's actually look at the folders first. Okay, I'm just going to delete the
+03:43 readme. You know, in order to understand an Obsidian vault, it's always good to just go through the folders, but this is
+03:50 kind of misleading in Steph's system specifically. Like Steph says that he uses very few folders, that he avoids
+03:57 folders because his many entries belong to more than one area of thought. Like his system is oriented towards speed and
+04:03 laziness, and he doesn't want the overhead of deciding where things should go. This philosophy goes even so far
+04:09 that he says that both the categories and the notes folder. So again, the
+04:15 categories and the notes folder are both just in the downloadable version of his
+04:20 vault for clarity. They also usually wouldn't be here. So where the heck do
+04:26 our notes actually go to? Steph says most of my notes are in the root of the vault, not a folder. If a note is in the
+04:33 root, I know it's something I wrote or relates directly to me. Example C names
+04:39 are journal entries, essays or evergreen notes. I'm going to explain those later. So, what did we learn? We can actually
+04:44 just, you know, open the notes folder, take all the notes within here, and just
+04:50 drag them into the root. The root being the place of just not any folder that
+04:55 categorizes anything, and delete the notes folder because Steph doesn't really have that in his system. And you
+05:02 know when I came to that step back then I was like okay but how the heck do we keep things organized then? Because you
+05:08 know quickly this will look something like this. Like if you take just more than 20 notes you're going to have a
+05:14 file explorer that's just pure chaos. But Steph specifically shows us my notes
+05:19 are primarily organized using the categories property. Okay. So how does that actually look like? I really want
+05:26 you to understand properties. Okay. I'm actually going to create a new note to explain. So let's say we're in school
+05:32 and you have your math workbook. Of course, each school book contains detailed information, but apart from
+05:39 what's in it, you also basically can dissect some labels from the cover of it. And in general, all school books
+05:46 have certain attributes. That means you can categorize them by a certain piece of information. So for example, a math
+05:53 workbook has a subject, which is math. Also, it probably has an author which is
+06:00 uh some teacher and it probably has a grade level which is maybe for nth
+06:06 grade. But in Obsidian, you know, we can add these properties to notes also to sort of sort them, but we don't just
+06:12 write them at the top like this. But instead to make this information more easily accessible, we do three minuses.
+06:19 So minus minus minus and this creates this properties window. And here we can
+06:25 add all sorts of properties or labels. So again we could add the subject which
+06:31 is math. Now let's add another property. Click then the author. So this is
+06:37 actually a property that already exists in this vault uh which is some teacher
+06:42 and a grade level. And with this I can also show you these properties can be specific types of information. So, a
+06:48 grade could be nine as a text, but it could also, if you click on the left of
+06:54 it, property type, not just a text, but more like fittingly, a number. So, I'm
+06:59 going to click on number. It gets the number icon, and I can add a nine. You know, now in my Obsidian vault, I could
+07:05 find this note a lot more quickly if I search for a lot of workbooks from like 9th grade, for example. One of the main
+07:12 moves I want you to learn immediately is apart from just right clicking into the root of the vault and clicking new note.
+07:18 You could also, so I'm going to delete that quickly, click on create new unique note on the left. Click, which
+07:26 immediately creates a note that has the current date and the current time. So 2nd of December 7 about 7:00 a.m.
+07:33 already some magic that is built into this vault adds two properties which one
+07:38 tell your vault and you when you actually created this note. So even if you delete the title and write my
+07:44 amazing thought in there, you still know that this note was created on 2nd of December 2025
+07:51 and also that it already has some tags so that you know that is it it's like a journal entry and a note and now in
+07:58 Steph system what if we for example want to write about a meeting we had with a
+08:03 person then we can click on add property then go to categories as like the kind
+08:08 of property we want to add and then search for meetings. Enter. And I'm going to change the title
+08:13 fittingly. Meeting my best friend in Chile. And then you you could write
+08:19 about all that happened in here. And now, yeah, it it's well and good that we see that we've added this property, but
+08:25 what does that give us exactly? So, if we check the blog out, he specifically says categories display an overview of
+08:32 related notes using the basis feature in Obsidian. So, basis work, I've explained that in another video. You can go check
+08:38 it out. It's not that important right now, though. Just what I want you to do is look into the categories folder and
+08:44 then click on meetings. And now within this meetings category note, you actually see this note that you've added
+08:52 and assigned the property meetings to. So there's also the category journal. And of course this note also had the
+08:58 category journal in it or at least the tag. And you know if we were to create
+09:03 another so click on create a new unique note and we now for example leave at
+09:09 least the day date in it and write meeting another friend in Italy. Add the
+09:16 property categories and then again meetings and go back to our meetings
+09:23 category note also that is going to be added into our smart table aka an
+09:29 obsidian base. But of course, some things are still missing here. And in general, this is still not fully how
+09:36 Steph would do this. But you being the attentive viewer, you probably seen already that these properties here, like
+09:42 the date or with whom this meeting happened is not filled out yet. And I got to say, I have still spared you.
+09:48 This is not the genius way on how Steph is actually adding properties to his
+09:53 notes. Because there's two things I want to show you. The first thing is that in order to check out a category, we don't
+09:59 even use the file navigation. That is literally wasting us time. And as Steph
+10:04 said in his blog, his categories folder is only there for clarity. So what we're
+10:10 going to do now is just take everything inside the categories by shift highlighting it and dragging it into the
+10:16 root of the vault as well and deleting our categories folder. But then now
+10:22 picking out our category would be kind of tedious. But again we are not using the file navigation in order to find a
+10:29 property. So if we go back to our meeting node and now we want to see all the meetings we click on Windows it's
+10:36 control O on Mac it's command O to open the quick switcher. You can also open it
+10:42 by clicking this icon on the top left but in general I recommend learning the shortcut. So command O on Mac. And now
+10:48 we can just search for meetings. Hit enter. And now we see all our meetings.
+10:54 You see? And if you want to find that specific meeting you had with your friend, you're also going to hit command
+11:00 O and then type in meeting another friend in Italy and you're going to open
+11:06 that note. But these aren't of course all the ways of navigation. And secondly, just adding meetings as a
+11:12 categories property by hand is too much effort. So I'm going to rightclick the icon and click on remove. And now let's
+11:19 say again you created this note because you want to document a meeting you had with a friend. And now you're going to
+11:25 go to the ribbon menu again and click on this icon which says insert template. Like Steph specifically says almost
+11:32 every note I create starts from a template. I use templates heavily because they allow me to lazily add
+11:37 information that will help me fight the notes later. Again highlighting that we are focusing on speed and laziness. So
+11:45 now inside this note when we click on insert template and now search for meeting we're going to find the meeting
+11:51 template. Click on it and now you see that all these properties are already added for you. By the way if the date is
+11:57 sort of bugging like here just click on this like warning icon. Click on update then on the calendar and on today. This
+12:04 is a tiny bug you sometimes run into. I bet Steph is going to fix it. And the version I offer also has it fixed
+12:09 already. Okay. And here you could add like the people you met with. So for example, we already have uh Stephango as
+12:15 one of our options or the topics that you talked about which are also already provided by other nodes. We're going to get into that or like the location we
+12:22 were in. And if we now hit command O again and go to meetings, we see that the date and also the people we met is
+12:28 now added to the table. Also to make this even quicker, go to the settings on the bottom left. Then in the categories,
+12:35 go to hotkeys. Then we're going to search for unique node something that we are using a lot and give it for example
+12:42 I recommend uh option or alt plus shift
+12:47 plus n for note then for insert template we're going to use option shift t for
+12:55 template and we're also going to search for daily note so open today's daily
+13:00 note how they are relevant we're going to look into that as well in a minute so
+13:06 for that I'm going to use option shift D for daily and then also internal link
+13:11 add internal link option shift L or like alt shift L so now the flow is even
+13:17 quicker option shift N for a new unique note then writing down in the title what
+13:24 we did meeting Steph and go again then we're going to hit option shift T for
+13:29 templates search for meeting a meeting template and then add it you know that's
+13:35 still being a And yeah, now we can write whatever we want. And by the way, now you can understand like the unique note
+13:42 already has like uh tags and the created date within itself. And this is just
+13:47 because if we go into the settings and then like in core plugins, so these are all just main features in Obsidian that
+13:53 you can enable or disable you like we have the unique node creator activated.
+13:58 And if we go to the settings of it, we see that it uses the root as the new
+14:03 file location. And uh like as a template, it uses the journal template
+14:09 and like again the format also of like year, month, day and hours and minutes.
+14:15 So you could also just create a unique note by hand if you click like new note, named it whatever and then hit option
+14:22 shift t aka insert template and then just use the journal template, right? Like that's just good to mention. But
+14:28 there's of course one of the coolest concept we've been running circles around up until this point which basically makes this vault as powerful
+14:35 as it is and I'm specifically talking about links. So now a quick recap on links. You create them by typing two
+14:42 opening square brackets and it will automatically add two closing square brackets. And whatever you type in there
+14:47 is going to be a link. It can be within a sentence and like this creates a connection to another note and it's
+14:53 either unresolved because this file doesn't exist yet but if you theoretically click it then you know
+14:58 this would create the note a new or it can point to something we've already made. So again to opening square
+15:04 brackets and now meeting another friend in Italy I could also type Italy and again it would suggest that and if I
+15:10 click on this link I'm going to open that note and like this is all well and good. I want you to understand that in Steph's system linking notes is very
+15:17 important. Like he specifically says that he uses a lot of internal links throughout his notes and that he tries
+15:23 to always link the first mention of something. Like even if these new things aren't pointing to anything yet and like
+15:28 specifically this heavy linking style becomes more useful as time goes on because you can trace how ideas emerged
+15:35 and the branching paths that ideas created and like you can navigate a lot better between notes. And also what I
+15:41 personally like it sort of feels like you can take notes on anything and I will show you. So let's create a new
+15:46 unique note. So option shift N. And now let's leave the date in there because this is one of my daily entries and
+15:52 we're going to leave the date because this is one of my entries that I did within the day. So let's say we actually
+15:58 added this journal entry. So I went to see the movie Perfect Days with Asia and
+16:03 Vidiots and had Filipino food at Little Onpin. I love this quote from Perfect Days. Next time is next time. Now is
+16:09 now. It reminds me of the essay blah blah blah blah blah. This is the example Steph gave us. We're now using the rule
+16:16 of ste which says that we link anything that we mentioned for the first time.
+16:22 For example, I went to see the movie perfect days. Perfect days is something we can link. So we saw the movie perfect
+16:29 days and now with Aisha. So option shift L at vidots. We could also do it by
+16:35 hand. So option and then you know add the brackets and had Filipino food at
+16:42 and that is also like a restaurant we could take notes on. And I love this quote from perfect days. So we're not
+16:48 going to highlight link this again because we already created a link for the first mention, but the quote itself
+16:55 could also be something we link to. So yeah, the shortcuts we previously added does accelerate this workflow. And like
+17:01 again, we don't have to take notes on all of these things, but we're sort of setting an indirect intention that we
+17:08 could do so in the future. Or if we, for example, really need to write down a thought about a certain quote, we could
+17:13 click, of course, on the note of our quote, then hit option shiftt for template and then use the quote
+17:20 template. And again, the created thing, I'm I'm really confused why it's bugging so much. And yeah, now write down uh
+17:27 this quote really inspired me. Of course, that's kind of generic. I mean this is about you know writing down deep thoughts and stuff but you you get what
+17:33 I mean. Now we can go back also like these arrows for navigation will be very
+17:38 handy and like hitting uh control alt and then left or right arrow. Well on
+17:44 Mac OS it's option command left and right arrow so you can you don't need to click these arrows or like we're going
+17:50 to take a note on Aisha. So we're going to click on Aisha then option shift T
+17:55 and then people template. And here we can also edit her birthday or like her website uh slorganization. And also
+18:02 notice that for example the people template there are some handy templates. They add a specific uh base/ table that
+18:10 lists relevant information about that certain note. For example for people it
+18:15 does make sense to list all the instances where we met them like all the meetings. So if we go back to meeting a
+18:21 friend in Italy and say okay one of the people has been so two square brackets
+18:27 Aisha now through our meeting we could navigate to Aisha and see in within
+18:34 Aisha that like we had a meeting with another friend in Italy at this and that date and that there were also other
+18:40 people there like because the thing I want you to understand now is that we're not just adding properties because in
+18:47 properties you can add like just simple information like a date or like the name
+18:52 of an author. But what Steph does is he doesn't just add like categories like
+18:59 you you could just write meetings and click enter you know then there's an X
+19:04 there like you don't need to add the specific detail but he did that all of
+19:09 his categories and in general often the properties he's adding are links they
+19:16 are links themselves. So if we add Asia, we can just add like Asia like this but
+19:22 again with square brackets Asia so that we can navigate through things and
+19:28 things are more interconnected. And now if we combine this with backlinks something uh you might have not uh not
+19:34 have opened already. So, you're just going to extend this menu on the top right and then click on here. And
+19:40 combined with backlinks, you now get so many ways to navigate through things like to people or maybe to the
+19:46 categories of people about it. You know, you you could really just fly through all of these things and you know, it's
+19:52 it's it's all interconnected, which gives you another way to basically open everything through your original
+19:59 path of thinking. And also these backlinks that we just opened like this note is pointing to Aisha but nothing
+20:06 inside of Aisha is pointing toward the awesome event we had with her. Like this meeting is not the awesome event but in
+20:13 the backlinks we see where has this note been mentioned as a link. So here I went
+20:20 to see the movie perfect days with I. So here we have the link mentioned and we can click it and bam we're back within
+20:26 our awesome event. But of course, some people might be wondering here, weren't we just supposed to only put things that
+20:33 are like our original thoughts or journal entries into the root of our vault? But like Aisha, she's now also
+20:41 part of all the files that we have in the root of our vault. But you know, Steph does keep a separation there
+20:46 because again, we can journal about things that are outside of our world. And for this, we use the references
+20:53 folder. So to organize in that way, we're just going to drag Aisha into our
+20:58 references. And we can see from all the example notes that staff has added, we
+21:03 see a lot of other examples. For example, he added himself here, but also the show Futurama
+21:08 or the genre sci-fi or like a podcast. So this sort of creates this clean
+21:13 separation between things outside of our world which we put into the references folder or the notes we take the general
+21:19 things thoughts uh and journal entries we're doing which we keep in the root of the vault. Also if we create like the
+21:26 movie perfect a perfect days note like for now and then click on the three dots and click on move file too and then
+21:32 click on references you know in order to not have to find it on the left here. As this is a movie, we're going to add the
+21:38 movie template. By the way, to not fill out all of these things by hand, you could check out my movie base tutorial
+21:45 because using the media DB plug-in would be very handy here. And as you might see, there's a property called rating
+21:51 that is also being added here. So, if this movie is really important to you, of course, you want to sort of mark the
+21:57 priority to yourself. And this is really cool because Steph also has his own rating system. So, it's a number from 1
+22:04 to 7 and 7 being like absolutely life-changing and it goes all the way down to one, which is that it's
+22:11 negatively life-changing. So, if this movie absolutely inspired you, you can add the rating of seven. And then if you
+22:18 go to command O ratings, and you know, this sort of gives you the option to mark things for later depending on how
+22:24 life-changing they are. And you could also, by the way, open like the uh ratings base at least to see all the
+22:30 things you've rated. But again, what I like on that is that you can sort of apply a rating to theoretically anything. So that awesome event you had
+22:38 like maybe itself in your opinion should uh like get a rating. So you could also
+22:44 add the rating property and like give it maybe a five because it wasn't particularly life-changing, but it was
+22:49 still something you want to remember. But you know, ratings are more, you know, intuitive on things that are outside of your world. Obviously,
+22:55 another thing that adds flexibility, by the way, is like if we create a new note, and let's say we have a person
+22:60 that we personally know, but also who is an author. So, we're just going to choose Ernest Becker. And now we can add
+23:07 the people template because we know them. And now we could also add the
+23:13 author template as well. And you know, these things, they don't really overlap.
+23:19 Most templates, as Steph says, should aim to be composable. So you can add
+23:25 multiple templates to the same note. This makes everything even more flexible and again every note probably belongs to
+23:31 multiple areas of thought. So within this note then about Ernest Becker which
+23:37 I'm going to by the way put into the references folder again is a note that shows us all the meetings we have with that person but also all the books
+23:43 they've written. Also I want to show you another category which makes this vault like three times cooler. So if we again
+23:48 create a new note. Now let's say you have a very very counterintuitive
+23:54 insight that you've either read or just had yourself. For example, now we're going to get really deep
+24:01 [Music] and like this. This is a cool idea. Something we might want to reference in
+24:07 other notes and something that is just so like like we can write things like I could have written down all I've said
+24:13 just now, but this is something I want to reuse, remind myself of. And how Steph uses these ideas specifically
+24:19 taken from another author who invented and coined this term. This is an evergreen note. So if we just add the
+24:26 template evergreen, this is going to add this very tiny tag. In general, if we now command O and search for and open
+24:33 the evergreen category, then we're going to see that the base, you know, shows us all the evergreen things, evergreen
+24:41 ideas we have. And one of the evergreen notes that is pre-added to this vault is literally an explanation of evergreen
+24:47 notes. So evergreen notes turn ideas into objects that you can manipulate.
+24:52 And like here's all the explanation for that. But yeah, death is sanity. So if we again make another note and just you
+24:59 know write about something, have like a big insight, then we could always just refer back to you know death is sanity
+25:07 and like like have our contemplations whatever. And this again creates uh
+25:12 connections in like the graph view, you know, lets you navigate back to death is sanityanity and all your notes you took
+25:19 on that because you're objectifying an idea you want to reuse again and again. So that that that is literally what
+25:25 evergreen notes are. Now to fully grasp the vault, we have still ignored three folders that just exist so we can avoid
+25:31 putting some things in the root of the vault, which one is the attachments folder. So through the core setting. So
+25:37 go to the settings bottom left and then if we go to files and links you know the attachment folder path is specified as
+25:43 being the folder attachments. So if we just actually add a photo to just anything like I just copied one and V8
+25:50 it like this photo is going to be added and it's like within the attachment folders as like a separate file or like
+25:57 for example for book covers. Yeah, of course in this vault system you could build a book library base. Tutorial for
+26:02 that is here. Then of course there's the templates folder with all the like we only uh looked at some of these
+26:07 templates but in the end there are a lot to choose from and you can of course also build your own and by the way it
+26:13 also includes all the bases as like their own file like these smart tables and yeah there is also the daily folder
+26:20 where daily notes are being put in. So, we created a lot of notes today. And in general, if we just use the button open
+26:27 today's daily note or the shortcut we made, which is option shift D, we're going to create a daily note. I mean,
+26:33 Steph specifically says that it doesn't write anything in this daily notes and they solely exist to be linked to from
+26:40 other entries. So you can sort of trace back which notes have I created today you know or like on that day for example
+26:46 meeting my best friend in Chile like I wrote that today because this is connected via the created property and
+26:53 by the way so a sort of subcategory of like references so things that are outside of our world that I haven't
+26:58 mentioned is the folder clippings. So this is where like articles from the
+27:03 internet are actually coming into if you want to take notes on them or like just save them to your vault to your second
+27:10 brain. And for that the Obsidian Web Clipper is often like the way to go. If you want me to make a tutorial on that,
+27:15 let me know in the comments because this is something that is part of Stev's flow as well. Okay. And as awesome as all of
+27:22 this is so far, how often do we take our notes then? I mean, this system is so radically flexible, but it creates all
+27:28 these awesome connections. Like again, what is the approach here? Again, we could truly decide that for ourselves
+27:34 here, but let me show you the specific rhythm Steph describes in his blog post. And we're going to start with daily. So,
+27:41 every single day, if you have a thought, a a a like an insight to write down, you could create a new unique note and just
+27:48 write it down. Either like leaving in the specific minutes and date of the specific thought, or you could leave it
+27:54 and like add the thought that you had, add the notes on it. It could also be a
+27:60 journal entry. So again, sort of the example we had with the awesome event.
+28:05 So like at the evening if you want to reflect on the day, take notes on the restaurant you uh you went to. Write
+28:10 down a sentence like this and you know link all the first mentions of the things you visited, the people you've
+28:16 met. Just generally speaking, adding a descriptive title is important. And yeah, of course, if you want to make it
+28:21 easier for you to find that note later, add some properties with your templates. What Steph also describes is that
+28:27 sometimes so every few days so this is also something really flexible he goes
+28:32 through the ideas of of his recent days so I assume he's reviewing some of his daily notes you know seeing all the
+28:39 notes that he has taken in the last 3 to 4 days and then he describes how he's compiling the thoughts that are relevant
+28:45 to him. So maybe if you look at all that you've written down in the recent week
+28:50 you're seeing oh I'm actually getting happier and like why is that? So like I'm I'm I'm going to make a new note and
+28:57 sort of you know add the date and sort of add that title and you know now with the references of the specific notes
+29:02 sort of reason why I've developed in a certain way why I've had certain thoughts in a specific domain you know
+29:09 again the possibilities are quite endless here but but the main idea is to sort of compile and like summarize
+29:16 aggregate the best ideas the things that stuck out to you the most. Now when we
+29:21 talk about the weekly basis, Steph quickly mentions that this is actually how he also looks at making to-dos. So
+29:28 there are a lot of people who have a very fancy workflow for making like big to-do lists within another program or
+29:33 Obsidian itself. Like even though we can't really find a weekly template within this vault, Steph basically
+29:39 describes that every week he creates a weekly note and just writes down the to-dos like for his week. Just radically
+29:45 simple. So something like that for example is absolutely enough you know just with a simple markdown checklist
+29:52 using a minus and two square brackets. Now on a monthly basis Steph reviews his
+29:58 idea aggregation. So for example the note I created that I called getting happier and wiser and like now you got
+30:03 to imagine the reasoning. I've added some generic example here. And now he does like a monthly reflection. So
+30:09 create a new unique note and use the template monthly note template which also is sort
+30:16 of buggy this part like at least the original vault I downloaded. So I'm just going to add things by hand in here. You
+30:22 sort of by hand sort of look at all the compilations idea big highle patterns
+30:29 that you've like uh made within this month and yeah you know sort of make an even higher level reflection of what
+30:35 you've written and thought. Every few months, Steph decides to do a random revisit. So, he actually uses this handy
+30:42 button called open random note, which is a core feature of Obsidian. He opens random notes and sort of traver randomly
+30:50 traverses his vault, seeing thoughts from the past, getting inspiration from
+30:56 things he hadn't checked out in a while. And just you know if he finds something that he finds interesting then he uses
+31:01 those links to sort of navigate through his network of knowledge and just find new things and again get more
+31:08 inspiration. And then every year he reviews all his monthly reviews in combination with these 40 questions that
+31:16 you can also find in his blog. And yeah my god this has been a big tutorial. As a final disclaimer, uh Steph himself and
+31:23 I totally second that like he says this is not to be taken as dogma as the ultimate truth on how to take notes in
+31:29 Obsidian. Obsidian is so flexible and in the end it's just about finding a system that works really well for you. You
+31:35 know, still I think this is one of the greatest approaches I've ever seen so far. And I personally learned so much
+31:41 making this video and I hope you now also learn at least one new thing or one
+31:46 new style aspect, one new rule. Or maybe you're literally going to take a part of the system, which is totally what I did,
+31:53 and sort of just add that to your system and also just pragmatize your own system. Like I've noticed my system is
+31:58 so overcustomized, and I really learned something from the minimalism that Steph is suggesting. Shout out to Steph for
+32:04 making this vault in the first place, sharing it, writing blog posts, and being the CEO of an awesome piece of
+32:10 software. Totally check out his blog. I've linked it in the description. You know, read the source material yourself.
+32:15 And yeah, thanks for watching.
