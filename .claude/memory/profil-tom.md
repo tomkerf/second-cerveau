@@ -9,12 +9,18 @@
 - **Poste** : Technicien environnemental — Labocea Quimper
 - **Spécialité** : Eau (prélèvements terrain, mesures in situ, métrologie)
 - **Convention** : Syntec, coefficient 400 (inchangé malgré élargissement responsabilités)
-- **N+1** : Emmanuelle · **DSIN** : Sébastien ROUBAUD (hébergement PMC v2)
+- **N+1 actuel** : Cindy (resp. technique, remplace Emmanuelle en burn out depuis déc. 2025) — gestion très limitée
+- **Binôme Quimper** : Romain
+- **Hiérarchie** : Cindy → Delphine Benard (cadre service) → Sébastien (N+1 Delphine)
+- **Favorable à PMC v2** : Delphine + Sébastien (l'ont vue, apprécient)
+- **Techniciens Brest** : Fabien, Pierre-Olivier, Ludovic, Hubert — logins PMC v2 depuis 25/02/2026, aucune connexion à ce jour
+- **DSIN** : Sébastien ROUBAUD (hébergement PMC v2 production)
 
 ### Périmètre réel du poste
 - Gestion parc PMC ~40 stations (maintenance, métrologie, fournisseurs, formation)
 - Interface multi-services (commercial, technique, clients)
 - Développement PMC v2 sur temps personnel (~160€/mois tokens Claude)
+- Objectif : évoluer vers rôle "technicien terrain + référent IA/automatisation service" — réduire tâches répétitives (gestion matériel), développer compétences IA appliquées
 
 ## Finances
 - Salaire net ~2 100 €/mois · Loyer 900 € · Courses ~600 €
@@ -44,7 +50,16 @@
 **Comptes Claude Code suivis** : @paulichon, @SilenceCaPrompt, @sweexx9, @CamilleRoux
 **Profil** : "lit les deux côtés" — bookmarks pro-capitalisme ET critiques sociales
 
+## Situation Labocea — contexte stratégique
+- Aucun objectif fixé à l'entretien annuel depuis longtemps — management peu investi
+- Apps PMC v2 + app-rapports = initiative personnelle, pas une demande hiérarchique
+- Lassitude générale dans le service, peu d'évolutions pour l'équipe
+- Delphine favorable aux apps mais "c'est top" sans suite concrète
+- **Levier juin** : entretien RH — Delphine émet un avis favorable/défavorable
+- Potentiel déploiement : ~12-13 techniciens PMC (Quimper ×2, Brest ×4, autre site ×5-6)
+- Positionnement cible : **référent numérique / chargé de mission digital** — rôle à créer
+- Document synthèse à préparer avant juin : valeur apportée + proposition de rôle + objectifs
+
 ## Vision 2030
-Cap : autonomie professionnelle via dev + IA → sortie salariat contraint
-Levier CPF : Intelligence Academy (32h, ~1500€)
-Signal cohérence : IA/Dev 27% veille + PMC v2 en prod + Claude Code quotidien
+Cap : faire reconnaître formellement un nouveau rôle (référent IA/numérique) chez Labocea, ou partir avec un portfolio solide si la revalorisation ne vient pas
+Signal cohérence : IA/Dev 27% veille + PMC v2 en prod + app-rapports en dev + Claude Code quotidien
