@@ -5,6 +5,26 @@
 - **Email** : tomkerf@gmail.com
 - **Famille** : Marié avec Anne Ellen (né le 26/04/1981) · 2 enfants : Titouan (né le 05/01/2012, 14 ans) et Emie (née le 28/08/2015, 10 ans)
 
+## Parcours professionnel
+
+### IRH Ingénieur Conseil — Lorient (sept. 2009 → juin 2013)
+Premiers pas dans le métier. Prélèvement, mesures, conseil, diagnostic réseaux eaux usées et pluviales. Formation très complète sur le terrain.
+
+### Labocea — Quimper (juil. 2013 → aujourd'hui)
+Embauché pour créer une antenne Quimper dans le service bureau d'études dirigé par Pierre-Yves Le Dreff (basé Brest). Besoin : un préleveur délocalisé sur Quimper pour la proximité géographique.
+
+**Contexte à l'arrivée** : service en crise — problème de légitimité du cadre Le Dreff, conflits avec son équipe. Tom, à distance sur Quimper, échappe aux tensions et développe l'antenne en quasi-autonomie.
+
+**Recrutement Romain Duvil** : après 1-2 ans, Tom recommande et contribue à recruter Romain (ex-IRH Lorient, même bureau). Ils forment le binôme Quimper.
+
+**Réorganisation ~2018-2019** : départ de Pierre-Yves Le Dreff. Le service bureau d'études devient service prélèvement sous Delphine Bénard (cadre). Emmanuel Moreau-Hogue prend la responsabilité technique. Tom et Romain perdent la partie diagnostic/bureau d'études — périmètre recentré sur le PMC (prélèvement, mesures, contrôle). Équipe : 4 techniciens Brest (Fabien Barlois, Ludovic Duguay, Hubert Gel, Pierre-Olivier Groulard) + Tom et Romain sur Quimper.
+
+**Tensions avec Emmanuel** : elle centralise tout (planification, organisation), alors que Tom et Romain fonctionnaient en autonomie. Les Brestois, eux, ont un mode plus centralisé depuis toujours — incompréhension des deux côtés.
+
+**Déséquilibre actuel Quimper** : Romain gère bien le terrain mais a abandonné les tâches hors-terrain (gestion matériel, fournisseurs, métrologie, anticipation des besoins). Tom assure seul cette partie sans valorisation : même salaire, mêmes évolutions. Problème remonté plusieurs fois à Emmanuel puis Delphine — jamais traité. Lassitude : aucun objectif fixé, aucune incitation à progresser.
+
+---
+
 ## Situation professionnelle
 - **Poste** : Technicien environnemental — Labocea Quimper
 - **Spécialité** : Eau (prélèvements terrain, mesures in situ, métrologie)
