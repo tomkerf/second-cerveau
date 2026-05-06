@@ -1,6 +1,6 @@
 # Mail — Demande de revalorisation RH juin 2026
 
-**À** : Cédric [NOM] — RH Labocea
+**À** : Cédric Gouzien — RH Labocea
 **Objet : Demande de revalorisation — Thomas Kerfendal, Technicien PMC Quimper**
 
 ---
