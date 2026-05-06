@@ -7,7 +7,7 @@ Thomas KERFENDAL — Technicien environnemental Labocea Quimper
 ## Situation actuelle
 
 - Ancienneté : 13 ans (juillet 2013)
-- Coefficient Syntec : **400 — inchangé depuis la prise de poste**
+- Coefficient Syntec : **400 — atteint en janvier 2026** (suite à demande de juin 2025)
 - Intitulé officiel : Préleveur
 
 ## Périmètre réellement exercé
@@ -47,7 +47,7 @@ La situation est documentée depuis plusieurs années, formalisée depuis novemb
 ## Trois demandes concrètes
 
 **1. Revalorisation du coefficient — priorité principale**
-Coefficient 400 inchangé depuis 2013 malgré un périmètre de missions qui a structurellement évolué. Demande de passage à **coefficient 430 minimum**, ou équivalent via prime de responsabilité mensuelle fixe.
+Le coefficient 400 a été atteint en janvier 2026 suite à une demande de juin 2025. Depuis lors, de nouveaux faits sont intervenus : absorption des missions de la responsable technique, PMC v2 en production, app-rapports en développement. Ces éléments, postérieurs à la dernière revalorisation, justifient une nouvelle étape. Demande de passage à **coefficient 430 minimum**, ou équivalent via prime de responsabilité mensuelle fixe.
 
 **2. Actualisation de l'intitulé de poste**
 "Préleveur" ne reflète plus la réalité exercée. Demande de formalisation en **"Technicien référent PMC"** ou "Technicien coordinateur mesures", sans coût supplémentaire pour l'entreprise — indispensable pour la cohérence RH et la trajectoire professionnelle.

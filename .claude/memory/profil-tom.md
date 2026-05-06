@@ -28,7 +28,7 @@ Embauché pour créer une antenne Quimper dans le service bureau d'études dirig
 ## Situation professionnelle
 - **Poste** : Technicien environnemental — Labocea Quimper
 - **Spécialité** : Eau (prélèvements terrain, mesures in situ, métrologie)
-- **Convention** : Syntec, coefficient 400 (inchangé malgré élargissement responsabilités)
+- **Convention** : Syntec, coefficient 400 (atteint janvier 2026 après demande juin 2025 — nouvelle revalorisation en cours)
 - **N+1 actuel** : Cindy (resp. technique, remplace Emmanuelle en burn out depuis déc. 2025) — gestion très limitée
 - **Binôme Quimper** : Romain
 - **Hiérarchie** : Cindy → Delphine Benard (cadre service) → Sébastien (N+1 Delphine)
