@@ -5,7 +5,7 @@ _Mis à jour : 2026-05-05_
 
 ## 🔴 Urgent
 
-- [ ] **labocea-app-rapports** — configurer secrets GitHub CI (`CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID`) dans GitHub Settings → Secrets → Actions
+- [x] **labocea-app-rapports** — configurer secrets GitHub CI (`CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID`) dans GitHub Settings → Secrets → Actions
 
 ---
 
