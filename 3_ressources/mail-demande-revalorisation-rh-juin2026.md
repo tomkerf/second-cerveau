@@ -30,7 +30,7 @@ Je formule trois demandes, par ordre de priorité :
 
 Je joins à ce message une note de synthèse détaillant l'ensemble de ces éléments.
 
-Je reste disponible pour tout échange complémentaire et espère qu'une réponse pourra m'être apportée dans les prochaines semaines.
+Je reste disponible pour tout échange complémentaire et espère qu'une réponse pourra m'être apportée dans un délai d'un mois.
 
 Cordialement,
 
