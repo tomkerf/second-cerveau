@@ -16,4 +16,4 @@ Stack vanilla JS + Firebase + Cloudflare Workers.
 - Ne pas modifier sauf bug critique
 
 ## Liens
-- [[app-pmc-v2]] — version en cours
+- [[1_projets/app-pmc-v2/INDEX|app-pmc-v2]] — version en cours

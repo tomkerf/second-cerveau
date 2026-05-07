@@ -44,5 +44,5 @@ Ajouter dans GitHub Settings → Secrets → Actions :
 - [ ] Tester avec Romain
 
 ## Liens
-- [[app-pmc-v2]] — même stack, même équipe
-- [[labocea-app-rapports-cadrage]] — document de référence complet
+- [[1_projets/app-pmc-v2/INDEX|app-pmc-v2]] — même stack, même équipe
+- [[CADRAGE]] — document de référence complet

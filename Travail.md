@@ -72,7 +72,7 @@ Sujet réel : certaines tâches structurantes et peu visibles (gestion matériel
 **Statut (2026-04-27)** : Phase 6 — staging déployé, en attente validation équipe avant prod
 → Argument de négociation : temps personnel + argent personnel + validation hiérarchique officielle
 
-Docs : [[Projets/PMC-V2/CLAUDE.md]] | [[Projets/PMC-V2/ROADMAP.md]]
+Docs : [[1_projets/app-pmc-v2/INDEX]] | [[1_projets/app-pmc-v2/CLAUDE.md]]
 
 ---
 
