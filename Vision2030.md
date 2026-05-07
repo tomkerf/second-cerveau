@@ -7,6 +7,16 @@ Liens : [[Travail]] | [[Santé]] | [[Argent]]
 
 ---
 
+## Situation de départ (Mai 2026)
+
+- **Patrimoine Liquide** : 8 500 € (LEP Commun) + ~15 000 € (Anne)
+- **Patrimoine Enfants** : 5 200 € (Livrets A)
+- **Actif Stratégique** : 0,26 BTC (Valeur ~17 300 €)
+- **Immobilier** : RP brute 426 200 € / Dette ~90 200 €
+- **Revenu** : 1 952 € net (13 mois) — *Cible revalorisation : +150 €/mois*
+
+---
+
 ## L'image en 2030
 
 Pas une liste de vœux — une description concrète de ce que je veux avoir construit.

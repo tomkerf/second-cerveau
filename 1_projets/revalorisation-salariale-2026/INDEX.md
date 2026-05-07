@@ -69,6 +69,7 @@ Le CR d'entretien du 20 avril 2026 (cosigné Delphine BENARD + F. BLANCHARD) act
 
 - [[3_ressources/mail-demande-revalorisation-rh-juin2026]] — mail prêt (à envoyer en juin)
 - [[3_ressources/note-synthese-entretien-rh-juin2026]] — note A4 en pièce jointe
+- [[3_ressources/note-synthese-valeur-ajoutee-2026]] — document d'appui "Preuve de valeur" (1 page)
 
 ---
 

@@ -7,6 +7,7 @@ Sources ingérées :
 - (2026-04-28) « Pourquoi taxer l'épargne est très dangereux pour un pays »
 - (2026-04-28) BITCOIN vs Monnaies FIAT — le combat du siècle (YouTube)
 - (2026-05-03) LibreMédia : «Bitcoin sépare la monnaie de l'État» (interview Jérôme)
+- (2026-05-07) Thread : Capitalisme et création de richesse (positive-sum game)
 
 ---
 

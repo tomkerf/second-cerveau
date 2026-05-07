@@ -14,7 +14,7 @@ _Mis à jour : 2026-05-07_
 
 - [ ] labocea-app-rapports — ajuster mise en forme rapport selon retours
 - [ ] recomp — stabiliser le styling (désinstaller NativeWind v4, passer StyleSheet natif)
-- [ ] Document synthèse 1 page "valeur apportée au service" — à préparer pour le dossier de juin
+- [x] Document synthèse 1 page "valeur apportée au service" — Prêt pour juin
 
 ---
 

@@ -18,7 +18,7 @@ Trois fonctions distinctes, exercées de manière autonome et continue :
 Prélèvements, mesures in situ, rédaction de rapports, respect des protocoles COFRAC.
 
 **2. Coordinateur technique PMC Quimper** *(non rémunéré, non intitulé)*
-Gestion complète du parc matériel (~40 stations) : suivi, maintenance, réparations, SAV fournisseurs (IJINUS), commandes SAGE, métrologie/étalonnage, conformité documentaire, préparation aux audits. Interface directe avec responsables commerciaux, enregistrement, clients et hiérarchie — rôle absorbé sans rupture de service depuis le départ de la responsable technique.
+Gestion complète du parc matériel (~40 stations) : suivi, maintenance, réparations, SAV fournisseurs (IJINUS), commandes SAGE, métrologie/étalonnage, conformité documentaire, préparation aux audits. Interface directe avec les services commerciaux (en difficulté structurelle) et enregistrement (gestion du turnover complet du personnel depuis 1 an), clients et hiérarchie — rôle de "pivot" absorbé sans rupture de service malgré la fragilité des interfaces internes.
 
 **3. Développeur d'outils internes** *(sur temps et fonds personnels)*
 Développement en solo de l'application PMC v2 (React / TypeScript / Firebase / Cloudflare Workers). Investissement personnel : ~70h de développement + ~160 €/mois de tokens IA. Utilité validée par N+2 et N+3. Application en production depuis début 2026. Mentionné dans le CR d'entretien : *"de sa propre initiative, et parfois sur son temps personnel — atout pour le service."*

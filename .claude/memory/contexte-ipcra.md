@@ -30,6 +30,9 @@ Application de gestion du parc de mesure continue
 ### 🟡 Revalorisation salariale
 - Coeff 400 inchangé depuis prise de poste
 - Périmètre réel >> intitulé officiel
+- **Contraintes subies** : 
+    - "Explosion" du service enregistrement (renouvellement complet du personnel) depuis 1 an.
+    - Service commercial en difficulté, impactant fortement la charge et l'organisation du travail.
 - CR entretien annuel rempli avec 4 paragraphes d'observation
 - **Action** : signer et transmettre CR à RH (~5 mai 2026)
 
