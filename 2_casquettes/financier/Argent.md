@@ -44,8 +44,9 @@ Liens : [[Vision2030]] | [[Travail]] | [[Santé]]
 
 ## Bitcoin
 
+- **Quantité accumulée : 0,26 BTC**
 - Conviction : épargne technologique / protection du pouvoir d'achat (influence Jeff Booth)
-- DCA mensuel via **Bull Bitcoin**
+- DCA mensuel via **Bull Bitcoin** (suspendu fév-nov 2026 — appenti)
 - Auto-custody stricte — ne vend jamais
 - Nœud **Umbrel** (Lightning)
 - **Phoenix Wallet** pour dépenses Lightning quotidiennes
@@ -54,18 +55,19 @@ Liens : [[Vision2030]] | [[Travail]] | [[Santé]]
 
 ---
 
-## Patrimoine (Finary — 24 avril 2026)
+## Patrimoine (Mai 2026 — consolidé)
 
-| | Valeur |
-|--|--|
-| Patrimoine brut | 470 061 € |
-| Patrimoine net | 379 815 € |
-| Dettes (crédit immo) | ~90 246 € |
-| Plus-value latente totale | +235 706 € (+100,58%) |
+| Catégorie | Détail | Valeur |
+|-----------|--------|--------|
+| **Crypto** | 0,26 BTC (Conviction forte) | ~17 300 €* |
+| **Épargne Commune** | LEP (Anne & Tom) | 8 500 € |
+| **Épargne Enfants** | Livret A Titouan | 2 600 € |
+| **Épargne Enfants** | Livret A Emie | 2 600 € |
+| **Épargne Anne** | Livrets personnels (est.) | ~15 000 € |
+| **Immobilier** | Résidence principale (brut) | 426 200 € |
+| **Dettes** | Crédit immo restant | ~90 246 € |
 
-**Actifs principaux :**
-- Immobilier (Imp. de la Trinquett...) : 426 200 € — +226 200 € / +113%
-- Bitcoin : 17 306 € — +9 506 € / +121,87%
+*\*Valeur indicative selon cours du jour.*
 
 ---
 

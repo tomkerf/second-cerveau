@@ -31,9 +31,9 @@ Le CR d'entretien du 20 avril 2026 (cosigné Delphine BENARD + F. BLANCHARD) act
 |---|---|---|
 | Base brut | 2 185 € | 2 349 € |
 | **Total brut** | **2 628 €** | **2 819 €** |
-| **Net estimé** | **1 953 €** | **~2 095 €** |
+| **Net estimé** | **1 952 €** | **~2 095 €** |
 
-**+142 € net/mois — +1 700 € net/an**
+**+143 € net/mois — +1 716 € net/an (hors 13ème mois)**
 
 ---
 

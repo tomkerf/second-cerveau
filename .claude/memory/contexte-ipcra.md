@@ -70,7 +70,7 @@ Delphine a reconnu le problème par écrit ("ce point fait partie de nos sujets"
 ## R — Ressources
 
 ### Finances (snapshot avril 2026)
-- Salaire net : ~2 100 €/mois · Loyer : 900 € · Courses : ~600 €
+- Salaire net : 1 952 €/mois (sur 13 mois) · Loyer : 900 € · Courses : ~600 €
 - Épargne : ~200 €/mois · Bitcoin : position ouverte (conviction forte)
 
 ### Outils IA actifs
