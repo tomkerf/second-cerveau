@@ -58,15 +58,16 @@ Le CR d'entretien du 20 avril 2026 (cosigné Delphine BENARD + F. BLANCHARD) act
 ## Actions
 
 - [x] CR entretien annuel signé et transmis (avril 2026)
-- [ ] Envoyer mail à Cédric Gouzien (adresse mail à trouver)
+- [ ] Relancer Delphine Benard (Fin mai) : s'assurer de son soutien avant la période officielle de juin
+- [ ] Envoyer mail à Cédric Gouzien (Juin) : période officielle des revalorisations
 - [ ] Demander copies CR 2022, 2023, 2024 aux RH (traces éventuelles de remontées antérieures)
-- [ ] Relance si pas de réponse sous 1 mois
+- [ ] Relance si pas de réponse sous 1 mois (Juillet)
 
 ---
 
 ## Documents
 
-- [[3_ressources/mail-demande-revalorisation-rh-juin2026]] — mail prêt à envoyer
+- [[3_ressources/mail-demande-revalorisation-rh-juin2026]] — mail prêt (à envoyer en juin)
 - [[3_ressources/note-synthese-entretien-rh-juin2026]] — note A4 en pièce jointe
 
 ---
@@ -85,4 +86,4 @@ Le CR d'entretien du 20 avril 2026 (cosigné Delphine BENARD + F. BLANCHARD) act
 |------|-----------|
 | Nov. 2025 | Mail à Delphine — réponse "ce point fait partie de nos sujets", aucune suite |
 | 20 avr. 2026 | Entretien annuel — problème acté dans le CR cosigné |
-| Mai 2026 | Mail de revalorisation rédigé, prêt à envoyer |
+| 07 mai 2026 | Stratégie recalée : relance Delphine fin mai / envoi mail Cédric en juin |

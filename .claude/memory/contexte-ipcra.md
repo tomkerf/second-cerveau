@@ -36,7 +36,7 @@ Application de gestion du parc de mesure continue
 **Pièce à conviction — mail 14/11/2025 à Delphine Benard :**
 Tom gère seul : SAV fournisseurs (IJINUS), achats, métrologie, écarts audit, blancs matériel, rangement.
 Delphine a reconnu le problème par écrit ("ce point fait partie de nos sujets") mais sans engagement ni date.
-5 mois sans retour à ce jour. Mail archivé : `raw/inbox/2025-11-14_mail-delphine-reclamations-pmc.md`
+5 mois sans retour à ce jour. Mail archivé : `2_casquettes/salarié labocea/labocea/2025-11-14_mail-delphine-reclamations-pmc.md`
 
 ### 🟡 Formation CPF
 - Intelligence Academy (32h, ~1500€ — prise en charge CPF)
@@ -95,4 +95,4 @@ Poids : 82.8 kg · Objectif : 80 kg · Sessions sport : 3 (cible 4) · ~18 bièr
 | 🟡 | labocea-app-rapports — projet React | En cours | Lancé |
 | 🟡 | Mail relance Delphine nov. 2025 — en attente retour RH post-CR | Post mai 2026 | Brouillon disponible si besoin |
 | 🟢 | Recomp — initialiser projet Expo | Après app-rapports | Cadrage complet |
-| 🟢 | Supprimer doublons vault (Santé.md casquettes + dossier financier vide) | Cette semaine | À faire dans Finder |
+| ✅ | Supprimer doublons vault (Santé.md casquettes + dossier financier vide) | Cette semaine | Fait |

@@ -139,6 +139,18 @@ Tractions 4×5 contrôlées · Rowing coudes ouverts 3×10 · Rowing haut poitri
 - Moral : bof
 - Observation : Semaine record. Vie sociale imposée vendredi → ~10 bières en une soirée. Pattern confirmé : sortie subie = consommation élevée. Impact direct sur le 82,8 kg du samedi matin. Alprazolam pris le lendemain pour gérer les angoisses post-cuite (usage ponctuel — risque combo alcool résiduel + benzo).
 
+### Semaine 19 — 2026 (04-10 mai)
+
+- Séances réalisées : 1 (en cours)
+- Types : WOD / Crossfit (AMRAP 16 min)
+- Bière : 
+- Lombaires : 
+- Énergie générale : 
+- Sommeil : 
+- Charge mentale semaine : élevée (Projets Labocea + Dossier RH)
+- Moral : 
+- Observation : Séance AMRAP 16 min très intense (FCMoy 149 / FCMax 170). Travail complet : 20 cal erg / 5 Devil Press / 10 CJ (2x20kg) / 20 Push ups / 30 Snatch / 40 DL (2x20kg) / 32 Squats. Échec sur les 50 squats finaux (temps imparti).
+
 ---
 
 ## Angle mort informationnel (signal signets Twitter)
