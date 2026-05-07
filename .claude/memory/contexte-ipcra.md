@@ -1,5 +1,5 @@
 # Contexte IPCRA — Tom Kerfendal
-_Dernière mise à jour : 2026-05-01_
+_Dernière mise à jour : 2026-05-07_
 
 > Fichier de contexte structuré à lire en PRIORITÉ au début de chaque session Claude.
 
@@ -88,11 +88,11 @@ Poids : 82.8 kg · Objectif : 80 kg · Sessions sport : 3 (cible 4) · ~18 bièr
 
 | Priorité | Action | Échéance | Statut |
 |----------|--------|----------|--------|
-| 🔴 | Signer CR annuel + transmettre RH | ~5 mai 2026 | En attente signature |
+| ✅ | Signer CR annuel + transmettre RH | ~5 mai 2026 | Rendu le 4 mai 2026 |
 | ✅ | Hébergement PMC v2 | — | Résolu en autonomie |
-| 🔴 | `git pull && git push` PMC v2 — retrait Bilan 24h | ASAP | Commit prêt localement, push à faire en terminal |
-| 🟡 | S'inscrire CPF Intelligence Academy | Mai 2026 | À faire |
-| 🟡 | labocea-app-rapports — initialiser projet React | Dès que possible | Cadrage complet (4/4 fiches analysées), init à faire |
+| ✅ | `git push` PMC v2 — retrait Bilan 24h | ASAP | Fait |
+| ⏸️ | S'inscrire CPF Intelligence Academy | — | Mis en pause |
+| 🟡 | labocea-app-rapports — projet React | En cours | Lancé |
+| 🟡 | Mail relance Delphine nov. 2025 — en attente retour RH post-CR | Post mai 2026 | Brouillon disponible si besoin |
 | 🟢 | Recomp — initialiser projet Expo | Après app-rapports | Cadrage complet |
-| 🟡 | Mail relance Delphine nov. 2025 — en attente après CR annuel | Post mai 2026 | Brouillon disponible si besoin |
 | 🟢 | Supprimer doublons vault (Santé.md casquettes + dossier financier vide) | Cette semaine | À faire dans Finder |
